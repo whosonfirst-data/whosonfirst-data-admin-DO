@@ -1,0 +1,77 @@
+{
+  "id": 890424201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.27007,19.6856,-71.27007,19.6856",
+    "geom:latitude":19.6856,
+    "geom:longitude":-71.27007,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":1143,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Villa Elisa"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Elisa"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Elisa"
+    ],
+    "qs:name":"Villa Elisa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491943,
+        "qs:id":1045282,
+        "wd:id":"Q7930310",
+        "wk:page":"Villa Elisa"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051534,
+    "wof:geomhash":"7d940a8b9da22186bdddc2b81e8b430b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":890424201,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":890424201,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Villa Elisa",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:population":1143,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.27007,
+    19.6856,
+    -71.27007,
+    19.6856
+],
+  "geometry": {"coordinates":[-71.27007,19.6856],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310684941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.57973,18.75158,-68.57973,18.75158",
+    "geom:latitude":18.75158,
+    "geom:longitude":-68.57973,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110104.0",
+    "gn:admin4_code":"11010403.0",
+    "gn:asciiname":"La Finca",
+    "gn:country_code":"DO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502652,
+    "gn:latitude":18.75158,
+    "gn:longitude":-68.57973,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Finca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502652
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"56426457c6428e81df14261a3db1e9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1310684941,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1310684941,
+    "wof:lastmodified":1536658167,
+    "wof:name":"La Finca",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.57973,
+    18.75158,
+    -68.57973,
+    18.75158
+],
+  "geometry": {"coordinates":[-68.57973,18.75158],"type":"Point"}
+}

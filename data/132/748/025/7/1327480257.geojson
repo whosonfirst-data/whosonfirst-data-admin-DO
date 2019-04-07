@@ -1,0 +1,74 @@
+{
+  "id": 1327480257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71911,19.10929,-70.71911,19.10929",
+    "geom:latitude":19.10929,
+    "geom:longitude":-70.71911,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030103.0",
+    "gn:asciiname":"Los Cafeces",
+    "gn:country_code":"DO",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499139,
+    "gn:latitude":19.10929,
+    "gn:longitude":-70.71911,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Cafeces",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Cafeses",
+        "Los Cafeces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499139
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"250184e4724ed5c704b7b7f4a2d9b1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1327480257,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1327480257,
+    "wof:lastmodified":1537619949,
+    "wof:name":"Los Cafeces",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71911,
+    19.10929,
+    -70.71911,
+    19.10929
+],
+  "geometry": {"coordinates":[-70.71911,19.10929],"type":"Point"}
+}

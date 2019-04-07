@@ -1,0 +1,74 @@
+{
+  "id": 1327492389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14831,18.97316,-70.14831,18.97316",
+    "geom:latitude":18.97316,
+    "geom:longitude":-70.14831,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010107.0",
+    "gn:asciiname":"Guarianon",
+    "gn:country_code":"DO",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505045,
+    "gn:latitude":18.97316,
+    "gn:longitude":-70.14831,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guarian\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guardianon",
+        "Guarian\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505045
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"df3c7537ed33730afb99fd14f3add7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1327492389,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1327492389,
+    "wof:lastmodified":1537620008,
+    "wof:name":"Guarianon",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14831,
+    18.97316,
+    -70.14831,
+    18.97316
+],
+  "geometry": {"coordinates":[-70.14831,18.97316],"type":"Point"}
+}

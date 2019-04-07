@@ -1,0 +1,64 @@
+{
+  "id": 1209370693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.36526,18.49239,-69.36526,18.49239",
+    "geom:latitude":18.49239,
+    "geom:longitude":-69.36526,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2305.0",
+    "gn:admin3_code":"230501.0",
+    "gn:admin4_code":"23050103.0",
+    "gn:asciiname":"Monte Largo",
+    "gn:country_code":"DO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496163,
+    "gn:latitude":18.49239,
+    "gn:longitude":-69.36526,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Monte Largo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496163
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"412e9d4ac0414a4433841145c500fde5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209370693
+        }
+    ],
+    "wof:id":1209370693,
+    "wof:lastmodified":1536289117,
+    "wof:name":"Monte Largo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.36525999999999,
+    18.49239,
+    -69.36525999999999,
+    18.49239
+],
+  "geometry": {"coordinates":[-69.36525999999999,18.49239],"type":"Point"}
+}

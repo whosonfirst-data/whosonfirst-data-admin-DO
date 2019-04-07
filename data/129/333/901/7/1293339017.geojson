@@ -1,0 +1,70 @@
+{
+  "id": 1293339017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.0982,18.49662,-70.0982,18.49662",
+    "geom:latitude":18.49662,
+    "geom:longitude":-70.0982,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210102.0",
+    "gn:admin4_code":"21010202.0",
+    "gn:asciiname":"Daza",
+    "gn:country_code":"DO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508893,
+    "gn:latitude":18.49662,
+    "gn:longitude":-70.0982,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Daza",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508893
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"716686dabfcc36b8bf7024e321c2d208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1293339017,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1293339017,
+    "wof:lastmodified":1537000458,
+    "wof:name":"Daza",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.0982,
+    18.49662,
+    -70.0982,
+    18.49662
+],
+  "geometry": {"coordinates":[-70.09820000000001,18.49662],"type":"Point"}
+}

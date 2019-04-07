@@ -1,0 +1,75 @@
+{
+  "id": 1209771861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.43333,18.68333,-71.43333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":-71.43333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220302.0",
+    "gn:admin4_code":"22030204.0",
+    "gn:asciiname":"Los Botados",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499233,
+    "gn:latitude":18.68333,
+    "gn:longitude":-71.43333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Botados",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Botaos",
+        "Los Botados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499233
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4dc3eebffba2ff8c62dc99967937a6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1209771861,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1209771861,
+    "wof:lastmodified":1537619950,
+    "wof:name":"Los Botados",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43333,
+    18.68333,
+    -71.43333,
+    18.68333
+],
+  "geometry": {"coordinates":[-71.43333,18.68333],"type":"Point"}
+}

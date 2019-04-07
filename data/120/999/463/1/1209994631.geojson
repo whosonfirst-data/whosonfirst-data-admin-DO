@@ -1,0 +1,70 @@
+{
+  "id": 1209994631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75776,18.93785,-71.75776,18.93785",
+    "geom:latitude":18.93785,
+    "geom:longitude":-71.75776,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:admin4_code":"7010103.0",
+    "gn:asciiname":"Puello",
+    "gn:country_code":"DO",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494324,
+    "gn:latitude":18.93785,
+    "gn:longitude":-71.75776,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Puello",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890453405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494324
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ea29b3d6a1291ad54f559b8284000db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453405,
+            "locality_id":1209994631,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1209994631,
+    "wof:lastmodified":1536384851,
+    "wof:name":"Puello",
+    "wof:parent_id":890453405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75776,
+    18.93785,
+    -71.75776,
+    18.93785
+],
+  "geometry": {"coordinates":[-71.75776,18.93785],"type":"Point"}
+}

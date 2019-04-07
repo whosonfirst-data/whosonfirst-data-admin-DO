@@ -1,0 +1,70 @@
+{
+  "id": 1260035279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69502,19.33103,-70.69502,19.33103",
+    "geom:latitude":19.33103,
+    "geom:longitude":-70.69502,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250104.0",
+    "gn:admin4_code":"25010401.0",
+    "gn:asciiname":"La Pileta",
+    "gn:country_code":"DO",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501201,
+    "gn:latitude":19.33103,
+    "gn:longitude":-70.69502,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pileta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501201
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a794623826932b60c8181da4472e5809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":1260035279,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1260035279,
+    "wof:lastmodified":1537055189,
+    "wof:name":"La Pileta",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69502,
+    19.33103,
+    -70.69502,
+    19.33103
+],
+  "geometry": {"coordinates":[-70.69502,19.33103],"type":"Point"}
+}

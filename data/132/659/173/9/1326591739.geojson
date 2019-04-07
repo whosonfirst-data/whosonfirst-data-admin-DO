@@ -1,0 +1,70 @@
+{
+  "id": 1326591739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7037,19.25747,-69.7037,19.25747",
+    "geom:latitude":19.25747,
+    "geom:longitude":-69.7037,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:admin4_code":"20020102.0",
+    "gn:asciiname":"Guachupita",
+    "gn:country_code":"DO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505238,
+    "gn:latitude":19.25747,
+    "gn:longitude":-69.7037,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guachupita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505238
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e6e17ff5f4e0af410361b18987eb47b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721283,
+            "locality_id":1326591739,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1326591739,
+    "wof:lastmodified":1536898299,
+    "wof:name":"Guachupita",
+    "wof:parent_id":1108721283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7037,
+    19.25747,
+    -69.7037,
+    19.25747
+],
+  "geometry": {"coordinates":[-69.7037,19.25747],"type":"Point"}
+}

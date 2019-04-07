@@ -1,0 +1,75 @@
+{
+  "id": 1327217195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.02635,19.67495,-70.02635,19.67495",
+    "geom:latitude":19.67495,
+    "geom:longitude":-70.02635,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1404.0",
+    "gn:admin3_code":"140401.0",
+    "gn:admin4_code":"14040103.0",
+    "gn:asciiname":"Mata Puerco",
+    "gn:country_code":"DO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496593,
+    "gn:latitude":19.67495,
+    "gn:longitude":-70.02635,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata Puerco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata Puerco Arriba",
+        "Mata Puercos",
+        "Mata Puerco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890436811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496593
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"598ddc18c46852c67e0a4b5bab9f59e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890436811,
+            "locality_id":1327217195,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1327217195,
+    "wof:lastmodified":1537619931,
+    "wof:name":"Mata Puerco",
+    "wof:parent_id":890436811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.02635,
+    19.67495,
+    -70.02635,
+    19.67495
+],
+  "geometry": {"coordinates":[-70.02634999999999,19.67495],"type":"Point"}
+}

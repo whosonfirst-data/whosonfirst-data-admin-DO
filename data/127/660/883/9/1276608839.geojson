@@ -1,0 +1,70 @@
+{
+  "id": 1276608839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.04121,19.31425,-71.04121,19.31425",
+    "geom:latitude":19.31425,
+    "geom:longitude":-71.04121,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250501.0",
+    "gn:admin4_code":"25050102.0",
+    "gn:asciiname":"Los Burros",
+    "gn:country_code":"DO",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499204,
+    "gn:latitude":19.31425,
+    "gn:longitude":-71.04121,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Burros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499204
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f7d7894d49e38fd9f71fa175b3c9bc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1276608839,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1276608839,
+    "wof:lastmodified":1536907315,
+    "wof:name":"Los Burros",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.04120999999998,
+    19.31425,
+    -71.04120999999998,
+    19.31425
+],
+  "geometry": {"coordinates":[-71.04120999999998,19.31425],"type":"Point"}
+}

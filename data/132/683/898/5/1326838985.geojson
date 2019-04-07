@@ -1,0 +1,74 @@
+{
+  "id": 1326838985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4722,18.61918,-71.4722,18.61918",
+    "geom:latitude":18.61918,
+    "geom:longitude":-71.4722,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30101.0",
+    "gn:admin4_code":"3010109.0",
+    "gn:asciiname":"La Mata de Naranja",
+    "gn:country_code":"DO",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501665,
+    "gn:latitude":18.61918,
+    "gn:longitude":-71.4722,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Mata de Naranja",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata de Naranja",
+        "La Mata de Naranja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        890429235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501665
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8c04b8ed2ab57cc1412766f015c4d1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429235,
+            "locality_id":1326838985,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1326838985,
+    "wof:lastmodified":1537619972,
+    "wof:name":"La Mata de Naranja",
+    "wof:parent_id":890429235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4722,
+    18.61918,
+    -71.4722,
+    18.61918
+],
+  "geometry": {"coordinates":[-71.4722,18.61918],"type":"Point"}
+}

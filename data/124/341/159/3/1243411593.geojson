@@ -1,0 +1,67 @@
+{
+  "id": 1243411593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93884,19.47311,-70.93884,19.47311",
+    "geom:latitude":19.47311,
+    "geom:longitude":-70.93884,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Potrero",
+    "gn:country_code":"DO",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494504,
+    "gn:latitude":19.47311,
+    "gn:longitude":-70.93884,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494504
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"72eca29c325c6950d8bc1a0ed6f99075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429249,
+            "locality_id":1243411593,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1243411593,
+    "wof:lastmodified":1536854669,
+    "wof:name":"Potrero",
+    "wof:parent_id":890429249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93884,
+    19.47311,
+    -70.93884,
+    19.47311
+],
+  "geometry": {"coordinates":[-70.93884,19.47311],"type":"Point"}
+}

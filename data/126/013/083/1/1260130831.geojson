@@ -1,0 +1,74 @@
+{
+  "id": 1260130831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.15028,18.63909,-69.15028,18.63909",
+    "geom:latitude":18.63909,
+    "geom:longitude":-69.15028,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010108.0",
+    "gn:asciiname":"Sabanas del Soco",
+    "gn:country_code":"DO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493422,
+    "gn:latitude":18.63909,
+    "gn:longitude":-69.15028,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabanas del Soco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabana de Soco",
+        "Sabanas del Soco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493422
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d1b168030b4d573db8889142ef05a01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1260130831,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1260130831,
+    "wof:lastmodified":1537619912,
+    "wof:name":"Sabanas del Soco",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.15028000000001,
+    18.63909,
+    -69.15028000000001,
+    18.63909
+],
+  "geometry": {"coordinates":[-69.15028000000001,18.63909],"type":"Point"}
+}

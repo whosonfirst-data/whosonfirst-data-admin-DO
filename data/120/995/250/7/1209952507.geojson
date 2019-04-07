@@ -1,0 +1,74 @@
+{
+  "id": 1209952507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53943,18.97602,-70.53943,18.97602",
+    "geom:latitude":18.97602,
+    "geom:longitude":-70.53943,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280101.0",
+    "gn:admin4_code":"28010103.0",
+    "gn:asciiname":"Los Higos Blancos",
+    "gn:country_code":"DO",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498390,
+    "gn:latitude":18.97602,
+    "gn:longitude":-70.53943,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Higos Blancos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Higos",
+        "Los Higos Blancos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498390
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fa1a5e459f71293801272aceda063e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1209952507,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1209952507,
+    "wof:lastmodified":1537619943,
+    "wof:name":"Los Higos Blancos",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53943000000002,
+    18.97602,
+    -70.53943000000002,
+    18.97602
+],
+  "geometry": {"coordinates":[-70.53943000000002,18.97602],"type":"Point"}
+}

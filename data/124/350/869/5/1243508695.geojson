@@ -1,0 +1,70 @@
+{
+  "id": 1243508695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16193,19.50052,-71.16193,19.50052",
+    "geom:latitude":19.50052,
+    "geom:longitude":-71.16193,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2701.0",
+    "gn:admin3_code":"270101.0",
+    "gn:admin4_code":"27010102.0",
+    "gn:asciiname":"Los Quemados",
+    "gn:country_code":"DO",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497638,
+    "gn:latitude":19.50052,
+    "gn:longitude":-71.16193,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Quemados",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497638
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dcd021e669133430f7b2f357c53db3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429249,
+            "locality_id":1243508695,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1243508695,
+    "wof:lastmodified":1536716226,
+    "wof:name":"Los Quemados",
+    "wof:parent_id":890429249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16193,
+    19.50052,
+    -71.16193,
+    19.50052
+],
+  "geometry": {"coordinates":[-71.16193,19.50052],"type":"Point"}
+}

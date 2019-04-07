@@ -1,0 +1,71 @@
+{
+  "id": 1260249261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.48372,19.35481,-71.48372,19.35481",
+    "geom:latitude":19.35481,
+    "geom:longitude":-71.48372,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"La Jinita",
+    "gn:country_code":"DO",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502083,
+    "gn:latitude":19.35481,
+    "gn:longitude":-71.48372,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"La Jinita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ginita",
+        "La Jinita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502083
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1bb79cb3b178648eff6d99eeb035a62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721145,
+            "locality_id":1260249261,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1260249261,
+    "wof:lastmodified":1537619976,
+    "wof:name":"La Jinita",
+    "wof:parent_id":1108721145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.48371999999998,
+    19.35481,
+    -71.48371999999998,
+    19.35481
+],
+  "geometry": {"coordinates":[-71.48371999999998,19.35481],"type":"Point"}
+}

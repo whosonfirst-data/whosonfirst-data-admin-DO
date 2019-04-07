@@ -1,0 +1,70 @@
+{
+  "id": 1310474973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.47021,19.60821,-71.47021,19.60821",
+    "geom:latitude":19.60821,
+    "geom:longitude":-71.47021,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150401.0",
+    "gn:admin4_code":"15040103.0",
+    "gn:asciiname":"Lucio",
+    "gn:country_code":"DO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497358,
+    "gn:latitude":19.60821,
+    "gn:longitude":-71.47021,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Lucio",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497358
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bb25778843c76f4020216bd5856531ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429263,
+            "locality_id":1310474973,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1310474973,
+    "wof:lastmodified":1536960895,
+    "wof:name":"Lucio",
+    "wof:parent_id":890429263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.47021,
+    19.60821,
+    -71.47021,
+    19.60821
+],
+  "geometry": {"coordinates":[-71.47020999999999,19.60821],"type":"Point"}
+}

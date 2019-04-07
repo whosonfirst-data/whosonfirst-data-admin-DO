@@ -1,0 +1,70 @@
+{
+  "id": 1310383651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65057,18.83665,-71.65057,18.83665",
+    "geom:latitude":18.83665,
+    "geom:longitude":-71.65057,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70302.0",
+    "gn:admin4_code":"7030202.0",
+    "gn:asciiname":"Benancio",
+    "gn:country_code":"DO",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511542,
+    "gn:latitude":18.83665,
+    "gn:longitude":-71.65057,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Benancio",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890420137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511542
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"699de1bca5f3e60e44c14d6902554df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420137,
+            "locality_id":1310383651,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1310383651,
+    "wof:lastmodified":1537089595,
+    "wof:name":"Benancio",
+    "wof:parent_id":890420137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65057,
+    18.83665,
+    -71.65057,
+    18.83665
+],
+  "geometry": {"coordinates":[-71.65057,18.83665],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1125938617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6435,18.4577,-70.6435,18.4577",
+    "geom:latitude":18.4577,
+    "geom:longitude":-70.6435,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5591,
+    "gn:population":5591,
+    "iso:country":"DO",
+    "lbl:latitude":18.4577,
+    "lbl:longitude":-70.6435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u7279\u74e6\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b9\u30c6\u30d0\u30cb\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:slv_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3505825,
+    "qs_pg:gn_pop":5591,
+    "qs_pg:name":"Esteban\u00eda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1045367,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505825,
+        "qs_pg:id":1045367,
+        "wd:id":"Q3733396"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297045,
+    "wof:geomhash":"541f9883595f60c94ae364bdf9e3b5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721149,
+            "locality_id":1125938617,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1125938617,
+    "wof:lastmodified":1513955912,
+    "wof:name":"Esteban\u00eda",
+    "wof:parent_id":1108721149,
+    "wof:placetype":"locality",
+    "wof:population":5591,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6435,
+    18.4577,
+    -70.6435,
+    18.4577
+],
+  "geometry": {"coordinates":[-70.6435,18.4577],"type":"Point"}
+}

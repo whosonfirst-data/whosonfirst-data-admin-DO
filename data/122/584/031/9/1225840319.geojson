@@ -1,0 +1,70 @@
+{
+  "id": 1225840319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88488,18.59698,-68.88488,18.59698",
+    "geom:latitude":18.59698,
+    "geom:longitude":-68.88488,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Jiron",
+    "gn:country_code":"DO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504043,
+    "gn:latitude":18.59698,
+    "gn:longitude":-68.88488,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jir\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504043
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9d4fd1c4c5cf33909f35f03f7f607261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1225840319,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1225840319,
+    "wof:lastmodified":1537020618,
+    "wof:name":"Jiron",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88488000000001,
+    18.59698,
+    -68.88488000000001,
+    18.59698
+],
+  "geometry": {"coordinates":[-68.88488000000001,18.59698],"type":"Point"}
+}

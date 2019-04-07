@@ -1,0 +1,70 @@
+{
+  "id": 1276777601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.95935,18.81268,-70.95935,18.81268",
+    "geom:latitude":18.81268,
+    "geom:longitude":-70.95935,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20401.0",
+    "gn:admin4_code":"2040102.0",
+    "gn:asciiname":"Los Avaches",
+    "gn:country_code":"DO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499330,
+    "gn:latitude":18.81268,
+    "gn:longitude":-70.95935,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Avaches",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890429227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499330
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"becf667ae652c381b01ef2dbd8fac664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429227,
+            "locality_id":1276777601,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1276777601,
+    "wof:lastmodified":1536680499,
+    "wof:name":"Los Avaches",
+    "wof:parent_id":890429227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.95935,
+    18.81268,
+    -70.95935,
+    18.81268
+],
+  "geometry": {"coordinates":[-70.95935,18.81268],"type":"Point"}
+}

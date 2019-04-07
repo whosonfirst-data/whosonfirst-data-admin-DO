@@ -1,0 +1,73 @@
+{
+  "id": 1225824209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1,19.38333,-70.1,19.38333",
+    "geom:latitude":19.38333,
+    "geom:longitude":-70.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"La Ceiba de Felipe",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503209,
+    "gn:latitude":19.38333,
+    "gn:longitude":-70.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"La Ceiba de Felipe",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceba de F\u00e9liz",
+        "Ceiba de F\u00e9liz",
+        "La Ceiba de Felipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503209
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"29bd698b0c3b3267dfbf6243a3f42f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1225824209,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1225824209,
+    "wof:lastmodified":1537619989,
+    "wof:name":"La Ceiba de Felipe",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1,
+    19.38333,
+    -70.1,
+    19.38333
+],
+  "geometry": {"coordinates":[-70.09999999999999,19.38333],"type":"Point"}
+}

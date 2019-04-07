@@ -1,0 +1,70 @@
+{
+  "id": 1243466041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07201,18.11554,-71.07201,18.11554",
+    "geom:latitude":18.11554,
+    "geom:longitude":-71.07201,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40702.0",
+    "gn:admin4_code":"4070205.0",
+    "gn:asciiname":"Las Balizas",
+    "gn:country_code":"DO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500781,
+    "gn:latitude":18.11554,
+    "gn:longitude":-71.07201,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Balizas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500781
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"13dc9720d748e4a0f6af12afc3ebe601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721179,
+            "locality_id":1243466041,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1243466041,
+    "wof:lastmodified":1536777774,
+    "wof:name":"Las Balizas",
+    "wof:parent_id":1108721179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07200999999998,
+    18.11554,
+    -71.07200999999998,
+    18.11554
+],
+  "geometry": {"coordinates":[-71.07200999999998,18.11554],"type":"Point"}
+}

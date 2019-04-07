@@ -1,0 +1,75 @@
+{
+  "id": 1243604735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.38652,18.69304,-69.38652,18.69304",
+    "geom:latitude":18.69304,
+    "geom:longitude":-69.38652,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300101.0",
+    "gn:admin4_code":"30010102.0",
+    "gn:asciiname":"Batey Anita",
+    "gn:country_code":"DO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511874,
+    "gn:latitude":18.69304,
+    "gn:longitude":-69.38652,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Anita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Anita",
+        "Batey La Anita",
+        "Batey Anita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511874
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"aedc1a96db6183082ca857ba9fe502f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1243604735,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1243604735,
+    "wof:lastmodified":1537620078,
+    "wof:name":"Batey Anita",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.38651999999999,
+    18.69304,
+    -69.38651999999999,
+    18.69304
+],
+  "geometry": {"coordinates":[-69.38651999999999,18.69304],"type":"Point"}
+}

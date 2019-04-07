@@ -1,0 +1,70 @@
+{
+  "id": 1276608873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.73368,19.2724,-70.73368,19.2724",
+    "geom:latitude":19.2724,
+    "geom:longitude":-70.73368,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250303.0",
+    "gn:admin4_code":"25030301.0",
+    "gn:asciiname":"Palero",
+    "gn:country_code":"DO",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495627,
+    "gn:latitude":19.2724,
+    "gn:longitude":-70.73368,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495627
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"efa4a78f4c88899e25598947b3dc881b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1276608873,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1276608873,
+    "wof:lastmodified":1536907274,
+    "wof:name":"Palero",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.73368,
+    19.2724,
+    -70.73368,
+    19.2724
+],
+  "geometry": {"coordinates":[-70.73368000000001,19.2724],"type":"Point"}
+}

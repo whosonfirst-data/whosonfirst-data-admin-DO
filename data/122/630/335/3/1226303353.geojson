@@ -1,0 +1,74 @@
+{
+  "id": 1226303353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64965,19.2668,-70.64965,19.2668",
+    "geom:latitude":19.2668,
+    "geom:longitude":-70.64965,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:admin4_code":"13010403.0",
+    "gn:asciiname":"Los Jengibres",
+    "gn:country_code":"DO",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498316,
+    "gn:latitude":19.2668,
+    "gn:longitude":-70.64965,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Jengibres",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jengibre",
+        "Los Jengibres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498316
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c5011fd6a03be026441bafdbafe22ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1226303353,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1226303353,
+    "wof:lastmodified":1537619943,
+    "wof:name":"Los Jengibres",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64965,
+    19.2668,
+    -70.64965,
+    19.2668
+],
+  "geometry": {"coordinates":[-70.64964999999999,19.2668],"type":"Point"}
+}

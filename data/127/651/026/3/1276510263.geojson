@@ -1,0 +1,73 @@
+{
+  "id": 1276510263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63013,19.56441,-70.63013,19.56441",
+    "geom:latitude":19.56441,
+    "geom:longitude":-70.63013,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Benito Martinez",
+    "gn:country_code":"DO",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511528,
+    "gn:latitude":19.56441,
+    "gn:longitude":-70.63013,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Benito Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "General Benito Mart\u00ednez",
+        "El Llano",
+        "Villa General Benito Martinez",
+        "Benito Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511528
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7dd4bf41611cfda6d8f79699f43a50da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":1276510263,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1276510263,
+    "wof:lastmodified":1537620064,
+    "wof:name":"Benito Martinez",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63013000000002,
+    19.56441,
+    -70.63013000000002,
+    19.56441
+],
+  "geometry": {"coordinates":[-70.63013000000002,19.56441],"type":"Point"}
+}

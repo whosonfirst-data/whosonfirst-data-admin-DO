@@ -1,0 +1,70 @@
+{
+  "id": 1243348021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.87822,18.62375,-71.87822,18.62375",
+    "geom:latitude":18.62375,
+    "geom:longitude":-71.87822,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100103.0",
+    "gn:admin4_code":"10010302.0",
+    "gn:asciiname":"Tierra Virgen",
+    "gn:country_code":"DO",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492407,
+    "gn:latitude":18.62375,
+    "gn:longitude":-71.87822,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Tierra Virgen",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        890455317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492407
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ecfbc12b5195c53f449517c7757e4737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455317,
+            "locality_id":1243348021,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1243348021,
+    "wof:lastmodified":1536947851,
+    "wof:name":"Tierra Virgen",
+    "wof:parent_id":890455317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.87822,
+    18.62375,
+    -71.87822,
+    18.62375
+],
+  "geometry": {"coordinates":[-71.87822,18.62375],"type":"Point"}
+}

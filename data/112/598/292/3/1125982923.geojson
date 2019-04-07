@@ -1,0 +1,157 @@
+{
+  "id": 1125982923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.70798,18.61501,-68.70798,18.61501",
+    "geom:latitude":18.61501,
+    "geom:longitude":-68.70798,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":123787,
+    "gn:population":123787,
+    "iso:country":"DO",
+    "lbl:latitude":18.61501,
+    "lbl:longitude":-68.70798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u4f0a\u572d"
+    ],
+    "name:deu_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:dut_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:eng_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "name:epo_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:fra_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:fre_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:ger_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d2\u05d5\u05d5\u05d9\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b0\u30a8\u30a4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0433\u0443\u044d\u0439"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uad6c\uc5d0\uc774"
+    ],
+    "name:lit_x_preferred":[
+        "Higv\u0117jus"
+    ],
+    "name:nan_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "name:nld_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06cc\u06af\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "name:por_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u0443\u044d\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "name:swe_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "name:tur_x_preferred":[
+        "h\u00fci\u015flk\u00e7"
+    ],
+    "name:unk_x_variant":[
+        "Hig\u00fcey"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u063a\u0648\u0626\u06d2"
+    ],
+    "name:war_x_preferred":[
+        "Salvale\u00f3n de Hig\u00fcey"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3493240,
+    "qs_pg:gn_pop":123787,
+    "qs_pg:name":"Salvale\u00f3n de Hig\u00fcey",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":274378,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493240,
+        "qs_pg:id":274378,
+        "wd:id":"Q1020261"
+    },
+    "wof:country":"DO",
+    "wof:created":1497298647,
+    "wof:geomhash":"9b85445933f33265b77199626287b49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1125982923,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1125982923,
+    "wof:lastmodified":1513955962,
+    "wof:name":"Salvale\u00f3n de Hig\u00fcey",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:population":123787,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.70798,
+    18.61501,
+    -68.70798,
+    18.61501
+],
+  "geometry": {"coordinates":[-68.70798000000001,18.61501],"type":"Point"}
+}

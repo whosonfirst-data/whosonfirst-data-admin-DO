@@ -1,0 +1,80 @@
+{
+  "id": 421191919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.84168,18.4826,-69.84168,18.4826",
+    "geom:latitude":18.4826,
+    "geom:longitude":-69.84168,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Los Tres Ojos"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3497438,
+    "qs:gn_pop":0,
+    "qs:name":"Los Tres Ojos de Agua",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santo Domingo",
+    "qs:photos":319,
+    "qs:photos_1k":65,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":319,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1163457,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":74982,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        1108721275,
+        85670553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497438,
+        "gp:id":74982,
+        "qs:id":1163457
+    },
+    "wof:country":"DO",
+    "wof:created":1459009714,
+    "wof:geomhash":"c232059defece1ce692dbe6dfa1eef35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721275,
+            "locality_id":-1,
+            "neighbourhood_id":421191919,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":421191919,
+    "wof:lastmodified":1531858668,
+    "wof:name":"Los Tres Ojos de Agua",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.84168,
+    18.4826,
+    -69.84168,
+    18.4826
+],
+  "geometry": {"coordinates":[-69.84168,18.4826],"type":"Point"}
+}

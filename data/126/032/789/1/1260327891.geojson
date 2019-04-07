@@ -1,0 +1,74 @@
+{
+  "id": 1260327891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34279,18.31601,-70.34279,18.31601",
+    "geom:latitude":18.31601,
+    "geom:longitude":-70.34279,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170101.0",
+    "gn:admin4_code":"17010114.0",
+    "gn:asciiname":"Villa Gueera",
+    "gn:country_code":"DO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491936,
+    "gn:latitude":18.31601,
+    "gn:longitude":-70.34279,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Villa G\u00fcera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa G\u00fcerra",
+        "Villa G\u00fcera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491936
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dde551ee6e4259058105d00a27a49017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1260327891,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1260327891,
+    "wof:lastmodified":1537619905,
+    "wof:name":"Villa Gueera",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34279000000001,
+    18.31601,
+    -70.34279000000001,
+    18.31601
+],
+  "geometry": {"coordinates":[-70.34279000000001,18.31601],"type":"Point"}
+}

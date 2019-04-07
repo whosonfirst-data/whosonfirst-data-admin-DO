@@ -1,0 +1,70 @@
+{
+  "id": 1209372717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14206,18.48139,-69.14206,18.48139",
+    "geom:latitude":18.48139,
+    "geom:longitude":-69.14206,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:admin4_code":"23030102.0",
+    "gn:asciiname":"Eureka",
+    "gn:country_code":"DO",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505803,
+    "gn:latitude":18.48139,
+    "gn:longitude":-69.14206,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Eureka",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Eureka",
+        "Escarraman",
+        "Batey Eureka",
+        "Eureka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505803
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"46ff422b55222f7252aaa4404e4cd7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209372717
+        }
+    ],
+    "wof:id":1209372717,
+    "wof:lastmodified":1537620011,
+    "wof:name":"Eureka",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14206,
+    18.48139,
+    -69.14206,
+    18.48139
+],
+  "geometry": {"coordinates":[-69.14206,18.48139],"type":"Point"}
+}

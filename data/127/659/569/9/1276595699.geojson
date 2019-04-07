@@ -1,0 +1,74 @@
+{
+  "id": 1276595699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.82386,18.56378,-69.82386,18.56378",
+    "geom:latitude":18.56378,
+    "geom:longitude":-69.82386,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320302.0",
+    "gn:admin4_code":"32030203.0",
+    "gn:asciiname":"La Rusia",
+    "gn:country_code":"DO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500934,
+    "gn:latitude":18.56378,
+    "gn:longitude":-69.82386,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Rusia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Rucia",
+        "La Rusia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500934
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2fb67da45d92d46b52ce0720323ef082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721279,
+            "locality_id":1276595699,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1276595699,
+    "wof:lastmodified":1537619966,
+    "wof:name":"La Rusia",
+    "wof:parent_id":1108721279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.82386,
+    18.56378,
+    -69.82386,
+    18.56378
+],
+  "geometry": {"coordinates":[-69.82386,18.56378],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343553775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34163,19.31605,-70.34163,19.31605",
+    "geom:latitude":19.31605,
+    "geom:longitude":-70.34163,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60103.0",
+    "gn:admin4_code":"6010305.0",
+    "gn:asciiname":"Porquero",
+    "gn:country_code":"DO",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494549,
+    "gn:latitude":19.31605,
+    "gn:longitude":-70.34163,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Porquero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494549
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c9c9e54aaacb8b929198eab3f15f0066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1343553775,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1343553775,
+    "wof:lastmodified":1536608870,
+    "wof:name":"Porquero",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34163000000001,
+    19.31605,
+    -70.34163000000001,
+    19.31605
+],
+  "geometry": {"coordinates":[-70.34163000000001,19.31605],"type":"Point"}
+}

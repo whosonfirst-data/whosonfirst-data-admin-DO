@@ -1,0 +1,74 @@
+{
+  "id": 1243403011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18571,18.51351,-70.18571,18.51351",
+    "geom:latitude":18.51351,
+    "geom:longitude":-70.18571,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210102.0",
+    "gn:admin4_code":"21010205.0",
+    "gn:asciiname":"La Boca de los Dos Rios",
+    "gn:country_code":"DO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503522,
+    "gn:latitude":18.51351,
+    "gn:longitude":-70.18571,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Boca de los Dos R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Los Dos R\u00edos",
+        "La Boca de los Dos R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503522
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d24679436677566c438afb5f607a883f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1243403011,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1243403011,
+    "wof:lastmodified":1537619994,
+    "wof:name":"La Boca de los Dos Rios",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18571,
+    18.51351,
+    -70.18571,
+    18.51351
+],
+  "geometry": {"coordinates":[-70.18571,18.51351],"type":"Point"}
+}

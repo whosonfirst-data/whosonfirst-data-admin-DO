@@ -1,0 +1,70 @@
+{
+  "id": 1209962201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11558,18.82928,-70.11558,18.82928",
+    "geom:latitude":18.82928,
+    "geom:longitude":-70.11558,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2905.0",
+    "gn:admin3_code":"290501.0",
+    "gn:admin4_code":"29050103.0",
+    "gn:asciiname":"Cuancita",
+    "gn:country_code":"DO",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509095,
+    "gn:latitude":18.82928,
+    "gn:longitude":-70.11558,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cuancita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509095
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7a14661399ad9b8cebc2fdd4ed742af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721225,
+            "locality_id":1209962201,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1209962201,
+    "wof:lastmodified":1536372304,
+    "wof:name":"Cuancita",
+    "wof:parent_id":1108721225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11558000000001,
+    18.82928,
+    -70.11558000000001,
+    18.82928
+],
+  "geometry": {"coordinates":[-70.11558000000001,18.82928],"type":"Point"}
+}

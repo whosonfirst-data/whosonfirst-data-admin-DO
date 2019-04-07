@@ -1,0 +1,75 @@
+{
+  "id": 1276200011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26667,18.96667,-70.26667,18.96667",
+    "geom:latitude":18.96667,
+    "geom:longitude":-70.26667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240103.0",
+    "gn:admin4_code":"24010304.0",
+    "gn:asciiname":"Los Piedrones",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497795,
+    "gn:latitude":18.96667,
+    "gn:longitude":-70.26667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Piedrones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pedrones",
+        "Los Piedrones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497795
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8742d4fbf57f58dd7cc94ad121a0ab00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1276200011,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1276200011,
+    "wof:lastmodified":1537619939,
+    "wof:name":"Los Piedrones",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26666999999999,
+    18.96667,
+    -70.26666999999999,
+    18.96667
+],
+  "geometry": {"coordinates":[-70.26666999999999,18.96667],"type":"Point"}
+}

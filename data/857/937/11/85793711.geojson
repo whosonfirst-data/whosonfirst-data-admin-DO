@@ -1,0 +1,123 @@
+{
+  "id": 85793711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":1003057.135299,
+    "geom:bbox":"-69.910004,18.473399,-69.910004,18.473399",
+    "geom:latitude":18.473399,
+    "geom:longitude":-69.910004,
+    "gn:latitude":18.46667,
+    "gn:longitude":-69.9,
+    "gn:population":18756,
+    "iso:country":"DO",
+    "lbl:latitude":18.473399,
+    "lbl:longitude":-69.910004,
+    "mps:latitude":18.473838,
+    "mps:longitude":-69.909656,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Ciudad Nueva"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Nueva"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Nueva"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad Nueva"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Ciudad Nueva",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Ciudad Nueva",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":49,
+    "qs:photo_sum":217,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345176,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85670659,
+        102191575,
+        85632713,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509578,
+        "gp:id":70095,
+        "qs:id":1156244,
+        "wd:id":"Q14932551",
+        "wk:page":"Ciudad Nueva"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"124f317a7f4d85a73e1843be1d5b74cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":85793711,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":85793711,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379288,
+    "wof:name":"Ciudad Nueva",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":18756,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[
+        1126061185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.910004,
+    18.473399,
+    -69.910004,
+    18.473399
+],
+  "geometry": {"coordinates":[-69.910004,18.473399],"type":"Point"}
+}

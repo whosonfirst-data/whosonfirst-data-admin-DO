@@ -1,0 +1,74 @@
+{
+  "id": 1343325001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0099,19.76201,-71.0099,19.76201",
+    "geom:latitude":19.76201,
+    "geom:longitude":-71.0099,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1805.0",
+    "gn:admin3_code":"180501.0",
+    "gn:admin4_code":"18050103.0",
+    "gn:asciiname":"Agua Hedionada",
+    "gn:country_code":"DO",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512931,
+    "gn:latitude":19.76201,
+    "gn:longitude":-71.0099,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Agua Hedionada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Hedionda",
+        "Agua Hedionada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512931
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"00ca59d062a3d52b3104151b71b5a846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429257,
+            "locality_id":1343325001,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1343325001,
+    "wof:lastmodified":1537620088,
+    "wof:name":"Agua Hedionada",
+    "wof:parent_id":890429257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0099,
+    19.76201,
+    -71.0099,
+    19.76201
+],
+  "geometry": {"coordinates":[-71.0099,19.76201],"type":"Point"}
+}

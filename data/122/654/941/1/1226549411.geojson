@@ -1,0 +1,70 @@
+{
+  "id": 1226549411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71667,18.66667,-70.71667,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-70.71667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21001.0",
+    "gn:admin4_code":"2100108.0",
+    "gn:asciiname":"Miguel Marti",
+    "gn:country_code":"DO",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496378,
+    "gn:latitude":18.66667,
+    "gn:longitude":-70.71667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Miguel Mart\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496378
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f128540d4ac22b1ad9bcd30f5dfd1a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721149,
+            "locality_id":1226549411,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1226549411,
+    "wof:lastmodified":1536991850,
+    "wof:name":"Miguel Marti",
+    "wof:parent_id":1108721149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71667,
+    18.66667,
+    -70.71667,
+    18.66667
+],
+  "geometry": {"coordinates":[-70.71666999999999,18.66667],"type":"Point"}
+}

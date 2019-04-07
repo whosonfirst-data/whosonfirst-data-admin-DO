@@ -1,0 +1,64 @@
+{
+  "id": 1209580413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45785,19.27275,-69.45785,19.27275",
+    "geom:latitude":19.27275,
+    "geom:longitude":-69.45785,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200101.0",
+    "gn:admin4_code":"20010105.0",
+    "gn:asciiname":"Loma La Cruz",
+    "gn:country_code":"DO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499559,
+    "gn:latitude":19.27275,
+    "gn:longitude":-69.45785,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Loma La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499559
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f6d616547e7c0ef66616b9162b59c146",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209580413
+        }
+    ],
+    "wof:id":1209580413,
+    "wof:lastmodified":1536282807,
+    "wof:name":"Loma La Cruz",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45785,
+    19.27275,
+    -69.45785,
+    19.27275
+],
+  "geometry": {"coordinates":[-69.45784999999999,19.27275],"type":"Point"}
+}

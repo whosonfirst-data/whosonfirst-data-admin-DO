@@ -1,0 +1,70 @@
+{
+  "id": 1226585157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16667,18.31667,-70.16667,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-70.16667,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:admin4_code":"21060103.0",
+    "gn:asciiname":"Pajarito",
+    "gn:country_code":"DO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495658,
+    "gn:latitude":18.31667,
+    "gn:longitude":-70.16667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pajarito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495658
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1f3038a12c12f68b57d86a09dfbdaab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429185,
+            "locality_id":1226585157,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1226585157,
+    "wof:lastmodified":1536943934,
+    "wof:name":"Pajarito",
+    "wof:parent_id":890429185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16667,
+    18.31667,
+    -70.16667,
+    18.31667
+],
+  "geometry": {"coordinates":[-70.16667,18.31667],"type":"Point"}
+}

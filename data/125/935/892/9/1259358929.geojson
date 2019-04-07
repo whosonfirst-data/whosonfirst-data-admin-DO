@@ -1,0 +1,70 @@
+{
+  "id": 1259358929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.82544,19.7196,-70.82544,19.7196",
+    "geom:latitude":19.7196,
+    "geom:longitude":-70.82544,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1804.0",
+    "gn:admin3_code":"180401.0",
+    "gn:admin4_code":"18040105.0",
+    "gn:asciiname":"Los Trejos",
+    "gn:country_code":"DO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497447,
+    "gn:latitude":19.7196,
+    "gn:longitude":-70.82544,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Trejos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497447
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"166bf2cfba86ba20d9ae1f5696c85e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429273,
+            "locality_id":1259358929,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1259358929,
+    "wof:lastmodified":1537036107,
+    "wof:name":"Los Trejos",
+    "wof:parent_id":890429273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.82544,
+    19.7196,
+    -70.82544,
+    19.7196
+],
+  "geometry": {"coordinates":[-70.82544,19.7196],"type":"Point"}
+}

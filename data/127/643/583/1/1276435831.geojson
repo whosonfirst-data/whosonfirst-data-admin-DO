@@ -1,0 +1,74 @@
+{
+  "id": 1276435831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8419,18.65787,-68.8419,18.65787",
+    "geom:latitude":18.65787,
+    "geom:longitude":-68.8419,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Rincon Largo",
+    "gn:country_code":"DO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493814,
+    "gn:latitude":18.65787,
+    "gn:longitude":-68.8419,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rinc\u00f3n Largo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rincom Largo",
+        "Rinc\u00f3n Largo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493814
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8959f0bcf13cf219e8c8bd103116428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1276435831,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1276435831,
+    "wof:lastmodified":1537619915,
+    "wof:name":"Rincon Largo",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8419,
+    18.65787000000001,
+    -68.8419,
+    18.65787000000001
+],
+  "geometry": {"coordinates":[-68.8419,18.65787000000001],"type":"Point"}
+}

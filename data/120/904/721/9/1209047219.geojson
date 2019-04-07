@@ -1,0 +1,68 @@
+{
+  "id": 1209047219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.49601,18.28095,-70.49601,18.28095",
+    "geom:latitude":18.28095,
+    "geom:longitude":-70.49601,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170103.0",
+    "gn:admin4_code":"17010301.0",
+    "gn:asciiname":"Fundacion de Sabana Buey",
+    "gn:country_code":"DO",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505608,
+    "gn:latitude":18.28095,
+    "gn:longitude":-70.49601,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Fundaci\u00f3n de Sabana Buey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundaci\u00f3n",
+        "Fundaci\u00f3n de Sabana Buey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505608
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"59a0b4ce193b254d315714479b399df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209047219
+        }
+    ],
+    "wof:id":1209047219,
+    "wof:lastmodified":1537620010,
+    "wof:name":"Fundacion de Sabana Buey",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.49601,
+    18.28095,
+    -70.49601,
+    18.28095
+],
+  "geometry": {"coordinates":[-70.49601,18.28095],"type":"Point"}
+}

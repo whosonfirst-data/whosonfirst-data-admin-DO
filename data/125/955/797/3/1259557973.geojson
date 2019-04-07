@@ -1,0 +1,70 @@
+{
+  "id": 1259557973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.59287,19.25859,-69.59287,19.25859",
+    "geom:latitude":19.25859,
+    "geom:longitude":-69.59287,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200301.0",
+    "gn:admin4_code":"20030105.0",
+    "gn:asciiname":"Ceiba Bonita",
+    "gn:country_code":"DO",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509952,
+    "gn:latitude":19.25859,
+    "gn:longitude":-69.59287,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ceiba Bonita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509952
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"81dd19b0122e4d21d98a7396bb4dda6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721195,
+            "locality_id":1259557973,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1259557973,
+    "wof:lastmodified":1536751616,
+    "wof:name":"Ceiba Bonita",
+    "wof:parent_id":1108721195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.59286999999999,
+    19.25859,
+    -69.59286999999999,
+    19.25859
+],
+  "geometry": {"coordinates":[-69.59286999999999,19.25859],"type":"Point"}
+}

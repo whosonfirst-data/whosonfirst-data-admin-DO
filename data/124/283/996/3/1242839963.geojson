@@ -1,0 +1,74 @@
+{
+  "id": 1242839963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41394,19.28214,-70.41394,19.28214",
+    "geom:latitude":19.28214,
+    "geom:longitude":-70.41394,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1903.0",
+    "gn:admin3_code":"190301.0",
+    "gn:admin4_code":"19030105.0",
+    "gn:asciiname":"El Tablon de Santa Ana",
+    "gn:country_code":"DO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506141,
+    "gn:latitude":19.28214,
+    "gn:longitude":-70.41394,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Tabl\u00f3n de Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tabl\u00f3n",
+        "El Tabl\u00f3n de Santa Ana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670583,
+        890429189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506141
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8ddcb24b261b14145296725a08f35686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429189,
+            "locality_id":1242839963,
+            "region_id":85670583
+        }
+    ],
+    "wof:id":1242839963,
+    "wof:lastmodified":1537620014,
+    "wof:name":"El Tablon de Santa Ana",
+    "wof:parent_id":890429189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41394,
+    19.28214,
+    -70.41394,
+    19.28214
+],
+  "geometry": {"coordinates":[-70.41394,19.28214],"type":"Point"}
+}

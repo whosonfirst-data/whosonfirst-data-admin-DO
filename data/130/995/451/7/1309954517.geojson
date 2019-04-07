@@ -1,0 +1,63 @@
+{
+  "id": 1309954517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1,18.3,-70.1,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-70.1,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Najayo Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496009,
+    "gn:latitude":18.3,
+    "gn:longitude":-70.1,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Najayo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496009
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b493f61d2db3a6dd7bb32992d741e874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1309954517,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309954517,
+    "wof:lastmodified":1536717284,
+    "wof:name":"Najayo Abajo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1,
+    18.3,
+    -70.1,
+    18.3
+],
+  "geometry": {"coordinates":[-70.09999999999999,18.3],"type":"Point"}
+}

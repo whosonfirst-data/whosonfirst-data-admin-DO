@@ -1,0 +1,70 @@
+{
+  "id": 1343698133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.47942,18.86902,-70.47942,18.86902",
+    "geom:latitude":18.86902,
+    "geom:longitude":-70.47942,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280104.0",
+    "gn:admin4_code":"28010402.0",
+    "gn:asciiname":"Boca de Blanco",
+    "gn:country_code":"DO",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511329,
+    "gn:latitude":18.86902,
+    "gn:longitude":-70.47942,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca de Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511329
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3fc47dc92ffc1efada3529f6d5da70e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1343698133,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1343698133,
+    "wof:lastmodified":1536900758,
+    "wof:name":"Boca de Blanco",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.47941999999998,
+    18.86902000000001,
+    -70.47941999999998,
+    18.86902000000001
+],
+  "geometry": {"coordinates":[-70.47941999999998,18.86902000000001],"type":"Point"}
+}

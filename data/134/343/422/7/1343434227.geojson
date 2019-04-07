@@ -1,0 +1,74 @@
+{
+  "id": 1343434227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57212,19.7126,-71.57212,19.7126",
+    "geom:latitude":19.7126,
+    "geom:longitude":-71.57212,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150501.0",
+    "gn:admin4_code":"15050104.0",
+    "gn:asciiname":"Marmolejos",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496750,
+    "gn:latitude":19.7126,
+    "gn:longitude":-71.57212,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Marmolejos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marmolejo",
+        "Marmolejos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890455307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496750
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a561ba46c77b3b8b99b22c35b6bcedd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455307,
+            "locality_id":1343434227,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1343434227,
+    "wof:lastmodified":1537619932,
+    "wof:name":"Marmolejos",
+    "wof:parent_id":890455307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57212,
+    19.7126,
+    -71.57212,
+    19.7126
+],
+  "geometry": {"coordinates":[-71.57212,19.7126],"type":"Point"}
+}

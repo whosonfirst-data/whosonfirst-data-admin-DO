@@ -1,0 +1,74 @@
+{
+  "id": 1209867137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19799,18.89675,-69.19799,18.89675",
+    "geom:latitude":18.89675,
+    "geom:longitude":-69.19799,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80103.0",
+    "gn:admin4_code":"8010302.0",
+    "gn:asciiname":"Yabon",
+    "gn:country_code":"DO",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491835,
+    "gn:latitude":18.89675,
+    "gn:longitude":-69.19799,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yav\u00f3n",
+        "Yab\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491835
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cfe3d5057f3d02a43afe97f770971fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1209867137,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1209867137,
+    "wof:lastmodified":1537619904,
+    "wof:name":"Yabon",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19799,
+    18.89675,
+    -69.19799,
+    18.89675
+],
+  "geometry": {"coordinates":[-69.19799,18.89675],"type":"Point"}
+}

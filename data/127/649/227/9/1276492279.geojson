@@ -1,0 +1,74 @@
+{
+  "id": 1276492279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5412,19.31914,-70.5412,19.31914",
+    "geom:latitude":19.31914,
+    "geom:longitude":-70.5412,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130102.0",
+    "gn:admin4_code":"13010201.0",
+    "gn:asciiname":"Cutupu",
+    "gn:country_code":"DO",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508958,
+    "gn:latitude":19.31914,
+    "gn:longitude":-70.5412,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cutup\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cutup\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508958,
+        "wk:page":"Cutup%C3%BA"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"793d748fd542fdb391977227ce8a01c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1276492279,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1276492279,
+    "wof:lastmodified":1537620045,
+    "wof:name":"Cutupu",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5412,
+    19.31914,
+    -70.5412,
+    19.31914
+],
+  "geometry": {"coordinates":[-70.5412,19.31914],"type":"Point"}
+}

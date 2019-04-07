@@ -1,0 +1,70 @@
+{
+  "id": 1259930917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26979,18.65374,-69.26979,18.65374",
+    "geom:latitude":18.65374,
+    "geom:longitude":-69.26979,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300104.0",
+    "gn:admin4_code":"30010403.0",
+    "gn:asciiname":"Batey Viejo",
+    "gn:country_code":"DO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511646,
+    "gn:latitude":18.65374,
+    "gn:longitude":-69.26979,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511646
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3427d9f7d48d18486e72ff6e8509cfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1259930917,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1259930917,
+    "wof:lastmodified":1536711311,
+    "wof:name":"Batey Viejo",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26979,
+    18.65374,
+    -69.26979,
+    18.65374
+],
+  "geometry": {"coordinates":[-69.26979,18.65374],"type":"Point"}
+}

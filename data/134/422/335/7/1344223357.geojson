@@ -1,0 +1,75 @@
+{
+  "id": 1344223357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6,19.71667,-70.6,19.71667",
+    "geom:latitude":19.71667,
+    "geom:longitude":-70.6,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1809.0",
+    "gn:admin3_code":"180901.0",
+    "gn:admin4_code":"18090105.0",
+    "gn:asciiname":"Los Muertos",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498007,
+    "gn:latitude":19.71667,
+    "gn:longitude":-70.6,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Muertos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cam\u00fa",
+        "Los Muertos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498007
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"660aa5cc038fb3e1d57822101111fe84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1344223357,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1344223357,
+    "wof:lastmodified":1537619941,
+    "wof:name":"Los Muertos",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6,
+    19.71667,
+    -70.6,
+    19.71667
+],
+  "geometry": {"coordinates":[-70.59999999999999,19.71667],"type":"Point"}
+}

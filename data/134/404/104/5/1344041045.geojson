@@ -1,0 +1,70 @@
+{
+  "id": 1344041045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03333,19.36667,-70.03333,19.36667",
+    "geom:latitude":19.36667,
+    "geom:longitude":-70.03333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:admin4_code":"14010403.0",
+    "gn:asciiname":"Arroyo Blanco",
+    "gn:country_code":"DO",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512498,
+    "gn:latitude":19.36667,
+    "gn:longitude":-70.03333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512498
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2b3d82e1dc1debafd8f3d27dc8d9ba0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1344041045,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1344041045,
+    "wof:lastmodified":1536903824,
+    "wof:name":"Arroyo Blanco",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03333,
+    19.36667000000001,
+    -70.03333,
+    19.36667000000001
+],
+  "geometry": {"coordinates":[-70.03333000000001,19.36667000000001],"type":"Point"}
+}

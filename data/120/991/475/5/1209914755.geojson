@@ -1,0 +1,70 @@
+{
+  "id": 1209914755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.549,19.54954,-71.549,19.54954",
+    "geom:latitude":19.54954,
+    "geom:longitude":-71.549,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50101.0",
+    "gn:admin4_code":"5010106.0",
+    "gn:asciiname":"Los Rivas",
+    "gn:country_code":"DO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497559,
+    "gn:latitude":19.54954,
+    "gn:longitude":-71.549,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Rivas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497559
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d30cd0eef59f01eecab5908d544c6327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1209914755,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1209914755,
+    "wof:lastmodified":1536374941,
+    "wof:name":"Los Rivas",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.54899999999998,
+    19.54954,
+    -71.54899999999998,
+    19.54954
+],
+  "geometry": {"coordinates":[-71.54899999999998,19.54954],"type":"Point"}
+}

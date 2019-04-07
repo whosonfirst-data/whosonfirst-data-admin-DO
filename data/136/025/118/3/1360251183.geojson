@@ -1,0 +1,70 @@
+{
+  "id": 1360251183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72655,19.71799,-70.72655,19.71799",
+    "geom:latitude":19.71799,
+    "geom:longitude":-70.72655,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:admin4_code":"18010102.0",
+    "gn:asciiname":"Los Pomos",
+    "gn:country_code":"DO",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497692,
+    "gn:latitude":19.71799,
+    "gn:longitude":-70.72655,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Pomos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497692
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"82dad0bc38e4dc3eb49ecbfa0df9153b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1360251183,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1360251183,
+    "wof:lastmodified":1536706392,
+    "wof:name":"Los Pomos",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72655,
+    19.71799,
+    -70.72655,
+    19.71799
+],
+  "geometry": {"coordinates":[-70.72655,19.71799],"type":"Point"}
+}

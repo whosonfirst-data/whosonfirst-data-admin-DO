@@ -1,0 +1,68 @@
+{
+  "id": 1209128215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15098,19.18327,-70.15098,19.18327",
+    "geom:latitude":19.18327,
+    "geom:longitude":-70.15098,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60401.0",
+    "gn:admin4_code":"6040103.0",
+    "gn:asciiname":"Caobete",
+    "gn:country_code":"DO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510268,
+    "gn:latitude":19.18327,
+    "gn:longitude":-70.15098,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Caobete",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabana Caobete",
+        "Caobete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510268
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b2f13968b37e3b85c91797a8768b409e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209128215
+        }
+    ],
+    "wof:id":1209128215,
+    "wof:lastmodified":1537620055,
+    "wof:name":"Caobete",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15098,
+    19.18327,
+    -70.15098,
+    19.18327
+],
+  "geometry": {"coordinates":[-70.15098,19.18327],"type":"Point"}
+}

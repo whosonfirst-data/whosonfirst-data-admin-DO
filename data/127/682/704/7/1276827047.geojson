@@ -1,0 +1,74 @@
+{
+  "id": 1276827047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.50712,18.55436,-69.50712,18.55436",
+    "geom:latitude":18.55436,
+    "geom:longitude":-69.50712,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:admin4_code":"23020103.0",
+    "gn:asciiname":"Canario",
+    "gn:country_code":"DO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510450,
+    "gn:latitude":18.55436,
+    "gn:longitude":-69.50712,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Canario",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canarios",
+        "Canario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510450
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7ca0d7a5986b865767be4da6bee3c5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429255,
+            "locality_id":1276827047,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1276827047,
+    "wof:lastmodified":1537620056,
+    "wof:name":"Canario",
+    "wof:parent_id":890429255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.50712,
+    18.55436,
+    -69.50712,
+    18.55436
+],
+  "geometry": {"coordinates":[-69.50712,18.55436],"type":"Point"}
+}

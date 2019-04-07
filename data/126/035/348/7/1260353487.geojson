@@ -1,0 +1,74 @@
+{
+  "id": 1260353487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11938,18.97712,-70.11938,18.97712",
+    "geom:latitude":18.97712,
+    "geom:longitude":-70.11938,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010107.0",
+    "gn:asciiname":"La Atravesada",
+    "gn:country_code":"DO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503674,
+    "gn:latitude":18.97712,
+    "gn:longitude":-70.11938,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Atravesada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Atravezada",
+        "La Atravesada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503674
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c462a79aff9e00738494d4389a390b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1260353487,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1260353487,
+    "wof:lastmodified":1537619996,
+    "wof:name":"La Atravesada",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11938,
+    18.97712000000001,
+    -70.11938,
+    18.97712000000001
+],
+  "geometry": {"coordinates":[-70.11938000000001,18.97712000000001],"type":"Point"}
+}

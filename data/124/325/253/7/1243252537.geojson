@@ -1,0 +1,74 @@
+{
+  "id": 1243252537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88238,18.43114,-68.88238,18.43114",
+    "geom:latitude":18.43114,
+    "geom:longitude":-68.88238,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:admin4_code":"11020302.0",
+    "gn:asciiname":"El Infiernito",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507263,
+    "gn:latitude":18.43114,
+    "gn:longitude":-68.88238,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Infiernito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Infiernito",
+        "El Infiernito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507263
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"687c985f56b9b985c2e6d44fee84d570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1243252537,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1243252537,
+    "wof:lastmodified":1537620026,
+    "wof:name":"El Infiernito",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88238,
+    18.43114,
+    -68.88238,
+    18.43114
+],
+  "geometry": {"coordinates":[-68.88238,18.43114],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125938669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.02785,18.44905,-70.02785,18.44905",
+    "geom:latitude":18.44905,
+    "geom:longitude":-70.02785,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2643,
+    "gn:population":2643,
+    "iso:country":"DO",
+    "lbl:latitude":18.44905,
+    "lbl:longitude":-70.02785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "El Carril"
+    ],
+    "name:dut_x_preferred":[
+        "El Carril"
+    ],
+    "name:eng_x_preferred":[
+        "El Carril"
+    ],
+    "name:glg_x_preferred":[
+        "El Carril"
+    ],
+    "name:spa_x_preferred":[
+        "El Carril"
+    ],
+    "name:swe_x_preferred":[
+        "El Carril"
+    ],
+    "name:unk_x_variant":[
+        "El Corral"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3508083,
+    "qs_pg:gn_pop":2643,
+    "qs_pg:name":"El Carril",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1045384,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508083,
+        "qs_pg:id":1045384,
+        "wd:id":"Q5350946"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297046,
+    "wof:geomhash":"5321c6c37581829344d021c3cc4d52fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721107,
+            "locality_id":1125938669,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1125938669,
+    "wof:lastmodified":1553816645,
+    "wof:name":"El Carril",
+    "wof:parent_id":1108721107,
+    "wof:placetype":"locality",
+    "wof:population":2643,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.02785,
+    18.44905,
+    -70.02785,
+    18.44905
+],
+  "geometry": {"coordinates":[-70.02785,18.44905],"type":"Point"}
+}

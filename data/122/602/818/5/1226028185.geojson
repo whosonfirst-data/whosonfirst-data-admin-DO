@@ -1,0 +1,70 @@
+{
+  "id": 1226028185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78333,19.26667,-69.78333,19.26667",
+    "geom:latitude":19.26667,
+    "geom:longitude":-69.78333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140102.0",
+    "gn:admin4_code":"14010204.0",
+    "gn:asciiname":"El Machete",
+    "gn:country_code":"DO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507082,
+    "gn:latitude":19.26667,
+    "gn:longitude":-69.78333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Machete",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507082
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"64d2d5632e89a82dee78e57dce0547ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1226028185,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1226028185,
+    "wof:lastmodified":1536750388,
+    "wof:name":"El Machete",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78333,
+    19.26667,
+    -69.78333,
+    19.26667
+],
+  "geometry": {"coordinates":[-69.78333000000001,19.26667],"type":"Point"}
+}

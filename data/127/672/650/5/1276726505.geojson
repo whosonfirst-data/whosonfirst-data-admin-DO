@@ -1,0 +1,74 @@
+{
+  "id": 1276726505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.93881,18.96173,-69.93881,18.96173",
+    "geom:latitude":18.96173,
+    "geom:longitude":-69.93881,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240201.0",
+    "gn:admin4_code":"24020102.0",
+    "gn:asciiname":"Dona Maria",
+    "gn:country_code":"DO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508779,
+    "gn:latitude":18.96173,
+    "gn:longitude":-69.93881,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Do\u00f1a Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Do\u00f1a Mar\u00eda",
+        "Do\u00f1a Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508779
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6e1f664857105d8e5f0a983a1c74f69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420149,
+            "locality_id":1276726505,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1276726505,
+    "wof:lastmodified":1537620043,
+    "wof:name":"Dona Maria",
+    "wof:parent_id":890420149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.93881,
+    18.96173,
+    -69.93881,
+    18.96173
+],
+  "geometry": {"coordinates":[-69.93881,18.96173],"type":"Point"}
+}

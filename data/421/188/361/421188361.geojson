@@ -1,0 +1,87 @@
+{
+  "id": 421188361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88333,18.48333,-69.88333,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":-69.88333,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Calero"
+    ],
+    "name:pol_x_preferred":[
+        "Calero"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u0440\u043e"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3510695,
+    "qs:gn_pop":0,
+    "qs:name":"Calero",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":22826,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":69762,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        1108721273,
+        85670659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510695,
+        "gp:id":69762,
+        "qs:id":22826
+    },
+    "wof:country":"DO",
+    "wof:created":1459009543,
+    "wof:geomhash":"175419b186cb72a15995003e5883d01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":421188361,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":421188361,
+    "wof:lastmodified":1531858614,
+    "wof:name":"Calero",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88333,
+    18.48333,
+    -69.88333,
+    18.48333
+],
+  "geometry": {"coordinates":[-69.88333,18.48333],"type":"Point"}
+}

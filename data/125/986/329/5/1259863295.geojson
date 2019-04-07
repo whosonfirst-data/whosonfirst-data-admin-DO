@@ -1,0 +1,75 @@
+{
+  "id": 1259863295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.65725,18.88666,-68.65725,18.88666",
+    "geom:latitude":18.88666,
+    "geom:longitude":-68.65725,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:admin4_code":"11010202.0",
+    "gn:asciiname":"El Eslabon",
+    "gn:country_code":"DO",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507650,
+    "gn:latitude":18.88666,
+    "gn:longitude":-68.65725,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Eslab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eslab\u00f3n",
+        "El Islab\u00f3n",
+        "El Eslab\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507650
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d4a0fbbd9336b7100a264fc504bcf0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1259863295,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1259863295,
+    "wof:lastmodified":1537620031,
+    "wof:name":"El Eslabon",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.65725,
+    18.88666,
+    -68.65725,
+    18.88666
+],
+  "geometry": {"coordinates":[-68.65725,18.88666],"type":"Point"}
+}

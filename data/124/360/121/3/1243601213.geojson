@@ -1,0 +1,75 @@
+{
+  "id": 1243601213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37976,19.02366,-69.37976,19.02366",
+    "geom:latitude":19.02366,
+    "geom:longitude":-69.37976,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3002.0",
+    "gn:admin3_code":"300201.0",
+    "gn:admin4_code":"30020102.0",
+    "gn:asciiname":"Escobar",
+    "gn:country_code":"DO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505907,
+    "gn:latitude":19.02366,
+    "gn:longitude":-69.37976,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Escobar",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Escobar",
+        "El Escobal",
+        "Escobar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        890429219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505907
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4fedb09ee12f0bf15a474b6fe00878a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429219,
+            "locality_id":1243601213,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1243601213,
+    "wof:lastmodified":1537620012,
+    "wof:name":"Escobar",
+    "wof:parent_id":890429219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37976,
+    19.02366,
+    -69.37976,
+    19.02366
+],
+  "geometry": {"coordinates":[-69.37976,19.02366],"type":"Point"}
+}

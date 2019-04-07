@@ -1,0 +1,70 @@
+{
+  "id": 1293438505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.168,18.25642,-70.168,18.25642",
+    "geom:latitude":18.25642,
+    "geom:longitude":-70.168,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210201.0",
+    "gn:admin4_code":"21020103.0",
+    "gn:asciiname":"La Sabanita",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500894,
+    "gn:latitude":18.25642,
+    "gn:longitude":-70.168,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sabanita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500894
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3ed856324525150a021bb392e1519913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721243,
+            "locality_id":1293438505,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1293438505,
+    "wof:lastmodified":1536856556,
+    "wof:name":"La Sabanita",
+    "wof:parent_id":1108721243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.168,
+    18.25642,
+    -70.168,
+    18.25642
+],
+  "geometry": {"coordinates":[-70.16800000000001,18.25642],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360049917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.13288,18.98932,-70.13288,18.98932",
+    "geom:latitude":18.98932,
+    "geom:longitude":-70.13288,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010105.0",
+    "gn:asciiname":"La Cabilma",
+    "gn:country_code":"DO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503443,
+    "gn:latitude":18.98932,
+    "gn:longitude":-70.13288,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cabilma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cabima",
+        "La Cabirma",
+        "La Cabilma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503443
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"139fee97e614ad4c267ad0cffd16ec79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1360049917,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1360049917,
+    "wof:lastmodified":1537619993,
+    "wof:name":"La Cabilma",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.13288,
+    18.98932000000001,
+    -70.13288,
+    18.98932000000001
+],
+  "geometry": {"coordinates":[-70.13288,18.98932000000001],"type":"Point"}
+}

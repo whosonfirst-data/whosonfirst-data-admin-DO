@@ -1,0 +1,70 @@
+{
+  "id": 1226389011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7,18.83333,-70.7,18.83333",
+    "geom:latitude":18.83333,
+    "geom:longitude":-70.7,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130203.0",
+    "gn:admin4_code":"13020305.0",
+    "gn:asciiname":"El Montazo",
+    "gn:country_code":"DO",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506888,
+    "gn:latitude":18.83333,
+    "gn:longitude":-70.7,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Montazo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890453401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506888
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fbe6ae8a22cc73f3e587c94011568ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453401,
+            "locality_id":1226389011,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1226389011,
+    "wof:lastmodified":1536727675,
+    "wof:name":"El Montazo",
+    "wof:parent_id":890453401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7,
+    18.83333,
+    -70.7,
+    18.83333
+],
+  "geometry": {"coordinates":[-70.7,18.83333],"type":"Point"}
+}

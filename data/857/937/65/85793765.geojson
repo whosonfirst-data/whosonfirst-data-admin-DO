@@ -1,0 +1,107 @@
+{
+  "id": 85793765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1556857.14169,
+    "geom:bbox":"-69.929327,18.441802,-69.929327,18.441802",
+    "geom:latitude":18.441802,
+    "geom:longitude":-69.929327,
+    "gn:latitude":18.43552,
+    "gn:longitude":-69.95266,
+    "iso:country":"DO",
+    "lbl:latitude":18.441802,
+    "lbl:longitude":-69.929327,
+    "mps:latitude":18.438088,
+    "mps:longitude":-69.927732,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Honduras"
+    ],
+    "name:unk_x_variant":[
+        "Honduras"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Honduras",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Honduras",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":243,
+    "qs:photo_sum":247,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345176,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        1108721273,
+        85670659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504456,
+        "gp:id":71982,
+        "qs:id":901101
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b92affbe3111ad939275dc1d900d8d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":85793765,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":85793765,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861418,
+    "wof:name":"Honduras",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.929327,
+    18.441802,
+    -69.929327,
+    18.441802
+],
+  "geometry": {"coordinates":[-69.929327,18.441802],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327453727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.30849,19.62521,-70.30849,19.62521",
+    "geom:latitude":19.62521,
+    "geom:longitude":-70.30849,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90303.0",
+    "gn:admin4_code":"9030304.0",
+    "gn:asciiname":"Los Rincones",
+    "gn:country_code":"DO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497569,
+    "gn:latitude":19.62521,
+    "gn:longitude":-70.30849,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Rincones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497569
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"37e64ac1d692c559b11e2d43803886fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429285,
+            "locality_id":1327453727,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1327453727,
+    "wof:lastmodified":1536649800,
+    "wof:name":"Los Rincones",
+    "wof:parent_id":890429285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.30849,
+    19.62521,
+    -70.30849,
+    19.62521
+],
+  "geometry": {"coordinates":[-70.30849000000001,19.62521],"type":"Point"}
+}

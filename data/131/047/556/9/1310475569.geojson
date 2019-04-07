@@ -1,0 +1,70 @@
+{
+  "id": 1310475569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.94465,19.43081,-69.94465,19.43081",
+    "geom:latitude":19.43081,
+    "geom:longitude":-69.94465,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:admin4_code":"14010404.0",
+    "gn:asciiname":"La Palmita",
+    "gn:country_code":"DO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501421,
+    "gn:latitude":19.43081,
+    "gn:longitude":-69.94465,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Palmita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501421
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e8fea910487f2cee439c515e4748700b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1310475569,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1310475569,
+    "wof:lastmodified":1536960074,
+    "wof:name":"La Palmita",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.94465,
+    19.43081,
+    -69.94465,
+    19.43081
+],
+  "geometry": {"coordinates":[-69.94465,19.43081],"type":"Point"}
+}

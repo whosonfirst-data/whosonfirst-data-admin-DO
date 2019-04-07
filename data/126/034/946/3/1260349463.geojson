@@ -1,0 +1,70 @@
+{
+  "id": 1260349463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68174,19.25573,-70.68174,19.25573",
+    "geom:latitude":19.25573,
+    "geom:longitude":-70.68174,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:admin4_code":"13010402.0",
+    "gn:asciiname":"La Cabra",
+    "gn:country_code":"DO",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503412,
+    "gn:latitude":19.25573,
+    "gn:longitude":-70.68174,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cabra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503412
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"14ea479fa7d430bcaab231f4bd934a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1260349463,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1260349463,
+    "wof:lastmodified":1536621685,
+    "wof:name":"La Cabra",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68174,
+    19.25573,
+    -70.68174,
+    19.25573
+],
+  "geometry": {"coordinates":[-70.68174,19.25573],"type":"Point"}
+}

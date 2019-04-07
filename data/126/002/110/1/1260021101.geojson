@@ -1,0 +1,70 @@
+{
+  "id": 1260021101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16667,18.4,-70.16667,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-70.16667,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210101.0",
+    "gn:admin4_code":"21010105.0",
+    "gn:asciiname":"Estancia del Rey",
+    "gn:country_code":"DO",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505840,
+    "gn:latitude":18.4,
+    "gn:longitude":-70.16667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Estancia del Rey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505840
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"52c473588628d43eeda82f933b8c54ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1260021101,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1260021101,
+    "wof:lastmodified":1537074737,
+    "wof:name":"Estancia del Rey",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16667,
+    18.4,
+    -70.16667,
+    18.4
+],
+  "geometry": {"coordinates":[-70.16667,18.4],"type":"Point"}
+}

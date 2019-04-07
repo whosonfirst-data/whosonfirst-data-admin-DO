@@ -1,0 +1,68 @@
+{
+  "id": 1209558361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,18.56227,-70.01667,18.56227",
+    "geom:latitude":18.56227,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3207.0",
+    "gn:admin3_code":"320702.0",
+    "gn:admin4_code":"32070202.0",
+    "gn:asciiname":"Palamar",
+    "gn:country_code":"DO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495642,
+    "gn:latitude":18.56227,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palamar",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Palamara",
+        "Palamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495642
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5c8dee9a8222b668fb61c6bd49a4f785",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209558361
+        }
+    ],
+    "wof:id":1209558361,
+    "wof:lastmodified":1537619926,
+    "wof:name":"Palamar",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    18.56227,
+    -70.01666999999999,
+    18.56227
+],
+  "geometry": {"coordinates":[-70.01666999999999,18.56227],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293051769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25,18.78333,-69.25,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":-69.25,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300101.0",
+    "gn:admin4_code":"30010101.0",
+    "gn:asciiname":"Sabana",
+    "gn:country_code":"DO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493642,
+    "gn:latitude":18.78333,
+    "gn:longitude":-69.25,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493642
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b3036974ad8d707ee41aefc827c02dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1293051769,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1293051769,
+    "wof:lastmodified":1536919055,
+    "wof:name":"Sabana",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25,
+    18.78333,
+    -69.25,
+    18.78333
+],
+  "geometry": {"coordinates":[-69.25,18.78333],"type":"Point"}
+}

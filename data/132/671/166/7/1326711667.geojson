@@ -1,0 +1,70 @@
+{
+  "id": 1326711667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.81185,18.99312,-71.81185,18.99312",
+    "geom:latitude":18.99312,
+    "geom:longitude":-71.81185,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:admin4_code":"7010106.0",
+    "gn:asciiname":"Sabaneta",
+    "gn:country_code":"DO",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493389,
+    "gn:latitude":18.99312,
+    "gn:longitude":-71.81185,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabaneta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890453405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493389
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dd051427921a63edc751274b4411d669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453405,
+            "locality_id":1326711667,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1326711667,
+    "wof:lastmodified":1536725803,
+    "wof:name":"Sabaneta",
+    "wof:parent_id":890453405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.81185,
+    18.99312,
+    -71.81185,
+    18.99312
+],
+  "geometry": {"coordinates":[-71.81185000000001,18.99312],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260290841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5922,19.52884,-71.5922,19.52884",
+    "geom:latitude":19.52884,
+    "geom:longitude":-71.5922,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50101.0",
+    "gn:admin4_code":"5010105.0",
+    "gn:asciiname":"Lajas Donata",
+    "gn:country_code":"DO",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502133,
+    "gn:latitude":19.52884,
+    "gn:longitude":-71.5922,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Lajas Donata",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502133
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"de4af37b9423249460b3906a27dc5cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1260290841,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1260290841,
+    "wof:lastmodified":1536702314,
+    "wof:name":"Lajas Donata",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5922,
+    19.52884,
+    -71.5922,
+    19.52884
+],
+  "geometry": {"coordinates":[-71.59220000000001,19.52884],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226310683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84593,19.5712,-70.84593,19.5712",
+    "geom:latitude":19.5712,
+    "geom:longitude":-70.84593,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250201.0",
+    "gn:admin4_code":"25020102.0",
+    "gn:asciiname":"La Estacion",
+    "gn:country_code":"DO",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502709,
+    "gn:latitude":19.5712,
+    "gn:longitude":-70.84593,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Estaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502709
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a2dc31225fc7084ae5e1d6b413bdb39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721117,
+            "locality_id":1226310683,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1226310683,
+    "wof:lastmodified":1536839147,
+    "wof:name":"La Estacion",
+    "wof:parent_id":1108721117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84593000000002,
+    19.5712,
+    -70.84593000000002,
+    19.5712
+],
+  "geometry": {"coordinates":[-70.84593000000002,19.5712],"type":"Point"}
+}

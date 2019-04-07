@@ -1,0 +1,70 @@
+{
+  "id": 1226218377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54644,19.68824,-70.54644,19.68824",
+    "geom:latitude":19.68824,
+    "geom:longitude":-70.54644,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070103.0",
+    "gn:asciiname":"La Municion",
+    "gn:country_code":"DO",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501544,
+    "gn:latitude":19.68824,
+    "gn:longitude":-70.54644,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Munici\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501544
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"33923a27cbb83f75724efd590e1338c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1226218377,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1226218377,
+    "wof:lastmodified":1536972738,
+    "wof:name":"La Municion",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54644,
+    19.68824,
+    -70.54644,
+    19.68824
+],
+  "geometry": {"coordinates":[-70.54644,19.68824],"type":"Point"}
+}

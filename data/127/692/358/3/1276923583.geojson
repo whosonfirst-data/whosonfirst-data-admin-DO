@@ -1,0 +1,70 @@
+{
+  "id": 1276923583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97782,19.68618,-70.97782,19.68618",
+    "geom:latitude":19.68618,
+    "geom:longitude":-70.97782,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2702.0",
+    "gn:admin3_code":"270202.0",
+    "gn:admin4_code":"27020205.0",
+    "gn:asciiname":"Palma Picada",
+    "gn:country_code":"DO",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495567,
+    "gn:latitude":19.68618,
+    "gn:longitude":-70.97782,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palma Picada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495567
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5c059351c239704fa53c24a31c938bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":1276923583,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1276923583,
+    "wof:lastmodified":1536981981,
+    "wof:name":"Palma Picada",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97782,
+    19.68618,
+    -70.97782,
+    19.68618
+],
+  "geometry": {"coordinates":[-70.97781999999999,19.68618],"type":"Point"}
+}

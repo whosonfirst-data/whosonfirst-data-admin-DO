@@ -1,0 +1,71 @@
+{
+  "id": 1309686185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.35611,19.06925,-70.35611,19.06925",
+    "geom:latitude":19.06925,
+    "geom:longitude":-70.35611,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Romana",
+    "gn:country_code":"DO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493694,
+    "gn:latitude":19.06925,
+    "gn:longitude":-70.35611,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Romana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Romana",
+        "Romana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493694
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f5a6384f63b3327a785fab372ccaf03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721173,
+            "locality_id":1309686185,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1309686185,
+    "wof:lastmodified":1537619914,
+    "wof:name":"Romana",
+    "wof:parent_id":1108721173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.35611,
+    19.06925,
+    -70.35611,
+    19.06925
+],
+  "geometry": {"coordinates":[-70.35611,19.06925],"type":"Point"}
+}

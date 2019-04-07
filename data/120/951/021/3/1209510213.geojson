@@ -1,0 +1,68 @@
+{
+  "id": 1209510213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.67673,18.52391,-68.67673,18.52391",
+    "geom:latitude":18.52391,
+    "geom:longitude":-68.67673,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020104.0",
+    "gn:asciiname":"Palo Bonito",
+    "gn:country_code":"DO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495422,
+    "gn:latitude":18.52391,
+    "gn:longitude":-68.67673,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palo Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Palo Bonito",
+        "Palo Bonito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495422
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7ec0b4876ff9b5adbaf346500924040f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209510213
+        }
+    ],
+    "wof:id":1209510213,
+    "wof:lastmodified":1537619924,
+    "wof:name":"Palo Bonito",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.67673,
+    18.52391,
+    -68.67673,
+    18.52391
+],
+  "geometry": {"coordinates":[-68.67673000000001,18.52391],"type":"Point"}
+}

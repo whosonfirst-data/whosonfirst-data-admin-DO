@@ -1,0 +1,74 @@
+{
+  "id": 1242635597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33855,18.9385,-71.33855,18.9385",
+    "geom:latitude":18.9385,
+    "geom:longitude":-71.33855,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220108.0",
+    "gn:admin4_code":"22010803.0",
+    "gn:asciiname":"Hatico",
+    "gn:country_code":"DO",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504816,
+    "gn:latitude":18.9385,
+    "gn:longitude":-71.33855,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hatico",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hatico",
+        "Hatico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504816
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"275219fed19106d28f486e9a5662c82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1242635597,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1242635597,
+    "wof:lastmodified":1537620006,
+    "wof:name":"Hatico",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33855,
+    18.9385,
+    -71.33855,
+    18.9385
+],
+  "geometry": {"coordinates":[-71.33855,18.9385],"type":"Point"}
+}

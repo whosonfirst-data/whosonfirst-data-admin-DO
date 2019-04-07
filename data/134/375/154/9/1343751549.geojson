@@ -1,0 +1,70 @@
+{
+  "id": 1343751549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3,18.28333,-71.3,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-71.3,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100502.0",
+    "gn:admin4_code":"10050202.0",
+    "gn:asciiname":"Rinconada",
+    "gn:country_code":"DO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493861,
+    "gn:latitude":18.28333,
+    "gn:longitude":-71.3,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rinconada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        1108721141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493861
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a643c0d77a0457d6c3d218d537fe09fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721141,
+            "locality_id":1343751549,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1343751549,
+    "wof:lastmodified":1536822894,
+    "wof:name":"Rinconada",
+    "wof:parent_id":1108721141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3,
+    18.28333,
+    -71.3,
+    18.28333
+],
+  "geometry": {"coordinates":[-71.3,18.28333],"type":"Point"}
+}

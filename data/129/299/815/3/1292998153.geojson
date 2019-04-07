@@ -1,0 +1,70 @@
+{
+  "id": 1292998153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27842,19.23072,-70.27842,19.23072",
+    "geom:latitude":19.23072,
+    "geom:longitude":-70.27842,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60105.0",
+    "gn:admin4_code":"6010503.0",
+    "gn:asciiname":"Genimo",
+    "gn:country_code":"DO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505458,
+    "gn:latitude":19.23072,
+    "gn:longitude":-70.27842,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"G\u00e9nimo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505458
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a1bc3e1bf35837eed2c8c192ce2e215e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1292998153,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1292998153,
+    "wof:lastmodified":1536994705,
+    "wof:name":"Genimo",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27842,
+    19.23072,
+    -70.27842,
+    19.23072
+],
+  "geometry": {"coordinates":[-70.27842,19.23072],"type":"Point"}
+}

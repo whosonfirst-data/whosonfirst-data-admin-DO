@@ -1,0 +1,121 @@
+{
+  "id": 85793749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1326262.529237,
+    "geom:bbox":"-69.926833,18.457012,-69.926833,18.457012",
+    "geom:latitude":18.457012,
+    "geom:longitude":-69.926833,
+    "gn:latitude":18.45,
+    "gn:longitude":-69.93333,
+    "iso:country":"DO",
+    "lbl:latitude":18.457012,
+    "lbl:longitude":-69.926833,
+    "mps:latitude":18.459396,
+    "mps:longitude":-69.928688,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Ferrand"
+    ],
+    "name:fra_x_preferred":[
+        "Ferrand"
+    ],
+    "name:spa_x_preferred":[
+        "Ferrand"
+    ],
+    "name:spa_x_variant":[
+        "Ferand",
+        "Ferrano"
+    ],
+    "name:unk_x_variant":[
+        "Ferand",
+        "Ferrand"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Ferrand",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Ferrand",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":70,
+    "qs:photo_sum":126,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345176,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        1108721273,
+        85670659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505752,
+        "gp:id":71651,
+        "qs:id":232879
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"35b8451957a74fd0c4e242aae27496aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":85793749,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":85793749,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861415,
+    "wof:name":"Ferrand",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.926833,
+    18.457012,
+    -69.926833,
+    18.457012
+],
+  "geometry": {"coordinates":[-69.926833,18.457012],"type":"Point"}
+}

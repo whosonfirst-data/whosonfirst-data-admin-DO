@@ -1,0 +1,70 @@
+{
+  "id": 1225837689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03186,19.19776,-70.03186,19.19776",
+    "geom:latitude":19.19776,
+    "geom:longitude":-70.03186,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:admin4_code":"6030103.0",
+    "gn:asciiname":"Nigua Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495824,
+    "gn:latitude":19.19776,
+    "gn:longitude":-70.03186,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Nigua Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495824
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"da6dd95a6d881c9c485710cbb5562e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721135,
+            "locality_id":1225837689,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1225837689,
+    "wof:lastmodified":1537024246,
+    "wof:name":"Nigua Abajo",
+    "wof:parent_id":1108721135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03186,
+    19.19776,
+    -70.03186,
+    19.19776
+],
+  "geometry": {"coordinates":[-70.03185999999999,19.19776],"type":"Point"}
+}

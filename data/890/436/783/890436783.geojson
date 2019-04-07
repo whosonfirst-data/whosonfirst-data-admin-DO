@@ -1,0 +1,96 @@
+{
+  "id": 890436783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23333,17.9,-71.23333,17.9",
+    "geom:latitude":17.9,
+    "geom:longitude":-71.23333,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":5423,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6069\u91cc\u57fa\u7565"
+    ],
+    "name:dut_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:eng_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:ita_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30ea\u30ad\u30e8"
+    ],
+    "name:nan_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:por_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:swe_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:unk_x_variant":[
+        "Petit Trou"
+    ],
+    "qs:name":"Enriquillo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":694,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505947,
+        "gp:id":71581,
+        "qs:id":1045370,
+        "wd:id":"Q2433632",
+        "wk:page":"Enriquillo"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052125,
+    "wof:geomhash":"1448fecb82c54df7deeedf09774ec942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":890436783,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":890436783,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Enriquillo",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:population":5423,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23333,
+    17.9,
+    -71.23333,
+    17.9
+],
+  "geometry": {"coordinates":[-71.23333,17.9],"type":"Point"}
+}

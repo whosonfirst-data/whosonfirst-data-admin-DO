@@ -1,0 +1,75 @@
+{
+  "id": 1327137313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31667,18.58333,-71.31667,18.58333",
+    "geom:latitude":18.58333,
+    "geom:longitude":-71.31667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:admin4_code":"3020104.0",
+    "gn:asciiname":"Gran Plena",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505273,
+    "gn:latitude":18.58333,
+    "gn:longitude":-71.31667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gran Plena",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Gran Plena",
+        "Gran Plena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        1108721157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505273
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cb63f534561b89150fee956ba29b53e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721157,
+            "locality_id":1327137313,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1327137313,
+    "wof:lastmodified":1537620009,
+    "wof:name":"Gran Plena",
+    "wof:parent_id":1108721157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31667,
+    18.58333,
+    -71.31667,
+    18.58333
+],
+  "geometry": {"coordinates":[-71.31667,18.58333],"type":"Point"}
+}

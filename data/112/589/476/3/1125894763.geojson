@@ -1,0 +1,112 @@
+{
+  "id": 1125894763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08333,18.38333,-70.08333,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-70.08333,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11542,
+    "gn:population":11542,
+    "iso:country":"DO",
+    "lbl:latitude":18.38333,
+    "lbl:longitude":-70.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8056\u683c\u96f7\u6208\u91cc\u5967\u5fb7\u5c3c\u74dc"
+    ],
+    "name:dut_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:eng_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:fre_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:ger_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:ita_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30b0\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:por_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:spa_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "name:swe_x_preferred":[
+        "San Gregorio de Nigua"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3493143,
+    "qs_pg:gn_pop":11542,
+    "qs_pg:name":"San Gregorio de Nigua",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1045298,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493143,
+        "qs_pg:id":1045298,
+        "wd:id":"Q3947356"
+    },
+    "wof:country":"DO",
+    "wof:created":1497295493,
+    "wof:geomhash":"6e1f33c1bdae10dc4c33b434b35ba708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721261,
+            "locality_id":1125894763,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1125894763,
+    "wof:lastmodified":1513955967,
+    "wof:name":"San Gregorio de Nigua",
+    "wof:parent_id":1108721261,
+    "wof:placetype":"locality",
+    "wof:population":11542,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08333,
+    18.38333,
+    -70.08333,
+    18.38333
+],
+  "geometry": {"coordinates":[-70.08333,18.38333],"type":"Point"}
+}

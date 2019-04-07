@@ -1,0 +1,67 @@
+{
+  "id": 1326970691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.37754,18.50458,-70.37754,18.50458",
+    "geom:latitude":18.50458,
+    "geom:longitude":-70.37754,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Los Limones",
+    "gn:country_code":"DO",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498234,
+    "gn:latitude":18.50458,
+    "gn:longitude":-70.37754,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Los Limones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498234
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"36630c771e91bc5648e5697a9ef7d59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1326970691,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1326970691,
+    "wof:lastmodified":1536848335,
+    "wof:name":"Los Limones",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.37754,
+    18.50458,
+    -70.37754,
+    18.50458
+],
+  "geometry": {"coordinates":[-70.37754,18.50458],"type":"Point"}
+}

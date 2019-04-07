@@ -1,0 +1,69 @@
+{
+  "id": 1209578813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.75737,19.77611,-70.75737,19.77611",
+    "geom:latitude":19.77611,
+    "geom:longitude":-70.75737,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180103.0",
+    "gn:admin4_code":"18010302.0",
+    "gn:asciiname":"La Sabana",
+    "gn:country_code":"DO",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500911,
+    "gn:latitude":19.77611,
+    "gn:longitude":-70.75737,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sabana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabana Abajo",
+        "Sabana",
+        "La Sabana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500911
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"60370e182bdf16cb0de7d8ebc68d7a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209578813
+        }
+    ],
+    "wof:id":1209578813,
+    "wof:lastmodified":1537619966,
+    "wof:name":"La Sabana",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.75737,
+    19.77611,
+    -70.75737,
+    19.77611
+],
+  "geometry": {"coordinates":[-70.75736999999999,19.77611],"type":"Point"}
+}

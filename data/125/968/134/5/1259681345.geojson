@@ -1,0 +1,70 @@
+{
+  "id": 1259681345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,19.15,-70.01667,19.15",
+    "geom:latitude":19.15,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60702.0",
+    "gn:admin4_code":"6070202.0",
+    "gn:asciiname":"Balsa",
+    "gn:country_code":"DO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512111,
+    "gn:latitude":19.15,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Balsa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512111
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fbbacd7c1921235d9a97fe6c56b950ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721153,
+            "locality_id":1259681345,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1259681345,
+    "wof:lastmodified":1537067195,
+    "wof:name":"Balsa",
+    "wof:parent_id":1108721153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    19.15,
+    -70.01666999999999,
+    19.15
+],
+  "geometry": {"coordinates":[-70.01666999999999,19.15],"type":"Point"}
+}

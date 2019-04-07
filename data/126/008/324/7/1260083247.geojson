@@ -1,0 +1,76 @@
+{
+  "id": 1260083247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31667,18.5,-71.31667,18.5",
+    "geom:latitude":18.5,
+    "geom:longitude":-71.31667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:admin4_code":"3020104.0",
+    "gn:asciiname":"La Talla",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500141,
+    "gn:latitude":18.5,
+    "gn:longitude":-71.31667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Talla",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Taya",
+        "La Troyo",
+        "La Talla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        1108721157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500141
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"884d8b53b3c3811db037d5d40debd10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721157,
+            "locality_id":1260083247,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1260083247,
+    "wof:lastmodified":1537619956,
+    "wof:name":"La Talla",
+    "wof:parent_id":1108721157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31667,
+    18.5,
+    -71.31667,
+    18.5
+],
+  "geometry": {"coordinates":[-71.31667,18.5],"type":"Point"}
+}

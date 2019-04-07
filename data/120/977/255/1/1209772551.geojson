@@ -1,0 +1,67 @@
+{
+  "id": 1209772551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19343,19.63558,-71.19343,19.63558",
+    "geom:latitude":19.63558,
+    "geom:longitude":-71.19343,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Batey Portela",
+    "gn:country_code":"DO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511681,
+    "gn:latitude":19.63558,
+    "gn:longitude":-71.19343,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Batey Portela",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511681
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7e842ef0caf6de56629e4809d8b3d368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1209772551,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1209772551,
+    "wof:lastmodified":1536382316,
+    "wof:name":"Batey Portela",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19343,
+    19.63558,
+    -71.19343,
+    19.63558
+],
+  "geometry": {"coordinates":[-71.19343000000001,19.63558],"type":"Point"}
+}

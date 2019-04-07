@@ -1,0 +1,75 @@
+{
+  "id": 1293872665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63333,18.73333,-68.63333,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":-68.63333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:admin4_code":"11010303.0",
+    "gn:asciiname":"Duyey",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508691,
+    "gn:latitude":18.73333,
+    "gn:longitude":-68.63333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Duyey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duey",
+        "Duyey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508691
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1acd0e2439caeb9b82ca45012b10442f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1293872665,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1293872665,
+    "wof:lastmodified":1537620043,
+    "wof:name":"Duyey",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63333,
+    18.73333,
+    -68.63333,
+    18.73333
+],
+  "geometry": {"coordinates":[-68.63333,18.73333],"type":"Point"}
+}

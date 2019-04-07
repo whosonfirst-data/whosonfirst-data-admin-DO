@@ -1,0 +1,75 @@
+{
+  "id": 1310319319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76458,18.38086,-70.76458,18.38086",
+    "geom:latitude":18.38086,
+    "geom:longitude":-70.76458,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20701.0",
+    "gn:admin4_code":"2070102.0",
+    "gn:asciiname":"Las Terreras",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500241,
+    "gn:latitude":18.38086,
+    "gn:longitude":-70.76458,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Terreras",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terrenas",
+        "Terreras",
+        "Las Terreras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500241
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"292e05bf19ff2a4de8d1674243b48d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721231,
+            "locality_id":1310319319,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1310319319,
+    "wof:lastmodified":1537619957,
+    "wof:name":"Las Terreras",
+    "wof:parent_id":1108721231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76458000000002,
+    18.38086,
+    -70.76458000000002,
+    18.38086
+],
+  "geometry": {"coordinates":[-70.76458000000002,18.38086],"type":"Point"}
+}

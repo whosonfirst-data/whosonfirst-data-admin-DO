@@ -1,0 +1,70 @@
+{
+  "id": 1193209573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04039,18.81415,-70.04039,18.81415",
+    "geom:latitude":18.81415,
+    "geom:longitude":-70.04039,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2905.0",
+    "gn:admin3_code":"290501.0",
+    "gn:admin4_code":"29050105.0",
+    "gn:asciiname":"Tierra Mala",
+    "gn:country_code":"DO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492418,
+    "gn:latitude":18.81415,
+    "gn:longitude":-70.04039,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Tierra Mala",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492418
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bd203a0b3a998f65d4497e7b2f95fb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721225,
+            "locality_id":1193209573,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1193209573,
+    "wof:lastmodified":1536365155,
+    "wof:name":"Tierra Mala",
+    "wof:parent_id":1108721225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04039,
+    18.81415,
+    -70.04039,
+    18.81415
+],
+  "geometry": {"coordinates":[-70.04039,18.81415],"type":"Point"}
+}

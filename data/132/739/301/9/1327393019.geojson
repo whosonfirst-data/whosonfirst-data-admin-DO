@@ -1,0 +1,74 @@
+{
+  "id": 1327393019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06938,18.37629,-70.06938,18.37629",
+    "geom:latitude":18.37629,
+    "geom:longitude":-70.06938,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210701.0",
+    "gn:admin4_code":"21070102.0",
+    "gn:asciiname":"Boca de Nigua",
+    "gn:country_code":"DO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511289,
+    "gn:latitude":18.37629,
+    "gn:longitude":-70.06938,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca de Nigua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca Nigua",
+        "Boca de Nigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511289
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2f6dd1af40fcf72e0c644d9546329e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721261,
+            "locality_id":1327393019,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1327393019,
+    "wof:lastmodified":1537620062,
+    "wof:name":"Boca de Nigua",
+    "wof:parent_id":1108721261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06938000000001,
+    18.37629,
+    -70.06938000000001,
+    18.37629
+],
+  "geometry": {"coordinates":[-70.06938000000001,18.37629],"type":"Point"}
+}

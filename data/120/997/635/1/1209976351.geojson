@@ -1,0 +1,70 @@
+{
+  "id": 1209976351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68333,18.91667,-69.68333,18.91667",
+    "geom:latitude":18.91667,
+    "geom:longitude":-69.68333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020102.0",
+    "gn:asciiname":"Laguna Clara",
+    "gn:country_code":"DO",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502399,
+    "gn:latitude":18.91667,
+    "gn:longitude":-69.68333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Laguna Clara",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502399
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"64862c8e284e09586f3d0b2d1298a7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1209976351,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1209976351,
+    "wof:lastmodified":1536392748,
+    "wof:name":"Laguna Clara",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68333,
+    18.91667,
+    -69.68333,
+    18.91667
+],
+  "geometry": {"coordinates":[-69.68333,18.91667],"type":"Point"}
+}

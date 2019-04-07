@@ -1,0 +1,70 @@
+{
+  "id": 1226560147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.612,18.62945,-68.612,18.62945",
+    "geom:latitude":18.62945,
+    "geom:longitude":-68.612,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:admin4_code":"11010304.0",
+    "gn:asciiname":"Las Tres Casitas",
+    "gn:country_code":"DO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500231,
+    "gn:latitude":18.62945,
+    "gn:longitude":-68.612,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Tres Casitas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500231
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"82d460d282d146f278402b33aa2887f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1226560147,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1226560147,
+    "wof:lastmodified":1536976779,
+    "wof:name":"Las Tres Casitas",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.612,
+    18.62945,
+    -68.612,
+    18.62945
+],
+  "geometry": {"coordinates":[-68.61199999999999,18.62945],"type":"Point"}
+}

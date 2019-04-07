@@ -1,0 +1,70 @@
+{
+  "id": 1243437241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.43353,19.57484,-71.43353,19.57484",
+    "geom:latitude":19.57484,
+    "geom:longitude":-71.43353,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150301.0",
+    "gn:admin4_code":"15030103.0",
+    "gn:asciiname":"Cabeza de Toro",
+    "gn:country_code":"DO",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510935,
+    "gn:latitude":19.57484,
+    "gn:longitude":-71.43353,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cabeza de Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510935
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4bff10d0f15d4914aa7c43e89992bbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1243437241,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1243437241,
+    "wof:lastmodified":1536817925,
+    "wof:name":"Cabeza de Toro",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43353,
+    19.57484,
+    -71.43353,
+    19.57484
+],
+  "geometry": {"coordinates":[-71.43353,19.57484],"type":"Point"}
+}

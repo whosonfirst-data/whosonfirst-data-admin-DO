@@ -1,0 +1,74 @@
+{
+  "id": 1243023611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.95139,19.23267,-70.95139,19.23267",
+    "geom:latitude":19.23267,
+    "geom:longitude":-70.95139,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250501.0",
+    "gn:admin4_code":"25050105.0",
+    "gn:asciiname":"Rincon de Piedras",
+    "gn:country_code":"DO",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493835,
+    "gn:latitude":19.23267,
+    "gn:longitude":-70.95139,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rinc\u00f3n de Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n de Piedra",
+        "Rinc\u00f3n de Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493835
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"231b9aa925e3d4e952ff70f05059eb14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1243023611,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1243023611,
+    "wof:lastmodified":1537619915,
+    "wof:name":"Rincon de Piedras",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.95139,
+    19.23267,
+    -70.95139,
+    19.23267
+],
+  "geometry": {"coordinates":[-70.95139,19.23267],"type":"Point"}
+}

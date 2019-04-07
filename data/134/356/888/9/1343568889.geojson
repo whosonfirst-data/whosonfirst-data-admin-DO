@@ -1,0 +1,70 @@
+{
+  "id": 1343568889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.11667,18.05,-71.11667,18.05",
+    "geom:latitude":18.05,
+    "geom:longitude":-71.11667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40701.0",
+    "gn:admin4_code":"4070102.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"DO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493030,
+    "gn:latitude":18.05,
+    "gn:longitude":-71.11667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493030
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b64fc3851628a50def3542c76cbcd855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721179,
+            "locality_id":1343568889,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1343568889,
+    "wof:lastmodified":1537084073,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108721179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.11667,
+    18.05,
+    -71.11667,
+    18.05
+],
+  "geometry": {"coordinates":[-71.11667,18.05],"type":"Point"}
+}

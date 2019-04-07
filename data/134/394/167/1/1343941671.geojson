@@ -1,0 +1,70 @@
+{
+  "id": 1343941671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63333,18.3,-68.63333,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-68.63333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110202.0",
+    "gn:admin4_code":"11020202.0",
+    "gn:asciiname":"Martel",
+    "gn:country_code":"DO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496741,
+    "gn:latitude":18.3,
+    "gn:longitude":-68.63333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Martel",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496741
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"81559259bbf8d1f6df86a00be9992251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1343941671,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1343941671,
+    "wof:lastmodified":1537045296,
+    "wof:name":"Martel",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63333,
+    18.3,
+    -68.63333,
+    18.3
+],
+  "geometry": {"coordinates":[-68.63333,18.3],"type":"Point"}
+}

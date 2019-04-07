@@ -1,0 +1,74 @@
+{
+  "id": 1344116463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66604,18.67471,-69.66604,18.67471",
+    "geom:latitude":18.67471,
+    "geom:longitude":-69.66604,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020103.0",
+    "gn:asciiname":"Carabela",
+    "gn:country_code":"DO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510221,
+    "gn:latitude":18.67471,
+    "gn:longitude":-69.66604,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Carabela",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carabelas",
+        "Carabela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510221
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cfa878a8a81072365d159e7167cff21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1344116463,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1344116463,
+    "wof:lastmodified":1537620055,
+    "wof:name":"Carabela",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66604,
+    18.67471,
+    -69.66604,
+    18.67471
+],
+  "geometry": {"coordinates":[-69.66604,18.67471],"type":"Point"}
+}

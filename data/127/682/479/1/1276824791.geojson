@@ -1,0 +1,74 @@
+{
+  "id": 1276824791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.39523,18.59653,-69.39523,18.59653",
+    "geom:latitude":18.59653,
+    "geom:longitude":-69.39523,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:admin4_code":"23020104.0",
+    "gn:asciiname":"Las Tumbas",
+    "gn:country_code":"DO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500213,
+    "gn:latitude":18.59653,
+    "gn:longitude":-69.39523,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Tumbas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Tumba",
+        "Las Tumbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500213
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f930c8270e97b7b3d4ca2efd6b51a8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429255,
+            "locality_id":1276824791,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1276824791,
+    "wof:lastmodified":1537619956,
+    "wof:name":"Las Tumbas",
+    "wof:parent_id":890429255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.39523,
+    18.59653,
+    -69.39523,
+    18.59653
+],
+  "geometry": {"coordinates":[-69.39523,18.59653],"type":"Point"}
+}

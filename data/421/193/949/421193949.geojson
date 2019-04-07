@@ -1,0 +1,120 @@
+{
+  "id": 421193949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17095,18.67297,-70.17095,18.67297",
+    "geom:latitude":18.67297,
+    "geom:longitude":-70.17095,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u5854\u683c\u62c9\u897f\u4e9e\u93ae"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30b8\u30e3\u30fb\u30a2\u30eb\u30bf\u30b0\u30e9\u30b7\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:por_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0410\u043b\u044c\u0442\u0430\u0433\u0440\u0430\u0441\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u5854\u683c\u62c9\u897f\u4e9e\u93ae"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491952,
+    "qs:gn_pop":40027,
+    "qs:name":"Villa Altagracia",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"San Cristobal",
+    "qs:photos":339,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":339,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":567292,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":76653,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491952,
+        "gp:id":76653,
+        "qs:id":567292,
+        "wd:id":"Q4011765"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009788,
+    "wof:geomhash":"edc631b8c8bc5f7ea8fedc11c2ea5f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429199,
+            "locality_id":421193949,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":421193949,
+    "wof:lastmodified":1527716145,
+    "wof:name":"Villa Altagracia",
+    "wof:parent_id":890429199,
+    "wof:placetype":"locality",
+    "wof:population":40027,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17095,
+    18.67297,
+    -70.17095,
+    18.67297
+],
+  "geometry": {"coordinates":[-70.17095,18.67297],"type":"Point"}
+}

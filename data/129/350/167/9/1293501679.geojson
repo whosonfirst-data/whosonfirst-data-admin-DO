@@ -1,0 +1,74 @@
+{
+  "id": 1293501679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89566,18.51926,-70.89566,18.51926",
+    "geom:latitude":18.51926,
+    "geom:longitude":-70.89566,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20303.0",
+    "gn:admin4_code":"2030303.0",
+    "gn:asciiname":"Las Hormigas",
+    "gn:country_code":"DO",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500507,
+    "gn:latitude":18.51926,
+    "gn:longitude":-70.89566,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Hormigas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Hormiga",
+        "Las Hormigas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500507
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1e8deefedc152a41b5b55d985977b5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721197,
+            "locality_id":1293501679,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1293501679,
+    "wof:lastmodified":1537619961,
+    "wof:name":"Las Hormigas",
+    "wof:parent_id":1108721197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89565999999998,
+    18.51926,
+    -70.89565999999998,
+    18.51926
+],
+  "geometry": {"coordinates":[-70.89565999999998,18.51926],"type":"Point"}
+}

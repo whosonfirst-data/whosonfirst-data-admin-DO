@@ -1,0 +1,74 @@
+{
+  "id": 1327293473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.07825,18.83166,-70.07825,18.83166",
+    "geom:latitude":18.83166,
+    "geom:longitude":-70.07825,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2905.0",
+    "gn:admin3_code":"290501.0",
+    "gn:admin4_code":"29050103.0",
+    "gn:asciiname":"Mata de Platano",
+    "gn:country_code":"DO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496639,
+    "gn:latitude":18.83166,
+    "gn:longitude":-70.07825,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata de Pl\u00e1tano",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata de Plantano",
+        "Mata de Pl\u00e1tano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496639
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a00f2324d9a755fa2eb9f8a458191c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721225,
+            "locality_id":1327293473,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1327293473,
+    "wof:lastmodified":1537619931,
+    "wof:name":"Mata de Platano",
+    "wof:parent_id":1108721225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.07825,
+    18.83166,
+    -70.07825,
+    18.83166
+],
+  "geometry": {"coordinates":[-70.07825,18.83166],"type":"Point"}
+}

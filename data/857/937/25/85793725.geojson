@@ -1,0 +1,113 @@
+{
+  "id": 85793725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":25482406.021057,
+    "geom:bbox":"-70.705238,19.473899,-70.705238,19.473899",
+    "geom:latitude":19.473899,
+    "geom:longitude":-70.705238,
+    "gn:latitude":19.473,
+    "gn:longitude":-70.70676,
+    "iso:country":"DO",
+    "lbl:latitude":19.473899,
+    "lbl:longitude":-70.705238,
+    "mps:latitude":19.479117,
+    "mps:longitude":-70.709592,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:spa_x_colloquial":[
+        "Ensanche Bolivar"
+    ],
+    "name:spa_x_preferred":[
+        "Ensanche Bol\u00edvar"
+    ],
+    "name:unk_x_variant":[
+        "Ensanche Bol\u00edvar"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"25",
+    "qs:gn_name":"Ensanche Bol\u00edvar",
+    "qs:local_max":1660,
+    "qs:local_sum":2462,
+    "qs:localhoods":2,
+    "qs:name":"Ensanche Bol\u00edvar",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santiago",
+    "qs:name_local":"Santiago de los Caballeros",
+    "qs:photo_max":234,
+    "qs:photo_sum":802,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345193,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76453,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85670537,
+        102191575,
+        85632713,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505942,
+        "gp:id":71584,
+        "qs:id":1080591,
+        "wd:id":"Q5379911"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0464e442ed8a73e3855ad9fdb843efea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":-1,
+            "neighbourhood_id":85793725,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":85793725,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379288,
+    "wof:name":"Ensanche Bol\u00edvar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[
+        1126089491
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.705238,
+    19.473899,
+    -70.705238,
+    19.473899
+],
+  "geometry": {"coordinates":[-70.70523799999999,19.473899],"type":"Point"}
+}

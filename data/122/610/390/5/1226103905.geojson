@@ -1,0 +1,70 @@
+{
+  "id": 1226103905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31667,19.23333,-69.31667,19.23333",
+    "geom:latitude":19.23333,
+    "geom:longitude":-69.31667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200101.0",
+    "gn:admin4_code":"20010102.0",
+    "gn:asciiname":"Rio San Juan",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493744,
+    "gn:latitude":19.23333,
+    "gn:longitude":-69.31667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"R\u00edo San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493744
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"28b0e274348eb49147d68d6747ae5d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1226103905,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1226103905,
+    "wof:lastmodified":1536640408,
+    "wof:name":"Rio San Juan",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31667,
+    19.23333,
+    -69.31667,
+    19.23333
+],
+  "geometry": {"coordinates":[-69.31667,19.23333],"type":"Point"}
+}

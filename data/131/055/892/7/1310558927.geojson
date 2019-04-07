@@ -1,0 +1,70 @@
+{
+  "id": 1310558927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05356,19.37396,-71.05356,19.37396",
+    "geom:latitude":19.37396,
+    "geom:longitude":-71.05356,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250502.0",
+    "gn:admin4_code":"25050203.0",
+    "gn:asciiname":"Los Onillos",
+    "gn:country_code":"DO",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497934,
+    "gn:latitude":19.37396,
+    "gn:longitude":-71.05356,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Onillos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497934
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1acfbd6bf2dcccbb02d927d0dc5c3d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1310558927,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1310558927,
+    "wof:lastmodified":1536838989,
+    "wof:name":"Los Onillos",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05356,
+    19.37396,
+    -71.05356,
+    19.37396
+],
+  "geometry": {"coordinates":[-71.05356,19.37396],"type":"Point"}
+}

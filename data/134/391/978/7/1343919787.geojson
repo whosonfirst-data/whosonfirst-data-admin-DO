@@ -1,0 +1,70 @@
+{
+  "id": 1343919787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20677,19.24421,-69.20677,19.24421",
+    "geom:latitude":19.24421,
+    "geom:longitude":-69.20677,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200104.0",
+    "gn:admin4_code":"20010402.0",
+    "gn:asciiname":"Pozo de Paco",
+    "gn:country_code":"DO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494457,
+    "gn:latitude":19.24421,
+    "gn:longitude":-69.20677,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pozo de Paco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494457
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1812ae5a79898d27809973b14dd77b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1343919787,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1343919787,
+    "wof:lastmodified":1537075738,
+    "wof:name":"Pozo de Paco",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20676999999999,
+    19.24421,
+    -69.20676999999999,
+    19.24421
+],
+  "geometry": {"coordinates":[-69.20676999999999,19.24421],"type":"Point"}
+}

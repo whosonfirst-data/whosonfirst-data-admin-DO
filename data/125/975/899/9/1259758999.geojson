@@ -1,0 +1,70 @@
+{
+  "id": 1259758999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.56148,19.7211,-70.56148,19.7211",
+    "geom:latitude":19.7211,
+    "geom:longitude":-70.56148,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1809.0",
+    "gn:admin3_code":"180901.0",
+    "gn:admin4_code":"18090107.0",
+    "gn:asciiname":"Jarda de las Canas",
+    "gn:country_code":"DO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504154,
+    "gn:latitude":19.7211,
+    "gn:longitude":-70.56148,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jarda de las Canas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504154
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ba928de8fa38e9bb4772292eee0d6b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1259758999,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1259758999,
+    "wof:lastmodified":1536958405,
+    "wof:name":"Jarda de las Canas",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.56148,
+    19.7211,
+    -70.56148,
+    19.7211
+],
+  "geometry": {"coordinates":[-70.56148,19.7211],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276722997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.34896,18.82786,-69.34896,18.82786",
+    "geom:latitude":18.82786,
+    "geom:longitude":-69.34896,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300102.0",
+    "gn:admin4_code":"30010202.0",
+    "gn:asciiname":"Mona Gorra",
+    "gn:country_code":"DO",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496288,
+    "gn:latitude":18.82786,
+    "gn:longitude":-69.34896,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mo\u00f1a Gorra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00f1agorri",
+        "Mo\u00f1a Gorra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496288
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"219da19179286cd1a1c4bc0409f3f4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1276722997,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1276722997,
+    "wof:lastmodified":1537619930,
+    "wof:name":"Mona Gorra",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.34895999999999,
+    18.82786,
+    -69.34895999999999,
+    18.82786
+],
+  "geometry": {"coordinates":[-69.34895999999999,18.82786],"type":"Point"}
+}

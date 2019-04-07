@@ -1,0 +1,74 @@
+{
+  "id": 1276810931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91246,18.58455,-69.91246,18.58455",
+    "geom:latitude":18.58455,
+    "geom:longitude":-69.91246,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320301.0",
+    "gn:admin4_code":"32030101.0",
+    "gn:asciiname":"El Chaparral",
+    "gn:country_code":"DO",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507960,
+    "gn:latitude":18.58455,
+    "gn:longitude":-69.91246,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Chaparral",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaparral",
+        "El Chaparral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507960
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d96d91c2073baef5aefbbde6bb55ebe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721279,
+            "locality_id":1276810931,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1276810931,
+    "wof:lastmodified":1537620035,
+    "wof:name":"El Chaparral",
+    "wof:parent_id":1108721279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91246,
+    18.58455,
+    -69.91246,
+    18.58455
+],
+  "geometry": {"coordinates":[-69.91246,18.58455],"type":"Point"}
+}

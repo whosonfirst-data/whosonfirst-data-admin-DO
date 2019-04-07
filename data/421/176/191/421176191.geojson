@@ -1,0 +1,127 @@
+{
+  "id": 421176191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92753,18.6071,-70.92753,18.6071",
+    "geom:latitude":18.6071,
+    "geom:longitude":-70.92753,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yayas de Viajama"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u4e9e\u65af\u5fb7\u6bd4\u4e9e\u54c8\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "Las Yayas de Viajama"
+    ],
+    "name:eng_x_preferred":[
+        "Las Yayas de Viajama"
+    ],
+    "name:fre_x_preferred":[
+        "Las Yayas de Viajama"
+    ],
+    "name:ita_x_preferred":[
+        "Las Yayas de Viajama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30e4\u30e4\u30b9\u30fb\u30c7\u30fb\u30d3\u30a2\u30cf\u30de"
+    ],
+    "name:nan_x_preferred":[
+        "Yayas de Viajama"
+    ],
+    "name:por_x_preferred":[
+        "Yayas de Viajama"
+    ],
+    "name:slv_x_preferred":[
+        "Las Yayas de Viajama"
+    ],
+    "name:swe_x_preferred":[
+        "Yayas de Viajama"
+    ],
+    "name:unk_x_variant":[
+        "Las Yayas de Viajama"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0633 \u062f\u06d2 \u0648\u06cc\u0627\u062c\u0627\u0645\u06c1"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Yayas de Viajama"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u4e9e\u65af\u5fb7\u6bd4\u4e9e\u54c8\u99ac"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491736,
+    "qs:gn_pop":5669,
+    "qs:name":"Yayas de Viajama",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Azua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1045273,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":76746,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491736,
+        "gp:id":76746,
+        "qs:id":1045273,
+        "wd:id":"Q3827307",
+        "wk:page":"Yayas de Viajama"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009101,
+    "wof:geomhash":"0bc7f527a4497d47294893fef833dffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721197,
+            "locality_id":421176191,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":421176191,
+    "wof:lastmodified":1527726473,
+    "wof:name":"Yayas de Viajama",
+    "wof:parent_id":1108721197,
+    "wof:placetype":"locality",
+    "wof:population":5669,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92753,
+    18.6071,
+    -70.92753,
+    18.6071
+],
+  "geometry": {"coordinates":[-70.92753,18.6071],"type":"Point"}
+}

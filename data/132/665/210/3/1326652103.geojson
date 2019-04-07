@@ -1,0 +1,76 @@
+{
+  "id": 1326652103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23333,19.31667,-70.23333,19.31667",
+    "geom:latitude":19.31667,
+    "geom:longitude":-70.23333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60101.0",
+    "gn:admin4_code":"6010106.0",
+    "gn:asciiname":"La Sequia",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500559,
+    "gn:latitude":19.31667,
+    "gn:longitude":-70.23333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sequ\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Segu\u00eda",
+        "La Seguita",
+        "La Sequ\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500559
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"664609175aec14be892f2f2a62aff228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1326652103,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1326652103,
+    "wof:lastmodified":1537619962,
+    "wof:name":"La Sequia",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23333000000001,
+    19.31667,
+    -70.23333000000001,
+    19.31667
+],
+  "geometry": {"coordinates":[-70.23333000000001,19.31667],"type":"Point"}
+}

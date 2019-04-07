@@ -1,0 +1,70 @@
+{
+  "id": 1293827073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.71618,18.54624,-69.71618,18.54624",
+    "geom:latitude":18.54624,
+    "geom:longitude":-69.71618,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3205.0",
+    "gn:admin3_code":"320501.0",
+    "gn:admin4_code":"32050104.0",
+    "gn:asciiname":"El Fao",
+    "gn:country_code":"DO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507625,
+    "gn:latitude":18.54624,
+    "gn:longitude":-69.71618,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Fao",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507625
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"78af118ebc0bb2c060d7a0d13c5e112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721255,
+            "locality_id":1293827073,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1293827073,
+    "wof:lastmodified":1536794926,
+    "wof:name":"El Fao",
+    "wof:parent_id":1108721255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.71618000000001,
+    18.54624,
+    -69.71618000000001,
+    18.54624
+],
+  "geometry": {"coordinates":[-69.71618000000001,18.54624],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343444777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7279,18.91544,-68.7279,18.91544",
+    "geom:latitude":18.91544,
+    "geom:longitude":-68.7279,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:admin4_code":"11010202.0",
+    "gn:asciiname":"La Tranquera",
+    "gn:country_code":"DO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500066,
+    "gn:latitude":18.91544,
+    "gn:longitude":-68.7279,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Tranquera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500066
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5282508fd341a2d14f2bed794f8c5cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1343444777,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1343444777,
+    "wof:lastmodified":1536769407,
+    "wof:name":"La Tranquera",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7279,
+    18.91544,
+    -68.7279,
+    18.91544
+],
+  "geometry": {"coordinates":[-68.72790000000001,18.91544],"type":"Point"}
+}

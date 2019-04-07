@@ -1,0 +1,70 @@
+{
+  "id": 1327393515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63069,18.75215,-69.63069,18.75215",
+    "geom:latitude":18.75215,
+    "geom:longitude":-69.63069,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020101.0",
+    "gn:asciiname":"Guayabo",
+    "gn:country_code":"DO",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505006,
+    "gn:latitude":18.75215,
+    "gn:longitude":-69.63069,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guayabo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505006
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c0403bc68be61878244ffd81455f324a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1327393515,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1327393515,
+    "wof:lastmodified":1536737030,
+    "wof:name":"Guayabo",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63069,
+    18.75215,
+    -69.63069,
+    18.75215
+],
+  "geometry": {"coordinates":[-69.63069,18.75215],"type":"Point"}
+}

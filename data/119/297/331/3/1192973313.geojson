@@ -1,0 +1,70 @@
+{
+  "id": 1192973313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31736,19.50786,-71.31736,19.50786",
+    "geom:latitude":19.50786,
+    "geom:longitude":-71.31736,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2601.0",
+    "gn:admin3_code":"260101.0",
+    "gn:admin4_code":"26010110.0",
+    "gn:asciiname":"Los Cajuiles",
+    "gn:country_code":"DO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499115,
+    "gn:latitude":19.50786,
+    "gn:longitude":-71.31736,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Cajuiles",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        1108721263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499115
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fbe7d52965582d97092dc8b756e86084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721263,
+            "locality_id":1192973313,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1192973313,
+    "wof:lastmodified":1536375968,
+    "wof:name":"Los Cajuiles",
+    "wof:parent_id":1108721263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31736,
+    19.50786,
+    -71.31736,
+    19.50786
+],
+  "geometry": {"coordinates":[-71.31735999999999,19.50786],"type":"Point"}
+}

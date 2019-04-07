@@ -1,0 +1,70 @@
+{
+  "id": 1310075963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44442,19.55197,-71.44442,19.55197",
+    "geom:latitude":19.55197,
+    "geom:longitude":-71.44442,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150301.0",
+    "gn:admin4_code":"15030103.0",
+    "gn:asciiname":"Pozo Negro",
+    "gn:country_code":"DO",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494445,
+    "gn:latitude":19.55197,
+    "gn:longitude":-71.44442,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pozo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494445
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5a06d8e66331e095905cc8a0d0d7038c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1310075963,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1310075963,
+    "wof:lastmodified":1537037593,
+    "wof:name":"Pozo Negro",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44442,
+    19.55197,
+    -71.44442,
+    19.55197
+],
+  "geometry": {"coordinates":[-71.44441999999999,19.55197],"type":"Point"}
+}

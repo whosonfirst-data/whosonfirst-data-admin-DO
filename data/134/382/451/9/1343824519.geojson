@@ -1,0 +1,74 @@
+{
+  "id": 1343824519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16373,19.57897,-71.16373,19.57897",
+    "geom:latitude":19.57897,
+    "geom:longitude":-71.16373,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2701.0",
+    "gn:admin3_code":"270103.0",
+    "gn:admin4_code":"27010301.0",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"DO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494331,
+    "gn:latitude":19.57897,
+    "gn:longitude":-71.16373,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaib\u00f3n",
+        "Pueblo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494331
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"36439e499a914d44d19ff53e4d628e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429249,
+            "locality_id":1343824519,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1343824519,
+    "wof:lastmodified":1537619919,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":890429249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16373,
+    19.57897,
+    -71.16373,
+    19.57897
+],
+  "geometry": {"coordinates":[-71.16373,19.57897],"type":"Point"}
+}

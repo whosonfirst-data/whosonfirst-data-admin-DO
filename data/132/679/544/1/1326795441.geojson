@@ -1,0 +1,75 @@
+{
+  "id": 1326795441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.41667,19.28333,-69.41667,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-69.41667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200102.0",
+    "gn:admin4_code":"20010203.0",
+    "gn:asciiname":"Los Calabacitos",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499110,
+    "gn:latitude":19.28333,
+    "gn:longitude":-69.41667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Calabacitos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calabacita",
+        "Los Calabacitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499110
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"19ce0eaf010b0c0b31b35ac8d7e5588a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1326795441,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1326795441,
+    "wof:lastmodified":1537619948,
+    "wof:name":"Los Calabacitos",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.41667,
+    19.28333,
+    -69.41667,
+    19.28333
+],
+  "geometry": {"coordinates":[-69.41667,19.28333],"type":"Point"}
+}

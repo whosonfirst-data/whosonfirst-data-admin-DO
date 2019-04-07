@@ -1,0 +1,70 @@
+{
+  "id": 1344140431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.96631,19.35839,-69.96631,19.35839",
+    "geom:latitude":19.35839,
+    "geom:longitude":-69.96631,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:admin4_code":"14010402.0",
+    "gn:asciiname":"La Colmena",
+    "gn:country_code":"DO",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503033,
+    "gn:latitude":19.35839,
+    "gn:longitude":-69.96631,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Colmena",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503033
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e74baff1b900df65803b8d41ddaf5fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1344140431,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1344140431,
+    "wof:lastmodified":1536760439,
+    "wof:name":"La Colmena",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.96631,
+    19.35839,
+    -69.96631,
+    19.35839
+],
+  "geometry": {"coordinates":[-69.96630999999999,19.35839],"type":"Point"}
+}

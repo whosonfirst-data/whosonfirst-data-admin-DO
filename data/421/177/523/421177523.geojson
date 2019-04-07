@@ -1,0 +1,120 @@
+{
+  "id": 421177523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.69511,18.71599,-71.69511,18.71599",
+    "geom:latitude":18.71599,
+    "geom:longitude":-71.69511,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:chi_x_preferred":[
+        "\u7fc1\u591a\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:eng_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:ita_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f3\u30c9\u30d0\u30b8\u30a7"
+    ],
+    "name:nan_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:por_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:slv_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:spa_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:swe_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u591a\u93ae"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3504466,
+    "qs:gn_pop":3713,
+    "qs:name":"Hondo Valle",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Elias Pi\u00f1a",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1200694,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":71976,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890429275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504466,
+        "gp:id":71976,
+        "qs:id":1200694,
+        "wd:id":"Q2430363",
+        "wk:page":"Hondo Valle, El\u00edas Pi\u00f1a"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009147,
+    "wof:geomhash":"9cd9fe1f07c8652b085adde56e415ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429275,
+            "locality_id":421177523,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":421177523,
+    "wof:lastmodified":1513955917,
+    "wof:name":"Hondo Valle",
+    "wof:parent_id":890429275,
+    "wof:placetype":"locality",
+    "wof:population":3713,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.69511,
+    18.71599,
+    -71.69511,
+    18.71599
+],
+  "geometry": {"coordinates":[-71.69511,18.71599],"type":"Point"}
+}

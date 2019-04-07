@@ -1,0 +1,74 @@
+{
+  "id": 1243328395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.65726,19.24227,-69.65726,19.24227",
+    "geom:latitude":19.24227,
+    "geom:longitude":-69.65726,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:admin4_code":"20020102.0",
+    "gn:asciiname":"La Canoa",
+    "gn:country_code":"DO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503313,
+    "gn:latitude":19.24227,
+    "gn:longitude":-69.65726,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Canoa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Canoas",
+        "La Canoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503313
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"658f66f0e1a0e382ed86caec3787cf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721283,
+            "locality_id":1243328395,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1243328395,
+    "wof:lastmodified":1537619991,
+    "wof:name":"La Canoa",
+    "wof:parent_id":1108721283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.65726,
+    19.24227,
+    -69.65726,
+    19.24227
+],
+  "geometry": {"coordinates":[-69.65725999999999,19.24227],"type":"Point"}
+}

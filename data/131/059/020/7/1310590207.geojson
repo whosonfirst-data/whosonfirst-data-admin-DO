@@ -1,0 +1,64 @@
+{
+  "id": 1310590207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.3292,18.62108,-68.3292,18.62108",
+    "geom:latitude":18.62108,
+    "geom:longitude":-68.3292,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110104.0",
+    "gn:admin4_code":"11010402.0",
+    "gn:asciiname":"Palo Bonito",
+    "gn:country_code":"DO",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495421,
+    "gn:latitude":18.62108,
+    "gn:longitude":-68.3292,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palo Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495421
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2932a2a0b19a5d2b82612bbb3c89fb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310590207,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310590207,
+    "wof:lastmodified":1536795029,
+    "wof:name":"Palo Bonito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.3292,
+    18.62108,
+    -68.3292,
+    18.62108
+],
+  "geometry": {"coordinates":[-68.3292,18.62108],"type":"Point"}
+}

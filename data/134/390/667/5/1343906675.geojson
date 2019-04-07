@@ -1,0 +1,70 @@
+{
+  "id": 1343906675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05101,18.39595,-70.05101,18.39595",
+    "geom:latitude":18.39595,
+    "geom:longitude":-70.05101,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210701.0",
+    "gn:admin4_code":"21070101.0",
+    "gn:asciiname":"Yogo Yogo",
+    "gn:country_code":"DO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491695,
+    "gn:latitude":18.39595,
+    "gn:longitude":-70.05101,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yogo Yogo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491695
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6985440eb736f412b85a5a9c91dbf7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721261,
+            "locality_id":1343906675,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1343906675,
+    "wof:lastmodified":1537094538,
+    "wof:name":"Yogo Yogo",
+    "wof:parent_id":1108721261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05100999999999,
+    18.39595,
+    -70.05100999999999,
+    18.39595
+],
+  "geometry": {"coordinates":[-70.05100999999999,18.39595],"type":"Point"}
+}

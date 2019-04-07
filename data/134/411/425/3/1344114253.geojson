@@ -1,0 +1,70 @@
+{
+  "id": 1344114253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19289,19.36966,-71.19289,19.36966",
+    "geom:latitude":19.36966,
+    "geom:longitude":-71.19289,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250502.0",
+    "gn:admin4_code":"25050209.0",
+    "gn:asciiname":"Pino Bonito",
+    "gn:country_code":"DO",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494708,
+    "gn:latitude":19.36966,
+    "gn:longitude":-71.19289,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pino Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494708
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"440e747b649253a4859b6eb93daff303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1344114253,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1344114253,
+    "wof:lastmodified":1536798247,
+    "wof:name":"Pino Bonito",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19289,
+    19.36966,
+    -71.19289,
+    19.36966
+],
+  "geometry": {"coordinates":[-71.19289000000001,19.36966],"type":"Point"}
+}

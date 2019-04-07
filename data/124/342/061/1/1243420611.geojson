@@ -1,0 +1,70 @@
+{
+  "id": 1243420611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.73825,19.61612,-70.73825,19.61612",
+    "geom:latitude":19.61612,
+    "geom:longitude":-70.73825,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180202.0",
+    "gn:admin4_code":"18020205.0",
+    "gn:asciiname":"Rancho Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494033,
+    "gn:latitude":19.61612,
+    "gn:longitude":-70.73825,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rancho Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494033
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"001e56ab93ed6f9d92258060689621a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1243420611,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1243420611,
+    "wof:lastmodified":1536841786,
+    "wof:name":"Rancho Arriba",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.73825,
+    19.61612,
+    -70.73825,
+    19.61612
+],
+  "geometry": {"coordinates":[-70.73824999999999,19.61612],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310081563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90064,19.67871,-70.90064,19.67871",
+    "geom:latitude":19.67871,
+    "geom:longitude":-70.90064,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1803.0",
+    "gn:admin3_code":"180301.0",
+    "gn:admin4_code":"18030102.0",
+    "gn:asciiname":"Palma de los Hierros",
+    "gn:country_code":"DO",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495576,
+    "gn:latitude":19.67871,
+    "gn:longitude":-70.90064,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palma de los Hierros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495576
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"acfb3bb20b463edd0490109e0440cd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721159,
+            "locality_id":1310081563,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1310081563,
+    "wof:lastmodified":1537029807,
+    "wof:name":"Palma de los Hierros",
+    "wof:parent_id":1108721159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90064,
+    19.67871,
+    -70.90064,
+    19.67871
+],
+  "geometry": {"coordinates":[-70.90064,19.67871],"type":"Point"}
+}

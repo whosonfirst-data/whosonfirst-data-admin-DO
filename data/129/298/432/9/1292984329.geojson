@@ -1,0 +1,76 @@
+{
+  "id": 1292984329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91533,19.63127,-69.91533,19.63127",
+    "geom:latitude":19.63127,
+    "geom:longitude":-69.91533,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140201.0",
+    "gn:admin4_code":"14020102.0",
+    "gn:asciiname":"Los Naranjitos",
+    "gn:country_code":"DO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497997,
+    "gn:latitude":19.63127,
+    "gn:longitude":-69.91533,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Naranjitos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Naranjo",
+        "Naranjito",
+        "El Naranjito",
+        "Los Naranjitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497997
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d6049fbce2ae915828a721e627f8c2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429259,
+            "locality_id":1292984329,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1292984329,
+    "wof:lastmodified":1537619941,
+    "wof:name":"Los Naranjitos",
+    "wof:parent_id":890429259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91533000000001,
+    19.63127,
+    -69.91533000000001,
+    19.63127
+],
+  "geometry": {"coordinates":[-69.91533000000001,19.63127],"type":"Point"}
+}

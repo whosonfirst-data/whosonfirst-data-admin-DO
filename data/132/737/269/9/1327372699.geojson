@@ -1,0 +1,70 @@
+{
+  "id": 1327372699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.84716,18.62248,-69.84716,18.62248",
+    "geom:latitude":18.62248,
+    "geom:longitude":-69.84716,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320302.0",
+    "gn:admin4_code":"32030208.0",
+    "gn:asciiname":"Reventon",
+    "gn:country_code":"DO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493885,
+    "gn:latitude":18.62248,
+    "gn:longitude":-69.84716,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Revent\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493885
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"771ddc2e2f3c43ee89771505d1096267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721279,
+            "locality_id":1327372699,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1327372699,
+    "wof:lastmodified":1536767415,
+    "wof:name":"Reventon",
+    "wof:parent_id":1108721279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.84716,
+    18.62248,
+    -69.84716,
+    18.62248
+],
+  "geometry": {"coordinates":[-69.84716,18.62248],"type":"Point"}
+}

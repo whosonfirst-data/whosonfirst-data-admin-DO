@@ -1,0 +1,70 @@
+{
+  "id": 1360239001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27173,18.79322,-70.27173,18.79322",
+    "geom:latitude":18.79322,
+    "geom:longitude":-70.27173,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210502.0",
+    "gn:admin4_code":"21050204.0",
+    "gn:asciiname":"La Cumbre",
+    "gn:country_code":"DO",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502815,
+    "gn:latitude":18.79322,
+    "gn:longitude":-70.27173,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502815
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c64c8cd430292b1450becf1bbf4710e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429199,
+            "locality_id":1360239001,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1360239001,
+    "wof:lastmodified":1536724121,
+    "wof:name":"La Cumbre",
+    "wof:parent_id":890429199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27173,
+    18.79322,
+    -70.27173,
+    18.79322
+],
+  "geometry": {"coordinates":[-70.27173000000001,18.79322],"type":"Point"}
+}

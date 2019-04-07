@@ -1,0 +1,70 @@
+{
+  "id": 1344203063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.79847,18.82482,-69.79847,18.82482",
+    "geom:latitude":18.82482,
+    "geom:longitude":-69.79847,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290104.0",
+    "gn:admin4_code":"29010402.0",
+    "gn:asciiname":"Cruce de Boronga",
+    "gn:country_code":"DO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509178,
+    "gn:latitude":18.82482,
+    "gn:longitude":-69.79847,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de Boronga",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509178
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8467c342195917bf80b48bae58042b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1344203063,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1344203063,
+    "wof:lastmodified":1536669863,
+    "wof:name":"Cruce de Boronga",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.79847,
+    18.82482000000001,
+    -69.79847,
+    18.82482000000001
+],
+  "geometry": {"coordinates":[-69.79846999999999,18.82482000000001],"type":"Point"}
+}

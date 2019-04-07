@@ -1,0 +1,80 @@
+{
+  "id": 890430531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33732,18.76365,-70.33732,18.76365",
+    "geom:latitude":18.76365,
+    "geom:longitude":-70.33732,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":1371,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Juan Adri\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Adri\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Juan Adri\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Juan Aldi\u00e1n"
+    ],
+    "qs:name":"Juan Adri\u00e1n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503950,
+        "qs:id":148553,
+        "wd:id":"Q6298761",
+        "wk:page":"Juan Adri\u00e1n"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051856,
+    "wof:geomhash":"dce2417733a6941906076be372e5f1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721227,
+            "locality_id":890430531,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":890430531,
+    "wof:lastmodified":1527729739,
+    "wof:name":"Juan Adri\u00e1n",
+    "wof:parent_id":1108721227,
+    "wof:placetype":"locality",
+    "wof:population":1371,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33732,
+    18.76365,
+    -70.33732,
+    18.76365
+],
+  "geometry": {"coordinates":[-70.33732000000001,18.76365],"type":"Point"}
+}

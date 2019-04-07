@@ -1,0 +1,75 @@
+{
+  "id": 1226298725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22363,18.58668,-69.22363,18.58668",
+    "geom:latitude":18.58668,
+    "geom:longitude":-69.22363,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040102.0",
+    "gn:asciiname":"La Catorce",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503259,
+    "gn:latitude":18.58668,
+    "gn:longitude":-69.22363,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Catorce",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Catorce",
+        "Batey Catorce",
+        "La Catorce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503259
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"699e1910325fa20c045ddc1736ab8bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721139,
+            "locality_id":1226298725,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1226298725,
+    "wof:lastmodified":1537619990,
+    "wof:name":"La Catorce",
+    "wof:parent_id":1108721139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22363,
+    18.58668,
+    -69.22363,
+    18.58668
+],
+  "geometry": {"coordinates":[-69.22363,18.58668],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226288211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.50703,18.87098,-69.50703,18.87098",
+    "geom:latitude":18.87098,
+    "geom:longitude":-69.50703,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020106.0",
+    "gn:asciiname":"Los Anegadizos",
+    "gn:country_code":"DO",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499422,
+    "gn:latitude":18.87098,
+    "gn:longitude":-69.50703,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Anegadizos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anegadizos",
+        "Los Anegadizos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499422
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e934acc393b5a1aef9056d656c105e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1226288211,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1226288211,
+    "wof:lastmodified":1537619951,
+    "wof:name":"Los Anegadizos",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.50703,
+    18.87098,
+    -69.50703,
+    18.87098
+],
+  "geometry": {"coordinates":[-69.50703,18.87098],"type":"Point"}
+}

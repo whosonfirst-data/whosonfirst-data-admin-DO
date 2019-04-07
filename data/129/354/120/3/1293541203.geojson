@@ -1,0 +1,70 @@
+{
+  "id": 1293541203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.62143,18.58747,-69.62143,18.58747",
+    "geom:latitude":18.58747,
+    "geom:longitude":-69.62143,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3205.0",
+    "gn:admin3_code":"320501.0",
+    "gn:admin4_code":"32050103.0",
+    "gn:asciiname":"El Peje",
+    "gn:country_code":"DO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506642,
+    "gn:latitude":18.58747,
+    "gn:longitude":-69.62143,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Peje",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506642
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"293d7119076209f8fe0c9e96cb75ecc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721255,
+            "locality_id":1293541203,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1293541203,
+    "wof:lastmodified":1536710119,
+    "wof:name":"El Peje",
+    "wof:parent_id":1108721255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.62143,
+    18.58747,
+    -69.62143,
+    18.58747
+],
+  "geometry": {"coordinates":[-69.62143,18.58747],"type":"Point"}
+}

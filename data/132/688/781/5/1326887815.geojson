@@ -1,0 +1,70 @@
+{
+  "id": 1326887815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01421,19.28547,-71.01421,19.28547",
+    "geom:latitude":19.28547,
+    "geom:longitude":-71.01421,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250501.0",
+    "gn:admin4_code":"25050102.0",
+    "gn:asciiname":"Higua",
+    "gn:country_code":"DO",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504647,
+    "gn:latitude":19.28547,
+    "gn:longitude":-71.01421,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Higua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504647
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0561a0a5cb33bc8ab40891cb9bcb6cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1326887815,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1326887815,
+    "wof:lastmodified":1536968586,
+    "wof:name":"Higua",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01420999999998,
+    19.28547,
+    -71.01420999999998,
+    19.28547
+],
+  "geometry": {"coordinates":[-71.01420999999998,19.28547],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343864307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.63252,19.2649,-71.63252,19.2649",
+    "geom:latitude":19.2649,
+    "geom:longitude":-71.63252,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:admin4_code":"5040102.0",
+    "gn:asciiname":"Cruz de Cabrera",
+    "gn:country_code":"DO",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509119,
+    "gn:latitude":19.2649,
+    "gn:longitude":-71.63252,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruz de Cabrera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cr\u00faz de Cabrera Arriba",
+        "Cruz de Cabrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509119
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e7d8fd041133e9b289edad5ad0a4fe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721239,
+            "locality_id":1343864307,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1343864307,
+    "wof:lastmodified":1537620046,
+    "wof:name":"Cruz de Cabrera",
+    "wof:parent_id":1108721239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.63252,
+    19.2649,
+    -71.63252,
+    19.2649
+],
+  "geometry": {"coordinates":[-71.63252,19.2649],"type":"Point"}
+}

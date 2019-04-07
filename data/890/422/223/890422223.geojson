@@ -1,0 +1,81 @@
+{
+  "id": 890422223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41667,19.06667,-70.41667,19.06667",
+    "geom:latitude":19.06667,
+    "geom:longitude":-70.41667,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":1223,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sabana del Puerto"
+    ],
+    "name:eng_x_preferred":[
+        "Sabana del Puerto"
+    ],
+    "name:swe_x_preferred":[
+        "Sabana del Puerto"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0627\u0646\u06c1 \u062f\u0644 \u067e\u0648\u0631\u0679\u0648"
+    ],
+    "qs:name":"Sabana del Puerto",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493537,
+        "gp:id":72122,
+        "qs:id":1045302,
+        "wd:id":"Q7395875",
+        "wk:page":"Sabana del Puerto"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051433,
+    "wof:geomhash":"e35849f796605a3acacfab9d8536df40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":890422223,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":890422223,
+    "wof:lastmodified":1527727163,
+    "wof:name":"Sabana del Puerto",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:population":1223,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41667,
+    19.06667,
+    -70.41667,
+    19.06667
+],
+  "geometry": {"coordinates":[-70.41667,19.06667],"type":"Point"}
+}

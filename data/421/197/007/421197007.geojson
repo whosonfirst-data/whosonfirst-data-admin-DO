@@ -1,0 +1,75 @@
+{
+  "id": 421197007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.649398,19.853672,-71.649398,19.853672",
+    "geom:latitude":19.853672,
+    "geom:longitude":-71.649398,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Fernando de Monte Cristi",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Monte Cristri",
+    "qs:photos":1182,
+    "qs:photos_1k":240,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1182,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264335,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":76322,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":76322,
+        "qs:id":1264335
+    },
+    "wof:country":"DO",
+    "wof:created":1459009900,
+    "wof:geomhash":"d7974f944727811cdf525d619785f646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":421197007,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":421197007,
+    "wof:lastmodified":1499977509,
+    "wof:name":"San Fernando de Monte Cristi",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.649398,
+    19.853672,
+    -71.649398,
+    19.853672
+],
+  "geometry": {"coordinates":[-71.64939800000001,19.853672],"type":"Point"}
+}

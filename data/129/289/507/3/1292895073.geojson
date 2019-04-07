@@ -1,0 +1,70 @@
+{
+  "id": 1292895073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53333,18.73333,-68.53333,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":-68.53333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110104.0",
+    "gn:admin4_code":"11010403.0",
+    "gn:asciiname":"Molina",
+    "gn:country_code":"DO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496294,
+    "gn:latitude":18.73333,
+    "gn:longitude":-68.53333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Molina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496294
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8621f162681ce68221ed5224658e3b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1292895073,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1292895073,
+    "wof:lastmodified":1536646608,
+    "wof:name":"Molina",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53333,
+    18.73333,
+    -68.53333,
+    18.73333
+],
+  "geometry": {"coordinates":[-68.53333000000001,18.73333],"type":"Point"}
+}

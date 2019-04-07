@@ -1,0 +1,70 @@
+{
+  "id": 1243499065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32869,18.41744,-70.32869,18.41744",
+    "geom:latitude":18.41744,
+    "geom:longitude":-70.32869,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170101.0",
+    "gn:admin4_code":"17010112.0",
+    "gn:asciiname":"Monte Maniel",
+    "gn:country_code":"DO",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496143,
+    "gn:latitude":18.41744,
+    "gn:longitude":-70.32869,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Monte Maniel",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496143
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"601715a8b70abf048fe07a80413fa676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1243499065,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1243499065,
+    "wof:lastmodified":1536730111,
+    "wof:name":"Monte Maniel",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32869000000001,
+    18.41744,
+    -70.32869000000001,
+    18.41744
+],
+  "geometry": {"coordinates":[-70.32869000000001,18.41744],"type":"Point"}
+}

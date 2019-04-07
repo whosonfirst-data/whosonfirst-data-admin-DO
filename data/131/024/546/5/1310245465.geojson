@@ -1,0 +1,74 @@
+{
+  "id": 1310245465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36988,18.34161,-70.36988,18.34161",
+    "geom:latitude":18.34161,
+    "geom:longitude":-70.36988,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170101.0",
+    "gn:admin4_code":"17010110.0",
+    "gn:asciiname":"La Monteria",
+    "gn:country_code":"DO",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501566,
+    "gn:latitude":18.34161,
+    "gn:longitude":-70.36988,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Monter\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monter\u00eda",
+        "La Monter\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501566
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"46b9bd1bf48fbfdd8df38409a37edfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1310245465,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1310245465,
+    "wof:lastmodified":1537619971,
+    "wof:name":"La Monteria",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36988000000002,
+    18.34161,
+    -70.36988000000002,
+    18.34161
+],
+  "geometry": {"coordinates":[-70.36988000000002,18.34161],"type":"Point"}
+}

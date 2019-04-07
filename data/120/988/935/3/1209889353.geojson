@@ -1,0 +1,67 @@
+{
+  "id": 1209889353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.39687,19.54511,-71.39687,19.54511",
+    "geom:latitude":19.54511,
+    "geom:longitude":-71.39687,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Brena",
+    "gn:country_code":"DO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503475,
+    "gn:latitude":19.54511,
+    "gn:longitude":-71.39687,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"La Bre\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        1108721263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503475
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"00e5f6d9b93afc489b13b30f5fcfa59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721263,
+            "locality_id":1209889353,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1209889353,
+    "wof:lastmodified":1536391465,
+    "wof:name":"La Brena",
+    "wof:parent_id":1108721263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.39686999999998,
+    19.54511,
+    -71.39686999999998,
+    19.54511
+],
+  "geometry": {"coordinates":[-71.39686999999998,19.54511],"type":"Point"}
+}

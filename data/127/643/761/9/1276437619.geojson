@@ -1,0 +1,70 @@
+{
+  "id": 1276437619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.52254,19.49654,-70.52254,19.49654",
+    "geom:latitude":19.49654,
+    "geom:longitude":-70.52254,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90103.0",
+    "gn:admin4_code":"9010304.0",
+    "gn:asciiname":"Alto de los Pozos",
+    "gn:country_code":"DO",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512766,
+    "gn:latitude":19.49654,
+    "gn:longitude":-70.52254,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Alto de los Pozos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512766
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"869dfbe7b7174e1ba4b94ee19309774e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1276437619,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1276437619,
+    "wof:lastmodified":1536637794,
+    "wof:name":"Alto de los Pozos",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.52254,
+    19.49654,
+    -70.52254,
+    19.49654
+],
+  "geometry": {"coordinates":[-70.52254000000001,19.49654],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890434777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6885,18.93537,-70.6885,18.93537",
+    "geom:latitude":18.93537,
+    "geom:longitude":-70.6885,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":3816,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tireo Arriba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890453401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492367,
+        "gp:id":12512615,
+        "qs:id":148526
+    },
+    "wof:country":"DO",
+    "wof:created":1469052039,
+    "wof:geomhash":"0ed0f6b91598b73f4f2b970e540abcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453401,
+            "locality_id":890434777,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":890434777,
+    "wof:lastmodified":1505343543,
+    "wof:name":"Tireo Arriba",
+    "wof:parent_id":890453401,
+    "wof:placetype":"locality",
+    "wof:population":3816,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6885,
+    18.93537,
+    -70.6885,
+    18.93537
+],
+  "geometry": {"coordinates":[-70.6885,18.93537],"type":"Point"}
+}

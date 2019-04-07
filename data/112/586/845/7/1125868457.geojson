@@ -1,0 +1,103 @@
+{
+  "id": 1125868457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.40829,19.74982,-70.40829,19.74982",
+    "geom:latitude":19.74982,
+    "geom:longitude":-70.40829,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4094,
+    "gn:population":4094,
+    "iso:country":"DO",
+    "lbl:latitude":19.74982,
+    "lbl:longitude":-70.40829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cabarete"
+    ],
+    "name:eng_x_preferred":[
+        "Cabarete"
+    ],
+    "name:fre_x_preferred":[
+        "Cabarete"
+    ],
+    "name:ger_x_preferred":[
+        "Cabarete"
+    ],
+    "name:ita_x_preferred":[
+        "Cabarete"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u0440\u0435\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Cabarete"
+    ],
+    "name:swe_x_preferred":[
+        "Cabarete"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3510969,
+    "qs_pg:gn_pop":4094,
+    "qs_pg:name":"Cabarete",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":95804,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510969,
+        "qs_pg:id":95804,
+        "wd:id":"Q459919"
+    },
+    "wof:country":"DO",
+    "wof:created":1497294165,
+    "wof:geomhash":"9ff72d039d91560f4700e1d32899c960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429207,
+            "locality_id":1125868457,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1125868457,
+    "wof:lastmodified":1513955898,
+    "wof:name":"Cabarete",
+    "wof:parent_id":890429207,
+    "wof:placetype":"locality",
+    "wof:population":4094,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.40829,
+    19.74982,
+    -70.40829,
+    19.74982
+],
+  "geometry": {"coordinates":[-70.40828999999999,19.74982],"type":"Point"}
+}

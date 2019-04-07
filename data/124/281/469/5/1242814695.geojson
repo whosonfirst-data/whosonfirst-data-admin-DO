@@ -1,0 +1,70 @@
+{
+  "id": 1242814695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.37619,18.87697,-70.37619,18.87697",
+    "geom:latitude":18.87697,
+    "geom:longitude":-70.37619,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280103.0",
+    "gn:admin4_code":"28010302.0",
+    "gn:asciiname":"Mirador Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496341,
+    "gn:latitude":18.87697,
+    "gn:longitude":-70.37619,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mirador Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496341
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ea8b3153a3e9762a842cd6b45965806a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721227,
+            "locality_id":1242814695,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1242814695,
+    "wof:lastmodified":1536722481,
+    "wof:name":"Mirador Arriba",
+    "wof:parent_id":1108721227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.37619000000002,
+    18.87697,
+    -70.37619000000002,
+    18.87697
+],
+  "geometry": {"coordinates":[-70.37619000000002,18.87697],"type":"Point"}
+}

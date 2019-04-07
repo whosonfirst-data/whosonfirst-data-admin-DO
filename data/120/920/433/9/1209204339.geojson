@@ -1,0 +1,65 @@
+{
+  "id": 1209204339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41112,18.38035,-71.41112,18.38035",
+    "geom:latitude":18.38035,
+    "geom:longitude":-71.41112,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cachon Claro",
+    "gn:country_code":"DO",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510816,
+    "gn:latitude":18.38035,
+    "gn:longitude":-71.41112,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Cach\u00f3n Claro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cachon Viejo",
+        "Cach\u00f3n Claro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510816
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6b04733cdd3123a527d0b705bb81e1bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209204339
+        }
+    ],
+    "wof:id":1209204339,
+    "wof:lastmodified":1537620060,
+    "wof:name":"Cachon Claro",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41112,
+    18.38035,
+    -71.41112,
+    18.38035
+],
+  "geometry": {"coordinates":[-71.41112,18.38035],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292943043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.44215,19.0463,-70.44215,19.0463",
+    "geom:latitude":19.0463,
+    "geom:longitude":-70.44215,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280102.0",
+    "gn:admin4_code":"28010202.0",
+    "gn:asciiname":"Palero",
+    "gn:country_code":"DO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495628,
+    "gn:latitude":19.0463,
+    "gn:longitude":-70.44215,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Palero",
+        "Palero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495628
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7fa5c85af1283efdca2ad7c93df42ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1292943043,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1292943043,
+    "wof:lastmodified":1537619926,
+    "wof:name":"Palero",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.44215,
+    19.0463,
+    -70.44215,
+    19.0463
+],
+  "geometry": {"coordinates":[-70.44215,19.0463],"type":"Point"}
+}

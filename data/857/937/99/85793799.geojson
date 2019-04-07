@@ -1,0 +1,149 @@
+{
+  "id": 85793799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3305407.3544,
+    "geom:bbox":"-69.903603,18.482407,-69.903603,18.482407",
+    "geom:latitude":18.482407,
+    "geom:longitude":-69.903603,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":18.48333,
+    "gn:longitude":-69.9,
+    "gn:population":13456,
+    "iso:country":"DO",
+    "lbl:latitude":18.482407,
+    "lbl:longitude":-69.903603,
+    "mps:latitude":18.484723,
+    "mps:longitude":-69.905467,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "San Carlos"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "name:spa_x_variant":[
+        "S. Carlos",
+        "S Carlos"
+    ],
+    "name:swe_x_preferred":[
+        "San Carlos"
+    ],
+    "name:unk_x_variant":[
+        "San Carlos"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"San Carlos",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"San Carlos",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":698,
+    "qs:photo_sum":1890,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345176,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3493202,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Carlos",
+    "qs_pg:name_adm0":"Rep\u00fablica Dominicana",
+    "qs_pg:name_adm1":"Distrito Nacional",
+    "qs_pg:photos":393,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":393,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165068,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424800,
+    "qs_pg:woe_id":76313,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85670659,
+        102191575,
+        85632713,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493202,
+        "gp:id":76313,
+        "qs:id":1165068,
+        "qs_pg:id":1165068,
+        "wd:id":"Q6118516",
+        "wk:page":"San Carlos, Distrito Nacional"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2e41da7833389ebb28e468e78860515f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":85793799,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":85793799,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379287,
+    "wof:name":"San Carlos",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":13456,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126064285
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.903603,
+    18.482407,
+    -69.903603,
+    18.482407
+],
+  "geometry": {"coordinates":[-69.903603,18.482407],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243367599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.9,18.86667,-70.9,18.86667",
+    "geom:latitude":18.86667,
+    "geom:longitude":-70.9,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20402.0",
+    "gn:admin4_code":"2040204.0",
+    "gn:asciiname":"Sabana de Las Canitas",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493564,
+    "gn:latitude":18.86667,
+    "gn:longitude":-70.9,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana de Las Ca\u00f1itas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Sabana de Las Ca\u00f1itas",
+        "Las Ca\u00f1itas",
+        "Sabana de Las Ca\u00f1itas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890429227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493564
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8a5999c4315f7c05a2bb45c3d29b0342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429227,
+            "locality_id":1243367599,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1243367599,
+    "wof:lastmodified":1537619913,
+    "wof:name":"Sabana de Las Canitas",
+    "wof:parent_id":890429227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.9,
+    18.86667000000001,
+    -70.9,
+    18.86667000000001
+],
+  "geometry": {"coordinates":[-70.90000000000001,18.86667000000001],"type":"Point"}
+}

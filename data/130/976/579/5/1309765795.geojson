@@ -1,0 +1,67 @@
+{
+  "id": 1309765795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45712,18.91337,-69.45712,18.91337",
+    "geom:latitude":18.91337,
+    "geom:longitude":-69.45712,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tuningo",
+    "gn:country_code":"DO",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492216,
+    "gn:latitude":18.91337,
+    "gn:longitude":-69.45712,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Tuningo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        890438115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492216
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7af3c36b480a934fd4f2a045f6494bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890438115,
+            "locality_id":1309765795,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1309765795,
+    "wof:lastmodified":1536988080,
+    "wof:name":"Tuningo",
+    "wof:parent_id":890438115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45711999999999,
+    18.91337,
+    -69.45711999999999,
+    18.91337
+],
+  "geometry": {"coordinates":[-69.45711999999999,18.91337],"type":"Point"}
+}

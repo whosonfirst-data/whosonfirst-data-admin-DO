@@ -1,0 +1,77 @@
+{
+  "id": 1242736179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.27336,18.63129,-71.27336,18.63129",
+    "geom:latitude":18.63129,
+    "geom:longitude":-71.27336,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220601.0",
+    "gn:admin4_code":"22060102.0",
+    "gn:asciiname":"Canafistola",
+    "gn:country_code":"DO",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510459,
+    "gn:latitude":18.63129,
+    "gn:longitude":-71.27336,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1af\u00edstola",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Canafistola",
+        "Ca\u00f1afistula",
+        "Ca\u00f1af\u00edstolo",
+        "Ca\u00f1afistol",
+        "Ca\u00f1af\u00edstola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510459
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7abc894f607551f3bd0d062d966241ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429203,
+            "locality_id":1242736179,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1242736179,
+    "wof:lastmodified":1537620057,
+    "wof:name":"Canafistola",
+    "wof:parent_id":890429203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.27336,
+    18.63129,
+    -71.27336,
+    18.63129
+],
+  "geometry": {"coordinates":[-71.27336,18.63129],"type":"Point"}
+}

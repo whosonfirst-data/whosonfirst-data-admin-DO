@@ -1,0 +1,100 @@
+{
+  "id": 890422239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.31688,18.84431,-70.31688,18.84431",
+    "geom:latitude":18.84431,
+    "geom:longitude":-70.31688,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":8531,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5f7c\u5fb7\u62c9\u5e03\u862d\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:eng_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:fre_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30a8\u30c9\u30e9\u30fb\u30d6\u30e9\u30f3\u30ab"
+    ],
+    "name:nan_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:por_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:spa_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:swe_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "qs:name":"Piedra Blanca",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"-3.4667",
+    "wd:longitude":"-79.9167",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494863,
+        "qs:id":1045316,
+        "wd:id":"Q1770214",
+        "wk:page":"Piedra Blanca"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051433,
+    "wof:geomhash":"2b243abceb9ffb5789b3003f55d6cebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721227,
+            "locality_id":890422239,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":890422239,
+    "wof:lastmodified":1527727164,
+    "wof:name":"Piedra Blanca",
+    "wof:parent_id":1108721227,
+    "wof:placetype":"locality",
+    "wof:population":8531,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.31688,
+    18.84431,
+    -70.31688,
+    18.84431
+],
+  "geometry": {"coordinates":[-70.31688,18.84431],"type":"Point"}
+}

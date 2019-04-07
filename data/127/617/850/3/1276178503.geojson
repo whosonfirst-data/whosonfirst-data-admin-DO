@@ -1,0 +1,74 @@
+{
+  "id": 1276178503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.02617,19.58386,-71.02617,19.58386",
+    "geom:latitude":19.58386,
+    "geom:longitude":-71.02617,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2702.0",
+    "gn:admin3_code":"270204.0",
+    "gn:admin4_code":"27020402.0",
+    "gn:asciiname":"La Boca de Mao Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503515,
+    "gn:latitude":19.58386,
+    "gn:longitude":-71.02617,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Boca de Mao Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Mao",
+        "La Boca de Mao Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503515
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"40a6e762285047085535d500b97873ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":1276178503,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1276178503,
+    "wof:lastmodified":1537619994,
+    "wof:name":"La Boca de Mao Abajo",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.02617,
+    19.58386,
+    -71.02617,
+    19.58386
+],
+  "geometry": {"coordinates":[-71.02616999999999,19.58386],"type":"Point"}
+}

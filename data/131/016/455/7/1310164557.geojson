@@ -1,0 +1,71 @@
+{
+  "id": 1310164557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16706,19.09916,-70.16706,19.09916",
+    "geom:latitude":19.09916,
+    "geom:longitude":-70.16706,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2404.0",
+    "gn:admin3_code":"240401.0",
+    "gn:admin4_code":"24040101.0",
+    "gn:asciiname":"La Mata",
+    "gn:country_code":"DO",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501687,
+    "gn:latitude":19.09916,
+    "gn:longitude":-70.16706,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        1108721181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501687,
+        "wk:page":"La_Mata%2C_Dominican_Republic"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b788b35172931363318f686d6250f8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721181,
+            "locality_id":1310164557,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1310164557,
+    "wof:lastmodified":1537504238,
+    "wof:name":"La Mata",
+    "wof:parent_id":1108721181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16705999999999,
+    19.09916,
+    -70.16705999999999,
+    19.09916
+],
+  "geometry": {"coordinates":[-70.16705999999999,19.09916],"type":"Point"}
+}

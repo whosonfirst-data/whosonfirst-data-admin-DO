@@ -1,0 +1,69 @@
+{
+  "id": 1209054133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14847,19.57884,-71.14847,19.57884",
+    "geom:latitude":19.57884,
+    "geom:longitude":-71.14847,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2701.0",
+    "gn:admin3_code":"270103.0",
+    "gn:admin4_code":"27010303.0",
+    "gn:asciiname":"La Jagua",
+    "gn:country_code":"DO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502220,
+    "gn:latitude":19.57884,
+    "gn:longitude":-71.14847,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblo La Yagua",
+        "La Yagua",
+        "La Jagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502220
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a52f65b8745ab7be0073437143099d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209054133
+        }
+    ],
+    "wof:id":1209054133,
+    "wof:lastmodified":1537619978,
+    "wof:name":"La Jagua",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14846999999997,
+    19.57884,
+    -71.14846999999997,
+    19.57884
+],
+  "geometry": {"coordinates":[-71.14846999999997,19.57884],"type":"Point"}
+}

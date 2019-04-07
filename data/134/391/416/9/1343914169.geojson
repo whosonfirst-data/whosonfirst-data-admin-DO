@@ -1,0 +1,70 @@
+{
+  "id": 1343914169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.47332,18.67548,-71.47332,18.67548",
+    "geom:latitude":18.67548,
+    "geom:longitude":-71.47332,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220302.0",
+    "gn:admin4_code":"22030201.0",
+    "gn:asciiname":"Derrumbadero",
+    "gn:country_code":"DO",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508866,
+    "gn:latitude":18.67548,
+    "gn:longitude":-71.47332,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Derrumbadero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508866
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"12169260e22c993fb1177958968e6581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1343914169,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1343914169,
+    "wof:lastmodified":1537083760,
+    "wof:name":"Derrumbadero",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.47332,
+    18.67548,
+    -71.47332,
+    18.67548
+],
+  "geometry": {"coordinates":[-71.47332,18.67548],"type":"Point"}
+}

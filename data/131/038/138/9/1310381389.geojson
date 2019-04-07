@@ -1,0 +1,70 @@
+{
+  "id": 1310381389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71773,19.6862,-70.71773,19.6862",
+    "geom:latitude":19.6862,
+    "geom:longitude":-70.71773,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:admin4_code":"18010102.0",
+    "gn:asciiname":"Los Banaderos",
+    "gn:country_code":"DO",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499307,
+    "gn:latitude":19.6862,
+    "gn:longitude":-70.71773,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Ba\u00f1aderos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499307
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"300810789c92e886f37bfff5e871d727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1310381389,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1310381389,
+    "wof:lastmodified":1537092818,
+    "wof:name":"Los Banaderos",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71773,
+    19.6862,
+    -70.71773,
+    19.6862
+],
+  "geometry": {"coordinates":[-70.71773,19.6862],"type":"Point"}
+}

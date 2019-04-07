@@ -1,0 +1,70 @@
+{
+  "id": 1293222687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18792,19.26302,-70.18792,19.26302",
+    "geom:latitude":19.26302,
+    "geom:longitude":-70.18792,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60102.0",
+    "gn:admin4_code":"6010209.0",
+    "gn:asciiname":"Ponton",
+    "gn:country_code":"DO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494567,
+    "gn:latitude":19.26302,
+    "gn:longitude":-70.18792,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pont\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494567
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8ea6b12375b6043c0d58a675918ac3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1293222687,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1293222687,
+    "wof:lastmodified":1536671748,
+    "wof:name":"Ponton",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18791999999999,
+    19.26302,
+    -70.18791999999999,
+    19.26302
+],
+  "geometry": {"coordinates":[-70.18791999999999,19.26302],"type":"Point"}
+}

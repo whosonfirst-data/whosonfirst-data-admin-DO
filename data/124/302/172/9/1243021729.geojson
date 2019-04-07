@@ -1,0 +1,70 @@
+{
+  "id": 1243021729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33434,18.25524,-70.33434,18.25524",
+    "geom:latitude":18.25524,
+    "geom:longitude":-70.33434,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170101.0",
+    "gn:admin4_code":"17010101.0",
+    "gn:asciiname":"Boca Canasta",
+    "gn:country_code":"DO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511338,
+    "gn:latitude":18.25524,
+    "gn:longitude":-70.33434,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca Canasta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511338
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"381a974df2097462fe34b27d4d0e4c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1243021729,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1243021729,
+    "wof:lastmodified":1536921552,
+    "wof:name":"Boca Canasta",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33434,
+    18.25524,
+    -70.33434,
+    18.25524
+],
+  "geometry": {"coordinates":[-70.33434,18.25524],"type":"Point"}
+}

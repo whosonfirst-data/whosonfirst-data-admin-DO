@@ -1,0 +1,70 @@
+{
+  "id": 1343723793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.51896,19.25247,-69.51896,19.25247",
+    "geom:latitude":19.25247,
+    "geom:longitude":-69.51896,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:admin4_code":"20020105.0",
+    "gn:asciiname":"Lodo Blandito",
+    "gn:country_code":"DO",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499630,
+    "gn:latitude":19.25247,
+    "gn:longitude":-69.51896,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Lodo Blandito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499630
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d11c3e05d491cd2c2d3d5e67f4d372d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721283,
+            "locality_id":1343723793,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1343723793,
+    "wof:lastmodified":1536862520,
+    "wof:name":"Lodo Blandito",
+    "wof:parent_id":1108721283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.51895999999999,
+    19.25247,
+    -69.51895999999999,
+    19.25247
+],
+  "geometry": {"coordinates":[-69.51895999999999,19.25247],"type":"Point"}
+}

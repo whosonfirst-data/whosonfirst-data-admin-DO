@@ -1,0 +1,70 @@
+{
+  "id": 1293485335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36308,19.27302,-70.36308,19.27302",
+    "geom:latitude":19.27302,
+    "geom:longitude":-70.36308,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60103.0",
+    "gn:admin4_code":"6010303.0",
+    "gn:asciiname":"Los Indios de Cenovi",
+    "gn:country_code":"DO",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498328,
+    "gn:latitude":19.27302,
+    "gn:longitude":-70.36308,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Indios de Cenov\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498328
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0c2c78efd40325a8d36f72fead38578f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1293485335,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1293485335,
+    "wof:lastmodified":1536790584,
+    "wof:name":"Los Indios de Cenovi",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36308000000001,
+    19.27302,
+    -70.36308000000001,
+    19.27302
+],
+  "geometry": {"coordinates":[-70.36308000000001,19.27302],"type":"Point"}
+}

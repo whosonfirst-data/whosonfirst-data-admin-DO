@@ -1,0 +1,74 @@
+{
+  "id": 1193095387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56478,18.70771,-71.56478,18.70771",
+    "geom:latitude":18.70771,
+    "geom:longitude":-71.56478,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220301.0",
+    "gn:admin4_code":"22030103.0",
+    "gn:asciiname":"Platon",
+    "gn:country_code":"DO",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494619,
+    "gn:latitude":18.70771,
+    "gn:longitude":-71.56478,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Plat\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Platon",
+        "Plat\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494619
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"179366d95bdf94a6110dd3bb3b8556c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1193095387,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1193095387,
+    "wof:lastmodified":1537619920,
+    "wof:name":"Platon",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56478,
+    18.70771,
+    -71.56478,
+    18.70771
+],
+  "geometry": {"coordinates":[-71.56478,18.70771],"type":"Point"}
+}

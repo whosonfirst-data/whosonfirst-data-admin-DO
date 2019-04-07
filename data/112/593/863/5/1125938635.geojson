@@ -1,0 +1,109 @@
+{
+  "id": 1125938635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98489,19.5847,-70.98489,19.5847",
+    "geom:latitude":19.5847,
+    "geom:longitude":-70.98489,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":42169,
+    "gn:population":42169,
+    "iso:country":"DO",
+    "lbl:latitude":19.5847,
+    "lbl:longitude":-70.98489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "Esperanza"
+    ],
+    "name:fre_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "Esperanza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b9\u30da\u30e9\u30f3\u30b5"
+    ],
+    "name:nan_x_preferred":[
+        "Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "Esperanza"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3505855,
+    "qs_pg:gn_pop":42169,
+    "qs_pg:name":"Esperanza",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1045368,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505855,
+        "qs_pg:id":1045368,
+        "wd:id":"Q1770079"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297046,
+    "wof:geomhash":"5c0e9e4b6efd1951a1b60ed7ca222e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":1125938635,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1125938635,
+    "wof:lastmodified":1553816645,
+    "wof:name":"Esperanza",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:population":42169,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98489,
+    19.5847,
+    -70.98489,
+    19.5847
+],
+  "geometry": {"coordinates":[-70.98488999999999,19.5847],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 421182699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9049,19.6426,-69.9049,19.6426",
+    "geom:latitude":19.6426,
+    "geom:longitude":-69.9049,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5361\u5f17\u96f7\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Cabrera"
+    ],
+    "name:eng_x_preferred":[
+        "Cabrera"
+    ],
+    "name:ita_x_preferred":[
+        "Cabrera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d6\u30ec\u30e9"
+    ],
+    "name:nan_x_preferred":[
+        "Cabrera"
+    ],
+    "name:por_x_preferred":[
+        "Cabrera"
+    ],
+    "name:spa_x_preferred":[
+        "Cabrera"
+    ],
+    "name:swe_x_preferred":[
+        "Cabrera"
+    ],
+    "name:unk_x_variant":[
+        "Cabrar"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3510874,
+    "qs:gn_pop":4947,
+    "qs:name":"Cabrera",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Maria Trinidad Sanch\u00e9z",
+    "qs:photos":140,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":140,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1269633,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":69723,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510874,
+        "gp:id":69723,
+        "qs:id":1269633,
+        "wd:id":"Q3649225"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009339,
+    "wof:geomhash":"391a1f24b8006684e6c077e7af62d5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429259,
+            "locality_id":421182699,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":421182699,
+    "wof:lastmodified":1553816372,
+    "wof:name":"Cabrera",
+    "wof:parent_id":890429259,
+    "wof:placetype":"locality",
+    "wof:population":4947,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9049,
+    19.6426,
+    -69.9049,
+    19.6426
+],
+  "geometry": {"coordinates":[-69.9049,19.6426],"type":"Point"}
+}

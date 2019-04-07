@@ -1,0 +1,70 @@
+{
+  "id": 1226526131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.80705,18.32372,-68.80705,18.32372",
+    "geom:latitude":18.32372,
+    "geom:longitude":-68.80705,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:admin4_code":"11020302.0",
+    "gn:asciiname":"La Fragata",
+    "gn:country_code":"DO",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502628,
+    "gn:latitude":18.32372,
+    "gn:longitude":-68.80705,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Fragata",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502628
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fa6e0b7da2fd8e669c25dbf6e0926c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1226526131,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1226526131,
+    "wof:lastmodified":1537025245,
+    "wof:name":"La Fragata",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.80705,
+    18.32372,
+    -68.80705,
+    18.32372
+],
+  "geometry": {"coordinates":[-68.80705,18.32372],"type":"Point"}
+}

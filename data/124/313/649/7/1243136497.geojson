@@ -1,0 +1,70 @@
+{
+  "id": 1243136497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08442,19.13668,-70.08442,19.13668",
+    "geom:latitude":19.13668,
+    "geom:longitude":-70.08442,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240105.0",
+    "gn:admin4_code":"24010502.0",
+    "gn:asciiname":"Matias",
+    "gn:country_code":"DO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496558,
+    "gn:latitude":19.13668,
+    "gn:longitude":-70.08442,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mat\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496558
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2652aea24cf70d18263122d002407855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1243136497,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1243136497,
+    "wof:lastmodified":1536755619,
+    "wof:name":"Matias",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08442,
+    19.13668,
+    -70.08442,
+    19.13668
+],
+  "geometry": {"coordinates":[-70.08441999999999,19.13668],"type":"Point"}
+}

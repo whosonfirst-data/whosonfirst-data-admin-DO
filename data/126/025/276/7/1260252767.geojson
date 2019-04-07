@@ -1,0 +1,70 @@
+{
+  "id": 1260252767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.46464,19.59673,-71.46464,19.59673",
+    "geom:latitude":19.59673,
+    "geom:longitude":-71.46464,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150401.0",
+    "gn:admin4_code":"15040103.0",
+    "gn:asciiname":"La Horca",
+    "gn:country_code":"DO",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502321,
+    "gn:latitude":19.59673,
+    "gn:longitude":-71.46464,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Horca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502321
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"812b5c922906d048f001882d0bb828b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429263,
+            "locality_id":1260252767,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1260252767,
+    "wof:lastmodified":1536753581,
+    "wof:name":"La Horca",
+    "wof:parent_id":890429263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46464,
+    19.59673,
+    -71.46464,
+    19.59673
+],
+  "geometry": {"coordinates":[-71.46464,19.59673],"type":"Point"}
+}

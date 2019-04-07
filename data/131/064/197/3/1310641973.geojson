@@ -1,0 +1,70 @@
+{
+  "id": 1310641973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15911,18.61863,-70.15911,18.61863",
+    "geom:latitude":18.61863,
+    "geom:longitude":-70.15911,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210501.0",
+    "gn:admin4_code":"21050103.0",
+    "gn:asciiname":"Madrigal",
+    "gn:country_code":"DO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497285,
+    "gn:latitude":18.61863,
+    "gn:longitude":-70.15911,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Madrigal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497285
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5136baaffbed81bdfea5886c5204f74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429199,
+            "locality_id":1310641973,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1310641973,
+    "wof:lastmodified":1536720367,
+    "wof:name":"Madrigal",
+    "wof:parent_id":890429199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15911,
+    18.61863,
+    -70.15911,
+    18.61863
+],
+  "geometry": {"coordinates":[-70.15911,18.61863],"type":"Point"}
+}

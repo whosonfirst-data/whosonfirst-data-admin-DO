@@ -1,0 +1,68 @@
+{
+  "id": 1209666299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19981,18.84011,-69.19981,18.84011",
+    "geom:latitude":18.84011,
+    "geom:longitude":-69.19981,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80103.0",
+    "gn:admin4_code":"8010303.0",
+    "gn:asciiname":"El Corozal",
+    "gn:country_code":"DO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507812,
+    "gn:latitude":18.84011,
+    "gn:longitude":-69.19981,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Corozal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corozo",
+        "El Corozal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507812
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"64862fafae875fec50ea8df191753999",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209666299
+        }
+    ],
+    "wof:id":1209666299,
+    "wof:lastmodified":1537620033,
+    "wof:name":"El Corozal",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19981,
+    18.84011,
+    -69.19981,
+    18.84011
+],
+  "geometry": {"coordinates":[-69.19981,18.84011],"type":"Point"}
+}

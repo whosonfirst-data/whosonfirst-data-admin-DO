@@ -1,0 +1,70 @@
+{
+  "id": 1259639419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20257,18.62159,-69.20257,18.62159",
+    "geom:latitude":18.62159,
+    "geom:longitude":-69.20257,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040102.0",
+    "gn:asciiname":"Los Higos",
+    "gn:country_code":"DO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498408,
+    "gn:latitude":18.62159,
+    "gn:longitude":-69.20257,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Higos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498408
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"39d902965d0c09304075720a306ab47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721139,
+            "locality_id":1259639419,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1259639419,
+    "wof:lastmodified":1536632800,
+    "wof:name":"Los Higos",
+    "wof:parent_id":1108721139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20257,
+    18.62159,
+    -69.20257,
+    18.62159
+],
+  "geometry": {"coordinates":[-69.20256999999999,18.62159],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310671159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.55211,19.74583,-71.55211,19.74583",
+    "geom:latitude":19.74583,
+    "geom:longitude":-71.55211,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150201.0",
+    "gn:admin4_code":"15020102.0",
+    "gn:asciiname":"Punta de Garza",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494237,
+    "gn:latitude":19.74583,
+    "gn:longitude":-71.55211,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Punta de Garza",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494237
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"27911c3f496fc93544003a017c6a0e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721131,
+            "locality_id":1310671159,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1310671159,
+    "wof:lastmodified":1536677988,
+    "wof:name":"Punta de Garza",
+    "wof:parent_id":1108721131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.55211,
+    19.74583,
+    -71.55211,
+    19.74583
+],
+  "geometry": {"coordinates":[-71.55211,19.74583],"type":"Point"}
+}

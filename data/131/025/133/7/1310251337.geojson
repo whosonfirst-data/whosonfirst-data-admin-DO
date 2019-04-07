@@ -1,0 +1,76 @@
+{
+  "id": 1310251337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53735,19.27097,-70.53735,19.27097",
+    "geom:latitude":19.27097,
+    "geom:longitude":-70.53735,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:admin4_code":"13010105.0",
+    "gn:asciiname":"Pilarejo",
+    "gn:country_code":"DO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494780,
+    "gn:latitude":19.27097,
+    "gn:longitude":-70.53735,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pilarejo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piralejo",
+        "Pinalejo",
+        "Piralejos",
+        "Pilarejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494780
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6188f4bcb39de8f8e0d8f1a7e9dc363f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1310251337,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1310251337,
+    "wof:lastmodified":1537619921,
+    "wof:name":"Pilarejo",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53735,
+    19.27097,
+    -70.53735,
+    19.27097
+],
+  "geometry": {"coordinates":[-70.53735,19.27097],"type":"Point"}
+}

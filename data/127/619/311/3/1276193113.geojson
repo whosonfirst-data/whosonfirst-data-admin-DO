@@ -1,0 +1,74 @@
+{
+  "id": 1276193113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74053,19.1695,-70.74053,19.1695",
+    "geom:latitude":19.1695,
+    "geom:longitude":-70.74053,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250302.0",
+    "gn:admin4_code":"25030203.0",
+    "gn:asciiname":"La Quebrada",
+    "gn:country_code":"DO",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501032,
+    "gn:latitude":19.1695,
+    "gn:longitude":-70.74053,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Quebrada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quebrada",
+        "La Quebrada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501032
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8f38c5c850593f286e67ecd12f9bccac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1276193113,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1276193113,
+    "wof:lastmodified":1537619967,
+    "wof:name":"La Quebrada",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74053,
+    19.1695,
+    -70.74053,
+    19.1695
+],
+  "geometry": {"coordinates":[-70.74053000000001,19.1695],"type":"Point"}
+}

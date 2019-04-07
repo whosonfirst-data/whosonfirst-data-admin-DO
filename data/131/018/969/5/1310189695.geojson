@@ -1,0 +1,74 @@
+{
+  "id": 1310189695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.26653,18.3529,-71.26653,18.3529",
+    "geom:latitude":18.3529,
+    "geom:longitude":-71.26653,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100502.0",
+    "gn:admin4_code":"10050201.0",
+    "gn:asciiname":"Batey Siete",
+    "gn:country_code":"DO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511658,
+    "gn:latitude":18.3529,
+    "gn:longitude":-71.26653,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Siete",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey 7",
+        "Batey Siete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        1108721141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511658
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"516d9cd8ad1250afaf5ea6d668b87752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721141,
+            "locality_id":1310189695,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1310189695,
+    "wof:lastmodified":1537620066,
+    "wof:name":"Batey Siete",
+    "wof:parent_id":1108721141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.26653,
+    18.3529,
+    -71.26653,
+    18.3529
+],
+  "geometry": {"coordinates":[-71.26653,18.3529],"type":"Point"}
+}

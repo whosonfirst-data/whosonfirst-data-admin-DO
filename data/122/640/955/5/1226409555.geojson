@@ -1,0 +1,70 @@
+{
+  "id": 1226409555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.124,19.41481,-71.124,19.41481",
+    "geom:latitude":19.41481,
+    "geom:longitude":-71.124,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2603.0",
+    "gn:admin3_code":"260301.0",
+    "gn:admin4_code":"26030102.0",
+    "gn:asciiname":"Damajagua",
+    "gn:country_code":"DO",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508922,
+    "gn:latitude":19.41481,
+    "gn:longitude":-71.124,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Damajagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        890429239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508922
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f9a1bfc39f0aa3f4bed545784646da72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429239,
+            "locality_id":1226409555,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1226409555,
+    "wof:lastmodified":1536697997,
+    "wof:name":"Damajagua",
+    "wof:parent_id":890429239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.124,
+    19.41481,
+    -71.124,
+    19.41481
+],
+  "geometry": {"coordinates":[-71.124,19.41481],"type":"Point"}
+}

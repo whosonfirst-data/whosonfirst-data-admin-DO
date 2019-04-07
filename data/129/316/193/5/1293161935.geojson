@@ -1,0 +1,74 @@
+{
+  "id": 1293161935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4172,19.03552,-69.4172,19.03552",
+    "geom:latitude":19.03552,
+    "geom:longitude":-69.4172,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3002.0",
+    "gn:admin3_code":"300201.0",
+    "gn:admin4_code":"30020102.0",
+    "gn:asciiname":"Paso de la Cana",
+    "gn:country_code":"DO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495234,
+    "gn:latitude":19.03552,
+    "gn:longitude":-69.4172,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Paso de la Ca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso de las Ca\u00f1as",
+        "Paso de la Ca\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        890429219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495234
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"da903fead556f0a11d9a30926529d0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429219,
+            "locality_id":1293161935,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1293161935,
+    "wof:lastmodified":1537619923,
+    "wof:name":"Paso de la Cana",
+    "wof:parent_id":890429219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4172,
+    19.03552,
+    -69.4172,
+    19.03552
+],
+  "geometry": {"coordinates":[-69.41719999999999,19.03552],"type":"Point"}
+}

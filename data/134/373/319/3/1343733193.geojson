@@ -1,0 +1,70 @@
+{
+  "id": 1343733193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.0271,19.32396,-70.0271,19.32396",
+    "geom:latitude":19.32396,
+    "geom:longitude":-70.0271,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:admin4_code":"14010403.0",
+    "gn:asciiname":"Firme del Calvario",
+    "gn:country_code":"DO",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505734,
+    "gn:latitude":19.32396,
+    "gn:longitude":-70.0271,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Firme del Calvario",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505734
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"401f5d4b84d144ca804c4e6722840365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1343733193,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1343733193,
+    "wof:lastmodified":1536849172,
+    "wof:name":"Firme del Calvario",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.0271,
+    19.32396,
+    -70.0271,
+    19.32396
+],
+  "geometry": {"coordinates":[-70.0271,19.32396],"type":"Point"}
+}

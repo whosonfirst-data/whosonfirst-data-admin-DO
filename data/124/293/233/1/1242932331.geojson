@@ -1,0 +1,70 @@
+{
+  "id": 1242932331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.20182,19.05336,-70.20182,19.05336",
+    "geom:latitude":19.05336,
+    "geom:longitude":-70.20182,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2404.0",
+    "gn:admin3_code":"240401.0",
+    "gn:admin4_code":"24040102.0",
+    "gn:asciiname":"Los Corozos",
+    "gn:country_code":"DO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498746,
+    "gn:latitude":19.05336,
+    "gn:longitude":-70.20182,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Corozos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        1108721181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498746
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0132b0aa557906011edd0c0dca56c661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721181,
+            "locality_id":1242932331,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1242932331,
+    "wof:lastmodified":1537047891,
+    "wof:name":"Los Corozos",
+    "wof:parent_id":1108721181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.20182,
+    19.05336,
+    -70.20182,
+    19.05336
+],
+  "geometry": {"coordinates":[-70.20182,19.05336],"type":"Point"}
+}

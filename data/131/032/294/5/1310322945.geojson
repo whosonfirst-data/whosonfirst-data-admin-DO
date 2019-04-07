@@ -1,0 +1,75 @@
+{
+  "id": 1310322945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.86808,18.53102,-70.86808,18.53102",
+    "geom:latitude":18.53102,
+    "geom:longitude":-70.86808,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:admin4_code":"2080402.0",
+    "gn:asciiname":"La Guanabana",
+    "gn:country_code":"DO",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502486,
+    "gn:latitude":18.53102,
+    "gn:longitude":-70.86808,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Guan\u00e1bana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guan\u00e1bana",
+        "Las Guanabanas",
+        "La Guan\u00e1bana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502486
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"88f876056445c21e1e914ba9a6e9ce5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721287,
+            "locality_id":1310322945,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1310322945,
+    "wof:lastmodified":1537619981,
+    "wof:name":"La Guanabana",
+    "wof:parent_id":1108721287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.86808,
+    18.53102,
+    -70.86808,
+    18.53102
+],
+  "geometry": {"coordinates":[-70.86808000000001,18.53102],"type":"Point"}
+}

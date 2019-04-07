@@ -1,0 +1,70 @@
+{
+  "id": 1226537727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.24665,19.37013,-70.24665,19.37013",
+    "geom:latitude":19.37013,
+    "geom:longitude":-70.24665,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60104.0",
+    "gn:admin4_code":"6010403.0",
+    "gn:asciiname":"Sonador",
+    "gn:country_code":"DO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492670,
+    "gn:latitude":19.37013,
+    "gn:longitude":-70.24665,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sonador",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492670
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8089a21048874027d6c54abc91465001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1226537727,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1226537727,
+    "wof:lastmodified":1537008939,
+    "wof:name":"Sonador",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.24665,
+    19.37013,
+    -70.24665,
+    19.37013
+],
+  "geometry": {"coordinates":[-70.24665,19.37013],"type":"Point"}
+}

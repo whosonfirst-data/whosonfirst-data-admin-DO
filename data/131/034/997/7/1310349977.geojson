@@ -1,0 +1,72 @@
+{
+  "id": 1310349977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26667,18.36667,-70.26667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-70.26667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Canada Rincon",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510474,
+    "gn:latitude":18.36667,
+    "gn:longitude":-70.26667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ca\u00f1ada Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ada del Rinc\u00f3n",
+        "Ca\u00f1ada Rinc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510474
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d02f0d54e7a3a82bbb0bc552949314d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429185,
+            "locality_id":1310349977,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1310349977,
+    "wof:lastmodified":1537620057,
+    "wof:name":"Canada Rincon",
+    "wof:parent_id":890429185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26666999999999,
+    18.36667000000001,
+    -70.26666999999999,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[-70.26666999999999,18.36667000000001],"type":"Point"}
+}

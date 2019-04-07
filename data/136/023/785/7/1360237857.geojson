@@ -1,0 +1,70 @@
+{
+  "id": 1360237857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.49137,18.5953,-70.49137,18.5953",
+    "geom:latitude":18.5953,
+    "geom:longitude":-70.49137,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3102.0",
+    "gn:admin3_code":"310201.0",
+    "gn:admin4_code":"31020101.0",
+    "gn:asciiname":"El Cruce",
+    "gn:country_code":"DO",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507768,
+    "gn:latitude":18.5953,
+    "gn:longitude":-70.49137,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Cruce",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507768
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"09219ad7ebd1f0b2ad414d3d856b002b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721247,
+            "locality_id":1360237857,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1360237857,
+    "wof:lastmodified":1536725807,
+    "wof:name":"El Cruce",
+    "wof:parent_id":1108721247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.49136999999997,
+    18.5953,
+    -70.49136999999997,
+    18.5953
+],
+  "geometry": {"coordinates":[-70.49136999999997,18.5953],"type":"Point"}
+}

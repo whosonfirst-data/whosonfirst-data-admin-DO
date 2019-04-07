@@ -1,0 +1,74 @@
+{
+  "id": 1243148041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90317,19.65424,-70.90317,19.65424",
+    "geom:latitude":19.65424,
+    "geom:longitude":-70.90317,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1803.0",
+    "gn:admin3_code":"180301.0",
+    "gn:admin4_code":"18030104.0",
+    "gn:asciiname":"La Cabirma",
+    "gn:country_code":"DO",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503426,
+    "gn:latitude":19.65424,
+    "gn:longitude":-70.90317,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cabirma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Cabirmar",
+        "La Cabirma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503426
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e2b1dce96d169fee81d2bc9f73c7b8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721159,
+            "locality_id":1243148041,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1243148041,
+    "wof:lastmodified":1537619993,
+    "wof:name":"La Cabirma",
+    "wof:parent_id":1108721159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90316999999997,
+    19.65424,
+    -70.90316999999997,
+    19.65424
+],
+  "geometry": {"coordinates":[-70.90316999999997,19.65424],"type":"Point"}
+}

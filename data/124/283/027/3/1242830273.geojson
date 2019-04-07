@@ -1,0 +1,75 @@
+{
+  "id": 1242830273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25983,18.54632,-69.25983,18.54632",
+    "geom:latitude":18.54632,
+    "geom:longitude":-69.25983,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040102.0",
+    "gn:asciiname":"Batey Numero Seis",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511700,
+    "gn:latitude":18.54632,
+    "gn:longitude":-69.25983,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey N\u00famero Seis",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey A-B Seis",
+        "Batey N\u00famero 6",
+        "Batey N\u00famero Seis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511700
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"26047171aee98c2862acad8528a24f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721139,
+            "locality_id":1242830273,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1242830273,
+    "wof:lastmodified":1537620069,
+    "wof:name":"Batey Numero Seis",
+    "wof:parent_id":1108721139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25983000000001,
+    18.54632,
+    -69.25983000000001,
+    18.54632
+],
+  "geometry": {"coordinates":[-69.25983000000001,18.54632],"type":"Point"}
+}

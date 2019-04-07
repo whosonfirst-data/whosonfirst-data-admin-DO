@@ -1,0 +1,70 @@
+{
+  "id": 1344045435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.47852,19.16304,-71.47852,19.16304",
+    "geom:latitude":19.16304,
+    "geom:longitude":-71.47852,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70501.0",
+    "gn:admin4_code":"7050103.0",
+    "gn:asciiname":"Bartolo",
+    "gn:country_code":"DO",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511907,
+    "gn:latitude":19.16304,
+    "gn:longitude":-71.47852,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bartolo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511907
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"415c586bddc94506e946438248efd96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721221,
+            "locality_id":1344045435,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1344045435,
+    "wof:lastmodified":1536897184,
+    "wof:name":"Bartolo",
+    "wof:parent_id":1108721221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.47851999999997,
+    19.16304,
+    -71.47851999999997,
+    19.16304
+],
+  "geometry": {"coordinates":[-71.47851999999997,19.16304],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243556463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25935,17.87647,-71.25935,17.87647",
+    "geom:latitude":17.87647,
+    "geom:longitude":-71.25935,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40302.0",
+    "gn:admin4_code":"4030202.0",
+    "gn:asciiname":"Los Cocos",
+    "gn:country_code":"DO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498823,
+    "gn:latitude":17.87647,
+    "gn:longitude":-71.25935,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Cocos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498823
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"342b6787014b7729b6f9fbaa41e31e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":1243556463,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1243556463,
+    "wof:lastmodified":1536646516,
+    "wof:name":"Los Cocos",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25935,
+    17.87647,
+    -71.25935,
+    17.87647
+],
+  "geometry": {"coordinates":[-71.25935,17.87647],"type":"Point"}
+}

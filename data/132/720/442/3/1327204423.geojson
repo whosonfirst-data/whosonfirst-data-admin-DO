@@ -1,0 +1,74 @@
+{
+  "id": 1327204423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28298,19.67766,-71.28298,19.67766",
+    "geom:latitude":19.67766,
+    "geom:longitude":-71.28298,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150302.0",
+    "gn:admin4_code":"15030204.0",
+    "gn:asciiname":"Villa Lobos",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491926,
+    "gn:latitude":19.67766,
+    "gn:longitude":-71.28298,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Villa Lobos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Lobo",
+        "Villa Lobos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491926
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dcf98b296987d7f64ef7e72df89505d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1327204423,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1327204423,
+    "wof:lastmodified":1537619905,
+    "wof:name":"Villa Lobos",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28298000000002,
+    19.67766,
+    -71.28298000000002,
+    19.67766
+],
+  "geometry": {"coordinates":[-71.28298000000002,19.67766],"type":"Point"}
+}

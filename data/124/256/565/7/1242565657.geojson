@@ -1,0 +1,67 @@
+{
+  "id": 1242565657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6177,18.96342,-71.6177,18.96342",
+    "geom:latitude":18.96342,
+    "geom:longitude":-71.6177,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Pocilga de Luciano",
+    "gn:country_code":"DO",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501099,
+    "gn:latitude":18.96342,
+    "gn:longitude":-71.6177,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"La Pocilga de Luciano",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501099
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"beed3221f0e16afff235ea903567d8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1242565657,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1242565657,
+    "wof:lastmodified":1537077754,
+    "wof:name":"La Pocilga de Luciano",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6177,
+    18.96342000000001,
+    -71.6177,
+    18.96342000000001
+],
+  "geometry": {"coordinates":[-71.6177,18.96342000000001],"type":"Point"}
+}

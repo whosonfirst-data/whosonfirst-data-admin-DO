@@ -1,0 +1,70 @@
+{
+  "id": 1243148219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71892,19.80876,-70.71892,19.80876",
+    "geom:latitude":19.80876,
+    "geom:longitude":-70.71892,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:admin4_code":"18010101.0",
+    "gn:asciiname":"Cafemba",
+    "gn:country_code":"DO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510782,
+    "gn:latitude":19.80876,
+    "gn:longitude":-70.71892,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cafemba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510782
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"eef5387118f1a7a3b7dbb4baef2dae42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1243148219,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1243148219,
+    "wof:lastmodified":1536738516,
+    "wof:name":"Cafemba",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71892,
+    19.80876,
+    -70.71892,
+    19.80876
+],
+  "geometry": {"coordinates":[-70.71892,19.80876],"type":"Point"}
+}

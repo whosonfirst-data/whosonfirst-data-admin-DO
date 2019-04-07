@@ -1,0 +1,76 @@
+{
+  "id": 1260143463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74701,19.59607,-70.74701,19.59607",
+    "geom:latitude":19.59607,
+    "geom:longitude":-70.74701,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180201.0",
+    "gn:admin4_code":"18020103.0",
+    "gn:asciiname":"Manaclas",
+    "gn:country_code":"DO",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496976,
+    "gn:latitude":19.59607,
+    "gn:longitude":-70.74701,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Manaclas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Manacla",
+        "Manaclar",
+        "Las Manaclas",
+        "Manaclas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496976
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"57847c57f56dd8c0ec5852f55c8beb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1260143463,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1260143463,
+    "wof:lastmodified":1537619933,
+    "wof:name":"Manaclas",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74701,
+    19.59607,
+    -70.74701,
+    19.59607
+],
+  "geometry": {"coordinates":[-70.74701,19.59607],"type":"Point"}
+}

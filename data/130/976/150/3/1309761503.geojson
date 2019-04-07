@@ -1,0 +1,75 @@
+{
+  "id": 1309761503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68333,19.35,-70.68333,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":-70.68333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2508.0",
+    "gn:admin3_code":"250802.0",
+    "gn:admin4_code":"25080202.0",
+    "gn:asciiname":"Los Melados",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498077,
+    "gn:latitude":19.35,
+    "gn:longitude":-70.68333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Melados",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Melaos",
+        "Los Melados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498077
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7f43baccd132a5e9eb9d60a875aa8c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":1309761503,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1309761503,
+    "wof:lastmodified":1537619941,
+    "wof:name":"Los Melados",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68333,
+    19.35,
+    -70.68333,
+    19.35
+],
+  "geometry": {"coordinates":[-70.68333,19.35],"type":"Point"}
+}

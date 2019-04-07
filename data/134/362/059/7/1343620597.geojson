@@ -1,0 +1,74 @@
+{
+  "id": 1343620597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1051,19.11329,-70.1051,19.11329",
+    "geom:latitude":19.11329,
+    "geom:longitude":-70.1051,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240105.0",
+    "gn:admin4_code":"24010502.0",
+    "gn:asciiname":"La Soledad",
+    "gn:country_code":"DO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500329,
+    "gn:latitude":19.11329,
+    "gn:longitude":-70.1051,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soledad",
+        "La Soledad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500329
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6bbfdd7cfa6e88d927a57c62b4e9c460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1343620597,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1343620597,
+    "wof:lastmodified":1537619959,
+    "wof:name":"La Soledad",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1051,
+    19.11329,
+    -70.1051,
+    19.11329
+],
+  "geometry": {"coordinates":[-70.10509999999999,19.11329],"type":"Point"}
+}

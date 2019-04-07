@@ -1,0 +1,76 @@
+{
+  "id": 1309761489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74512,19.37516,-70.74512,19.37516",
+    "geom:latitude":19.37516,
+    "geom:longitude":-70.74512,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2509.0",
+    "gn:admin3_code":"250901.0",
+    "gn:admin4_code":"25090103.0",
+    "gn:asciiname":"Ranchos de Babosico Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493958,
+    "gn:latitude":19.37516,
+    "gn:longitude":-70.74512,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ranchos de Babosico Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Ranchos de Babocico Abajo",
+        "Ranchos de Babasico Abajo",
+        "Rancho de Babocico Abajo",
+        "Ranchos de Babosico Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493958
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ab6a47ff29669ae3042b8fa3910f84f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721245,
+            "locality_id":1309761489,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1309761489,
+    "wof:lastmodified":1537619916,
+    "wof:name":"Ranchos de Babosico Abajo",
+    "wof:parent_id":1108721245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74512,
+    19.37516,
+    -70.74512,
+    19.37516
+],
+  "geometry": {"coordinates":[-70.74512,19.37516],"type":"Point"}
+}

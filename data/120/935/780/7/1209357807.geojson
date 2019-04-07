@@ -1,0 +1,64 @@
+{
+  "id": 1209357807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05183,18.48437,-70.05183,18.48437",
+    "geom:latitude":18.48437,
+    "geom:longitude":-70.05183,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3202.0",
+    "gn:admin3_code":"320201.0",
+    "gn:admin4_code":"32020102.0",
+    "gn:asciiname":"Buenas Noches",
+    "gn:country_code":"DO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511081,
+    "gn:latitude":18.48437,
+    "gn:longitude":-70.05183,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Buenas Noches",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511081
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8aa703671a82f9d129ac8aebb6bc1664",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209357807
+        }
+    ],
+    "wof:id":1209357807,
+    "wof:lastmodified":1536289531,
+    "wof:name":"Buenas Noches",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05183000000001,
+    18.48437,
+    -70.05183000000001,
+    18.48437
+],
+  "geometry": {"coordinates":[-70.05183000000001,18.48437],"type":"Point"}
+}

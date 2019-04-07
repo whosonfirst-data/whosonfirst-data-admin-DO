@@ -1,0 +1,70 @@
+{
+  "id": 1309757829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.93744,18.61798,-69.93744,18.61798",
+    "geom:latitude":18.61798,
+    "geom:longitude":-69.93744,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320302.0",
+    "gn:admin4_code":"32030202.0",
+    "gn:asciiname":"Maricao",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496770,
+    "gn:latitude":18.61798,
+    "gn:longitude":-69.93744,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Maricao",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496770
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"518628df325eacb56c0d39c69075f557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721279,
+            "locality_id":1309757829,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1309757829,
+    "wof:lastmodified":1536999627,
+    "wof:name":"Maricao",
+    "wof:parent_id":1108721279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.93744000000001,
+    18.61798,
+    -69.93744000000001,
+    18.61798
+],
+  "geometry": {"coordinates":[-69.93744000000001,18.61798],"type":"Point"}
+}

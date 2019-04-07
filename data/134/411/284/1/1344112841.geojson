@@ -1,0 +1,75 @@
+{
+  "id": 1344112841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21707,18.49793,-69.21707,18.49793",
+    "geom:latitude":18.49793,
+    "geom:longitude":-69.21707,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230101.0",
+    "gn:admin4_code":"23010102.0",
+    "gn:asciiname":"Olivaris",
+    "gn:country_code":"DO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495717,
+    "gn:latitude":18.49793,
+    "gn:longitude":-69.21707,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Olivaris",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Olivari",
+        "Olivari",
+        "Olivaris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495717
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6904d7017c23e2bd0acc2b4b1edb63b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721269,
+            "locality_id":1344112841,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1344112841,
+    "wof:lastmodified":1537619926,
+    "wof:name":"Olivaris",
+    "wof:parent_id":1108721269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21706999999999,
+    18.49793,
+    -69.21706999999999,
+    18.49793
+],
+  "geometry": {"coordinates":[-69.21706999999999,18.49793],"type":"Point"}
+}

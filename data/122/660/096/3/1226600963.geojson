@@ -1,0 +1,70 @@
+{
+  "id": 1226600963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4,18.63333,-71.4,18.63333",
+    "geom:latitude":18.63333,
+    "geom:longitude":-71.4,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220601.0",
+    "gn:admin4_code":"22060102.0",
+    "gn:asciiname":"Pinar de La Cana",
+    "gn:country_code":"DO",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494741,
+    "gn:latitude":18.63333,
+    "gn:longitude":-71.4,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pinar de La Cana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494741
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ff565126bbfae21215c82e0c8c43ff20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429203,
+            "locality_id":1226600963,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1226600963,
+    "wof:lastmodified":1536922867,
+    "wof:name":"Pinar de La Cana",
+    "wof:parent_id":890429203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4,
+    18.63333,
+    -71.4,
+    18.63333
+],
+  "geometry": {"coordinates":[-71.40000000000001,18.63333],"type":"Point"}
+}

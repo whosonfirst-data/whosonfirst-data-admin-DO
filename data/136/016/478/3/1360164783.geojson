@@ -1,0 +1,70 @@
+{
+  "id": 1360164783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.08333,18.48333,-69.08333,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":-69.08333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120201.0",
+    "gn:admin4_code":"12020102.0",
+    "gn:asciiname":"La Noria",
+    "gn:country_code":"DO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501519,
+    "gn:latitude":18.48333,
+    "gn:longitude":-69.08333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Noria",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670673,
+        890429281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501519
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"38f84246dfbf61b36401235f7cdb95df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429281,
+            "locality_id":1360164783,
+            "region_id":85670673
+        }
+    ],
+    "wof:id":1360164783,
+    "wof:lastmodified":1536829760,
+    "wof:name":"La Noria",
+    "wof:parent_id":890429281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.08333,
+    18.48333,
+    -69.08333,
+    18.48333
+],
+  "geometry": {"coordinates":[-69.08333,18.48333],"type":"Point"}
+}

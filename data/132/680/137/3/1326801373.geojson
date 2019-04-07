@@ -1,0 +1,70 @@
+{
+  "id": 1326801373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9546,19.39247,-69.9546,19.39247",
+    "geom:latitude":19.39247,
+    "geom:longitude":-69.9546,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:admin4_code":"14010402.0",
+    "gn:asciiname":"El Teloso",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506117,
+    "gn:latitude":19.39247,
+    "gn:longitude":-69.9546,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Teloso",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506117
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cae6dceca3f2aa5786e7d5d1ff68ef8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1326801373,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1326801373,
+    "wof:lastmodified":1537090129,
+    "wof:name":"El Teloso",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9546,
+    19.39247,
+    -69.9546,
+    19.39247
+],
+  "geometry": {"coordinates":[-69.9546,19.39247],"type":"Point"}
+}

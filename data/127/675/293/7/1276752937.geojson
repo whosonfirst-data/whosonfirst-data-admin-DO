@@ -1,0 +1,70 @@
+{
+  "id": 1276752937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6667,18.67918,-68.6667,18.67918",
+    "geom:latitude":18.67918,
+    "geom:longitude":-68.6667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:admin4_code":"11010302.0",
+    "gn:asciiname":"Cerro Gordo",
+    "gn:country_code":"DO",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509859,
+    "gn:latitude":18.67918,
+    "gn:longitude":-68.6667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cerro Gordo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509859
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6f6a9e153dfbef9cecf97ee11040365c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1276752937,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1276752937,
+    "wof:lastmodified":1536713989,
+    "wof:name":"Cerro Gordo",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6667,
+    18.67918,
+    -68.6667,
+    18.67918
+],
+  "geometry": {"coordinates":[-68.66670000000001,18.67918],"type":"Point"}
+}

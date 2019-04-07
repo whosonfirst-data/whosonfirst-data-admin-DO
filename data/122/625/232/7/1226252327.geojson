@@ -1,0 +1,74 @@
+{
+  "id": 1226252327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.83575,18.34949,-70.83575,18.34949",
+    "geom:latitude":18.34949,
+    "geom:longitude":-70.83575,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20105.0",
+    "gn:admin4_code":"2010501.0",
+    "gn:asciiname":"Puerto Viejo",
+    "gn:country_code":"DO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494262,
+    "gn:latitude":18.34949,
+    "gn:longitude":-70.83575,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Puerto Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa de Puerto Viejo",
+        "Puerto Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494262
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6005a41eb9b428572855b295ce1b8cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721105,
+            "locality_id":1226252327,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1226252327,
+    "wof:lastmodified":1537619918,
+    "wof:name":"Puerto Viejo",
+    "wof:parent_id":1108721105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.83575,
+    18.34949,
+    -70.83575,
+    18.34949
+],
+  "geometry": {"coordinates":[-70.83575,18.34949],"type":"Point"}
+}

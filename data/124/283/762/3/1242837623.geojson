@@ -1,0 +1,70 @@
+{
+  "id": 1242837623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14361,19.76615,-71.14361,19.76615",
+    "geom:latitude":19.76615,
+    "geom:longitude":-71.14361,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1808.0",
+    "gn:admin3_code":"180803.0",
+    "gn:admin4_code":"18080302.0",
+    "gn:asciiname":"Palo de Leche",
+    "gn:country_code":"DO",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495386,
+    "gn:latitude":19.76615,
+    "gn:longitude":-71.14361,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palo de Leche",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495386
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b06c4cd52cec3a633e903b8398b2663a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429197,
+            "locality_id":1242837623,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1242837623,
+    "wof:lastmodified":1536689358,
+    "wof:name":"Palo de Leche",
+    "wof:parent_id":890429197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14361,
+    19.76615,
+    -71.14361,
+    19.76615
+],
+  "geometry": {"coordinates":[-71.14361,19.76615],"type":"Point"}
+}

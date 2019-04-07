@@ -1,0 +1,70 @@
+{
+  "id": 1310661223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61667,19.03333,-70.61667,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":-70.61667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030108.0",
+    "gn:asciiname":"La Piedra del Toro",
+    "gn:country_code":"DO",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501211,
+    "gn:latitude":19.03333,
+    "gn:longitude":-70.61667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Piedra del Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501211
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8b7dc929d92ddbdbbb662bfa4868af76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1310661223,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1310661223,
+    "wof:lastmodified":1536692553,
+    "wof:name":"La Piedra del Toro",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61667,
+    19.03333,
+    -70.61667,
+    19.03333
+],
+  "geometry": {"coordinates":[-70.61667,19.03333],"type":"Point"}
+}

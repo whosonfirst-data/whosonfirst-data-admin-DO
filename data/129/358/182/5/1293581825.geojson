@@ -1,0 +1,74 @@
+{
+  "id": 1293581825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29623,19.38361,-70.29623,19.38361",
+    "geom:latitude":19.38361,
+    "geom:longitude":-70.29623,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60101.0",
+    "gn:admin4_code":"6010107.0",
+    "gn:asciiname":"Atabalero",
+    "gn:country_code":"DO",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512278,
+    "gn:latitude":19.38361,
+    "gn:longitude":-70.29623,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Atabalero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atabalero Abajo",
+        "Atabalero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512278
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"de6e6ac2738b0d70ab9915c151f1beed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1293581825,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1293581825,
+    "wof:lastmodified":1537620081,
+    "wof:name":"Atabalero",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29623000000001,
+    19.38361,
+    -70.29623000000001,
+    19.38361
+],
+  "geometry": {"coordinates":[-70.29623000000001,19.38361],"type":"Point"}
+}

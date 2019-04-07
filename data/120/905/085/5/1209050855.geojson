@@ -1,0 +1,61 @@
+{
+  "id": 1209050855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.47339,18.42065,-70.47339,18.42065",
+    "geom:latitude":18.42065,
+    "geom:longitude":-70.47339,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Los Ranchitos",
+    "gn:country_code":"DO",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497615,
+    "gn:latitude":18.42065,
+    "gn:longitude":-70.47339,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Los Ranchitos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497615
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3c16ef030a73eb43747bbf5ebf735239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209050855
+        }
+    ],
+    "wof:id":1209050855,
+    "wof:lastmodified":1536299254,
+    "wof:name":"Los Ranchitos",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.47339000000002,
+    18.42065,
+    -70.47339000000002,
+    18.42065
+],
+  "geometry": {"coordinates":[-70.47339000000002,18.42065],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209683497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07536,19.37479,-71.07536,19.37479",
+    "geom:latitude":19.37479,
+    "geom:longitude":-71.07536,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250502.0",
+    "gn:admin4_code":"25050201.0",
+    "gn:asciiname":"Las Tres Esquinas",
+    "gn:country_code":"DO",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500226,
+    "gn:latitude":19.37479,
+    "gn:longitude":-71.07536,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Tres Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500226
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cd0ab24d6b3221bafb7b639b7f883449",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209683497
+        }
+    ],
+    "wof:id":1209683497,
+    "wof:lastmodified":1536279493,
+    "wof:name":"Las Tres Esquinas",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07536,
+    19.37479,
+    -71.07536,
+    19.37479
+],
+  "geometry": {"coordinates":[-71.07536,19.37479],"type":"Point"}
+}

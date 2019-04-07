@@ -1,0 +1,75 @@
+{
+  "id": 1360142983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.36667,18.66667,-71.36667,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-71.36667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220601.0",
+    "gn:admin4_code":"22060102.0",
+    "gn:asciiname":"Guamilito",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505175,
+    "gn:latitude":18.66667,
+    "gn:longitude":-71.36667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guamilito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guamilita",
+        "Guamilito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505175
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"393105c69756d884cc5a51a295f39ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429203,
+            "locality_id":1360142983,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1360142983,
+    "wof:lastmodified":1537620008,
+    "wof:name":"Guamilito",
+    "wof:parent_id":890429203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.36667,
+    18.66667,
+    -71.36667,
+    18.66667
+],
+  "geometry": {"coordinates":[-71.36667,18.66667],"type":"Point"}
+}

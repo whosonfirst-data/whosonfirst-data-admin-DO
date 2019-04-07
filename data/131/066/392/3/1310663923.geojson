@@ -1,0 +1,74 @@
+{
+  "id": 1310663923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84006,19.90061,-70.84006,19.90061",
+    "geom:latitude":19.90061,
+    "geom:longitude":-70.84006,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180103.0",
+    "gn:admin4_code":"18010307.0",
+    "gn:asciiname":"Guzman",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504851,
+    "gn:latitude":19.90061,
+    "gn:longitude":-70.84006,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guzm\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guzm\u00e1n Abajo",
+        "Guzm\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504851
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e9ce8b8f89675c663a70e9da0825ae0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1310663923,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1310663923,
+    "wof:lastmodified":1537620006,
+    "wof:name":"Guzman",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84006,
+    19.90061,
+    -70.84006,
+    19.90061
+],
+  "geometry": {"coordinates":[-70.84005999999999,19.90061],"type":"Point"}
+}

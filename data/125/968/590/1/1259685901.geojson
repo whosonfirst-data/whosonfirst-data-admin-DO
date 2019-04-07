@@ -1,0 +1,75 @@
+{
+  "id": 1259685901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17624,18.18464,-71.17624,18.18464",
+    "geom:latitude":18.18464,
+    "geom:longitude":-71.17624,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40103.0",
+    "gn:admin4_code":"4010301.0",
+    "gn:asciiname":"La Guazara",
+    "gn:country_code":"DO",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502447,
+    "gn:latitude":18.18464,
+    "gn:longitude":-71.17624,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Gu\u00e1zara",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e1zara",
+        "La Gu\u00e1sara",
+        "La Gu\u00e1zara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502447
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9ee18e7426064320095e30992b1f5360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721111,
+            "locality_id":1259685901,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1259685901,
+    "wof:lastmodified":1537619980,
+    "wof:name":"La Guazara",
+    "wof:parent_id":1108721111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17624,
+    18.18464,
+    -71.17624,
+    18.18464
+],
+  "geometry": {"coordinates":[-71.17624000000001,18.18464],"type":"Point"}
+}

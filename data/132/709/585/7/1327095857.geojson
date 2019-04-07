@@ -1,0 +1,76 @@
+{
+  "id": 1327095857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,18.66667,-69.1,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-69.1,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010103.0",
+    "gn:asciiname":"Barangueeybano",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512039,
+    "gn:latitude":18.66667,
+    "gn:longitude":-69.1,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Barang\u00fceybano",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paragueybano",
+        "Barag\u00fceybano",
+        "Barang\u00fceybano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512039
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"df86a7a17c01be442c539aa28f6e622d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1327095857,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1327095857,
+    "wof:lastmodified":1537620080,
+    "wof:name":"Barangueeybano",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    18.66667,
+    -69.1,
+    18.66667
+],
+  "geometry": {"coordinates":[-69.09999999999999,18.66667],"type":"Point"}
+}

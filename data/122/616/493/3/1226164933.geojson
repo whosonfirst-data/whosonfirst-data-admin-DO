@@ -1,0 +1,70 @@
+{
+  "id": 1226164933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.96459,19.21511,-69.96459,19.21511",
+    "geom:latitude":19.21511,
+    "geom:longitude":-69.96459,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60504.0",
+    "gn:admin4_code":"6050404.0",
+    "gn:asciiname":"Jobo Dulce",
+    "gn:country_code":"DO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504007,
+    "gn:latitude":19.21511,
+    "gn:longitude":-69.96459,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jobo Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504007
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1673b66f337e1b23168fe8668bee5d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429191,
+            "locality_id":1226164933,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1226164933,
+    "wof:lastmodified":1537048048,
+    "wof:name":"Jobo Dulce",
+    "wof:parent_id":890429191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.96459,
+    19.21511,
+    -69.96459,
+    19.21511
+],
+  "geometry": {"coordinates":[-69.96459,19.21511],"type":"Point"}
+}

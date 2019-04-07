@@ -1,0 +1,75 @@
+{
+  "id": 1276836477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92607,19.52407,-70.92607,19.52407",
+    "geom:latitude":19.52407,
+    "geom:longitude":-70.92607,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2701.0",
+    "gn:admin3_code":"270104.0",
+    "gn:admin4_code":"27010403.0",
+    "gn:asciiname":"Jinamagao Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504051,
+    "gn:latitude":19.52407,
+    "gn:longitude":-70.92607,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jinamagao Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinamacao Arriba",
+        "Jimanagao Arriba",
+        "Jinamagao Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504051
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7c1fa21d34b82e2b587b1adff396afea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429249,
+            "locality_id":1276836477,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1276836477,
+    "wof:lastmodified":1537619999,
+    "wof:name":"Jinamagao Arriba",
+    "wof:parent_id":890429249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92607,
+    19.52407,
+    -70.92607,
+    19.52407
+],
+  "geometry": {"coordinates":[-70.92607,19.52407],"type":"Point"}
+}

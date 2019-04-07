@@ -1,0 +1,70 @@
+{
+  "id": 1293253593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22789,18.82586,-69.22789,18.82586",
+    "geom:latitude":18.82586,
+    "geom:longitude":-69.22789,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80103.0",
+    "gn:admin4_code":"8010303.0",
+    "gn:asciiname":"Rancho Chiquito",
+    "gn:country_code":"DO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494027,
+    "gn:latitude":18.82586,
+    "gn:longitude":-69.22789,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rancho Chiquito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494027
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3bbc13ae7c081b5b596755c3491c20e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1293253593,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1293253593,
+    "wof:lastmodified":1536625399,
+    "wof:name":"Rancho Chiquito",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22789,
+    18.82586,
+    -69.22789,
+    18.82586
+],
+  "geometry": {"coordinates":[-69.22789,18.82586],"type":"Point"}
+}

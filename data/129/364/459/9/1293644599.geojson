@@ -1,0 +1,70 @@
+{
+  "id": 1293644599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07428,19.40428,-71.07428,19.40428",
+    "geom:latitude":19.40428,
+    "geom:longitude":-71.07428,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250502.0",
+    "gn:admin4_code":"25050203.0",
+    "gn:asciiname":"La Penda",
+    "gn:country_code":"DO",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501305,
+    "gn:latitude":19.40428,
+    "gn:longitude":-71.07428,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Penda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501305
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8059d7e0a6c61b55064ebab41750e42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1293644599,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1293644599,
+    "wof:lastmodified":1537055501,
+    "wof:name":"La Penda",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07428,
+    19.40428,
+    -71.07428,
+    19.40428
+],
+  "geometry": {"coordinates":[-71.07428,19.40428],"type":"Point"}
+}

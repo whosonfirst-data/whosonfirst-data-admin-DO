@@ -1,0 +1,74 @@
+{
+  "id": 1276497811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9833,18.5333,-69.9833,18.5333",
+    "geom:latitude":18.5333,
+    "geom:longitude":-69.9833,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"La Isabela",
+    "gn:country_code":"DO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502287,
+    "gn:latitude":18.5333,
+    "gn:longitude":-69.9833,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"La Isabela",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isabela",
+        "La Isabeta",
+        "La Isabella",
+        "La Isabela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670659,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502287,
+        "wk:page":"La_Isabela%2C_Distrito_Nacional"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a03480d8ed80ed78ef3bc0dbe31ba04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":1276497811,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":1276497811,
+    "wof:lastmodified":1537619978,
+    "wof:name":"La Isabela",
+    "wof:parent_id":1108721273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9833,
+    18.5333,
+    -69.9833,
+    18.5333
+],
+  "geometry": {"coordinates":[-69.9833,18.5333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343620565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.98843,18.90706,-69.98843,18.90706",
+    "geom:latitude":18.90706,
+    "geom:longitude":-69.98843,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240201.0",
+    "gn:admin4_code":"24020102.0",
+    "gn:asciiname":"La Lisa Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501930,
+    "gn:latitude":18.90706,
+    "gn:longitude":-69.98843,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lisa Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lisa Arriba",
+        "La Lisa Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501930
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"99064e481c0ed2751b68f3d312349a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420149,
+            "locality_id":1343620565,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1343620565,
+    "wof:lastmodified":1537619975,
+    "wof:name":"La Lisa Arriba",
+    "wof:parent_id":890420149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.98843000000001,
+    18.90706,
+    -69.98843000000001,
+    18.90706
+],
+  "geometry": {"coordinates":[-69.98843000000001,18.90706],"type":"Point"}
+}

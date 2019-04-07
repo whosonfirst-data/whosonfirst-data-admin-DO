@@ -1,0 +1,75 @@
+{
+  "id": 1343251139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68837,18.58283,-68.68837,18.58283",
+    "geom:latitude":18.58283,
+    "geom:longitude":-68.68837,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010104.0",
+    "gn:asciiname":"La Estancia",
+    "gn:country_code":"DO",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502706,
+    "gn:latitude":18.58283,
+    "gn:longitude":-68.68837,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Estancia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Estancia",
+        "Estancia",
+        "La Estancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502706
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"19f9b83f0e0811b7745c89d1f2ea94bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1343251139,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1343251139,
+    "wof:lastmodified":1537619983,
+    "wof:name":"La Estancia",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68836999999999,
+    18.58283,
+    -68.68836999999999,
+    18.58283
+],
+  "geometry": {"coordinates":[-68.68836999999999,18.58283],"type":"Point"}
+}

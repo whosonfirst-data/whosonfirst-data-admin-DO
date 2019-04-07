@@ -1,0 +1,68 @@
+{
+  "id": 1209585979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56292,19.77146,-71.56292,19.77146",
+    "geom:latitude":19.77146,
+    "geom:longitude":-71.56292,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150202.0",
+    "gn:admin4_code":"15020204.0",
+    "gn:asciiname":"Hato Viejo",
+    "gn:country_code":"DO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504727,
+    "gn:latitude":19.77146,
+    "gn:longitude":-71.56292,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hato Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Hato Viejo",
+        "Hato Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504727
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7e3dc5c972a3fcf1931f29bc1ca5773e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209585979
+        }
+    ],
+    "wof:id":1209585979,
+    "wof:lastmodified":1537620004,
+    "wof:name":"Hato Viejo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56291999999998,
+    19.77146,
+    -71.56291999999998,
+    19.77146
+],
+  "geometry": {"coordinates":[-71.56291999999998,19.77146],"type":"Point"}
+}

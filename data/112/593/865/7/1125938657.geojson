@@ -1,0 +1,88 @@
+{
+  "id": 1125938657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24558,18.41139,-71.24558,18.41139",
+    "geom:latitude":18.41139,
+    "geom:longitude":-71.24558,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2445,
+    "gn:population":2445,
+    "iso:country":"DO",
+    "lbl:latitude":18.41139,
+    "lbl:longitude":-71.24558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "El Palmar"
+    ],
+    "name:eng_x_preferred":[
+        "El Palmar"
+    ],
+    "name:unk_x_variant":[
+        "Palmar"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3506719,
+    "qs_pg:gn_pop":2445,
+    "qs_pg:name":"El Palmar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1045378,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        890429235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506719,
+        "qs_pg:id":1045378,
+        "wd:id":"Q5351736"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297046,
+    "wof:geomhash":"5e567d72c8d0c2997f173bc337c490b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429235,
+            "locality_id":1125938657,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1125938657,
+    "wof:lastmodified":1513955906,
+    "wof:name":"El Palmar",
+    "wof:parent_id":890429235,
+    "wof:placetype":"locality",
+    "wof:population":2445,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24558,
+    18.41139,
+    -71.24558,
+    18.41139
+],
+  "geometry": {"coordinates":[-71.24558,18.41139],"type":"Point"}
+}

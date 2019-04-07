@@ -1,0 +1,64 @@
+{
+  "id": 1209671655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.32162,19.07939,-71.32162,19.07939",
+    "geom:latitude":19.07939,
+    "geom:longitude":-71.32162,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220103.0",
+    "gn:admin4_code":"22010305.0",
+    "gn:asciiname":"Hoyo Prieto",
+    "gn:country_code":"DO",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504391,
+    "gn:latitude":19.07939,
+    "gn:longitude":-71.32162,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hoyo Prieto",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504391
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"81ff05b9556e54ab9b77d991ccbe9efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209671655
+        }
+    ],
+    "wof:id":1209671655,
+    "wof:lastmodified":1536279900,
+    "wof:name":"Hoyo Prieto",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.32162,
+    19.07939,
+    -71.32162,
+    19.07939
+],
+  "geometry": {"coordinates":[-71.32162,19.07939],"type":"Point"}
+}

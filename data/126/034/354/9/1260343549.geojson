@@ -1,0 +1,70 @@
+{
+  "id": 1260343549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24399,19.41026,-71.24399,19.41026",
+    "geom:latitude":19.41026,
+    "geom:longitude":-71.24399,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2601.0",
+    "gn:admin3_code":"260101.0",
+    "gn:admin4_code":"26010105.0",
+    "gn:asciiname":"Los Ingenitos",
+    "gn:country_code":"DO",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498325,
+    "gn:latitude":19.41026,
+    "gn:longitude":-71.24399,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Ingenitos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        1108721263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498325
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"95c6e634f3302f32dabc88e783a31032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721263,
+            "locality_id":1260343549,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1260343549,
+    "wof:lastmodified":1536630038,
+    "wof:name":"Los Ingenitos",
+    "wof:parent_id":1108721263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24399,
+    19.41026,
+    -71.24399,
+    19.41026
+],
+  "geometry": {"coordinates":[-71.24399,19.41026],"type":"Point"}
+}

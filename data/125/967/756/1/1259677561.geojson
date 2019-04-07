@@ -1,0 +1,70 @@
+{
+  "id": 1259677561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8219,18.55207,-68.8219,18.55207",
+    "geom:latitude":18.55207,
+    "geom:longitude":-68.8219,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Sanate Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493208,
+    "gn:latitude":18.55207,
+    "gn:longitude":-68.8219,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sanate Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493208
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"da454e09db962dac88300c7d3e27a677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1259677561,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1259677561,
+    "wof:lastmodified":1537072478,
+    "wof:name":"Sanate Abajo",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8219,
+    18.55207,
+    -68.8219,
+    18.55207
+],
+  "geometry": {"coordinates":[-68.8219,18.55207],"type":"Point"}
+}

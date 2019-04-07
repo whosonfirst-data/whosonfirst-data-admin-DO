@@ -1,0 +1,74 @@
+{
+  "id": 1243517595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.96875,19.83621,-70.96875,19.83621",
+    "geom:latitude":19.83621,
+    "geom:longitude":-70.96875,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1806.0",
+    "gn:admin3_code":"180604.0",
+    "gn:admin4_code":"18060404.0",
+    "gn:asciiname":"La Pulga",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501039,
+    "gn:latitude":19.83621,
+    "gn:longitude":-70.96875,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pulga",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Punga",
+        "La Pulga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501039
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a92291a42be464f3d0934a1e030d19a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429253,
+            "locality_id":1243517595,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1243517595,
+    "wof:lastmodified":1537619967,
+    "wof:name":"La Pulga",
+    "wof:parent_id":890429253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.96875,
+    19.83621,
+    -70.96875,
+    19.83621
+],
+  "geometry": {"coordinates":[-70.96875,19.83621],"type":"Point"}
+}

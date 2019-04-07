@@ -1,0 +1,74 @@
+{
+  "id": 1242746249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.44475,18.53716,-69.44475,18.53716",
+    "geom:latitude":18.53716,
+    "geom:longitude":-69.44475,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2305.0",
+    "gn:admin3_code":"230501.0",
+    "gn:admin4_code":"23050105.0",
+    "gn:asciiname":"Moruno de Quisqueya",
+    "gn:country_code":"DO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496085,
+    "gn:latitude":18.53716,
+    "gn:longitude":-69.44475,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Moruno de Quisqueya",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Moruno de Quisqueya",
+        "Moruno de Quisqueya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496085
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ea01aa444727d5d1653d57d27ef5c975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721235,
+            "locality_id":1242746249,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1242746249,
+    "wof:lastmodified":1537619928,
+    "wof:name":"Moruno de Quisqueya",
+    "wof:parent_id":1108721235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.44475,
+    18.53716,
+    -69.44475,
+    18.53716
+],
+  "geometry": {"coordinates":[-69.44475,18.53716],"type":"Point"}
+}

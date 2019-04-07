@@ -1,0 +1,70 @@
+{
+  "id": 1309886967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.70185,19.03875,-71.70185,19.03875",
+    "geom:latitude":19.03875,
+    "geom:longitude":-71.70185,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70202.0",
+    "gn:admin4_code":"7020202.0",
+    "gn:asciiname":"Corral de Alcantara",
+    "gn:country_code":"DO",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509251,
+    "gn:latitude":19.03875,
+    "gn:longitude":-71.70185,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Corral de Alc\u00e1ntara",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509251
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"44bfa050bf10e76502fdf5f6160f9a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1309886967,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1309886967,
+    "wof:lastmodified":1536813509,
+    "wof:name":"Corral de Alcantara",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70185,
+    19.03875,
+    -71.70185,
+    19.03875
+],
+  "geometry": {"coordinates":[-71.70184999999999,19.03875],"type":"Point"}
+}

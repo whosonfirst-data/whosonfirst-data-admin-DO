@@ -1,0 +1,75 @@
+{
+  "id": 1259657457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.95931,19.67093,-69.95931,19.67093",
+    "geom:latitude":19.67093,
+    "geom:longitude":-69.95931,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140201.0",
+    "gn:admin4_code":"14020102.0",
+    "gn:asciiname":"Playa de Navio",
+    "gn:country_code":"DO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494614,
+    "gn:latitude":19.67093,
+    "gn:longitude":-69.95931,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Playa de Nav\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abreu",
+        "Playa del Nav\u00edo",
+        "Playa de Nav\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494614
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d751e4a3e68417d1851abbf098354369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429259,
+            "locality_id":1259657457,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1259657457,
+    "wof:lastmodified":1537619920,
+    "wof:name":"Playa de Navio",
+    "wof:parent_id":890429259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.95931,
+    19.67093,
+    -69.95931,
+    19.67093
+],
+  "geometry": {"coordinates":[-69.95931,19.67093],"type":"Point"}
+}

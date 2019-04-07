@@ -1,0 +1,76 @@
+{
+  "id": 1310216651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16667,18.28333,-71.16667,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-71.16667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40801.0",
+    "gn:admin4_code":"4080104.0",
+    "gn:asciiname":"Batey Algodonal",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511880,
+    "gn:latitude":18.28333,
+    "gn:longitude":-71.16667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Algodonal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Algodon",
+        "Algod\u00f3n",
+        "Batey Algodonal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511880
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6d14a7e3100ba951345efd5b486c0124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721155,
+            "locality_id":1310216651,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1310216651,
+    "wof:lastmodified":1537620079,
+    "wof:name":"Batey Algodonal",
+    "wof:parent_id":1108721155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16667,
+    18.28333,
+    -71.16667,
+    18.28333
+],
+  "geometry": {"coordinates":[-71.16667,18.28333],"type":"Point"}
+}

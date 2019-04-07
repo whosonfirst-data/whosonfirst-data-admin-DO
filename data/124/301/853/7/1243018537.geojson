@@ -1,0 +1,74 @@
+{
+  "id": 1243018537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68333,19.12652,-70.68333,19.12652",
+    "geom:latitude":19.12652,
+    "geom:longitude":-70.68333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030103.0",
+    "gn:asciiname":"Corocito",
+    "gn:country_code":"DO",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509281,
+    "gn:latitude":19.12652,
+    "gn:longitude":-70.68333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Corocito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corocito",
+        "Corocito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509281
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"46a0fc3302b0aec11c478481b14411ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1243018537,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1243018537,
+    "wof:lastmodified":1537620048,
+    "wof:name":"Corocito",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68333,
+    19.12652000000001,
+    -70.68333,
+    19.12652000000001
+],
+  "geometry": {"coordinates":[-70.68333,19.12652000000001],"type":"Point"}
+}

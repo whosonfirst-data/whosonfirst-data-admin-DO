@@ -1,0 +1,74 @@
+{
+  "id": 1292969415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44235,19.00578,-71.44235,19.00578",
+    "geom:latitude":19.00578,
+    "geom:longitude":-71.44235,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220501.0",
+    "gn:admin4_code":"22050103.0",
+    "gn:asciiname":"Alto de Los Copeyes",
+    "gn:country_code":"DO",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512768,
+    "gn:latitude":19.00578,
+    "gn:longitude":-71.44235,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Alto de Los Copeyes",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Copeyes",
+        "Alto de Los Copeyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512768
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3e8bab6523aad73adc865c87d7902793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429267,
+            "locality_id":1292969415,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1292969415,
+    "wof:lastmodified":1537620086,
+    "wof:name":"Alto de Los Copeyes",
+    "wof:parent_id":890429267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44235,
+    19.00578,
+    -71.44235,
+    19.00578
+],
+  "geometry": {"coordinates":[-71.44235,19.00578],"type":"Point"}
+}

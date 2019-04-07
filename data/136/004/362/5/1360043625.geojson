@@ -1,0 +1,70 @@
+{
+  "id": 1360043625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41667,18.8,-71.41667,18.8",
+    "geom:latitude":18.8,
+    "geom:longitude":-71.41667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220110.0",
+    "gn:admin4_code":"22011004.0",
+    "gn:asciiname":"Mabrigida",
+    "gn:country_code":"DO",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497343,
+    "gn:latitude":18.8,
+    "gn:longitude":-71.41667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mabr\u00edgida",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497343
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d350f673a3b1fcfb54b27f998367cc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1360043625,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1360043625,
+    "wof:lastmodified":1537004878,
+    "wof:name":"Mabrigida",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41667,
+    18.8,
+    -71.41667,
+    18.8
+],
+  "geometry": {"coordinates":[-71.41667,18.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209777077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9533,18.69799,-68.9533,18.69799",
+    "geom:latitude":18.69799,
+    "geom:longitude":-68.9533,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80104.0",
+    "gn:admin4_code":"8010404.0",
+    "gn:asciiname":"El Haiti",
+    "gn:country_code":"DO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507404,
+    "gn:latitude":18.69799,
+    "gn:longitude":-68.9533,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Hait\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507404
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"32ccf7636fdbc9b9d9f31d1228e562a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1209777077,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1209777077,
+    "wof:lastmodified":1536377736,
+    "wof:name":"El Haiti",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9533,
+    18.69799,
+    -68.9533,
+    18.69799
+],
+  "geometry": {"coordinates":[-68.9533,18.69799],"type":"Point"}
+}

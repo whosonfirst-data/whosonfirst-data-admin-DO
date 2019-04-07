@@ -1,0 +1,74 @@
+{
+  "id": 1226789459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.46512,18.60125,-70.46512,18.60125",
+    "geom:latitude":18.60125,
+    "geom:longitude":-70.46512,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310103.0",
+    "gn:admin4_code":"31010303.0",
+    "gn:asciiname":"El Pie de la Loma",
+    "gn:country_code":"DO",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506569,
+    "gn:latitude":18.60125,
+    "gn:longitude":-70.46512,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Pie de la Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pie de la Loma",
+        "El Pie de la Loma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506569
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ab91bd32f55161a1db64b1b511f936cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1226789459,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1226789459,
+    "wof:lastmodified":1537620019,
+    "wof:name":"El Pie de la Loma",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.46512,
+    18.60125,
+    -70.46512,
+    18.60125
+],
+  "geometry": {"coordinates":[-70.46512,18.60125],"type":"Point"}
+}

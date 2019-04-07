@@ -1,0 +1,75 @@
+{
+  "id": 1309752661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53575,19.28212,-70.53575,19.28212",
+    "geom:latitude":19.28212,
+    "geom:longitude":-70.53575,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:admin4_code":"13010105.0",
+    "gn:asciiname":"Carrera de Palma",
+    "gn:country_code":"DO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510121,
+    "gn:latitude":19.28212,
+    "gn:longitude":-70.53575,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Carrera de Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrera de la Palma",
+        "Carrera de Palmas",
+        "Carrera de Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510121
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e68a6d0b905ae92c734fc54e4f1537e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1309752661,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1309752661,
+    "wof:lastmodified":1537620054,
+    "wof:name":"Carrera de Palma",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53575,
+    19.28212000000001,
+    -70.53575,
+    19.28212000000001
+],
+  "geometry": {"coordinates":[-70.53574999999999,19.28212000000001],"type":"Point"}
+}

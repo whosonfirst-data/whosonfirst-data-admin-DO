@@ -1,0 +1,74 @@
+{
+  "id": 1310273219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20094,18.6012,-69.20094,18.6012",
+    "geom:latitude":18.6012,
+    "geom:longitude":-69.20094,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040102.0",
+    "gn:asciiname":"La Hicotea",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502339,
+    "gn:latitude":18.6012,
+    "gn:longitude":-69.20094,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Hicotea",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hicotea",
+        "La Hicotea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502339
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"adc48342859cff45c7373e7e4996807c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721139,
+            "locality_id":1310273219,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1310273219,
+    "wof:lastmodified":1537619979,
+    "wof:name":"La Hicotea",
+    "wof:parent_id":1108721139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20094,
+    18.6012,
+    -69.20094,
+    18.6012
+],
+  "geometry": {"coordinates":[-69.20094,18.6012],"type":"Point"}
+}

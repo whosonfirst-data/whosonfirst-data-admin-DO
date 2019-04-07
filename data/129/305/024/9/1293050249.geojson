@@ -1,0 +1,75 @@
+{
+  "id": 1293050249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.90554,19.04528,-69.90554,19.04528",
+    "geom:latitude":19.04528,
+    "geom:longitude":-69.90554,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030104.0",
+    "gn:asciiname":"Batey Rincon Claro",
+    "gn:country_code":"DO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511676,
+    "gn:latitude":19.04528,
+    "gn:longitude":-69.90554,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Rinc\u00f3n Claro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n Claro",
+        "Batey Rinc\u00f3n Claron",
+        "Batey Rinc\u00f3n Claro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511676
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"20de1cfedc7761e2cf2defc3a6e0fa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1293050249,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1293050249,
+    "wof:lastmodified":1537620067,
+    "wof:name":"Batey Rincon Claro",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.90554,
+    19.04528,
+    -69.90554,
+    19.04528
+],
+  "geometry": {"coordinates":[-69.90554,19.04528],"type":"Point"}
+}

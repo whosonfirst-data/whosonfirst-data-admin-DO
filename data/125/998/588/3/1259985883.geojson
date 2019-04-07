@@ -1,0 +1,74 @@
+{
+  "id": 1259985883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65784,19.34418,-71.65784,19.34418",
+    "geom:latitude":19.34418,
+    "geom:longitude":-71.65784,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50202.0",
+    "gn:admin4_code":"5020202.0",
+    "gn:asciiname":"Cruce de Mariano Cestero",
+    "gn:country_code":"DO",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509149,
+    "gn:latitude":19.34418,
+    "gn:longitude":-71.65784,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de Mariano Cestero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Cruce de Mariano",
+        "Cruce de Mariano Cestero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509149
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7e4d693c82eec225ea58066c2590e96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721239,
+            "locality_id":1259985883,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1259985883,
+    "wof:lastmodified":1537620046,
+    "wof:name":"Cruce de Mariano Cestero",
+    "wof:parent_id":1108721239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65784000000002,
+    19.34418,
+    -71.65784000000002,
+    19.34418
+],
+  "geometry": {"coordinates":[-71.65784000000002,19.34418],"type":"Point"}
+}

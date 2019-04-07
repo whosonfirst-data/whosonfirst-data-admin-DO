@@ -1,0 +1,78 @@
+{
+  "id": 890444749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19406,19.66256,-71.19406,19.66256",
+    "geom:latitude":19.66256,
+    "geom:longitude":-71.19406,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":3574,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hatillo Palma"
+    ],
+    "name:eng_x_preferred":[
+        "Hatillo Palma"
+    ],
+    "name:swe_x_preferred":[
+        "Hatillo Palma"
+    ],
+    "qs:name":"Hatillo Palma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504793,
+        "gp:id":75066,
+        "qs:id":1045356,
+        "wd:id":"Q5681615",
+        "wk:page":"Hatillo Palma"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052480,
+    "wof:geomhash":"343a2741bd5045e0876a0ac970396df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":890444749,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":890444749,
+    "wof:lastmodified":1527782132,
+    "wof:name":"Hatillo Palma",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:population":3574,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19406,
+    19.66256,
+    -71.19406,
+    19.66256
+],
+  "geometry": {"coordinates":[-71.19405999999999,19.66256],"type":"Point"}
+}

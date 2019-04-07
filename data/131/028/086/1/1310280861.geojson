@@ -1,0 +1,74 @@
+{
+  "id": 1310280861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92323,19.71517,-70.92323,19.71517",
+    "geom:latitude":19.71517,
+    "geom:longitude":-70.92323,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1803.0",
+    "gn:admin3_code":"180301.0",
+    "gn:admin4_code":"18030101.0",
+    "gn:asciiname":"Rincon Caliente",
+    "gn:country_code":"DO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493851,
+    "gn:latitude":19.71517,
+    "gn:longitude":-70.92323,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rinc\u00f3n Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loma",
+        "Rinc\u00f3n Caliente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493851
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b151ea0bc4733d842c14a45be0d69369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721159,
+            "locality_id":1310280861,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1310280861,
+    "wof:lastmodified":1537619915,
+    "wof:name":"Rincon Caliente",
+    "wof:parent_id":1108721159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92323,
+    19.71517,
+    -70.92323,
+    19.71517
+],
+  "geometry": {"coordinates":[-70.92323,19.71517],"type":"Point"}
+}

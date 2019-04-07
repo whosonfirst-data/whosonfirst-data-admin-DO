@@ -1,0 +1,74 @@
+{
+  "id": 1343912133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90259,19.63732,-70.90259,19.63732",
+    "geom:latitude":19.63732,
+    "geom:longitude":-70.90259,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2702.0",
+    "gn:admin3_code":"270205.0",
+    "gn:admin4_code":"27020503.0",
+    "gn:asciiname":"Barrero",
+    "gn:country_code":"DO",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511958,
+    "gn:latitude":19.63732,
+    "gn:longitude":-70.90259,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Barrero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Barrero",
+        "Barrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511958
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"41c8f5ed115837d410b802f072ed7306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":1343912133,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1343912133,
+    "wof:lastmodified":1537620079,
+    "wof:name":"Barrero",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90259,
+    19.63732000000001,
+    -70.90259,
+    19.63732000000001
+],
+  "geometry": {"coordinates":[-70.90259,19.63732000000001],"type":"Point"}
+}

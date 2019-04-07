@@ -1,0 +1,74 @@
+{
+  "id": 1310459411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69563,19.39749,-70.69563,19.39749",
+    "geom:latitude":19.39749,
+    "geom:longitude":-70.69563,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250101.0",
+    "gn:admin4_code":"25010103.0",
+    "gn:asciiname":"La Noriega",
+    "gn:country_code":"DO",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501517,
+    "gn:latitude":19.39749,
+    "gn:longitude":-70.69563,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Noriega",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Nonega",
+        "La Noriega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501517
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f1b69ec2a18866881d6f72725a4a34f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":1310459411,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1310459411,
+    "wof:lastmodified":1537619971,
+    "wof:name":"La Noriega",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69563000000002,
+    19.39749,
+    -70.69563000000002,
+    19.39749
+],
+  "geometry": {"coordinates":[-70.69563000000002,19.39749],"type":"Point"}
+}

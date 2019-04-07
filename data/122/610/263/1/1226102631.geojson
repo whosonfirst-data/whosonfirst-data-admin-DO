@@ -1,0 +1,70 @@
+{
+  "id": 1226102631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65826,19.20446,-70.65826,19.20446",
+    "geom:latitude":19.20446,
+    "geom:longitude":-70.65826,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:admin4_code":"13010404.0",
+    "gn:asciiname":"La Pina",
+    "gn:country_code":"DO",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501189,
+    "gn:latitude":19.20446,
+    "gn:longitude":-70.65826,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501189
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7776956c7f3e197ce8ab9f8ddb8e325f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1226102631,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1226102631,
+    "wof:lastmodified":1536642369,
+    "wof:name":"La Pina",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65826,
+    19.20446,
+    -70.65826,
+    19.20446
+],
+  "geometry": {"coordinates":[-70.65826,19.20446],"type":"Point"}
+}

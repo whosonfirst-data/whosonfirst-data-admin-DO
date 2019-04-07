@@ -1,0 +1,75 @@
+{
+  "id": 1209984037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08333,19.28333,-71.08333,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-71.08333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250502.0",
+    "gn:admin4_code":"25050208.0",
+    "gn:asciiname":"La Guarana",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502483,
+    "gn:latitude":19.28333,
+    "gn:longitude":-71.08333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Guarana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Guan\u00e1na",
+        "La Guarana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502483
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ce549dd01a821783e0ddd23d01c15896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1209984037,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1209984037,
+    "wof:lastmodified":1537619981,
+    "wof:name":"La Guarana",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08333,
+    19.28333,
+    -71.08333,
+    19.28333
+],
+  "geometry": {"coordinates":[-71.08333,19.28333],"type":"Point"}
+}

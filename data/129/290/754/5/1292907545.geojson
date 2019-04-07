@@ -1,0 +1,75 @@
+{
+  "id": 1292907545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.80062,18.39815,-70.80062,18.39815",
+    "geom:latitude":18.39815,
+    "geom:longitude":-70.80062,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20702.0",
+    "gn:admin4_code":"2070203.0",
+    "gn:asciiname":"La Cienaga",
+    "gn:country_code":"DO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503097,
+    "gn:latitude":18.39815,
+    "gn:longitude":-70.80062,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Ci\u00e9naga",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ci\u00e9naga",
+        "La Ci\u00e9nega",
+        "La Ci\u00e9naga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503097
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"585ce353fc294a0b848e2d4279252b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721231,
+            "locality_id":1292907545,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1292907545,
+    "wof:lastmodified":1537619988,
+    "wof:name":"La Cienaga",
+    "wof:parent_id":1108721231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.80062,
+    18.39815,
+    -70.80062,
+    18.39815
+],
+  "geometry": {"coordinates":[-70.80062,18.39815],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259600709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87203,18.76651,-70.87203,18.76651",
+    "geom:latitude":18.76651,
+    "geom:longitude":-70.87203,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20403.0",
+    "gn:admin4_code":"2040302.0",
+    "gn:asciiname":"Los Cambrones Derrumbado",
+    "gn:country_code":"DO",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499050,
+    "gn:latitude":18.76651,
+    "gn:longitude":-70.87203,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Cambrones Derrumbado",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Derrumbado",
+        "Los Cambrones",
+        "El Derrumbado",
+        "Los Cambrones Derrumbado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890429227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499050
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"298e7bc832c3d8bb86e84a8e18f988dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429227,
+            "locality_id":1259600709,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1259600709,
+    "wof:lastmodified":1537619948,
+    "wof:name":"Los Cambrones Derrumbado",
+    "wof:parent_id":890429227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87203000000002,
+    18.76651,
+    -70.87203000000002,
+    18.76651
+],
+  "geometry": {"coordinates":[-70.87203000000002,18.76651],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327087371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38601,18.71845,-70.38601,18.71845",
+    "geom:latitude":18.71845,
+    "geom:longitude":-70.38601,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3103.0",
+    "gn:admin3_code":"310301.0",
+    "gn:admin4_code":"31030103.0",
+    "gn:asciiname":"Suardi",
+    "gn:country_code":"DO",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492614,
+    "gn:latitude":18.71845,
+    "gn:longitude":-70.38601,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Suard\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saurd\u00ed",
+        "Suardy",
+        "Suard\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492614
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9b973b796b24bae6195e079676ec36d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721237,
+            "locality_id":1327087371,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1327087371,
+    "wof:lastmodified":1537619908,
+    "wof:name":"Suardi",
+    "wof:parent_id":1108721237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38601,
+    18.71845,
+    -70.38601,
+    18.71845
+],
+  "geometry": {"coordinates":[-70.38601,18.71845],"type":"Point"}
+}

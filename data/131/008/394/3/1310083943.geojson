@@ -1,0 +1,70 @@
+{
+  "id": 1310083943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64835,18.97365,-71.64835,18.97365",
+    "geom:latitude":18.97365,
+    "geom:longitude":-71.64835,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70203.0",
+    "gn:admin4_code":"7020302.0",
+    "gn:asciiname":"Los Corcovados",
+    "gn:country_code":"DO",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498760,
+    "gn:latitude":18.97365,
+    "gn:longitude":-71.64835,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Corcovados",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498760
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4cce6e15ec69a46c1a91867e611342d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1310083943,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1310083943,
+    "wof:lastmodified":1537026460,
+    "wof:name":"Los Corcovados",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64835,
+    18.97365,
+    -71.64835,
+    18.97365
+],
+  "geometry": {"coordinates":[-71.64834999999999,18.97365],"type":"Point"}
+}

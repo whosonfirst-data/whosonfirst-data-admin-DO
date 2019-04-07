@@ -1,0 +1,68 @@
+{
+  "id": 1209171549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14795,19.35929,-71.14795,19.35929",
+    "geom:latitude":19.35929,
+    "geom:longitude":-71.14795,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250502.0",
+    "gn:admin4_code":"25050204.0",
+    "gn:asciiname":"La Caba del Hoyazo",
+    "gn:country_code":"DO",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503454,
+    "gn:latitude":19.35929,
+    "gn:longitude":-71.14795,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Caba del Hoyazo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hoyazo",
+        "La Caba del Hoyazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503454
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"54c7e04594744498d72f471d51149e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209171549
+        }
+    ],
+    "wof:id":1209171549,
+    "wof:lastmodified":1537619993,
+    "wof:name":"La Caba del Hoyazo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14795,
+    19.35929,
+    -71.14795,
+    19.35929
+],
+  "geometry": {"coordinates":[-71.14794999999999,19.35929],"type":"Point"}
+}

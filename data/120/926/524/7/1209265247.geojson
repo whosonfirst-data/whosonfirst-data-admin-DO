@@ -1,0 +1,64 @@
+{
+  "id": 1209265247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31202,18.64529,-69.31202,18.64529",
+    "geom:latitude":18.64529,
+    "geom:longitude":-69.31202,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300103.0",
+    "gn:admin4_code":"30010302.0",
+    "gn:asciiname":"Batey Bejucal",
+    "gn:country_code":"DO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511867,
+    "gn:latitude":18.64529,
+    "gn:longitude":-69.31202,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Bejucal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511867
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f6e7dd9dc7c0f839a537dbc69d9a13ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209265247
+        }
+    ],
+    "wof:id":1209265247,
+    "wof:lastmodified":1536292555,
+    "wof:name":"Batey Bejucal",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31201999999999,
+    18.64529,
+    -69.31201999999999,
+    18.64529
+],
+  "geometry": {"coordinates":[-69.31201999999999,18.64529],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243549987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54335,19.45709,-70.54335,19.45709",
+    "geom:latitude":19.45709,
+    "geom:longitude":-70.54335,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90103.0",
+    "gn:admin4_code":"9010301.0",
+    "gn:asciiname":"San Victor Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492898,
+    "gn:latitude":19.45709,
+    "gn:longitude":-70.54335,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San V\u00edctor Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Victor",
+        "San V\u00edctor Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492898,
+        "wk:page":"San_V%C3%ADctor"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9a81f82e48606e02006f7108399f6566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1243549987,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1243549987,
+    "wof:lastmodified":1537619909,
+    "wof:name":"San Victor Abajo",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54335,
+    19.45709,
+    -70.54335,
+    19.45709
+],
+  "geometry": {"coordinates":[-70.54335,19.45709],"type":"Point"}
+}

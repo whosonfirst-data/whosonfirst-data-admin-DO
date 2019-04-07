@@ -1,0 +1,70 @@
+{
+  "id": 1293746799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7892,19.7337,-70.7892,19.7337",
+    "geom:latitude":19.7337,
+    "geom:longitude":-70.7892,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1804.0",
+    "gn:admin3_code":"180401.0",
+    "gn:admin4_code":"18040105.0",
+    "gn:asciiname":"Naranjo Chino",
+    "gn:country_code":"DO",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495904,
+    "gn:latitude":19.7337,
+    "gn:longitude":-70.7892,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Naranjo Chino",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495904
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f6cd1a2a229373f00bd3583f15069a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429273,
+            "locality_id":1293746799,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1293746799,
+    "wof:lastmodified":1536910843,
+    "wof:name":"Naranjo Chino",
+    "wof:parent_id":890429273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7892,
+    19.7337,
+    -70.7892,
+    19.7337
+],
+  "geometry": {"coordinates":[-70.78919999999999,19.7337],"type":"Point"}
+}

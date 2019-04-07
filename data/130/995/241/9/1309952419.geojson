@@ -1,0 +1,73 @@
+{
+  "id": 1309952419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6,18.7,-70.6,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":-70.6,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130203.0",
+    "gn:admin4_code":"13020305.0",
+    "gn:asciiname":"Nevera",
+    "gn:country_code":"DO",
+    "gn:dem":2303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501527,
+    "gn:latitude":18.7,
+    "gn:longitude":-70.6,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Nevera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Nevera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890453401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501527
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"09efea9eac51708e861463aab75ec573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453401,
+            "locality_id":1309952419,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1309952419,
+    "wof:lastmodified":1537619971,
+    "wof:name":"Nevera",
+    "wof:parent_id":890453401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6,
+    18.7,
+    -70.6,
+    18.7
+],
+  "geometry": {"coordinates":[-70.59999999999999,18.7],"type":"Point"}
+}

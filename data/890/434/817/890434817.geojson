@@ -1,0 +1,108 @@
+{
+  "id": 890434817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63616,18.75639,-69.63616,18.75639",
+    "geom:latitude":18.75639,
+    "geom:longitude":-69.63616,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":21055,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u4e9e\u74dc\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:eng_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:fre_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d0\u05d2\u05d5\u05d0\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e4\u30b0\u30a2\u30ca"
+    ],
+    "name:nan_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:por_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u044f\u0433\u0443\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:swe_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:unk_x_variant":[
+        "San Juan de Bayaguana"
+    ],
+    "qs:name":"Bayaguana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511626,
+        "gp:id":69513,
+        "qs:id":148581,
+        "wd:id":"Q1770505",
+        "wk:page":"Bayaguana"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052041,
+    "wof:geomhash":"2bad882470ca83f8be026a4c6430652b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":890434817,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":890434817,
+    "wof:lastmodified":1527792943,
+    "wof:name":"Bayaguana",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:population":21055,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63616,
+    18.75639,
+    -69.63616,
+    18.75639
+],
+  "geometry": {"coordinates":[-69.63616,18.75639],"type":"Point"}
+}

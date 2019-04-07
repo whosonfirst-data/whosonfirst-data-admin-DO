@@ -1,0 +1,64 @@
+{
+  "id": 1209376015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.27812,18.78363,-69.27812,18.78363",
+    "geom:latitude":18.78363,
+    "geom:longitude":-69.27812,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300101.0",
+    "gn:admin4_code":"30010103.0",
+    "gn:asciiname":"Los Jibaros de Manchado",
+    "gn:country_code":"DO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498300,
+    "gn:latitude":18.78363,
+    "gn:longitude":-69.27812,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los J\u00edbaros de Manchado",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498300
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"621442256eda9ac6a899ac30dadefca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209376015
+        }
+    ],
+    "wof:id":1209376015,
+    "wof:lastmodified":1536288949,
+    "wof:name":"Los Jibaros de Manchado",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.27812,
+    18.78363,
+    -69.27812,
+    18.78363
+],
+  "geometry": {"coordinates":[-69.27812,18.78363],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327493031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01873,18.83697,-70.01873,18.83697",
+    "geom:latitude":18.83697,
+    "geom:longitude":-70.01873,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2905.0",
+    "gn:admin3_code":"290501.0",
+    "gn:admin4_code":"29050104.0",
+    "gn:asciiname":"Bernardino",
+    "gn:country_code":"DO",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511505,
+    "gn:latitude":18.83697,
+    "gn:longitude":-70.01873,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bernardino",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benaldino",
+        "Bernardino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511505
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f837f75474d65c428f82eff4935f190c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721225,
+            "locality_id":1327493031,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1327493031,
+    "wof:lastmodified":1537620064,
+    "wof:name":"Bernardino",
+    "wof:parent_id":1108721225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01873,
+    18.83697,
+    -70.01873,
+    18.83697
+],
+  "geometry": {"coordinates":[-70.01873000000001,18.83697],"type":"Point"}
+}

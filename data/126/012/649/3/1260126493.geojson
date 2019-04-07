@@ -1,0 +1,70 @@
+{
+  "id": 1260126493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64868,19.14823,-70.64868,19.14823",
+    "geom:latitude":19.14823,
+    "geom:longitude":-70.64868,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030104.0",
+    "gn:asciiname":"La Mata",
+    "gn:country_code":"DO",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501686,
+    "gn:latitude":19.14823,
+    "gn:longitude":-70.64868,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501686
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6692be0eac862aa554a7304dd4bfdb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1260126493,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1260126493,
+    "wof:lastmodified":1536926945,
+    "wof:name":"La Mata",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64868,
+    19.14823,
+    -70.64868,
+    19.14823
+],
+  "geometry": {"coordinates":[-70.64868,19.14823],"type":"Point"}
+}

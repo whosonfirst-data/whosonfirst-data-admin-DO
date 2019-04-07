@@ -1,0 +1,74 @@
+{
+  "id": 1360173599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88498,18.67267,-68.88498,18.67267",
+    "geom:latitude":18.67267,
+    "geom:longitude":-68.88498,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Bejucal",
+    "gn:country_code":"DO",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511598,
+    "gn:latitude":18.67267,
+    "gn:longitude":-68.88498,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bejucal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bejucalito",
+        "Bejucal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511598
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f600dc206add405e6feae52a621cc8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1360173599,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1360173599,
+    "wof:lastmodified":1537620064,
+    "wof:name":"Bejucal",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88498,
+    18.67267,
+    -68.88498,
+    18.67267
+],
+  "geometry": {"coordinates":[-68.88498,18.67267],"type":"Point"}
+}

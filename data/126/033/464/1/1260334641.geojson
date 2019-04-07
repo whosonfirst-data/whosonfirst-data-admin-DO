@@ -1,0 +1,70 @@
+{
+  "id": 1260334641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67822,18.93467,-70.67822,18.93467",
+    "geom:latitude":18.93467,
+    "geom:longitude":-70.67822,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130202.0",
+    "gn:admin4_code":"13020201.0",
+    "gn:asciiname":"La Cerca",
+    "gn:country_code":"DO",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503151,
+    "gn:latitude":18.93467,
+    "gn:longitude":-70.67822,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cerca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890453401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503151
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5e05556f903f626560d7c084e9493b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453401,
+            "locality_id":1260334641,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1260334641,
+    "wof:lastmodified":1536642745,
+    "wof:name":"La Cerca",
+    "wof:parent_id":890453401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67822,
+    18.93467,
+    -70.67822,
+    18.93467
+],
+  "geometry": {"coordinates":[-70.67822,18.93467],"type":"Point"}
+}

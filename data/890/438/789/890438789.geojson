@@ -1,0 +1,99 @@
+{
+  "id": 890438789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61104,19.48538,-70.61104,19.48538",
+    "geom:latitude":19.48538,
+    "geom:longitude":-70.61104,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":23304,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5766\u535a\u91cc\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Tambor\u00edl"
+    ],
+    "name:eng_x_preferred":[
+        "Tambor\u00edl"
+    ],
+    "name:fre_x_preferred":[
+        "Tamboril"
+    ],
+    "name:ita_x_preferred":[
+        "Tamboril"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30dc\u30ea\u30eb"
+    ],
+    "name:nan_x_preferred":[
+        "Tamboril"
+    ],
+    "name:por_x_preferred":[
+        "Tamboril"
+    ],
+    "name:spa_x_preferred":[
+        "Tamboril"
+    ],
+    "name:unk_x_variant":[
+        "Pe\u00f1a"
+    ],
+    "qs:name":"Tamboril",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492517,
+        "gp:id":73992,
+        "qs:id":1045293,
+        "wd:id":"Q3980588",
+        "wk:page":"Tamboril"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052209,
+    "wof:geomhash":"f7e4a4dd85e0d82a2a8ae6d3ad343853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721285,
+            "locality_id":890438789,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":890438789,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Tamboril",
+    "wof:parent_id":1108721285,
+    "wof:placetype":"locality",
+    "wof:population":23304,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61104,
+    19.48538,
+    -70.61104,
+    19.48538
+],
+  "geometry": {"coordinates":[-70.61104,19.48538],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327012747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41954,19.7763,-71.41954,19.7763",
+    "geom:latitude":19.7763,
+    "geom:longitude":-71.41954,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:admin4_code":"15060102.0",
+    "gn:asciiname":"Los Fogones",
+    "gn:country_code":"DO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498615,
+    "gn:latitude":19.7763,
+    "gn:longitude":-71.41954,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Fogones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498615
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1c1842277e3214a10c76af019451c521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1327012747,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1327012747,
+    "wof:lastmodified":1536789302,
+    "wof:name":"Los Fogones",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41954,
+    19.7763,
+    -71.41954,
+    19.7763
+],
+  "geometry": {"coordinates":[-71.41954,19.7763],"type":"Point"}
+}

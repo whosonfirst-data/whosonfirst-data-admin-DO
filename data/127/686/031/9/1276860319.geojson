@@ -1,0 +1,74 @@
+{
+  "id": 1276860319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.62332,18.59287,-68.62332,18.59287",
+    "geom:latitude":18.59287,
+    "geom:longitude":-68.62332,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:admin4_code":"11010304.0",
+    "gn:asciiname":"Campo Nuevo",
+    "gn:country_code":"DO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510607,
+    "gn:latitude":18.59287,
+    "gn:longitude":-68.62332,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Campo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Campo Nuevo",
+        "Campo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510607
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"50563cef00f703ee5c431292bb99877e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1276860319,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1276860319,
+    "wof:lastmodified":1537620059,
+    "wof:name":"Campo Nuevo",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.62331999999999,
+    18.59287,
+    -68.62331999999999,
+    18.59287
+],
+  "geometry": {"coordinates":[-68.62331999999999,18.59287],"type":"Point"}
+}

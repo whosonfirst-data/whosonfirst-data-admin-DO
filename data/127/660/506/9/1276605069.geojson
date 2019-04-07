@@ -1,0 +1,70 @@
+{
+  "id": 1276605069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6,18.45,-69.6,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-69.6,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3204.0",
+    "gn:admin3_code":"320401.0",
+    "gn:admin4_code":"32040101.0",
+    "gn:asciiname":"Ensanche Bella Vista",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505943,
+    "gn:latitude":18.45,
+    "gn:longitude":-69.6,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ensanche Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505943
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"99978106da32d74ca376fb56f23fb771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721119,
+            "locality_id":1276605069,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1276605069,
+    "wof:lastmodified":1536912578,
+    "wof:name":"Ensanche Bella Vista",
+    "wof:parent_id":1108721119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6,
+    18.45,
+    -69.6,
+    18.45
+],
+  "geometry": {"coordinates":[-69.59999999999999,18.45],"type":"Point"}
+}

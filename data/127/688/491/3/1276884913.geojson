@@ -1,0 +1,67 @@
+{
+  "id": 1276884913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0282,18.52124,-71.0282,18.52124",
+    "geom:latitude":18.52124,
+    "geom:longitude":-71.0282,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Monte Grande",
+    "gn:country_code":"DO",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496179,
+    "gn:latitude":18.52124,
+    "gn:longitude":-71.0282,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Monte Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496179
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ff410b61b1ae2774224478a3be88e46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721197,
+            "locality_id":1276884913,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1276884913,
+    "wof:lastmodified":1537032926,
+    "wof:name":"Monte Grande",
+    "wof:parent_id":1108721197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0282,
+    18.52124,
+    -71.0282,
+    18.52124
+],
+  "geometry": {"coordinates":[-71.0282,18.52124],"type":"Point"}
+}

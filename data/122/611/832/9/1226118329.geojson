@@ -1,0 +1,74 @@
+{
+  "id": 1226118329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88884,19.65602,-70.88884,19.65602",
+    "geom:latitude":19.65602,
+    "geom:longitude":-70.88884,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180201.0",
+    "gn:admin4_code":"18020105.0",
+    "gn:asciiname":"La Lomota",
+    "gn:country_code":"DO",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501831,
+    "gn:latitude":19.65602,
+    "gn:longitude":-70.88884,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lomota",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altamira",
+        "La Lomota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501831
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d48dd4979be8bc23182ded9024cfd67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1226118329,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1226118329,
+    "wof:lastmodified":1537619974,
+    "wof:name":"La Lomota",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88884,
+    19.65602,
+    -70.88884,
+    19.65602
+],
+  "geometry": {"coordinates":[-70.88884,19.65602],"type":"Point"}
+}

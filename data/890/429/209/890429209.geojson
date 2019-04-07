@@ -1,0 +1,442 @@
+{
+  "id": 890429209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007833,
+    "geom:area_square_m":91860163.013182,
+    "geom:bbox":"-69.9997123326,18.4230730355,-69.8787891431,18.5442113786",
+    "geom:latitude":18.483467,
+    "geom:longitude":-69.942434,
+    "gn:country":"DO",
+    "gn:fcode":"PPLC",
+    "gn:pop":2201941,
+    "iso:country":"DO",
+    "lbl:latitude":18.471621,
+    "lbl:longitude":-69.89213,
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:alb_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:amh_x_preferred":[
+        "\u1233\u1295\u1276 \u12f6\u121a\u1295\u130e"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u064a\u0646\u063a\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0578 \u0534\u0578\u0574\u056b\u0576\u0563\u0578"
+    ],
+    "name:ast_x_preferred":[
+        "Santu Domingu"
+    ],
+    "name:aym_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:aze_x_preferred":[
+        "Santo-Dominqo"
+    ],
+    "name:baq_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:bcl_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0414\u0430\u043c\u0456\u043d\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u099f\u09cb\u09a1\u09cb\u09ae\u09bf\u09a8\u0997\u09cb"
+    ],
+    "name:bos_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:bre_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e \u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:cdo_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ceb_x_preferred":[
+        "Santo Domingo Oeste"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u591a\u660e\u54e5"
+    ],
+    "name:cor_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:cze_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:dan_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Domingo"
+    ],
+    "name:est_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:fao_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:fin_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Domingue"
+    ],
+    "name:fry_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10dd-\u10d3\u10dd\u10db\u10d8\u10dc\u10d2\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:gla_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:gle_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:glg_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03b3\u03ba\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acb \u0aa1\u0acb\u0aae\u0abf\u0aa8\u0acd\u0a97\u0acb"
+    ],
+    "name:hak_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:hat_x_preferred":[
+        "Sen Domeng"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d5 \u05d3\u05d5\u05de\u05d9\u05e0\u05d2\u05d5"
+    ],
+    "name:hif_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u094b \u0921\u094b\u092e\u093f\u0902\u0917\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:hun_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ice_x_preferred":[
+        "Sant\u00f3 D\u00f3ming\u00f3"
+    ],
+    "name:ido_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ile_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ilo_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ind_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\u30c9\u30df\u30f3\u30b4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ccb \u0ca1\u0cca\u0cae\u0cbf\u0c82\u0c97\u0ccb"
+    ],
+    "name:kik_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud1a0\ub3c4\ubc0d\uace0"
+    ],
+    "name:lad_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:lat_x_preferred":[
+        "Dominicopolis"
+    ],
+    "name:lav_x_preferred":[
+        "Santodomingo"
+    ],
+    "name:lij_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:lit_x_preferred":[
+        "Santo Domingas"
+    ],
+    "name:lmo_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648\u062f\u0648\u0645\u0646\u06cc\u06a9\u0648"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e \u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u094b \u0926\u0949\u092e\u093f\u0902\u0917\u094b"
+    ],
+    "name:may_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:nah_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:nan_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:nld_x_preferred":[
+        "Ciudad Trujillo"
+    ],
+    "name:nno_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:nob_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:nov_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:oci_x_preferred":[
+        "Sant Domingo"
+    ],
+    "name:olo_x_preferred":[
+        "Santo-Domingo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3e\u0a02\u0a24\u0a4b \u0a26\u0a4b\u0a2e\u0a3f\u0a70\u0a17\u0a4b"
+    ],
+    "name:pap_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u06cc\u0646\u06af\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646\u0679\u0627 \u0688\u0648\u0645\u0646\u06af\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:por_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:que_x_preferred":[
+        "Santo Domingo llaqta"
+    ],
+    "name:rum_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:rup_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:sah_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e \u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0ddd \u0da9\u0ddc\u0db8\u0dd2\u0db1\u0dca\u0d9c\u0ddd"
+    ],
+    "name:slo_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:slv_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:sna_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e \u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:szl_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9f\u0bcb \u0b9f\u0bca\u0bae\u0bbf\u0b99\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c02\u0c1f\u0c4b \u0c21\u0c3e\u0c2e\u0c3f\u0c02\u0c17\u0c4b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0430\u043d\u0442\u043e \u0414\u043e\u043c\u0438\u043d\u0433\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e42\u0e15\u0e42\u0e14\u0e21\u0e34\u0e07\u0e42\u0e01"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f66\u0f71\u0f53\u0f0b\u0f4f\u0f7c\u0f0b\u0f4c\u0f7c\u0f0b\u0f58\u0f72\u0f44\u0f0b\u0f42\u0f7c"
+    ],
+    "name:tuk_x_preferred":[
+        "Santo\u2013Domingo"
+    ],
+    "name:tur_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0456\u043d\u0433\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad Trujillo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u0646\u06af\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Santa Domingo"
+    ],
+    "name:vep_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:vie_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:war_x_preferred":[
+        "Santo Domingo de Guzm\u00e1n"
+    ],
+    "name:wel_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:yor_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u591a\u660e\u5404"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Santo Domingo Oeste"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8056\u591a\u660e\u54e5"
+    ],
+    "qs:name":"Santo Domingo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:population":"geonames",
+    "wd:elevation":14.0,
+    "wd:latitude":"18.476388888",
+    "wd:longitude":"-69.893333333",
+    "wd:wordcount":5634,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670659,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632713,
+    "wof:concordances":{
+        "gn:id":3492908,
+        "gp:id":76456,
+        "qs:id":95714,
+        "wd:id":"Q34820",
+        "wk:page":"Santo Domingo"
+    },
+    "wof:concordances_alt":{
+        "gn:id":7874116,
+        "qs:id":1165070,
+        "wd:id":"Q3949488",
+        "wk:page":"Santo Domingo Oeste"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051801,
+    "wof:geomhash":"5d4bfed221e5868c53591c84494275e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":890429209,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":890429209,
+    "wof:lastmodified":1552519485,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1108721273,
+    "wof:placetype":"locality",
+    "wof:population":2201941,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421192037
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9997123326295,
+    18.42307303554228,
+    -69.87878914305679,
+    18.54421137863627
+],
+  "geometry": {"coordinates":[[[-69.98553759319435,18.54421137863627],[-69.98460338400827,18.54416208490519],[-69.98320207022911,18.54408814430857],[-69.98203430874649,18.54402652714472],[-69.98028266652256,18.54393410139895],[-69.97778960148554,18.54386430268219],[-69.97476356519144,18.54356244926609],[-69.97202123326083,18.54284367389903],[-69.96942586123639,18.54167669731095],[-69.96657275712258,18.54038095043058],[-69.96436064191646,18.53875984753347],[-69.96280018156327,18.53643345678981],[-69.96147438621952,18.53344865844368],[-69.9603798043202,18.53064034317935],[-69.95913827833873,18.52808062204733],[-69.95791796579979,18.52451217649067],[-69.95638769138586,18.52176826473591],[-69.95431781581532,18.52015239710376],[-69.95183382070665,18.51788741985781],[-69.94937936778641,18.51562542263067],[-69.94684149963064,18.51457360258771],[-69.94378744583798,18.51436040388147],[-69.94026978104012,18.51395512914359],[-69.93699412501071,18.51385895187003],[-69.93404365919415,18.5140689411849],[-69.93009889897218,18.51363014439413],[-69.92601042880224,18.51185904604242],[-69.92217922231495,18.50944444444464],[-69.91685835350523,18.50500000000019],[-69.9149999999988,18.50500000000019],[-69.91311085277549,18.50618946300806],[-69.91027713194052,18.50797365751984],[-69.90791569791136,18.50946048627966],[-69.90437354686765,18.5116907294194],[-69.89587238436273,18.51378262728984],[-69.89379625461004,18.51282597515817],[-69.8927581897337,18.51234764909233],[-69.89120109241918,18.51163015999357],[-69.88893236907684,18.51070008286118],[-69.88594053707118,18.50976769820157],[-69.88392944705421,18.50853575201024],[-69.88314595807108,18.50661230950858],[-69.88214524006639,18.50387147116011],[-69.88071786010018,18.50148447210664],[-69.87930899071318,18.49960839813328],[-69.87878914305679,18.49675780971281],[-69.87946450572309,18.49376592152041],[-69.88069860758809,18.49108228142329],[-69.88173561006047,18.48830694633702],[-69.88273019811194,18.48496041950543],[-69.88300692637966,18.48079503754461],[-69.882489115738,18.47704696460338],[-69.88208524605992,18.4754548229968],[-69.88214111299993,18.47166633600011],[-69.88127899199992,18.46997261000013],[-69.88211059599985,18.46913909900019],[-69.88211059599985,18.46750068699998],[-69.89086151099991,18.46372222900015],[-69.89338684099982,18.46125030500031],[-69.89669799799992,18.46041679399997],[-69.90002441399986,18.45788955700021],[-69.90333557099996,18.45791626000022],[-69.90416717499988,18.45705604600028],[-69.90752410899995,18.45622253400023],[-69.91166686999998,18.45375061000016],[-69.91336059599996,18.45375061000016],[-69.91503143299991,18.45205497700027],[-69.91666412399991,18.45205497700027],[-69.91750335699999,18.45125007600018],[-69.9200286869999,18.45038795500017],[-69.92211151099997,18.44830513000028],[-69.92377471899988,18.44416618300016],[-69.92839050299989,18.43961143500024],[-69.92922210699993,18.43961143500024],[-69.93166351299988,18.43705558800025],[-69.93502807599992,18.43544387800017],[-69.93672180199991,18.43544387800017],[-69.94169616699992,18.43208313000025],[-69.94589233399989,18.43124961900014],[-69.94666290299989,18.43038940400027],[-69.94919586199984,18.43038940400027],[-69.95002746599994,18.4295825960001],[-69.95502471899988,18.42955589300016],[-69.95752716099986,18.42791748000019],[-69.95999908399989,18.42791748000019],[-69.96174621599994,18.42625045800014],[-69.96336364699988,18.42622184800024],[-69.96419525099998,18.42536163300019],[-69.96749877899992,18.42541694600027],[-69.96833038299991,18.42461204500017],[-69.97086334199992,18.42458343499993],[-69.9716949459999,18.42372131300021],[-69.98169708299991,18.42372131300021],[-69.98232379929041,18.42307303554228],[-69.9835397751047,18.42542200838594],[-69.98601309295324,18.43060026095405],[-69.98487676217584,18.43280241438478],[-69.98264891047801,18.43410895917641],[-69.9807765980714,18.4349290090027],[-69.97904821491485,18.43689106738812],[-69.97754391322164,18.43917510529418],[-69.97635204606456,18.44143447541961],[-69.9753427603265,18.44404181244019],[-69.97495846186965,18.44755240838199],[-69.97499999999883,18.45500000000019],[-69.96703736760156,18.45500000000019],[-69.96707560379679,18.45665677965049],[-69.96713295808959,18.45914194912593],[-69.96718075333362,18.46121292368881],[-69.96725244619964,18.46431938553311],[-69.967466458747,18.46848333106512],[-69.9678466433453,18.47222924936315],[-69.96881978889508,18.47554061895794],[-69.97072968334319,18.47826989367753],[-69.97339006439663,18.48035308173952],[-69.97664366915421,18.48261341886539],[-69.97922853690935,18.48454768244209],[-69.98134280536459,18.48654864758923],[-69.98379919910739,18.48840327868508],[-69.9865147730504,18.49018788018646],[-69.98880314290497,18.49278182027959],[-69.99070471435802,18.49667273041928],[-69.99355707153759,18.50033697158499],[-69.9997123326295,18.5050000000002],[-69.99572623259439,18.50948329744613],[-69.9935507851232,18.5129743366243],[-69.99162044267374,18.51691286681899],[-69.99146298862385,18.5196085778794],[-69.99165940583838,18.52294266495238],[-69.99122238047971,18.52691411331942],[-69.99179077385261,18.53001878333992],[-69.99286051590136,18.53335431343876],[-69.99319254487955,18.5367872616965],[-69.99183682973094,18.53926331657077],[-69.98973708421875,18.54091267059261],[-69.98833725387729,18.5420122399405],[-69.98665745746753,18.54333172315796],[-69.98553759319435,18.54421137863627]]],"type":"Polygon"}
+}

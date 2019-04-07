@@ -1,0 +1,70 @@
+{
+  "id": 1243126983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.45551,19.40143,-71.45551,19.40143",
+    "geom:latitude":19.40143,
+    "geom:longitude":-71.45551,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2602.0",
+    "gn:admin3_code":"260201.0",
+    "gn:admin4_code":"26020107.0",
+    "gn:asciiname":"La Lana",
+    "gn:country_code":"DO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501980,
+    "gn:latitude":19.40143,
+    "gn:longitude":-71.45551,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        1108721293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501980
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b8c4bbe7e0de33cff10158f184e353d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721293,
+            "locality_id":1243126983,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1243126983,
+    "wof:lastmodified":1536769776,
+    "wof:name":"La Lana",
+    "wof:parent_id":1108721293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.45551,
+    19.40143,
+    -71.45551,
+    19.40143
+],
+  "geometry": {"coordinates":[-71.45551,19.40143],"type":"Point"}
+}

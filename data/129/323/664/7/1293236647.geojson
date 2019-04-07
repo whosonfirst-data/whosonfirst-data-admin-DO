@@ -1,0 +1,70 @@
+{
+  "id": 1293236647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45432,19.00031,-70.45432,19.00031",
+    "geom:latitude":19.00031,
+    "geom:longitude":-70.45432,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280105.0",
+    "gn:admin4_code":"28010502.0",
+    "gn:asciiname":"Cano Piedra",
+    "gn:country_code":"DO",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510313,
+    "gn:latitude":19.00031,
+    "gn:longitude":-70.45432,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1o Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510313
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8225311a167fa05a2ee83550579209b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1293236647,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1293236647,
+    "wof:lastmodified":1536651532,
+    "wof:name":"Cano Piedra",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45432,
+    19.00031,
+    -70.45432,
+    19.00031
+],
+  "geometry": {"coordinates":[-70.45432,19.00031],"type":"Point"}
+}

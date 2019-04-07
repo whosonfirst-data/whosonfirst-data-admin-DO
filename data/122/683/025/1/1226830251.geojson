@@ -1,0 +1,70 @@
+{
+  "id": 1226830251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.68591,19.04594,-71.68591,19.04594",
+    "geom:latitude":19.04594,
+    "geom:longitude":-71.68591,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70202.0",
+    "gn:admin4_code":"7020202.0",
+    "gn:asciiname":"Nico",
+    "gn:country_code":"DO",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495838,
+    "gn:latitude":19.04594,
+    "gn:longitude":-71.68591,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Nic\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495838
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1cb730b90fef80bdd19ce856f7053804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1226830251,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1226830251,
+    "wof:lastmodified":1537087482,
+    "wof:name":"Nico",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.68590999999998,
+    19.04594,
+    -71.68590999999998,
+    19.04594
+],
+  "geometry": {"coordinates":[-71.68590999999998,19.04594],"type":"Point"}
+}

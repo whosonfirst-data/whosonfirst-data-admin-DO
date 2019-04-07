@@ -1,0 +1,70 @@
+{
+  "id": 1327192953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29576,19.08737,-70.29576,19.08737",
+    "geom:latitude":19.08737,
+    "geom:longitude":-70.29576,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2403.0",
+    "gn:admin3_code":"240301.0",
+    "gn:admin4_code":"24030102.0",
+    "gn:asciiname":"Comedero Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509397,
+    "gn:latitude":19.08737,
+    "gn:longitude":-70.29576,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Comedero Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890429287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509397
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fcc163e128cb2b778a0fb3f36c801400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429287,
+            "locality_id":1327192953,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1327192953,
+    "wof:lastmodified":1537025566,
+    "wof:name":"Comedero Abajo",
+    "wof:parent_id":890429287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29576,
+    19.08737,
+    -70.29576,
+    19.08737
+],
+  "geometry": {"coordinates":[-70.29576,19.08737],"type":"Point"}
+}

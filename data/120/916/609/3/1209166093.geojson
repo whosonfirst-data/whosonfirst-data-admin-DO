@@ -1,0 +1,64 @@
+{
+  "id": 1209166093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.99375,18.54505,-69.99375,18.54505",
+    "geom:latitude":18.54505,
+    "geom:longitude":-69.99375,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3206.0",
+    "gn:admin3_code":"320602.0",
+    "gn:admin4_code":"32060202.0",
+    "gn:asciiname":"Palmarejo",
+    "gn:country_code":"DO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495544,
+    "gn:latitude":18.54505,
+    "gn:longitude":-69.99375,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palmarejo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495544
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d90268a04941ce6d77dd1e3e9e9e8fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209166093
+        }
+    ],
+    "wof:id":1209166093,
+    "wof:lastmodified":1536295742,
+    "wof:name":"Palmarejo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.99375,
+    18.54505,
+    -69.99375,
+    18.54505
+],
+  "geometry": {"coordinates":[-69.99375000000001,18.54505],"type":"Point"}
+}

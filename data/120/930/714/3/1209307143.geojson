@@ -1,0 +1,64 @@
+{
+  "id": 1209307143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10609,19.25452,-70.10609,19.25452",
+    "geom:latitude":19.25452,
+    "geom:longitude":-70.10609,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60401.0",
+    "gn:admin4_code":"6040105.0",
+    "gn:asciiname":"San Felipe Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493176,
+    "gn:latitude":19.25452,
+    "gn:longitude":-70.10609,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San Felipe Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493176
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8154a05c85dec9e1b840889d99dcbeb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209307143
+        }
+    ],
+    "wof:id":1209307143,
+    "wof:lastmodified":1536291156,
+    "wof:name":"San Felipe Arriba",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10609000000001,
+    19.25452,
+    -70.10609000000001,
+    19.25452
+],
+  "geometry": {"coordinates":[-70.10609000000001,19.25452],"type":"Point"}
+}

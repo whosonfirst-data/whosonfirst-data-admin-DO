@@ -1,0 +1,124 @@
+{
+  "id": 421199333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6739,18.42993,-68.6739,18.42993",
+    "geom:latitude":18.42993,
+    "geom:longitude":-68.6739,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u5fb7\u723e\u5c24\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:fre_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb\u30fb\u30c7\u30eb\u30fb\u30e6\u30de"
+    ],
+    "name:nan_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:swe_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:unk_x_variant":[
+        "Yuma"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u5fb7\u723e\u5c24\u99ac"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3493022,
+    "qs:gn_pop":5285,
+    "qs:name":"San Rafael del Yuma",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"La Altagracia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":194,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":193155,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":76387,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493022,
+        "gp:id":76387,
+        "qs:id":193155,
+        "wd:id":"Q649483",
+        "wk:page":"San Rafael del Yuma"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009985,
+    "wof:geomhash":"3502e2a093754bb6c16504b2d81666ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":421199333,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":421199333,
+    "wof:lastmodified":1527716415,
+    "wof:name":"San Rafael del Yuma",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:population":5285,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6739,
+    18.42993,
+    -68.6739,
+    18.42993
+],
+  "geometry": {"coordinates":[-68.6739,18.42993],"type":"Point"}
+}

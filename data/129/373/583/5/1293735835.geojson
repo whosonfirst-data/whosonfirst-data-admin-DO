@@ -1,0 +1,70 @@
+{
+  "id": 1293735835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.97516,18.55744,-69.97516,18.55744",
+    "geom:latitude":18.55744,
+    "geom:longitude":-69.97516,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320301.0",
+    "gn:admin4_code":"32030104.0",
+    "gn:asciiname":"Duquesa",
+    "gn:country_code":"DO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508703,
+    "gn:latitude":18.55744,
+    "gn:longitude":-69.97516,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Duquesa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508703
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8fe2e30b5e6e4116b03e3a8b43d1a022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721279,
+            "locality_id":1293735835,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1293735835,
+    "wof:lastmodified":1536927013,
+    "wof:name":"Duquesa",
+    "wof:parent_id":1108721279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.97516,
+    18.55744,
+    -69.97516,
+    18.55744
+],
+  "geometry": {"coordinates":[-69.97516,18.55744],"type":"Point"}
+}

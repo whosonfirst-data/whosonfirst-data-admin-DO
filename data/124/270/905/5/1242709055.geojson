@@ -1,0 +1,70 @@
+{
+  "id": 1242709055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42871,18.92748,-70.42871,18.92748",
+    "geom:latitude":18.92748,
+    "geom:longitude":-70.42871,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280106.0",
+    "gn:admin4_code":"28010602.0",
+    "gn:asciiname":"La Salvia",
+    "gn:country_code":"DO",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500857,
+    "gn:latitude":18.92748,
+    "gn:longitude":-70.42871,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Salvia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500857
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8e62cb559c73de1dcc2f51b8c0785814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1242709055,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1242709055,
+    "wof:lastmodified":1536873495,
+    "wof:name":"La Salvia",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42871,
+    18.92748,
+    -70.42871,
+    18.92748
+],
+  "geometry": {"coordinates":[-70.42871,18.92748],"type":"Point"}
+}

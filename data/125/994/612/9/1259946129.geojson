@@ -1,0 +1,78 @@
+{
+  "id": 1259946129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61667,19.73333,-70.61667,19.73333",
+    "geom:latitude":19.73333,
+    "geom:longitude":-70.61667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1809.0",
+    "gn:admin3_code":"180901.0",
+    "gn:admin4_code":"18090106.0",
+    "gn:asciiname":"Juan de Nina Munoz",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503892,
+    "gn:latitude":19.73333,
+    "gn:longitude":-70.61667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Juan de Nina Mu\u00f1oz",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00f1oz",
+        "Juan de Nina Mu\u00f1ez",
+        "Juan de Nina",
+        "Juan de Nina Mu\u00f1os",
+        "Juan de Nina Mu\u00f1oz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503892
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e6ba2dd80465da3068251049ff8ae65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1259946129,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1259946129,
+    "wof:lastmodified":1537619998,
+    "wof:name":"Juan de Nina Munoz",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61667,
+    19.73333,
+    -70.61667,
+    19.73333
+],
+  "geometry": {"coordinates":[-70.61667,19.73333],"type":"Point"}
+}

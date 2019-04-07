@@ -1,0 +1,70 @@
+{
+  "id": 1293446805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16909,19.4376,-71.16909,19.4376",
+    "geom:latitude":19.4376,
+    "geom:longitude":-71.16909,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2603.0",
+    "gn:admin3_code":"260301.0",
+    "gn:admin4_code":"26030103.0",
+    "gn:asciiname":"Canada Grande",
+    "gn:country_code":"DO",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510506,
+    "gn:latitude":19.4376,
+    "gn:longitude":-71.16909,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1ada Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        890429239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510506
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"58f88195016ac2d44eb4f3a0e81ff126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429239,
+            "locality_id":1293446805,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1293446805,
+    "wof:lastmodified":1536844779,
+    "wof:name":"Canada Grande",
+    "wof:parent_id":890429239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16909,
+    19.4376,
+    -71.16909,
+    19.4376
+],
+  "geometry": {"coordinates":[-71.16909,19.4376],"type":"Point"}
+}

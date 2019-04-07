@@ -1,0 +1,72 @@
+{
+  "id": 1293751415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98333,19.5,-70.98333,19.5",
+    "geom:latitude":19.5,
+    "geom:longitude":-70.98333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Baguasima",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512179,
+    "gn:latitude":19.5,
+    "gn:longitude":-70.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bagu\u00e1sima",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baguazuma",
+        "Bagu\u00e1sima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512179
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7ffc0881e50358b796126a935a18b7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429249,
+            "locality_id":1293751415,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1293751415,
+    "wof:lastmodified":1537620081,
+    "wof:name":"Baguasima",
+    "wof:parent_id":890429249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98333000000002,
+    19.5,
+    -70.98333000000002,
+    19.5
+],
+  "geometry": {"coordinates":[-70.98333000000002,19.5],"type":"Point"}
+}

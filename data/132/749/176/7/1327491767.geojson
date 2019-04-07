@@ -1,0 +1,70 @@
+{
+  "id": 1327491767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61241,18.91255,-71.61241,18.91255",
+    "geom:latitude":18.91255,
+    "geom:longitude":-71.61241,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220502.0",
+    "gn:admin4_code":"22050206.0",
+    "gn:asciiname":"Cara Linda",
+    "gn:country_code":"DO",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510196,
+    "gn:latitude":18.91255,
+    "gn:longitude":-71.61241,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cara Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510196
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1cd603d1a696397cd275cac6c632c47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429267,
+            "locality_id":1327491767,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1327491767,
+    "wof:lastmodified":1537089719,
+    "wof:name":"Cara Linda",
+    "wof:parent_id":890429267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61241,
+    18.91255,
+    -71.61241,
+    18.91255
+],
+  "geometry": {"coordinates":[-71.61241,18.91255],"type":"Point"}
+}

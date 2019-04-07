@@ -1,0 +1,70 @@
+{
+  "id": 1226606821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.43333,19.28333,-69.43333,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-69.43333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200102.0",
+    "gn:admin4_code":"20010202.0",
+    "gn:asciiname":"El Cafe",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508257,
+    "gn:latitude":19.28333,
+    "gn:longitude":-69.43333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Caf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508257
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"60fe495e17bdf545c17482a2a854fa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1226606821,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1226606821,
+    "wof:lastmodified":1536914639,
+    "wof:name":"El Cafe",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.43333,
+    19.28333,
+    -69.43333,
+    19.28333
+],
+  "geometry": {"coordinates":[-69.43333,19.28333],"type":"Point"}
+}

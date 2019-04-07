@@ -1,0 +1,70 @@
+{
+  "id": 1326685803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23333,18.61667,-69.23333,18.61667",
+    "geom:latitude":18.61667,
+    "geom:longitude":-69.23333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040102.0",
+    "gn:asciiname":"Mata de Palma",
+    "gn:country_code":"DO",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496646,
+    "gn:latitude":18.61667,
+    "gn:longitude":-69.23333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata de Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496646
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cd2703160559b40a4ba170debfd959df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721139,
+            "locality_id":1326685803,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1326685803,
+    "wof:lastmodified":1536763108,
+    "wof:name":"Mata de Palma",
+    "wof:parent_id":1108721139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23333000000001,
+    18.61667000000001,
+    -69.23333000000001,
+    18.61667000000001
+],
+  "geometry": {"coordinates":[-69.23333000000001,18.61667000000001],"type":"Point"}
+}

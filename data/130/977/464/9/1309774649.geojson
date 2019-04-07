@@ -1,0 +1,70 @@
+{
+  "id": 1309774649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53333,18.66667,-71.53333,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-71.53333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220301.0",
+    "gn:admin4_code":"22030103.0",
+    "gn:asciiname":"Joco Viejo",
+    "gn:country_code":"DO",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503992,
+    "gn:latitude":18.66667,
+    "gn:longitude":-71.53333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Joco Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503992
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f743e2025a825de01a55a38f5485618b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1309774649,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1309774649,
+    "wof:lastmodified":1536975585,
+    "wof:name":"Joco Viejo",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53333,
+    18.66667,
+    -71.53333,
+    18.66667
+],
+  "geometry": {"coordinates":[-71.53333000000001,18.66667],"type":"Point"}
+}

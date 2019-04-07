@@ -1,0 +1,74 @@
+{
+  "id": 1310640797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36667,18.66667,-70.36667,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-70.36667,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3103.0",
+    "gn:admin3_code":"310301.0",
+    "gn:admin4_code":"31030103.0",
+    "gn:asciiname":"Los Grillos",
+    "gn:country_code":"DO",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498542,
+    "gn:latitude":18.66667,
+    "gn:longitude":-70.36667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Grillos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Grillo",
+        "Los Grillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498542
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"80243de399f46ea46dcb17b5b3343e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721203,
+            "locality_id":1310640797,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1310640797,
+    "wof:lastmodified":1537619944,
+    "wof:name":"Los Grillos",
+    "wof:parent_id":1108721203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36667,
+    18.66667,
+    -70.36667,
+    18.66667
+],
+  "geometry": {"coordinates":[-70.36667,18.66667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326932095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1162,18.15186,-71.1162,18.15186",
+    "geom:latitude":18.15186,
+    "geom:longitude":-71.1162,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40101.0",
+    "gn:admin4_code":"4010102.0",
+    "gn:asciiname":"Payaso",
+    "gn:country_code":"DO",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495149,
+    "gn:latitude":18.15186,
+    "gn:longitude":-71.1162,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Payaso",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Payaso",
+        "Payaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495149
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2974a2f19197cb6a6c56d294c90f2531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721111,
+            "locality_id":1326932095,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1326932095,
+    "wof:lastmodified":1537619923,
+    "wof:name":"Payaso",
+    "wof:parent_id":1108721111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1162,
+    18.15186,
+    -71.1162,
+    18.15186
+],
+  "geometry": {"coordinates":[-71.11620000000001,18.15186],"type":"Point"}
+}

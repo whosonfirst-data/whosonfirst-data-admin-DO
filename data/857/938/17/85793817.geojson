@@ -1,0 +1,146 @@
+{
+  "id": 85793817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1076518.660191,
+    "geom:bbox":"-69.899771,18.463318,-69.899771,18.463318",
+    "geom:latitude":18.463318,
+    "geom:longitude":-69.899771,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":18.46667,
+    "gn:longitude":-69.9,
+    "gn:population":50185,
+    "iso:country":"DO",
+    "lbl:latitude":18.463318,
+    "lbl:longitude":-69.899771,
+    "mps:latitude":18.458732,
+    "mps:longitude":-69.897134,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Villa Francisca"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Francisca"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Francisca"
+    ],
+    "name:unk_x_variant":[
+        "Villa Francisca"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Villa Francisca",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Villa Francisca",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":99,
+    "qs:photo_sum":194,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345176,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3491941,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Villa Francisca",
+    "qs_pg:name_adm0":"Rep\u00fablica Dominicana",
+    "qs_pg:name_adm1":"Distrito Nacional",
+    "qs_pg:photos":1644,
+    "qs_pg:photos_1k":333,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1644,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":211064,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424800,
+    "qs_pg:woe_id":76664,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85670659,
+        102191575,
+        85632713,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491941,
+        "gp:id":76664,
+        "qs:id":211064,
+        "qs_pg:id":211064,
+        "wd:id":"Q7930325",
+        "wk:page":"Villa Francisca"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4ff19d6b82353a8a30f5ffc48e3d539c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":85793817,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":85793817,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379287,
+    "wof:name":"Villa Francisca",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":50185,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126090857
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.899771,
+    18.463318,
+    -69.899771,
+    18.463318
+],
+  "geometry": {"coordinates":[-69.899771,18.463318],"type":"Point"}
+}

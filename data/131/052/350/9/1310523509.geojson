@@ -1,0 +1,75 @@
+{
+  "id": 1310523509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,19.16667,-70.01667,19.16667",
+    "geom:latitude":19.16667,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60701.0",
+    "gn:admin4_code":"6070102.0",
+    "gn:asciiname":"Juana Diaz Abajo",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503951,
+    "gn:latitude":19.16667,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Juana D\u00edaz Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juan D\u00edaz Abajo",
+        "Juana D\u00edaz Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503951
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"62a847ecf808be6cc0bc753509de45ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721153,
+            "locality_id":1310523509,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1310523509,
+    "wof:lastmodified":1537619999,
+    "wof:name":"Juana Diaz Abajo",
+    "wof:parent_id":1108721153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    19.16667,
+    -70.01666999999999,
+    19.16667
+],
+  "geometry": {"coordinates":[-70.01666999999999,19.16667],"type":"Point"}
+}

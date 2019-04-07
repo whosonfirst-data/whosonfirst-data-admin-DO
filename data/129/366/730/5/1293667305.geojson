@@ -1,0 +1,74 @@
+{
+  "id": 1293667305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.68157,19.02827,-71.68157,19.02827",
+    "geom:latitude":19.02827,
+    "geom:longitude":-71.68157,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70202.0",
+    "gn:admin4_code":"7020202.0",
+    "gn:asciiname":"El Guayabo",
+    "gn:country_code":"DO",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507448,
+    "gn:latitude":19.02827,
+    "gn:longitude":-71.68157,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Guayabo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayabo",
+        "El Guayabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507448
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6aa4ac25186ccf9e4ffa7c57137154e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1293667305,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1293667305,
+    "wof:lastmodified":1537620030,
+    "wof:name":"El Guayabo",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.68157,
+    19.02827000000001,
+    -71.68157,
+    19.02827000000001
+],
+  "geometry": {"coordinates":[-71.68156999999999,19.02827000000001],"type":"Point"}
+}

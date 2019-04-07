@@ -1,0 +1,74 @@
+{
+  "id": 1226832477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91775,19.3601,-69.91775,19.3601",
+    "geom:latitude":19.3601,
+    "geom:longitude":-69.91775,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:admin4_code":"14010405.0",
+    "gn:asciiname":"Palmar de Los Sanchez",
+    "gn:country_code":"DO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495547,
+    "gn:latitude":19.3601,
+    "gn:longitude":-69.91775,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palmar de Los S\u00e1nchez",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Palmar de los S\u00e1nchez",
+        "Palmar de Los S\u00e1nchez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495547
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6cbbbcd70692a87b8d640229039072d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1226832477,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1226832477,
+    "wof:lastmodified":1537619925,
+    "wof:name":"Palmar de Los Sanchez",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91775,
+    19.3601,
+    -69.91775,
+    19.3601
+],
+  "geometry": {"coordinates":[-69.91775,19.3601],"type":"Point"}
+}

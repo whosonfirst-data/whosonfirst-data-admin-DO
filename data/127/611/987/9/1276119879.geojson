@@ -1,0 +1,70 @@
+{
+  "id": 1276119879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17225,18.29895,-71.17225,18.29895",
+    "geom:latitude":18.29895,
+    "geom:longitude":-71.17225,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40801.0",
+    "gn:admin4_code":"4080102.0",
+    "gn:asciiname":"La Bomba",
+    "gn:country_code":"DO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503504,
+    "gn:latitude":18.29895,
+    "gn:longitude":-71.17225,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Bomba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503504
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3707a4a5c91919cd88cabb9180c43bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721143,
+            "locality_id":1276119879,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1276119879,
+    "wof:lastmodified":1537061859,
+    "wof:name":"La Bomba",
+    "wof:parent_id":1108721143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17225,
+    18.29895,
+    -71.17225,
+    18.29895
+],
+  "geometry": {"coordinates":[-71.17225000000001,18.29895],"type":"Point"}
+}

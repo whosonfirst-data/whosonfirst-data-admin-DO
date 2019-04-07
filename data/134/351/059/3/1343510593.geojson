@@ -1,0 +1,70 @@
+{
+  "id": 1343510593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88817,19.01562,-69.88817,19.01562",
+    "geom:latitude":19.01562,
+    "geom:longitude":-69.88817,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030104.0",
+    "gn:asciiname":"Batey San Antonio",
+    "gn:country_code":"DO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511670,
+    "gn:latitude":19.01562,
+    "gn:longitude":-69.88817,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511670
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d9190d2570ed131a8e37b0d790484679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1343510593,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1343510593,
+    "wof:lastmodified":1536673966,
+    "wof:name":"Batey San Antonio",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88817,
+    19.01562,
+    -69.88817,
+    19.01562
+],
+  "geometry": {"coordinates":[-69.88817,19.01562],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343645319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.60917,18.83798,-68.60917,18.83798",
+    "geom:latitude":18.83798,
+    "geom:longitude":-68.60917,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110104.0",
+    "gn:admin4_code":"11010403.0",
+    "gn:asciiname":"La Piedra del Ingles",
+    "gn:country_code":"DO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501214,
+    "gn:latitude":18.83798,
+    "gn:longitude":-68.60917,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Piedra del Ingl\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501214
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1c8d30de1a7adacf34444ed589ff40fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1343645319,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343645319,
+    "wof:lastmodified":1536976366,
+    "wof:name":"La Piedra del Ingles",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.60916999999999,
+    18.83798,
+    -68.60916999999999,
+    18.83798
+],
+  "geometry": {"coordinates":[-68.60916999999999,18.83798],"type":"Point"}
+}

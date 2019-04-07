@@ -1,0 +1,70 @@
+{
+  "id": 1310564415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1,19.81667,-71.1,19.81667",
+    "geom:latitude":19.81667,
+    "geom:longitude":-71.1,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1808.0",
+    "gn:admin3_code":"180803.0",
+    "gn:admin4_code":"18080302.0",
+    "gn:asciiname":"Los Toros",
+    "gn:country_code":"DO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497456,
+    "gn:latitude":19.81667,
+    "gn:longitude":-71.1,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Toros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497456
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e9dcd7dbac4867dba631b8946852618f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429197,
+            "locality_id":1310564415,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1310564415,
+    "wof:lastmodified":1536831084,
+    "wof:name":"Los Toros",
+    "wof:parent_id":890429197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1,
+    19.81667,
+    -71.1,
+    19.81667
+],
+  "geometry": {"coordinates":[-71.09999999999999,19.81667],"type":"Point"}
+}

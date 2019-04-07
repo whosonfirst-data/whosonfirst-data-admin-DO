@@ -1,0 +1,70 @@
+{
+  "id": 1260346717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.47813,18.59617,-69.47813,18.59617",
+    "geom:latitude":18.59617,
+    "geom:longitude":-69.47813,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2305.0",
+    "gn:admin3_code":"230501.0",
+    "gn:admin4_code":"23050107.0",
+    "gn:asciiname":"Mata Caliche",
+    "gn:country_code":"DO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496678,
+    "gn:latitude":18.59617,
+    "gn:longitude":-69.47813,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata Caliche",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496678
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5eb19dd22eac144fd9aa84cb49d5ee58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721235,
+            "locality_id":1260346717,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1260346717,
+    "wof:lastmodified":1536625536,
+    "wof:name":"Mata Caliche",
+    "wof:parent_id":1108721235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.47813000000001,
+    18.59617,
+    -69.47813000000001,
+    18.59617
+],
+  "geometry": {"coordinates":[-69.47813000000001,18.59617],"type":"Point"}
+}

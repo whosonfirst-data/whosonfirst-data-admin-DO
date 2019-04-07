@@ -1,0 +1,74 @@
+{
+  "id": 1226765359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71091,18.58132,-70.71091,18.58132",
+    "geom:latitude":18.58132,
+    "geom:longitude":-70.71091,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21001.0",
+    "gn:admin4_code":"2100106.0",
+    "gn:asciiname":"Los Guayuyos",
+    "gn:country_code":"DO",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498485,
+    "gn:latitude":18.58132,
+    "gn:longitude":-70.71091,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Guayuyos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Guayuyo",
+        "Los Guayuyos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498485
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"de9e94b10d3af119afa1ea1babd2b6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721149,
+            "locality_id":1226765359,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1226765359,
+    "wof:lastmodified":1537619944,
+    "wof:name":"Los Guayuyos",
+    "wof:parent_id":1108721149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71091,
+    18.58132,
+    -70.71091,
+    18.58132
+],
+  "geometry": {"coordinates":[-70.71091,18.58132],"type":"Point"}
+}

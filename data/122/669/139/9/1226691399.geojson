@@ -1,0 +1,74 @@
+{
+  "id": 1226691399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09911,18.50577,-70.09911,18.50577",
+    "geom:latitude":18.50577,
+    "geom:longitude":-70.09911,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210102.0",
+    "gn:admin4_code":"21010202.0",
+    "gn:asciiname":"La Lechuza",
+    "gn:country_code":"DO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501963,
+    "gn:latitude":18.50577,
+    "gn:longitude":-70.09911,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lechuza",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Lechuga",
+        "La Lechuza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501963
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"25e24ad2f41cfb663db55ae75fd0e0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1226691399,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1226691399,
+    "wof:lastmodified":1537619975,
+    "wof:name":"La Lechuza",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09911,
+    18.50577,
+    -70.09911,
+    18.50577
+],
+  "geometry": {"coordinates":[-70.09911,18.50577],"type":"Point"}
+}

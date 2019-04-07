@@ -1,0 +1,109 @@
+{
+  "id": 421191695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10651,18.06858,-71.10651,18.06858",
+    "geom:latitude":18.06858,
+    "geom:longitude":-71.10651,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:ita_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:por_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:spa_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:swe_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:unk_x_variant":[
+        "La Ci\u00e9nega"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u06cc\u0646\u0627\u06af\u0627\u060c \u0628\u0627\u0631\u0627\u06c1\u0648\u0646\u0627"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e0c\u8036\u7d0d\u52a0"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3503100,
+    "qs:gn_pop":2875,
+    "qs:name":"La Ci\u00e9naga",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Barahona",
+    "qs:photos":584,
+    "qs:photos_1k":118,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":584,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1151466,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":72549,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503100,
+        "gp:id":72549,
+        "qs:id":1151466,
+        "wd:id":"Q3820737",
+        "wk:page":"La Ci\u00e9naga, Barahona"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009702,
+    "wof:geomhash":"5978e85c5dab934504d869cabd8fc114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721179,
+            "locality_id":421191695,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":421191695,
+    "wof:lastmodified":1527716377,
+    "wof:name":"La Ci\u00e9naga",
+    "wof:parent_id":1108721179,
+    "wof:placetype":"locality",
+    "wof:population":2875,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10651,
+    18.06858,
+    -71.10651,
+    18.06858
+],
+  "geometry": {"coordinates":[-71.10651,18.06858],"type":"Point"}
+}

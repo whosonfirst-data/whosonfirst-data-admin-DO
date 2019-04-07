@@ -1,0 +1,99 @@
+{
+  "id": 890434811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.49876,19.71387,-71.49876,19.71387",
+    "geom:latitude":19.71387,
+    "geom:longitude":-71.49876,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":4209,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u65af\u5854\u7d10\u57c3\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:eng_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:fre_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:ita_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30bf\u30cb\u30e5\u30a8\u30e9\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:por_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:spa_x_preferred":[
+        "Casta\u00f1uela"
+    ],
+    "name:swe_x_preferred":[
+        "Casta\u00f1uelas"
+    ],
+    "name:unk_x_variant":[
+        "Casta\u00f1uela"
+    ],
+    "qs:name":"Casta\u00f1uelas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510083,
+        "qs:id":148577,
+        "wd:id":"Q519050"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052040,
+    "wof:geomhash":"4724d61dde65e8614dde344ed86889fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721131,
+            "locality_id":890434811,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":890434811,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Casta\u00f1uelas",
+    "wof:parent_id":1108721131,
+    "wof:placetype":"locality",
+    "wof:population":4209,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.49876,
+    19.71387,
+    -71.49876,
+    19.71387
+],
+  "geometry": {"coordinates":[-71.49876,19.71387],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343619553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25817,18.51473,-69.25817,18.51473",
+    "geom:latitude":18.51473,
+    "geom:longitude":-69.25817,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230101.0",
+    "gn:admin4_code":"23010102.0",
+    "gn:asciiname":"La Americana",
+    "gn:country_code":"DO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503695,
+    "gn:latitude":18.51473,
+    "gn:longitude":-69.25817,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Americana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Americano",
+        "Americana",
+        "La Americana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503695
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"74121d375b0bdfe7e8bdbd1ffc345ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721269,
+            "locality_id":1343619553,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1343619553,
+    "wof:lastmodified":1537619996,
+    "wof:name":"La Americana",
+    "wof:parent_id":1108721269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25816999999999,
+    18.51473,
+    -69.25816999999999,
+    18.51473
+],
+  "geometry": {"coordinates":[-69.25816999999999,18.51473],"type":"Point"}
+}

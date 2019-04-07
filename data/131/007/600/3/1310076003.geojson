@@ -1,0 +1,70 @@
+{
+  "id": 1310076003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61039,19.73787,-71.61039,19.73787",
+    "geom:latitude":19.73787,
+    "geom:longitude":-71.61039,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010103.0",
+    "gn:asciiname":"La Judea",
+    "gn:country_code":"DO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502054,
+    "gn:latitude":19.73787,
+    "gn:longitude":-71.61039,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Judea",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502054
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cbd7393c0728ecad83925e5b6612bae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1310076003,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1310076003,
+    "wof:lastmodified":1537037540,
+    "wof:name":"La Judea",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61039,
+    19.73787,
+    -71.61039,
+    19.73787
+],
+  "geometry": {"coordinates":[-71.61039,19.73787],"type":"Point"}
+}

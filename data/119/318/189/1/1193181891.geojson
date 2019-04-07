@@ -1,0 +1,70 @@
+{
+  "id": 1193181891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21493,18.2778,-70.21493,18.2778",
+    "geom:latitude":18.2778,
+    "geom:longitude":-70.21493,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1702.0",
+    "gn:admin3_code":"170203.0",
+    "gn:admin4_code":"17020301.0",
+    "gn:asciiname":"Santana",
+    "gn:country_code":"DO",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492954,
+    "gn:latitude":18.2778,
+    "gn:longitude":-70.21493,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Santana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        890429233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492954
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"997840a07eede50b46d8db65988172c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429233,
+            "locality_id":1193181891,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1193181891,
+    "wof:lastmodified":1536369259,
+    "wof:name":"Santana",
+    "wof:parent_id":890429233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21493000000001,
+    18.2778,
+    -70.21493000000001,
+    18.2778
+],
+  "geometry": {"coordinates":[-70.21493000000001,18.2778],"type":"Point"}
+}

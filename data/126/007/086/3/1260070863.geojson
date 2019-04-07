@@ -1,0 +1,70 @@
+{
+  "id": 1260070863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5263,19.48396,-70.5263,19.48396",
+    "geom:latitude":19.48396,
+    "geom:longitude":-70.5263,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90103.0",
+    "gn:admin4_code":"9010304.0",
+    "gn:asciiname":"Moquita",
+    "gn:country_code":"DO",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496118,
+    "gn:latitude":19.48396,
+    "gn:longitude":-70.5263,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Moquita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496118
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dad7aa08be4e2297616581f15952cb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1260070863,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1260070863,
+    "wof:lastmodified":1537005513,
+    "wof:name":"Moquita",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5263,
+    19.48396,
+    -70.5263,
+    19.48396
+],
+  "geometry": {"coordinates":[-70.52630000000001,19.48396],"type":"Point"}
+}

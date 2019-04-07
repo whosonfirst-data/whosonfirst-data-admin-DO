@@ -1,0 +1,70 @@
+{
+  "id": 1276127359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41986,18.57025,-71.41986,18.57025",
+    "geom:latitude":18.57025,
+    "geom:longitude":-71.41986,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30101.0",
+    "gn:admin4_code":"3010106.0",
+    "gn:asciiname":"La Fortuna",
+    "gn:country_code":"DO",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502638,
+    "gn:latitude":18.57025,
+    "gn:longitude":-71.41986,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Fortuna",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        890429235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502638
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"916197a521b7dcde3791a3c3cf45cdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429235,
+            "locality_id":1276127359,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1276127359,
+    "wof:lastmodified":1537052296,
+    "wof:name":"La Fortuna",
+    "wof:parent_id":890429235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41986,
+    18.57025,
+    -71.41986,
+    18.57025
+],
+  "geometry": {"coordinates":[-71.41986,18.57025],"type":"Point"}
+}

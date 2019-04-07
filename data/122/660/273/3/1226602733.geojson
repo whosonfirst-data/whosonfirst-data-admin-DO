@@ -1,0 +1,70 @@
+{
+  "id": 1226602733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1801,18.46005,-69.1801,18.46005",
+    "geom:latitude":18.46005,
+    "geom:longitude":-69.1801,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:admin4_code":"23030102.0",
+    "gn:asciiname":"La Sierra",
+    "gn:country_code":"DO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500490,
+    "gn:latitude":18.46005,
+    "gn:longitude":-69.1801,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sierra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500490
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3c07b318a54f0dc64bfabf19c272f9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429221,
+            "locality_id":1226602733,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1226602733,
+    "wof:lastmodified":1536920253,
+    "wof:name":"La Sierra",
+    "wof:parent_id":890429221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1801,
+    18.46005,
+    -69.1801,
+    18.46005
+],
+  "geometry": {"coordinates":[-69.1801,18.46005],"type":"Point"}
+}

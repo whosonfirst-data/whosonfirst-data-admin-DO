@@ -1,0 +1,70 @@
+{
+  "id": 1260250869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.20253,18.85287,-71.20253,18.85287",
+    "geom:latitude":18.85287,
+    "geom:longitude":-71.20253,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2204.0",
+    "gn:admin3_code":"220402.0",
+    "gn:admin4_code":"22040201.0",
+    "gn:asciiname":"Jinova",
+    "gn:country_code":"DO",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504049,
+    "gn:latitude":18.85287,
+    "gn:longitude":-71.20253,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"J\u00ednova",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504049
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d06a42bc6252e252698614624fc22220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721175,
+            "locality_id":1260250869,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1260250869,
+    "wof:lastmodified":1536756232,
+    "wof:name":"Jinova",
+    "wof:parent_id":1108721175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.20253000000002,
+    18.85287000000001,
+    -71.20253000000002,
+    18.85287000000001
+],
+  "geometry": {"coordinates":[-71.20253000000002,18.85287000000001],"type":"Point"}
+}

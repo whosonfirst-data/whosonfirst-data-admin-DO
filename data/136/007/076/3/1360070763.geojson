@@ -1,0 +1,74 @@
+{
+  "id": 1360070763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11141,19.59823,-70.11141,19.59823",
+    "geom:latitude":19.59823,
+    "geom:longitude":-70.11141,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90304.0",
+    "gn:admin4_code":"9030404.0",
+    "gn:asciiname":"Tres Ceibas",
+    "gn:country_code":"DO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492261,
+    "gn:latitude":19.59823,
+    "gn:longitude":-70.11141,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Tres Ceibas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ceibita",
+        "Tres Ceibas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492261
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b030125207ea60233d9c8d22213f790b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429285,
+            "locality_id":1360070763,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1360070763,
+    "wof:lastmodified":1537619906,
+    "wof:name":"Tres Ceibas",
+    "wof:parent_id":890429285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11140999999999,
+    19.59823,
+    -70.11140999999999,
+    19.59823
+],
+  "geometry": {"coordinates":[-70.11140999999999,19.59823],"type":"Point"}
+}

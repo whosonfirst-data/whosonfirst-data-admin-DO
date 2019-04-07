@@ -1,0 +1,75 @@
+{
+  "id": 1310306777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23333,17.95,-71.23333,17.95",
+    "geom:latitude":17.95,
+    "geom:longitude":-71.23333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40301.0",
+    "gn:admin4_code":"4030103.0",
+    "gn:asciiname":"Matereza",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496562,
+    "gn:latitude":17.95,
+    "gn:longitude":-71.23333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Matereza",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Materesa",
+        "Matereza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496562
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"88f72691e5566f7a7238fcacd4e1f153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":1310306777,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1310306777,
+    "wof:lastmodified":1537619930,
+    "wof:name":"Matereza",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23333000000002,
+    17.95,
+    -71.23333000000002,
+    17.95
+],
+  "geometry": {"coordinates":[-71.23333000000002,17.95],"type":"Point"}
+}

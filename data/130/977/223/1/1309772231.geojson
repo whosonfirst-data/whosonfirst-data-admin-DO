@@ -1,0 +1,74 @@
+{
+  "id": 1309772231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.82015,19.8526,-70.82015,19.8526",
+    "geom:latitude":19.8526,
+    "geom:longitude":-70.82015,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180103.0",
+    "gn:admin4_code":"18010307.0",
+    "gn:asciiname":"Palo de Indio",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495391,
+    "gn:latitude":19.8526,
+    "gn:longitude":-70.82015,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palo de Indio",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palo Indio",
+        "Palo de Indio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495391
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8cee0d34440269a64ddb063363b7c9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1309772231,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1309772231,
+    "wof:lastmodified":1537619924,
+    "wof:name":"Palo de Indio",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.82015,
+    19.8526,
+    -70.82015,
+    19.8526
+],
+  "geometry": {"coordinates":[-70.82015,19.8526],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 890444737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6,19.43333,-71.6,19.43333",
+    "geom:latitude":19.43333,
+    "geom:longitude":-71.6,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":6679,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6d1b\u99ac\u5fb7\u5361\u5f17\u96f7\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:eng_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:fre_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:ita_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30de\u30fb\u30c7\u30fb\u30ab\u30d6\u30ec\u30e9"
+    ],
+    "name:nan_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:por_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:spa_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:swe_x_preferred":[
+        "Loma de Cabrera"
+    ],
+    "name:unk_x_variant":[
+        "Villa de Loma de Cabrera"
+    ],
+    "qs:name":"Loma de Cabrera",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499602,
+        "qs:id":1045343,
+        "wd:id":"Q1771467",
+        "wk:page":"Loma de Cabrera"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052480,
+    "wof:geomhash":"f001058ed199f92474482c860c008a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721199,
+            "locality_id":890444737,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":890444737,
+    "wof:lastmodified":1527782127,
+    "wof:name":"Loma de Cabrera",
+    "wof:parent_id":1108721199,
+    "wof:placetype":"locality",
+    "wof:population":6679,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6,
+    19.43333,
+    -71.6,
+    19.43333
+],
+  "geometry": {"coordinates":[-71.59999999999999,19.43333],"type":"Point"}
+}

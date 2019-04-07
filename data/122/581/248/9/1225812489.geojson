@@ -1,0 +1,70 @@
+{
+  "id": 1225812489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.45726,19.3364,-71.45726,19.3364",
+    "geom:latitude":19.3364,
+    "geom:longitude":-71.45726,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2602.0",
+    "gn:admin3_code":"260201.0",
+    "gn:admin4_code":"26020105.0",
+    "gn:asciiname":"La Pina Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501169,
+    "gn:latitude":19.3364,
+    "gn:longitude":-71.45726,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pi\u00f1a Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        1108721293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501169
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d2457f4510335b481bb66050f7fea383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721293,
+            "locality_id":1225812489,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1225812489,
+    "wof:lastmodified":1537059170,
+    "wof:name":"La Pina Abajo",
+    "wof:parent_id":1108721293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.45725999999998,
+    19.3364,
+    -71.45725999999998,
+    19.3364
+],
+  "geometry": {"coordinates":[-71.45725999999998,19.3364],"type":"Point"}
+}

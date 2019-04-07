@@ -1,0 +1,64 @@
+{
+  "id": 1209263783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.64269,18.74754,-69.64269,18.74754",
+    "geom:latitude":18.74754,
+    "geom:longitude":-69.64269,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020101.0",
+    "gn:asciiname":"Lazaro",
+    "gn:country_code":"DO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499830,
+    "gn:latitude":18.74754,
+    "gn:longitude":-69.64269,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"L\u00e1zaro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499830
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"351582e98df2a76c629e5bddf232901a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209263783
+        }
+    ],
+    "wof:id":1209263783,
+    "wof:lastmodified":1536292604,
+    "wof:name":"Lazaro",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.64269,
+    18.74754,
+    -69.64269,
+    18.74754
+],
+  "geometry": {"coordinates":[-69.64269,18.74754],"type":"Point"}
+}

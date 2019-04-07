@@ -1,0 +1,70 @@
+{
+  "id": 1209877375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3804,19.00365,-69.3804,19.00365",
+    "geom:latitude":19.00365,
+    "geom:longitude":-69.3804,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3002.0",
+    "gn:admin3_code":"300201.0",
+    "gn:admin4_code":"30020102.0",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"DO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502965,
+    "gn:latitude":19.00365,
+    "gn:longitude":-69.3804,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        890429219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502965
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"58f215d59c5f21aa785a45dfb9ceb63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429219,
+            "locality_id":1209877375,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1209877375,
+    "wof:lastmodified":1536396615,
+    "wof:name":"La Cruz",
+    "wof:parent_id":890429219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3804,
+    19.00365,
+    -69.3804,
+    19.00365
+],
+  "geometry": {"coordinates":[-69.38039999999999,19.00365],"type":"Point"}
+}

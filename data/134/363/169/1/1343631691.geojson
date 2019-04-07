@@ -1,0 +1,74 @@
+{
+  "id": 1343631691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56318,19.76091,-71.56318,19.76091",
+    "geom:latitude":19.76091,
+    "geom:longitude":-71.56318,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010103.0",
+    "gn:asciiname":"La Cruz de Palo Verde",
+    "gn:country_code":"DO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502934,
+    "gn:latitude":19.76091,
+    "gn:longitude":-71.56318,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cruz de Palo Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cruz",
+        "La Cruz de Palo Verde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502934
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"869b4f4774d017b99d56c8091b7d8c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721131,
+            "locality_id":1343631691,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1343631691,
+    "wof:lastmodified":1537619985,
+    "wof:name":"La Cruz de Palo Verde",
+    "wof:parent_id":1108721131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56318,
+    19.76091,
+    -71.56318,
+    19.76091
+],
+  "geometry": {"coordinates":[-71.56318,19.76091],"type":"Point"}
+}

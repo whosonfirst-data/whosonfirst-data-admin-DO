@@ -1,0 +1,70 @@
+{
+  "id": 1343597357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5,19.03333,-70.5,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":-70.5,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280102.0",
+    "gn:admin4_code":"28010203.0",
+    "gn:asciiname":"La Zapa",
+    "gn:country_code":"DO",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499831,
+    "gn:latitude":19.03333,
+    "gn:longitude":-70.5,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Zapa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499831
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"160cac1116b4b85b3f71e26a9dd6c885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1343597357,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1343597357,
+    "wof:lastmodified":1537044211,
+    "wof:name":"La Zapa",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5,
+    19.03333,
+    -70.5,
+    19.03333
+],
+  "geometry": {"coordinates":[-70.5,19.03333],"type":"Point"}
+}

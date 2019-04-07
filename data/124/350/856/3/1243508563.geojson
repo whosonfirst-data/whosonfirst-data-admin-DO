@@ -1,0 +1,70 @@
+{
+  "id": 1243508563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.20726,18.31066,-70.20726,18.31066",
+    "geom:latitude":18.31066,
+    "geom:longitude":-70.20726,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:admin4_code":"21060103.0",
+    "gn:asciiname":"Cruce de La Jagua",
+    "gn:country_code":"DO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509167,
+    "gn:latitude":18.31066,
+    "gn:longitude":-70.20726,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509167
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0aa4416fab6d13310aeb98e06086b2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429185,
+            "locality_id":1243508563,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1243508563,
+    "wof:lastmodified":1536716418,
+    "wof:name":"Cruce de La Jagua",
+    "wof:parent_id":890429185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.20725999999999,
+    18.31066,
+    -70.20725999999999,
+    18.31066
+],
+  "geometry": {"coordinates":[-70.20725999999999,18.31066],"type":"Point"}
+}

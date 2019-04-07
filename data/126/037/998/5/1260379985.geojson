@@ -1,0 +1,74 @@
+{
+  "id": 1260379985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.87052,18.46301,-68.87052,18.46301",
+    "geom:latitude":18.46301,
+    "geom:longitude":-68.87052,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020103.0",
+    "gn:asciiname":"Santa Cruz de Gato",
+    "gn:country_code":"DO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492983,
+    "gn:latitude":18.46301,
+    "gn:longitude":-68.87052,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Santa Cruz de Gato",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gato",
+        "Santa Cruz de Gato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492983
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"986680bb804f0b98836f0fc4bd0586c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1260379985,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1260379985,
+    "wof:lastmodified":1537619909,
+    "wof:name":"Santa Cruz de Gato",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.87052,
+    18.46301,
+    -68.87052,
+    18.46301
+],
+  "geometry": {"coordinates":[-68.87052,18.46301],"type":"Point"}
+}

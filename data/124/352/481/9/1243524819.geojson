@@ -1,0 +1,70 @@
+{
+  "id": 1243524819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25,19.63333,-71.25,19.63333",
+    "geom:latitude":19.63333,
+    "geom:longitude":-71.25,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150304.0",
+    "gn:admin4_code":"15030403.0",
+    "gn:asciiname":"Cana",
+    "gn:country_code":"DO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510598,
+    "gn:latitude":19.63333,
+    "gn:longitude":-71.25,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510598
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"04f1ad098aa99eb6595efe864df601bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1243524819,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1243524819,
+    "wof:lastmodified":1536692855,
+    "wof:name":"Cana",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25,
+    19.63333,
+    -71.25,
+    19.63333
+],
+  "geometry": {"coordinates":[-71.25,19.63333],"type":"Point"}
+}

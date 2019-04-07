@@ -1,0 +1,75 @@
+{
+  "id": 1326744641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.9,18.33333,-70.9,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-70.9,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20106.0",
+    "gn:admin4_code":"2010602.0",
+    "gn:asciiname":"Mordan",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496109,
+    "gn:latitude":18.33333,
+    "gn:longitude":-70.9,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mord\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moredon",
+        "Mord\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496109
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"595616d3b63bb2ca73e4fcc893b28d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721105,
+            "locality_id":1326744641,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1326744641,
+    "wof:lastmodified":1537619928,
+    "wof:name":"Mordan",
+    "wof:parent_id":1108721105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.9,
+    18.33333,
+    -70.9,
+    18.33333
+],
+  "geometry": {"coordinates":[-70.90000000000001,18.33333],"type":"Point"}
+}

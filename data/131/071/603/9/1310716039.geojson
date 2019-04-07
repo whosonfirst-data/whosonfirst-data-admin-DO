@@ -1,0 +1,70 @@
+{
+  "id": 1310716039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55672,18.28649,-70.55672,18.28649",
+    "geom:latitude":18.28649,
+    "geom:longitude":-70.55672,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"202.0",
+    "gn:admin3_code":"20202.0",
+    "gn:admin4_code":"2020202.0",
+    "gn:asciiname":"Los Paredones",
+    "gn:country_code":"DO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497852,
+    "gn:latitude":18.28649,
+    "gn:longitude":-70.55672,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Paredones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497852
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e59a392a5b417b3a4a9ac6e655f0a142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721189,
+            "locality_id":1310716039,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1310716039,
+    "wof:lastmodified":1536610538,
+    "wof:name":"Los Paredones",
+    "wof:parent_id":1108721189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55672,
+    18.28649,
+    -70.55672,
+    18.28649
+],
+  "geometry": {"coordinates":[-70.55672,18.28649],"type":"Point"}
+}

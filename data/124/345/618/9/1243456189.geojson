@@ -1,0 +1,74 @@
+{
+  "id": 1243456189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29804,17.93487,-71.29804,17.93487",
+    "geom:latitude":17.93487,
+    "geom:longitude":-71.29804,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40302.0",
+    "gn:admin4_code":"4030205.0",
+    "gn:asciiname":"Naranjal",
+    "gn:country_code":"DO",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495991,
+    "gn:latitude":17.93487,
+    "gn:longitude":-71.29804,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Naranjal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Naranjal",
+        "Naranjal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495991
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6706d77e4d4bf58377df1d913b39590e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":1243456189,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1243456189,
+    "wof:lastmodified":1537619928,
+    "wof:name":"Naranjal",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29804,
+    17.93487,
+    -71.29804,
+    17.93487
+],
+  "geometry": {"coordinates":[-71.29804,17.93487],"type":"Point"}
+}

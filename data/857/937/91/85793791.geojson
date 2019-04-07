@@ -1,0 +1,132 @@
+{
+  "id": 85793791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14525714.35137,
+    "geom:bbox":"-69.837571,18.470121,-69.837571,18.470121",
+    "geom:latitude":18.470121,
+    "geom:longitude":-69.837571,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":18.46667,
+    "gn:longitude":-69.85,
+    "iso:country":"DO",
+    "lbl:latitude":18.470121,
+    "lbl:longitude":-69.837571,
+    "mps:latitude":18.466315,
+    "mps:longitude":-69.831865,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Los Mameyes"
+    ],
+    "name:unk_x_variant":[
+        "Los Mameyes"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"37",
+    "qs:gn_name":"Los Mameyes",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Los Mameyes",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santo Domingo",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":81,
+    "qs:photo_sum":197,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":28358196,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3498146,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Los Mameyes",
+    "qs_pg:name_adm0":"Rep\u00fablica Dominicana",
+    "qs_pg:name_adm1":"Santo Domingo",
+    "qs_pg:photos":202,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":202,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1157495,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424800,
+    "qs_pg:woe_id":74685,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670553,
+        102191575,
+        85632713,
+        1108721275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498146,
+        "gp:id":74685,
+        "qs:id":1157495,
+        "qs_pg:id":1157495
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e5d94c336a3aa4de165311c5225c4d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721275,
+            "locality_id":-1,
+            "neighbourhood_id":85793791,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":85793791,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379288,
+    "wof:name":"Los Mameyes",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126061417
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.837571,
+    18.470121,
+    -69.837571,
+    18.470121
+],
+  "geometry": {"coordinates":[-69.837571,18.470121],"type":"Point"}
+}

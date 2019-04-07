@@ -1,0 +1,75 @@
+{
+  "id": 1276210371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83837,18.4459,-68.83837,18.4459",
+    "geom:latitude":18.4459,
+    "geom:longitude":-68.83837,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020103.0",
+    "gn:asciiname":"Ballestero",
+    "gn:country_code":"DO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512113,
+    "gn:latitude":18.4459,
+    "gn:longitude":-68.83837,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ballestero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Ballesteros",
+        "Ballesteros",
+        "Ballestero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512113
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"082a07af2e681f2d7eca94f0eda4209d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1276210371,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1276210371,
+    "wof:lastmodified":1537620080,
+    "wof:name":"Ballestero",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83837,
+    18.4459,
+    -68.83837,
+    18.4459
+],
+  "geometry": {"coordinates":[-68.83837,18.4459],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242819895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.95637,18.74268,-69.95637,18.74268",
+    "geom:latitude":18.74268,
+    "geom:longitude":-69.95637,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290402.0",
+    "gn:admin4_code":"29040205.0",
+    "gn:asciiname":"Las Mayas",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500366,
+    "gn:latitude":18.74268,
+    "gn:longitude":-69.95637,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Mayas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500366
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"417eac92e4950947584a78163542f4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1242819895,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1242819895,
+    "wof:lastmodified":1536715031,
+    "wof:name":"Las Mayas",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.95636999999999,
+    18.74268,
+    -69.95636999999999,
+    18.74268
+],
+  "geometry": {"coordinates":[-69.95636999999999,18.74268],"type":"Point"}
+}

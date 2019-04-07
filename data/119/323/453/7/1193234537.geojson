@@ -1,0 +1,70 @@
+{
+  "id": 1193234537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.52111,18.93056,-71.52111,18.93056",
+    "geom:latitude":18.93056,
+    "geom:longitude":-71.52111,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220503.0",
+    "gn:admin4_code":"22050303.0",
+    "gn:asciiname":"Cana Segura",
+    "gn:country_code":"DO",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510438,
+    "gn:latitude":18.93056,
+    "gn:longitude":-71.52111,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1a Segura",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510438
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"004e59257f6d7288c479ec5f62cef237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429267,
+            "locality_id":1193234537,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1193234537,
+    "wof:lastmodified":1536384763,
+    "wof:name":"Cana Segura",
+    "wof:parent_id":890429267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.52111,
+    18.93056,
+    -71.52111,
+    18.93056
+],
+  "geometry": {"coordinates":[-71.52110999999999,18.93056],"type":"Point"}
+}

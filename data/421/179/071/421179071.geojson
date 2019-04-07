@@ -1,0 +1,142 @@
+{
+  "id": 421179071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.60914,18.45174,-69.60914,18.45174",
+    "geom:latitude":18.45174,
+    "geom:longitude":-69.60914,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u5361\u5947\u5361"
+    ],
+    "name:deu_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:dut_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:eng_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:fre_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:ger_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7\u05d4 \u05e6'\u05d9\u05e7\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:nan_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:nld_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:pol_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:por_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u0430-\u0427\u0438\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043a\u0430 \u0427\u0438\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:swe_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043a\u0430-\u0427\u0438\u043a\u0430"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5361\u5947\u5361"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3511336,
+    "qs:gn_pop":46300,
+    "qs:name":"Boca Chica",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santo Domingo",
+    "qs:photos":748,
+    "qs:photos_1k":152,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":748,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":148580,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":69573,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":522,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511336,
+        "gp:id":69573,
+        "qs:id":148580,
+        "wd:id":"Q888935",
+        "wk:page":"Boca Chica"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009203,
+    "wof:geomhash":"18cda8a388e552afec62e84ed1b8eb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721119,
+            "locality_id":421179071,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":421179071,
+    "wof:lastmodified":1527717704,
+    "wof:name":"Boca Chica",
+    "wof:parent_id":1108721119,
+    "wof:placetype":"locality",
+    "wof:population":46300,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.60914,
+    18.45174,
+    -69.60914,
+    18.45174
+],
+  "geometry": {"coordinates":[-69.60914,18.45174],"type":"Point"}
+}

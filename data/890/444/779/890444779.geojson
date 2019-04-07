@@ -1,0 +1,96 @@
+{
+  "id": 890444779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88827,19.31834,-69.88827,19.31834",
+    "geom:latitude":19.31834,
+    "geom:longitude":-69.88827,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":7014,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u6cd5\u514b\u6258\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "El Factor"
+    ],
+    "name:eng_x_preferred":[
+        "El Factor"
+    ],
+    "name:fre_x_preferred":[
+        "El Factor"
+    ],
+    "name:ita_x_preferred":[
+        "El Factor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d5\u30a1\u30af\u30c8\u30eb"
+    ],
+    "name:nan_x_preferred":[
+        "El Factor"
+    ],
+    "name:por_x_preferred":[
+        "El Factor"
+    ],
+    "name:swe_x_preferred":[
+        "El Factor"
+    ],
+    "qs:name":"El Factor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890420141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507628,
+        "gp:id":75405,
+        "qs:id":1045381,
+        "wd:id":"Q3720911",
+        "wk:page":"El Factor"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052481,
+    "wof:geomhash":"177902867a2fcc6a45cff01f3d0768c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420141,
+            "locality_id":890444779,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":890444779,
+    "wof:lastmodified":1553816401,
+    "wof:name":"El Factor",
+    "wof:parent_id":890420141,
+    "wof:placetype":"locality",
+    "wof:population":7014,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88827,
+    19.31834,
+    -69.88827,
+    19.31834
+],
+  "geometry": {"coordinates":[-69.88827000000001,19.31834],"type":"Point"}
+}

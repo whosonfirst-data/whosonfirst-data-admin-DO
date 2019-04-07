@@ -1,0 +1,70 @@
+{
+  "id": 1242842219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.86393,19.15576,-70.86393,19.15576",
+    "geom:latitude":19.15576,
+    "geom:longitude":-70.86393,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250302.0",
+    "gn:admin4_code":"25030206.0",
+    "gn:asciiname":"El Cerrazo",
+    "gn:country_code":"DO",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507994,
+    "gn:latitude":19.15576,
+    "gn:longitude":-70.86393,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Cerrazo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507994
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"baae9ad7e66e28b75069986bc58a6006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1242842219,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1242842219,
+    "wof:lastmodified":1536682538,
+    "wof:name":"El Cerrazo",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.86393000000002,
+    19.15576,
+    -70.86393000000002,
+    19.15576
+],
+  "geometry": {"coordinates":[-70.86393000000002,19.15576],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226584389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.40065,18.3682,-70.40065,18.3682",
+    "geom:latitude":18.3682,
+    "geom:longitude":-70.40065,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170101.0",
+    "gn:admin4_code":"17010110.0",
+    "gn:asciiname":"Los Chupaderos",
+    "gn:country_code":"DO",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498848,
+    "gn:latitude":18.3682,
+    "gn:longitude":-70.40065,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Chupaderos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498848
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0b2b785e28289bd7f1e2837e89530ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1226584389,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1226584389,
+    "wof:lastmodified":1536944978,
+    "wof:name":"Los Chupaderos",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.40065,
+    18.3682,
+    -70.40065,
+    18.3682
+],
+  "geometry": {"coordinates":[-70.40065,18.3682],"type":"Point"}
+}

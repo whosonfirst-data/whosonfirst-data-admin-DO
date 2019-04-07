@@ -1,0 +1,74 @@
+{
+  "id": 1343506963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78586,18.97497,-69.78586,18.97497",
+    "geom:latitude":18.97497,
+    "geom:longitude":-69.78586,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030103.0",
+    "gn:asciiname":"Aserradero",
+    "gn:country_code":"DO",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512289,
+    "gn:latitude":18.97497,
+    "gn:longitude":-69.78586,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Aserradero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Aserradero",
+        "Aserradero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512289
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3f9f444b56c9c2e0491cee5929f93582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1343506963,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1343506963,
+    "wof:lastmodified":1537620081,
+    "wof:name":"Aserradero",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78586,
+    18.97497000000001,
+    -69.78586,
+    18.97497000000001
+],
+  "geometry": {"coordinates":[-69.78586,18.97497000000001],"type":"Point"}
+}

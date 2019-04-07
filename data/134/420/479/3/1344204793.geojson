@@ -1,0 +1,76 @@
+{
+  "id": 1344204793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05092,18.65031,-69.05092,18.65031",
+    "geom:latitude":18.65031,
+    "geom:longitude":-69.05092,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010103.0",
+    "gn:asciiname":"Batey Albizu",
+    "gn:country_code":"DO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511883,
+    "gn:latitude":18.65031,
+    "gn:longitude":-69.05092,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Albiz\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Albiz\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Batey Albiz\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511883
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"97ca6f06b2856bd77448268240bb2023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1344204793,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1344204793,
+    "wof:lastmodified":1537620079,
+    "wof:name":"Batey Albizu",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05091999999999,
+    18.65031,
+    -69.05091999999999,
+    18.65031
+],
+  "geometry": {"coordinates":[-69.05091999999999,18.65031],"type":"Point"}
+}

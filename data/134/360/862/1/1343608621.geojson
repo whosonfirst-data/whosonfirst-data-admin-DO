@@ -1,0 +1,70 @@
+{
+  "id": 1343608621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37199,18.73435,-69.37199,18.73435",
+    "geom:latitude":18.73435,
+    "geom:longitude":-69.37199,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300101.0",
+    "gn:admin4_code":"30010102.0",
+    "gn:asciiname":"La Mata de la Gallina",
+    "gn:country_code":"DO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501674,
+    "gn:latitude":18.73435,
+    "gn:longitude":-69.37199,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Mata de la Gallina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501674
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"db2f860de7763064d125ebc73199af4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1343608621,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1343608621,
+    "wof:lastmodified":1537028640,
+    "wof:name":"La Mata de la Gallina",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37199,
+    18.73435,
+    -69.37199,
+    18.73435
+],
+  "geometry": {"coordinates":[-69.37199,18.73435],"type":"Point"}
+}

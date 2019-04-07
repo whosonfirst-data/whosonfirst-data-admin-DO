@@ -1,0 +1,70 @@
+{
+  "id": 1327275119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88644,18.47,-69.88644,18.47",
+    "geom:latitude":18.47,
+    "geom:longitude":-69.88644,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:admin4_code":"1010101.0",
+    "gn:asciiname":"Zona Colonial",
+    "gn:country_code":"DO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7290233,
+    "gn:latitude":18.47,
+    "gn:longitude":-69.88644,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Zona Colonial",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670659,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7290233
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"36d3246a24306a9aa7f90e9a7b8a38b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":1327275119,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":1327275119,
+    "wof:lastmodified":1536908212,
+    "wof:name":"Zona Colonial",
+    "wof:parent_id":1108721273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88644000000001,
+    18.47,
+    -69.88644000000001,
+    18.47
+],
+  "geometry": {"coordinates":[-69.88644000000001,18.47],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226440141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19919,19.31484,-70.19919,19.31484",
+    "geom:latitude":19.31484,
+    "geom:longitude":-70.19919,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60102.0",
+    "gn:admin4_code":"6010208.0",
+    "gn:asciiname":"La Zarza",
+    "gn:country_code":"DO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499826,
+    "gn:latitude":19.31484,
+    "gn:longitude":-70.19919,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Zarza",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Zarsa",
+        "La Zarza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499826
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"97390e1d9435ef853f9cf9cb799d7b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1226440141,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1226440141,
+    "wof:lastmodified":1537619954,
+    "wof:name":"La Zarza",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19919,
+    19.31484,
+    -70.19919,
+    19.31484
+],
+  "geometry": {"coordinates":[-70.19919,19.31484],"type":"Point"}
+}

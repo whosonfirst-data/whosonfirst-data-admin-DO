@@ -1,0 +1,70 @@
+{
+  "id": 890455309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17173,19.27676,-70.17173,19.27676",
+    "geom:latitude":19.27676,
+    "geom:longitude":-70.17173,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":976,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Patao"
+    ],
+    "qs:name":"La Pe\u00f1a",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501329,
+        "qs:id":95768,
+        "wk:page":"La Pe\u00f1a"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052942,
+    "wof:geomhash":"49028389ace32a1d4e9e9ead1b543ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":890455309,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":890455309,
+    "wof:lastmodified":1527734189,
+    "wof:name":"La Pe\u00f1a",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:population":976,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17173,
+    19.27676,
+    -70.17173,
+    19.27676
+],
+  "geometry": {"coordinates":[-70.17173,19.27676],"type":"Point"}
+}

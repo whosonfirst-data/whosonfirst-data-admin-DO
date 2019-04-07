@@ -1,0 +1,74 @@
+{
+  "id": 1276494593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.12982,18.47186,-70.12982,18.47186",
+    "geom:latitude":18.47186,
+    "geom:longitude":-70.12982,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210101.0",
+    "gn:admin4_code":"21010102.0",
+    "gn:asciiname":"Boruga",
+    "gn:country_code":"DO",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511171,
+    "gn:latitude":18.47186,
+    "gn:longitude":-70.12982,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boruga",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borugas",
+        "Boruga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511171
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"677093da3891255138c55a16ed3f4014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1276494593,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1276494593,
+    "wof:lastmodified":1537620061,
+    "wof:name":"Boruga",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.12982,
+    18.47186,
+    -70.12982,
+    18.47186
+],
+  "geometry": {"coordinates":[-70.12982,18.47186],"type":"Point"}
+}

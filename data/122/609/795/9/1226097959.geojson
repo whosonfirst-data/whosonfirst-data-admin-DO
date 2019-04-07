@@ -1,0 +1,70 @@
+{
+  "id": 1226097959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.12256,18.52503,-69.12256,18.52503",
+    "geom:latitude":18.52503,
+    "geom:longitude":-69.12256,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:admin4_code":"23030104.0",
+    "gn:asciiname":"Agua Lluvia",
+    "gn:country_code":"DO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512918,
+    "gn:latitude":18.52503,
+    "gn:longitude":-69.12256,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Agua Lluvia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512918
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3b0c0a6601c022932e403d040c32e66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429221,
+            "locality_id":1226097959,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1226097959,
+    "wof:lastmodified":1536649634,
+    "wof:name":"Agua Lluvia",
+    "wof:parent_id":890429221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.12256,
+    18.52503,
+    -69.12256,
+    18.52503
+],
+  "geometry": {"coordinates":[-69.12255999999999,18.52503],"type":"Point"}
+}

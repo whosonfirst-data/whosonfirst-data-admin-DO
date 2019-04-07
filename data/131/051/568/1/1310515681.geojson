@@ -1,0 +1,75 @@
+{
+  "id": 1310515681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88333,18.56667,-70.88333,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":-70.88333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20801.0",
+    "gn:admin4_code":"2080102.0",
+    "gn:asciiname":"Los Calabrones",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499099,
+    "gn:latitude":18.56667,
+    "gn:longitude":-70.88333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Calabrones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Cambrones",
+        "Los Calabrones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499099
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b698049c5342772ad54e75bf22f5d673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721287,
+            "locality_id":1310515681,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1310515681,
+    "wof:lastmodified":1537619948,
+    "wof:name":"Los Calabrones",
+    "wof:parent_id":1108721287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88333,
+    18.56667,
+    -70.88333,
+    18.56667
+],
+  "geometry": {"coordinates":[-70.88333,18.56667],"type":"Point"}
+}

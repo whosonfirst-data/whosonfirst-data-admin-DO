@@ -1,0 +1,70 @@
+{
+  "id": 1226643193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53992,19.42739,-70.53992,19.42739",
+    "geom:latitude":19.42739,
+    "geom:longitude":-70.53992,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90101.0",
+    "gn:admin4_code":"9010105.0",
+    "gn:asciiname":"La Ermita",
+    "gn:country_code":"DO",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502737,
+    "gn:latitude":19.42739,
+    "gn:longitude":-70.53992,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Ermita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502737
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"eb309e1711f79d7b23183e6072bdac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1226643193,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1226643193,
+    "wof:lastmodified":1536861734,
+    "wof:name":"La Ermita",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53992,
+    19.42739,
+    -70.53992,
+    19.42739
+],
+  "geometry": {"coordinates":[-70.53992,19.42739],"type":"Point"}
+}

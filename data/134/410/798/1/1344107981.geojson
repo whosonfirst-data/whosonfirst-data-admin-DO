@@ -1,0 +1,75 @@
+{
+  "id": 1344107981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.11076,18.78793,-69.11076,18.78793",
+    "geom:latitude":18.78793,
+    "geom:longitude":-69.11076,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010104.0",
+    "gn:asciiname":"Sopaipo",
+    "gn:country_code":"DO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492634,
+    "gn:latitude":18.78793,
+    "gn:longitude":-69.11076,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sopaipo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sopeipo",
+        "El Sopapo",
+        "Sopaipo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492634
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"172d9be13ecc6954ad5811c8c87aaa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1344107981,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1344107981,
+    "wof:lastmodified":1537619908,
+    "wof:name":"Sopaipo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.11076,
+    18.78793,
+    -69.11076,
+    18.78793
+],
+  "geometry": {"coordinates":[-69.11076,18.78793],"type":"Point"}
+}

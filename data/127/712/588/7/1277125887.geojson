@@ -1,0 +1,70 @@
+{
+  "id": 1277125887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91667,19.01667,-69.91667,19.01667",
+    "geom:latitude":19.01667,
+    "geom:longitude":-69.91667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030104.0",
+    "gn:asciiname":"Payabo",
+    "gn:country_code":"DO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495156,
+    "gn:latitude":19.01667,
+    "gn:longitude":-69.91667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Payabo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495156
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"19e7f454674dab1106307dbe2a166201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1277125887,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1277125887,
+    "wof:lastmodified":1536705853,
+    "wof:name":"Payabo",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91667,
+    19.01667,
+    -69.91667,
+    19.01667
+],
+  "geometry": {"coordinates":[-69.91667,19.01667],"type":"Point"}
+}

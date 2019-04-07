@@ -1,0 +1,70 @@
+{
+  "id": 1344003653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.81103,18.78207,-69.81103,18.78207",
+    "geom:latitude":18.78207,
+    "geom:longitude":-69.81103,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290104.0",
+    "gn:admin4_code":"29010404.0",
+    "gn:asciiname":"Caralinda",
+    "gn:country_code":"DO",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510197,
+    "gn:latitude":18.78207,
+    "gn:longitude":-69.81103,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Caralinda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510197
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"99468cae226a8dfad417307e8eca763a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1344003653,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1344003653,
+    "wof:lastmodified":1536957667,
+    "wof:name":"Caralinda",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.81103,
+    18.78207,
+    -69.81103,
+    18.78207
+],
+  "geometry": {"coordinates":[-69.81103,18.78207],"type":"Point"}
+}

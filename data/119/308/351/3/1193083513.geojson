@@ -1,0 +1,75 @@
+{
+  "id": 1193083513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38333,19.1,-70.38333,19.1",
+    "geom:latitude":19.1,
+    "geom:longitude":-70.38333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130401.0",
+    "gn:admin4_code":"13040102.0",
+    "gn:asciiname":"Pico Alto",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494941,
+    "gn:latitude":19.1,
+    "gn:longitude":-70.38333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pico Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paraje Pico Alto",
+        "Pico Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494941
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"738e1aead6609ff5da2364c81c1ff9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721173,
+            "locality_id":1193083513,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1193083513,
+    "wof:lastmodified":1537619921,
+    "wof:name":"Pico Alto",
+    "wof:parent_id":1108721173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38333,
+    19.1,
+    -70.38333,
+    19.1
+],
+  "geometry": {"coordinates":[-70.38333,19.1],"type":"Point"}
+}

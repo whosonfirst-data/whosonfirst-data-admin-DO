@@ -1,0 +1,74 @@
+{
+  "id": 1309774645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06314,18.78472,-71.06314,18.78472",
+    "geom:latitude":18.78472,
+    "geom:longitude":-71.06314,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220203.0",
+    "gn:admin4_code":"22020303.0",
+    "gn:asciiname":"Loma del Yaque",
+    "gn:country_code":"DO",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499574,
+    "gn:latitude":18.78472,
+    "gn:longitude":-71.06314,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Loma del Yaque",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Loma del Yaque",
+        "Loma del Yaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499574
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a3c3273c5bf24b25d0cdc15aa45e6aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721121,
+            "locality_id":1309774645,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1309774645,
+    "wof:lastmodified":1537619953,
+    "wof:name":"Loma del Yaque",
+    "wof:parent_id":1108721121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06314,
+    18.78472,
+    -71.06314,
+    18.78472
+],
+  "geometry": {"coordinates":[-71.06314,18.78472],"type":"Point"}
+}

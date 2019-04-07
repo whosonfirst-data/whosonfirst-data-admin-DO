@@ -1,0 +1,74 @@
+{
+  "id": 1309964781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14879,18.93588,-70.14879,18.93588",
+    "geom:latitude":18.93588,
+    "geom:longitude":-70.14879,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010104.0",
+    "gn:asciiname":"Paradero",
+    "gn:country_code":"DO",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495282,
+    "gn:latitude":18.93588,
+    "gn:longitude":-70.14879,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Paradero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reparadero",
+        "Paradero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495282
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2a27ab2f0ead1eb2db1fe8e35159c40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1309964781,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1309964781,
+    "wof:lastmodified":1537619923,
+    "wof:name":"Paradero",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14879,
+    18.93588,
+    -70.14879,
+    18.93588
+],
+  "geometry": {"coordinates":[-70.14879000000001,18.93588],"type":"Point"}
+}

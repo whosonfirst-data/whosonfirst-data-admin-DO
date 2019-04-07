@@ -1,0 +1,74 @@
+{
+  "id": 1327211887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.68546,19.08393,-71.68546,19.08393",
+    "geom:latitude":19.08393,
+    "geom:longitude":-71.68546,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70201.0",
+    "gn:admin4_code":"7020103.0",
+    "gn:asciiname":"El Tabacal",
+    "gn:country_code":"DO",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506152,
+    "gn:latitude":19.08393,
+    "gn:longitude":-71.68546,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Tabacal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabacal",
+        "El Tabacal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506152
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"25f7f445890fd38512c25108bec754ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1327211887,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1327211887,
+    "wof:lastmodified":1537620014,
+    "wof:name":"El Tabacal",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.68545999999998,
+    19.08393,
+    -71.68545999999998,
+    19.08393
+],
+  "geometry": {"coordinates":[-71.68545999999998,19.08393],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243219537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.09581,18.57975,-69.09581,18.57975",
+    "geom:latitude":18.57975,
+    "geom:longitude":-69.09581,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:admin4_code":"23030104.0",
+    "gn:asciiname":"Batey Lima",
+    "gn:country_code":"DO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511745,
+    "gn:latitude":18.57975,
+    "gn:longitude":-69.09581,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Lima",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lima",
+        "Batey Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511745
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3bf9d4ba6122ebd5452e7fbc1356bec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429221,
+            "locality_id":1243219537,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1243219537,
+    "wof:lastmodified":1537620071,
+    "wof:name":"Batey Lima",
+    "wof:parent_id":890429221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.09581,
+    18.57975,
+    -69.09581,
+    18.57975
+],
+  "geometry": {"coordinates":[-69.09581,18.57975],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293239441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45137,18.93829,-69.45137,18.93829",
+    "geom:latitude":18.93829,
+    "geom:longitude":-69.45137,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3003.0",
+    "gn:admin3_code":"300301.0",
+    "gn:admin4_code":"30030103.0",
+    "gn:asciiname":"Pedro Pablo",
+    "gn:country_code":"DO",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495105,
+    "gn:latitude":18.93829,
+    "gn:longitude":-69.45137,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pedro Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        890438115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495105
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2e8b0c0f72a7959c9e7469d8c5fadca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890438115,
+            "locality_id":1293239441,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1293239441,
+    "wof:lastmodified":1536647202,
+    "wof:name":"Pedro Pablo",
+    "wof:parent_id":890438115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45137,
+    18.93829,
+    -69.45137,
+    18.93829
+],
+  "geometry": {"coordinates":[-69.45137,18.93829],"type":"Point"}
+}

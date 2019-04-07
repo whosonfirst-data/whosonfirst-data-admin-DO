@@ -1,0 +1,75 @@
+{
+  "id": 1242956525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9541,19.5592,-69.9541,19.5592",
+    "geom:latitude":19.5592,
+    "geom:longitude":-69.9541,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140201.0",
+    "gn:admin4_code":"14020103.0",
+    "gn:asciiname":"El Pujador",
+    "gn:country_code":"DO",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506400,
+    "gn:latitude":19.5592,
+    "gn:longitude":-69.9541,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Pujador",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pujador",
+        "Pujado",
+        "El Pujador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506400
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"79b9a765328a0a34541105c88a511a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429259,
+            "locality_id":1242956525,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1242956525,
+    "wof:lastmodified":1537620017,
+    "wof:name":"El Pujador",
+    "wof:parent_id":890429259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9541,
+    19.5592,
+    -69.9541,
+    19.5592
+],
+  "geometry": {"coordinates":[-69.9541,19.5592],"type":"Point"}
+}

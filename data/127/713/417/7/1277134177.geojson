@@ -1,0 +1,76 @@
+{
+  "id": 1277134177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84598,19.27112,-70.84598,19.27112",
+    "geom:latitude":19.27112,
+    "geom:longitude":-70.84598,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250301.0",
+    "gn:admin4_code":"25030102.0",
+    "gn:asciiname":"La Cejita",
+    "gn:country_code":"DO",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503163,
+    "gn:latitude":19.27112,
+    "gn:longitude":-70.84598,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cejita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Sejita",
+        "Sejita",
+        "Cejita",
+        "La Cejita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503163
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"73db377097a9f8415843cef8596b44bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1277134177,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1277134177,
+    "wof:lastmodified":1537619988,
+    "wof:name":"La Cejita",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84598000000003,
+    19.27112,
+    -70.84598000000003,
+    19.27112
+],
+  "geometry": {"coordinates":[-70.84598000000003,19.27112],"type":"Point"}
+}

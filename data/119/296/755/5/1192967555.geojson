@@ -1,0 +1,70 @@
+{
+  "id": 1192967555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66753,18.92225,-69.66753,18.92225",
+    "geom:latitude":18.92225,
+    "geom:longitude":-69.66753,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020105.0",
+    "gn:asciiname":"Puerto Grande",
+    "gn:country_code":"DO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494274,
+    "gn:latitude":18.92225,
+    "gn:longitude":-69.66753,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Puerto Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494274
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cdd57dc03acb99c5575a6822ac09620d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1192967555,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1192967555,
+    "wof:lastmodified":1536381828,
+    "wof:name":"Puerto Grande",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66753,
+    18.92225,
+    -69.66753,
+    18.92225
+],
+  "geometry": {"coordinates":[-69.66753,18.92225],"type":"Point"}
+}

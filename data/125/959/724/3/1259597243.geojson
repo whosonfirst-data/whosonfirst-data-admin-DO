@@ -1,0 +1,74 @@
+{
+  "id": 1259597243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.78074,18.43364,-70.78074,18.43364",
+    "geom:latitude":18.43364,
+    "geom:longitude":-70.78074,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20103.0",
+    "gn:admin4_code":"2010302.0",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503248,
+    "gn:latitude":18.43364,
+    "gn:longitude":-70.78074,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceiba",
+        "La Ceiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503248
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ad462dc2ed0126f9259088d769f8857a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721105,
+            "locality_id":1259597243,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1259597243,
+    "wof:lastmodified":1537619990,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":1108721105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.78074000000002,
+    18.43364,
+    -70.78074000000002,
+    18.43364
+],
+  "geometry": {"coordinates":[-70.78074000000002,18.43364],"type":"Point"}
+}

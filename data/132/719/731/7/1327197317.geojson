@@ -1,0 +1,70 @@
+{
+  "id": 1327197317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07528,19.7891,-71.07528,19.7891",
+    "geom:latitude":19.7891,
+    "geom:longitude":-71.07528,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1808.0",
+    "gn:admin3_code":"180804.0",
+    "gn:admin4_code":"18080402.0",
+    "gn:asciiname":"Comedero",
+    "gn:country_code":"DO",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509399,
+    "gn:latitude":19.7891,
+    "gn:longitude":-71.07528,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Comedero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509399
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"08a97b88e6b4d0f7db8cf6f42afad56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429197,
+            "locality_id":1327197317,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1327197317,
+    "wof:lastmodified":1537019522,
+    "wof:name":"Comedero",
+    "wof:parent_id":890429197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07528,
+    19.7891,
+    -71.07528,
+    19.7891
+],
+  "geometry": {"coordinates":[-71.07528000000001,19.7891],"type":"Point"}
+}

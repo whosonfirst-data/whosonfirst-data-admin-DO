@@ -1,0 +1,76 @@
+{
+  "id": 1193095409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28333,18.65,-71.28333,18.65",
+    "geom:latitude":18.65,
+    "geom:longitude":-71.28333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220601.0",
+    "gn:admin4_code":"22060102.0",
+    "gn:asciiname":"Papayo",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495296,
+    "gn:latitude":18.65,
+    "gn:longitude":-71.28333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Papayo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bapaya",
+        "Papaya",
+        "Papayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495296
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e019a9b1d402b752d926315fc455762b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429203,
+            "locality_id":1193095409,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1193095409,
+    "wof:lastmodified":1537619924,
+    "wof:name":"Papayo",
+    "wof:parent_id":890429203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28333,
+    18.65,
+    -71.28333,
+    18.65
+],
+  "geometry": {"coordinates":[-71.28333000000001,18.65],"type":"Point"}
+}

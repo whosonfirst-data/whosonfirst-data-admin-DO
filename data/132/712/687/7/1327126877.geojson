@@ -1,0 +1,70 @@
+{
+  "id": 1327126877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.98157,19.23055,-69.98157,19.23055",
+    "geom:latitude":19.23055,
+    "geom:longitude":-69.98157,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:admin4_code":"6030107.0",
+    "gn:asciiname":"La Joya",
+    "gn:country_code":"DO",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502064,
+    "gn:latitude":19.23055,
+    "gn:longitude":-69.98157,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Joya",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502064
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"53ef1dc6832122993ecbadda907cec6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721135,
+            "locality_id":1327126877,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1327126877,
+    "wof:lastmodified":1536622041,
+    "wof:name":"La Joya",
+    "wof:parent_id":1108721135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.98156999999999,
+    19.23055,
+    -69.98156999999999,
+    19.23055
+],
+  "geometry": {"coordinates":[-69.98156999999999,19.23055],"type":"Point"}
+}

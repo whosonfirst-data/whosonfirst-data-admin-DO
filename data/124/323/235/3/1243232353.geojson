@@ -1,0 +1,70 @@
+{
+  "id": 1243232353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21555,18.64133,-71.21555,18.64133",
+    "geom:latitude":18.64133,
+    "geom:longitude":-71.21555,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220105.0",
+    "gn:admin4_code":"22010504.0",
+    "gn:asciiname":"Caobita",
+    "gn:country_code":"DO",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510265,
+    "gn:latitude":18.64133,
+    "gn:longitude":-71.21555,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Caobita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510265
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d415daa8155ab288f6a24068f693164e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1243232353,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1243232353,
+    "wof:lastmodified":1536614936,
+    "wof:name":"Caobita",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21555,
+    18.64133,
+    -71.21555,
+    18.64133
+],
+  "geometry": {"coordinates":[-71.21554999999999,18.64133],"type":"Point"}
+}

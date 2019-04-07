@@ -1,0 +1,70 @@
+{
+  "id": 1293288367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72419,18.8613,-68.72419,18.8613",
+    "geom:latitude":18.8613,
+    "geom:longitude":-68.72419,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:admin4_code":"11010202.0",
+    "gn:asciiname":"La Zanja",
+    "gn:country_code":"DO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499840,
+    "gn:latitude":18.8613,
+    "gn:longitude":-68.72419,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Zanja",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499840
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5a922c59c0593c3d32d4ac2e70c7c4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1293288367,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1293288367,
+    "wof:lastmodified":1537071021,
+    "wof:name":"La Zanja",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72419000000001,
+    18.8613,
+    -68.72419000000001,
+    18.8613
+],
+  "geometry": {"coordinates":[-68.72419000000001,18.8613],"type":"Point"}
+}

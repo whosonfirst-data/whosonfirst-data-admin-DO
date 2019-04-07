@@ -1,0 +1,70 @@
+{
+  "id": 1293501417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.81667,18.75,-70.81667,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":-70.81667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"209.0",
+    "gn:admin3_code":"20901.0",
+    "gn:admin4_code":"2090103.0",
+    "gn:asciiname":"Las Cojas",
+    "gn:country_code":"DO",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500627,
+    "gn:latitude":18.75,
+    "gn:longitude":-70.81667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Cojas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500627
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f06660b743d4c00f93eb8f293a87b4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721161,
+            "locality_id":1293501417,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1293501417,
+    "wof:lastmodified":1536767324,
+    "wof:name":"Las Cojas",
+    "wof:parent_id":1108721161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.81667,
+    18.75,
+    -70.81667,
+    18.75
+],
+  "geometry": {"coordinates":[-70.81667,18.75],"type":"Point"}
+}

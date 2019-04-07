@@ -1,0 +1,70 @@
+{
+  "id": 1209850613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.37046,18.95521,-70.37046,18.95521",
+    "geom:latitude":18.95521,
+    "geom:longitude":-70.37046,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280103.0",
+    "gn:admin4_code":"28010303.0",
+    "gn:asciiname":"Rancho Nuevo",
+    "gn:country_code":"DO",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493971,
+    "gn:latitude":18.95521,
+    "gn:longitude":-70.37046,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rancho Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493971
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"79749860e3fdb63ace3eee47017cc1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1209850613,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1209850613,
+    "wof:lastmodified":1536388611,
+    "wof:name":"Rancho Nuevo",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.37046,
+    18.95521,
+    -70.37046,
+    18.95521
+],
+  "geometry": {"coordinates":[-70.37045999999999,18.95521],"type":"Point"}
+}

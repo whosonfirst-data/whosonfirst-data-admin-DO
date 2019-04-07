@@ -1,0 +1,70 @@
+{
+  "id": 1310002681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27302,19.62945,-70.27302,19.62945",
+    "geom:latitude":19.62945,
+    "geom:longitude":-70.27302,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:admin4_code":"9030101.0",
+    "gn:asciiname":"Los Franceses",
+    "gn:country_code":"DO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498601,
+    "gn:latitude":19.62945,
+    "gn:longitude":-70.27302,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Franceses",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498601
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"50eca95c524ce9cb199c8846f329ab09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429285,
+            "locality_id":1310002681,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1310002681,
+    "wof:lastmodified":1536647007,
+    "wof:name":"Los Franceses",
+    "wof:parent_id":890429285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27301999999999,
+    19.62945,
+    -70.27301999999999,
+    19.62945
+],
+  "geometry": {"coordinates":[-70.27301999999999,19.62945],"type":"Point"}
+}

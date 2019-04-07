@@ -1,0 +1,70 @@
+{
+  "id": 1276941711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11449,19.08995,-70.11449,19.08995",
+    "geom:latitude":19.08995,
+    "geom:longitude":-70.11449,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240105.0",
+    "gn:admin4_code":"24010503.0",
+    "gn:asciiname":"Chacuey Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509812,
+    "gn:latitude":19.08995,
+    "gn:longitude":-70.11449,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Chacuey Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509812
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0d8e9772213abbf6357addf7cf89d0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1276941711,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1276941711,
+    "wof:lastmodified":1536958496,
+    "wof:name":"Chacuey Abajo",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11449,
+    19.08995,
+    -70.11449,
+    19.08995
+],
+  "geometry": {"coordinates":[-70.11449,19.08995],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343327959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.58855,19.74752,-70.58855,19.74752",
+    "geom:latitude":19.74752,
+    "geom:longitude":-70.58855,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070103.0",
+    "gn:asciiname":"Sabaneta de Cangrejos",
+    "gn:country_code":"DO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493370,
+    "gn:latitude":19.74752,
+    "gn:longitude":-70.58855,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabaneta de Cangrejos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabana de Cangrejo",
+        "Sabana de Cangrejos",
+        "Sabaneta de Cangrejos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493370
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4394cc789876be968469a02bf6efb5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1343327959,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1343327959,
+    "wof:lastmodified":1537619911,
+    "wof:name":"Sabaneta de Cangrejos",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.58855,
+    19.74752,
+    -70.58855,
+    19.74752
+],
+  "geometry": {"coordinates":[-70.58855,19.74752],"type":"Point"}
+}

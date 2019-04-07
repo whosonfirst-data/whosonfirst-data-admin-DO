@@ -1,0 +1,75 @@
+{
+  "id": 1259981711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3,18.05,-71.3,18.05",
+    "geom:latitude":18.05,
+    "geom:longitude":-71.3,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40302.0",
+    "gn:admin4_code":"4030203.0",
+    "gn:asciiname":"La Mula",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501549,
+    "gn:latitude":18.05,
+    "gn:longitude":-71.3,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Mula",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Muda",
+        "La Mula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501549
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9984d1ac35fcfc8cfa4f6eb98ae88f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":1259981711,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1259981711,
+    "wof:lastmodified":1537619971,
+    "wof:name":"La Mula",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3,
+    18.05,
+    -71.3,
+    18.05
+],
+  "geometry": {"coordinates":[-71.3,18.05],"type":"Point"}
+}

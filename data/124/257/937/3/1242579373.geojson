@@ -1,0 +1,70 @@
+{
+  "id": 1242579373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28912,17.91558,-71.28912,17.91558",
+    "geom:latitude":17.91558,
+    "geom:longitude":-71.28912,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40302.0",
+    "gn:admin4_code":"4030201.0",
+    "gn:asciiname":"Arroyo Dulce",
+    "gn:country_code":"DO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512454,
+    "gn:latitude":17.91558,
+    "gn:longitude":-71.28912,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512454
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7baa84371bfb9066ef4e2572e818783f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":1242579373,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1242579373,
+    "wof:lastmodified":1537058535,
+    "wof:name":"Arroyo Dulce",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28912,
+    17.91558,
+    -71.28912,
+    17.91558
+],
+  "geometry": {"coordinates":[-71.28912,17.91558],"type":"Point"}
+}

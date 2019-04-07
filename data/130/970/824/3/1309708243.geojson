@@ -1,0 +1,74 @@
+{
+  "id": 1309708243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.3559,19.68845,-70.3559,19.68845",
+    "geom:latitude":19.68845,
+    "geom:longitude":-70.3559,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90303.0",
+    "gn:admin4_code":"9030303.0",
+    "gn:asciiname":"La Lometa",
+    "gn:country_code":"DO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501869,
+    "gn:latitude":19.68845,
+    "gn:longitude":-70.3559,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lometa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Senda",
+        "La Lometa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501869
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e462b7a872e33bef77836dd68aa5d475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429285,
+            "locality_id":1309708243,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1309708243,
+    "wof:lastmodified":1537619974,
+    "wof:name":"La Lometa",
+    "wof:parent_id":890429285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.3559,
+    19.68845,
+    -70.3559,
+    19.68845
+],
+  "geometry": {"coordinates":[-70.35590000000001,19.68845],"type":"Point"}
+}

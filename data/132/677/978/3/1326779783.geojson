@@ -1,0 +1,70 @@
+{
+  "id": 1326779783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78853,18.85716,-69.78853,18.85716",
+    "geom:latitude":18.85716,
+    "geom:longitude":-69.78853,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290104.0",
+    "gn:admin4_code":"29010404.0",
+    "gn:asciiname":"Mata del Burro",
+    "gn:country_code":"DO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496656,
+    "gn:latitude":18.85716,
+    "gn:longitude":-69.78853,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata del Burro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496656
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a1d64e20645e068c891364c39e4cba85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1326779783,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1326779783,
+    "wof:lastmodified":1536625389,
+    "wof:name":"Mata del Burro",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78853000000001,
+    18.85716,
+    -69.78853000000001,
+    18.85716
+],
+  "geometry": {"coordinates":[-69.78853000000001,18.85716],"type":"Point"}
+}

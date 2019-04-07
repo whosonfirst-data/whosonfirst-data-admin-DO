@@ -1,0 +1,74 @@
+{
+  "id": 1310552383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.16443,18.71171,-69.16443,18.71171",
+    "geom:latitude":18.71171,
+    "geom:longitude":-69.16443,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010109.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493049,
+    "gn:latitude":18.71171,
+    "gn:longitude":-69.16443,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey San Miguel",
+        "San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493049
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"69bd4ef9bbde3e8e724f7523159c214c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1310552383,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1310552383,
+    "wof:lastmodified":1537619910,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.16443000000001,
+    18.71171,
+    -69.16443000000001,
+    18.71171
+],
+  "geometry": {"coordinates":[-69.16443000000001,18.71171],"type":"Point"}
+}

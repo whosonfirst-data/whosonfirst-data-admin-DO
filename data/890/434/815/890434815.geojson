@@ -1,0 +1,77 @@
+{
+  "id": 890434815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25734,19.60703,-71.25734,19.60703",
+    "geom:latitude":19.60703,
+    "geom:longitude":-71.25734,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":1758,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cana Chapet\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Cana Chapet\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Cana Chapet\u00f3n"
+    ],
+    "qs:name":"Cana Chapet\u00f3n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510553,
+        "qs:id":148579,
+        "wd:id":"Q5029151",
+        "wk:page":"Cana Chapet\u00f3n"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052041,
+    "wof:geomhash":"99ac9d9a6238bb4ceabcc57bc50a0d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":890434815,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":890434815,
+    "wof:lastmodified":1527792947,
+    "wof:name":"Cana Chapet\u00f3n",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:population":1758,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25734,
+    19.60703,
+    -71.25734,
+    19.60703
+],
+  "geometry": {"coordinates":[-71.25734,19.60703],"type":"Point"}
+}

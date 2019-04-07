@@ -1,0 +1,74 @@
+{
+  "id": 1193182631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04154,18.45785,-70.04154,18.45785",
+    "geom:latitude":18.45785,
+    "geom:longitude":-70.04154,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2103.0",
+    "gn:admin3_code":"210302.0",
+    "gn:admin4_code":"21030204.0",
+    "gn:asciiname":"Teresandon",
+    "gn:country_code":"DO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492468,
+    "gn:latitude":18.45785,
+    "gn:longitude":-70.04154,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Teresand\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teresa Ando",
+        "Teresand\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492468
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d7ce94ac8042aa43c723131365a3173b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721107,
+            "locality_id":1193182631,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1193182631,
+    "wof:lastmodified":1537619907,
+    "wof:name":"Teresandon",
+    "wof:parent_id":1108721107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04154,
+    18.45785,
+    -70.04154,
+    18.45785
+],
+  "geometry": {"coordinates":[-70.04154,18.45785],"type":"Point"}
+}

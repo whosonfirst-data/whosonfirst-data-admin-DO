@@ -1,0 +1,75 @@
+{
+  "id": 1293347787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.79874,19.21016,-70.79874,19.21016",
+    "geom:latitude":19.21016,
+    "geom:longitude":-70.79874,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250302.0",
+    "gn:admin4_code":"25030204.0",
+    "gn:asciiname":"La Calaverna",
+    "gn:country_code":"DO",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503385,
+    "gn:latitude":19.21016,
+    "gn:longitude":-70.79874,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Calaverna",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calavera",
+        "La Calavera",
+        "La Calaverna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503385
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ea12a4c6101f8ec7f4094a4a753ed614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1293347787,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1293347787,
+    "wof:lastmodified":1537619992,
+    "wof:name":"La Calaverna",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.79874000000002,
+    19.21016,
+    -70.79874000000002,
+    19.21016
+],
+  "geometry": {"coordinates":[-70.79874000000002,19.21016],"type":"Point"}
+}

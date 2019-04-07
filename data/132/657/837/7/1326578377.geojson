@@ -1,0 +1,70 @@
+{
+  "id": 1326578377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17857,18.41476,-70.17857,18.41476",
+    "geom:latitude":18.41476,
+    "geom:longitude":-70.17857,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210402.0",
+    "gn:admin4_code":"21040204.0",
+    "gn:asciiname":"La Martinica",
+    "gn:country_code":"DO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501688,
+    "gn:latitude":18.41476,
+    "gn:longitude":-70.17857,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Martinica",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501688
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ec032538fcb056d7ba99d16cbfb2e87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721129,
+            "locality_id":1326578377,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1326578377,
+    "wof:lastmodified":1536918194,
+    "wof:name":"La Martinica",
+    "wof:parent_id":1108721129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17857,
+    18.41476,
+    -70.17857,
+    18.41476
+],
+  "geometry": {"coordinates":[-70.17856999999999,18.41476],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259845691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76066,19.68683,-70.76066,19.68683",
+    "geom:latitude":19.68683,
+    "geom:longitude":-70.76066,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180202.0",
+    "gn:admin4_code":"18020206.0",
+    "gn:asciiname":"Los Casajos",
+    "gn:country_code":"DO",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498979,
+    "gn:latitude":19.68683,
+    "gn:longitude":-70.76066,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Casajos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498979
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dd36f0c4e60d1dd72d5845ca73ca78a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1259845691,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1259845691,
+    "wof:lastmodified":1536832679,
+    "wof:name":"Los Casajos",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76066,
+    19.68683,
+    -70.76066,
+    19.68683
+],
+  "geometry": {"coordinates":[-70.76066,19.68683],"type":"Point"}
+}

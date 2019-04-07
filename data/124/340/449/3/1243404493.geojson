@@ -1,0 +1,70 @@
+{
+  "id": 1243404493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62857,19.08312,-70.62857,19.08312",
+    "geom:latitude":19.08312,
+    "geom:longitude":-70.62857,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030102.0",
+    "gn:asciiname":"Los Jibaros",
+    "gn:country_code":"DO",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498309,
+    "gn:latitude":19.08312,
+    "gn:longitude":-70.62857,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los J\u00edbaros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498309
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6c161d9213b684b31f92ec7f267c4e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1243404493,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1243404493,
+    "wof:lastmodified":1536864773,
+    "wof:name":"Los Jibaros",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62857,
+    19.08312,
+    -70.62857,
+    19.08312
+],
+  "geometry": {"coordinates":[-70.62857,19.08312],"type":"Point"}
+}

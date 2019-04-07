@@ -1,0 +1,69 @@
+{
+  "id": 1209182435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23417,18.657,-69.23417,18.657",
+    "geom:latitude":18.657,
+    "geom:longitude":-69.23417,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040103.0",
+    "gn:asciiname":"Las Cayas",
+    "gn:country_code":"DO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500657,
+    "gn:latitude":18.657,
+    "gn:longitude":-69.23417,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Cayas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Callas",
+        "Las Calles",
+        "Las Cayas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500657
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ffa3520b2d3df4cba078c65e075706b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209182435
+        }
+    ],
+    "wof:id":1209182435,
+    "wof:lastmodified":1537619963,
+    "wof:name":"Las Cayas",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23416999999999,
+    18.657,
+    -69.23416999999999,
+    18.657
+],
+  "geometry": {"coordinates":[-69.23416999999999,18.657],"type":"Point"}
+}

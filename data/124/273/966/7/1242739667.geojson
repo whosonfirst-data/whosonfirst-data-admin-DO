@@ -1,0 +1,70 @@
+{
+  "id": 1242739667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45,19.23333,-69.45,19.23333",
+    "geom:latitude":19.23333,
+    "geom:longitude":-69.45,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200101.0",
+    "gn:admin4_code":"20010105.0",
+    "gn:asciiname":"La Balsa",
+    "gn:country_code":"DO",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503632,
+    "gn:latitude":19.23333,
+    "gn:longitude":-69.45,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Balsa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503632
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3fb60789efa503e68ae05ffc3b75b2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1242739667,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1242739667,
+    "wof:lastmodified":1536829456,
+    "wof:name":"La Balsa",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45,
+    19.23333,
+    -69.45,
+    19.23333
+],
+  "geometry": {"coordinates":[-69.45,19.23333],"type":"Point"}
+}

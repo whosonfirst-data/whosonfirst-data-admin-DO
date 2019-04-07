@@ -1,0 +1,75 @@
+{
+  "id": 1260365723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5688,19.73529,-70.5688,19.73529",
+    "geom:latitude":19.73529,
+    "geom:longitude":-70.5688,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070103.0",
+    "gn:asciiname":"Holguin",
+    "gn:country_code":"DO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504549,
+    "gn:latitude":19.73529,
+    "gn:longitude":-70.5688,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Holgu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olgu\u00edn",
+        "Olqu\u00edn",
+        "Holgu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504549
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1a438584b8948ee6848e8e7cda776021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429207,
+            "locality_id":1260365723,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1260365723,
+    "wof:lastmodified":1537620003,
+    "wof:name":"Holguin",
+    "wof:parent_id":890429207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5688,
+    19.73529,
+    -70.5688,
+    19.73529
+],
+  "geometry": {"coordinates":[-70.5688,19.73529],"type":"Point"}
+}

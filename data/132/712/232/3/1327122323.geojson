@@ -1,0 +1,74 @@
+{
+  "id": 1327122323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4278,19.17755,-71.4278,19.17755",
+    "geom:latitude":19.17755,
+    "geom:longitude":-71.4278,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70502.0",
+    "gn:admin4_code":"7050203.0",
+    "gn:asciiname":"La Sierrecita",
+    "gn:country_code":"DO",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500480,
+    "gn:latitude":19.17755,
+    "gn:longitude":-71.4278,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sierrecita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Sierresita",
+        "La Sierrecita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500480
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1e9c9c4ce95142e4db6a5e14c6dd5410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721221,
+            "locality_id":1327122323,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1327122323,
+    "wof:lastmodified":1537619961,
+    "wof:name":"La Sierrecita",
+    "wof:parent_id":1108721221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4278,
+    19.17755,
+    -71.4278,
+    19.17755
+],
+  "geometry": {"coordinates":[-71.4278,19.17755],"type":"Point"}
+}

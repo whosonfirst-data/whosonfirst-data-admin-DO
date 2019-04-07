@@ -1,0 +1,74 @@
+{
+  "id": 1243119593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05183,18.67022,-69.05183,18.67022",
+    "geom:latitude":18.67022,
+    "geom:longitude":-69.05183,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010103.0",
+    "gn:asciiname":"Batey Guazabal",
+    "gn:country_code":"DO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511793,
+    "gn:latitude":18.67022,
+    "gn:longitude":-69.05183,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Guazabal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guazabal",
+        "Batey Guazabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511793
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"575318c3fc01e4302c305933c7c8b338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1243119593,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1243119593,
+    "wof:lastmodified":1537620074,
+    "wof:name":"Batey Guazabal",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05183000000001,
+    18.67022,
+    -69.05183000000001,
+    18.67022
+],
+  "geometry": {"coordinates":[-69.05183000000001,18.67022],"type":"Point"}
+}

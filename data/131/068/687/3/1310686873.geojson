@@ -1,0 +1,70 @@
+{
+  "id": 1310686873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.49047,19.38546,-70.49047,19.38546",
+    "geom:latitude":19.38546,
+    "geom:longitude":-70.49047,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90105.0",
+    "gn:admin4_code":"9010503.0",
+    "gn:asciiname":"Cacique Soledad",
+    "gn:country_code":"DO",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510803,
+    "gn:latitude":19.38546,
+    "gn:longitude":-70.49047,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cacique Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510803
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1c24bf256705699c82d1fb0538b43016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1310686873,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1310686873,
+    "wof:lastmodified":1536655326,
+    "wof:name":"Cacique Soledad",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.49047,
+    19.38546,
+    -70.49047,
+    19.38546
+],
+  "geometry": {"coordinates":[-70.49047,19.38546],"type":"Point"}
+}

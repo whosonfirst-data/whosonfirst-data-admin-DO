@@ -1,0 +1,70 @@
+{
+  "id": 1277023089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85553,18.89697,-69.85553,18.89697",
+    "geom:latitude":18.89697,
+    "geom:longitude":-69.85553,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030102.0",
+    "gn:asciiname":"La Nue",
+    "gn:country_code":"DO",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501508,
+    "gn:latitude":18.89697,
+    "gn:longitude":-69.85553,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Nu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501508
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d9894d06c8256c77e20a5ae4d5e1f76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1277023089,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1277023089,
+    "wof:lastmodified":1536848031,
+    "wof:name":"La Nue",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85553,
+    18.89697,
+    -69.85553,
+    18.89697
+],
+  "geometry": {"coordinates":[-69.85553,18.89697],"type":"Point"}
+}

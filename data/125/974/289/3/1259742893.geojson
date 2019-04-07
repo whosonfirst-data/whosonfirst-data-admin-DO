@@ -1,0 +1,70 @@
+{
+  "id": 1259742893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78333,18.91667,-69.78333,18.91667",
+    "geom:latitude":18.91667,
+    "geom:longitude":-69.78333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290104.0",
+    "gn:admin4_code":"29010404.0",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"DO",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511065,
+    "gn:latitude":18.91667,
+    "gn:longitude":-69.78333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511065
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f59fa226c170f81b821b7ca08c52f516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1259742893,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1259742893,
+    "wof:lastmodified":1536981044,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78333,
+    18.91667,
+    -69.78333,
+    18.91667
+],
+  "geometry": {"coordinates":[-69.78333000000001,18.91667],"type":"Point"}
+}

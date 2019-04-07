@@ -1,0 +1,76 @@
+{
+  "id": 1360274397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83982,18.46037,-68.83982,18.46037",
+    "geom:latitude":18.46037,
+    "geom:longitude":-68.83982,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020103.0",
+    "gn:asciiname":"Canada de la Jina",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510532,
+    "gn:latitude":18.46037,
+    "gn:longitude":-68.83982,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1ada de la Jina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Gina",
+        "Ca\u00f1ada la Jina",
+        "Ca\u00f1ada",
+        "Ca\u00f1ada de la Jina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510532
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f178e91b0d9d147c03e20aa3269f6572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1360274397,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1360274397,
+    "wof:lastmodified":1537620058,
+    "wof:name":"Canada de la Jina",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83981999999999,
+    18.46037,
+    -68.83981999999999,
+    18.46037
+],
+  "geometry": {"coordinates":[-68.83981999999999,18.46037],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 890416383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16145,18.31173,-71.16145,18.31173",
+    "geom:latitude":18.31173,
+    "geom:longitude":-71.16145,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":3038,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:chi_x_preferred":[
+        "\u54c8\u57fa\u6885\u8036\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:eng_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:fre_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:ita_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30ad\u30e1\u30a4\u30a7\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:por_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:swe_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:unk_x_variant":[
+        "Los Jaquimelles"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0642\u06cc\u0645\u06cc\u0633"
+    ],
+    "qs:name":"Jaquimeyes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504160,
+        "gp:id":71301,
+        "qs:id":148559,
+        "wd:id":"Q3807300",
+        "wk:page":"Jaquimeyes"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051131,
+    "wof:geomhash":"b04835d88c6916ae8810cdba2ba19852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721171,
+            "locality_id":890416383,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":890416383,
+    "wof:lastmodified":1527792801,
+    "wof:name":"Jaquimeyes",
+    "wof:parent_id":1108721171,
+    "wof:placetype":"locality",
+    "wof:population":3038,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16145,
+    18.31173,
+    -71.16145,
+    18.31173
+],
+  "geometry": {"coordinates":[-71.16145,18.31173],"type":"Point"}
+}

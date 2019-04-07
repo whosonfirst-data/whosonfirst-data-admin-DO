@@ -1,0 +1,71 @@
+{
+  "id": 1343637293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10388,19.7668,-71.10388,19.7668",
+    "geom:latitude":19.7668,
+    "geom:longitude":-71.10388,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1808.0",
+    "gn:admin3_code":"180804.0",
+    "gn:admin4_code":"18080401.0",
+    "gn:asciiname":"Gualete",
+    "gn:country_code":"DO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505199,
+    "gn:latitude":19.7668,
+    "gn:longitude":-71.10388,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gualete",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505199,
+        "wk:page":"Gualete"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2ebdedf0db2c5aa2e2e3316e1f61251f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429197,
+            "locality_id":1343637293,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1343637293,
+    "wof:lastmodified":1537504246,
+    "wof:name":"Gualete",
+    "wof:parent_id":890429197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10388,
+    19.7668,
+    -71.10388,
+    19.7668
+],
+  "geometry": {"coordinates":[-71.10388,19.7668],"type":"Point"}
+}

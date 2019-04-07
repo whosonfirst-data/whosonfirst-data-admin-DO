@@ -1,0 +1,75 @@
+{
+  "id": 1226116195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.97767,19.60979,-69.97767,19.60979",
+    "geom:latitude":19.60979,
+    "geom:longitude":-69.97767,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140201.0",
+    "gn:admin4_code":"14020102.0",
+    "gn:asciiname":"La Cabirma",
+    "gn:country_code":"DO",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503427,
+    "gn:latitude":19.60979,
+    "gn:longitude":-69.97767,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cabirma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loma de Burro",
+        "Cabirmas",
+        "La Cabirma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503427
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ec72d0708e0ccd3022175121bb8b88de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429259,
+            "locality_id":1226116195,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1226116195,
+    "wof:lastmodified":1537619993,
+    "wof:name":"La Cabirma",
+    "wof:parent_id":890429259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.97766999999999,
+    19.60979,
+    -69.97766999999999,
+    19.60979
+],
+  "geometry": {"coordinates":[-69.97766999999999,19.60979],"type":"Point"}
+}

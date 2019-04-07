@@ -1,0 +1,74 @@
+{
+  "id": 1343831933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.02364,18.94064,-70.02364,18.94064",
+    "geom:latitude":18.94064,
+    "geom:longitude":-70.02364,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010102.0",
+    "gn:asciiname":"La Llanada",
+    "gn:country_code":"DO",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501922,
+    "gn:latitude":18.94064,
+    "gn:longitude":-70.02364,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Llanada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Llan\u00e1",
+        "La Llanada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501922
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"de01ed12b4771d20f4dba61615496ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1343831933,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1343831933,
+    "wof:lastmodified":1537619975,
+    "wof:name":"La Llanada",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.02364,
+    18.94064,
+    -70.02364,
+    18.94064
+],
+  "geometry": {"coordinates":[-70.02364,18.94064],"type":"Point"}
+}

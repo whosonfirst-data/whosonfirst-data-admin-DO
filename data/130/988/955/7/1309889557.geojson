@@ -1,0 +1,70 @@
+{
+  "id": 1309889557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.78333,18.6,-68.78333,18.6",
+    "geom:latitude":18.6,
+    "geom:longitude":-68.78333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010106.0",
+    "gn:asciiname":"Las Limas",
+    "gn:country_code":"DO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500392,
+    "gn:latitude":18.6,
+    "gn:longitude":-68.78333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Limas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500392
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4fa7bf50c3467e0d3b93222dffc96c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1309889557,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1309889557,
+    "wof:lastmodified":1536809965,
+    "wof:name":"Las Limas",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.78333,
+    18.6,
+    -68.78333,
+    18.6
+],
+  "geometry": {"coordinates":[-68.78333000000001,18.6],"type":"Point"}
+}

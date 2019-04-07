@@ -1,0 +1,74 @@
+{
+  "id": 1226200289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21362,18.63181,-69.21362,18.63181",
+    "geom:latitude":18.63181,
+    "geom:longitude":-69.21362,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:admin4_code":"23040102.0",
+    "gn:asciiname":"Batey La Felipa",
+    "gn:country_code":"DO",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511767,
+    "gn:latitude":18.63181,
+    "gn:longitude":-69.21362,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey La Felipa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Felipa",
+        "Batey La Felipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511767
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e3e9bd01c4a5f6bafa2c6473640a3e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721139,
+            "locality_id":1226200289,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1226200289,
+    "wof:lastmodified":1537620072,
+    "wof:name":"Batey La Felipa",
+    "wof:parent_id":1108721139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21361999999999,
+    18.63181,
+    -69.21361999999999,
+    18.63181
+],
+  "geometry": {"coordinates":[-69.21361999999999,18.63181],"type":"Point"}
+}

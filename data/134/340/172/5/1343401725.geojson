@@ -1,0 +1,70 @@
+{
+  "id": 1343401725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.40863,18.29375,-70.40863,18.29375",
+    "geom:latitude":18.29375,
+    "geom:longitude":-70.40863,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170102.0",
+    "gn:admin4_code":"17010204.0",
+    "gn:asciiname":"Las Tablas",
+    "gn:country_code":"DO",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500255,
+    "gn:latitude":18.29375,
+    "gn:longitude":-70.40863,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Tablas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500255
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2234a18e2298b0c6e517686383b3c346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1343401725,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1343401725,
+    "wof:lastmodified":1536829984,
+    "wof:name":"Las Tablas",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.40863,
+    18.29375,
+    -70.40863,
+    18.29375
+],
+  "geometry": {"coordinates":[-70.40863,18.29375],"type":"Point"}
+}

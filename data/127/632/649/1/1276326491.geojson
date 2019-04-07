@@ -1,0 +1,75 @@
+{
+  "id": 1276326491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34332,19.30087,-70.34332,19.30087",
+    "geom:latitude":19.30087,
+    "geom:longitude":-70.34332,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60103.0",
+    "gn:admin4_code":"6010304.0",
+    "gn:asciiname":"Cruz de Cenovi",
+    "gn:country_code":"DO",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509117,
+    "gn:latitude":19.30087,
+    "gn:longitude":-70.34332,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruz de Cenov\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cruz de Cenov\u00ed",
+        "Cruz de Cenob\u00ed",
+        "Cruz de Cenov\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509117
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"63570e74c5cede0a916bf39234ffa6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1276326491,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1276326491,
+    "wof:lastmodified":1537620046,
+    "wof:name":"Cruz de Cenovi",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34331999999999,
+    19.30087,
+    -70.34331999999999,
+    19.30087
+],
+  "geometry": {"coordinates":[-70.34331999999999,19.30087],"type":"Point"}
+}

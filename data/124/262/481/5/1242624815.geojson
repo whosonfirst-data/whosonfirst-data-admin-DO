@@ -1,0 +1,70 @@
+{
+  "id": 1242624815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.89131,18.94355,-68.89131,18.94355",
+    "geom:latitude":18.94355,
+    "geom:longitude":-68.89131,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80202.0",
+    "gn:admin4_code":"8020203.0",
+    "gn:asciiname":"Los Yagrumos",
+    "gn:country_code":"DO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497393,
+    "gn:latitude":18.94355,
+    "gn:longitude":-68.89131,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Yagrumos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        890429243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497393
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7b3c59a234850559aade8e8f8fe00a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429243,
+            "locality_id":1242624815,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1242624815,
+    "wof:lastmodified":1536995028,
+    "wof:name":"Los Yagrumos",
+    "wof:parent_id":890429243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.89131,
+    18.94355,
+    -68.89131,
+    18.94355
+],
+  "geometry": {"coordinates":[-68.89131,18.94355],"type":"Point"}
+}

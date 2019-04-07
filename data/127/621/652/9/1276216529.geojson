@@ -1,0 +1,70 @@
+{
+  "id": 1276216529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.77947,18.61002,-71.77947,18.61002",
+    "geom:latitude":18.61002,
+    "geom:longitude":-71.77947,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100301.0",
+    "gn:admin4_code":"10030103.0",
+    "gn:asciiname":"Malplate",
+    "gn:country_code":"DO",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497054,
+    "gn:latitude":18.61002,
+    "gn:longitude":-71.77947,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Malplate",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        890455315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497054
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fda39a83ffa2e36256c79b22158836c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455315,
+            "locality_id":1276216529,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1276216529,
+    "wof:lastmodified":1536936311,
+    "wof:name":"Malplate",
+    "wof:parent_id":890455315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.77946999999998,
+    18.61002,
+    -71.77946999999998,
+    18.61002
+],
+  "geometry": {"coordinates":[-71.77946999999998,18.61002],"type":"Point"}
+}

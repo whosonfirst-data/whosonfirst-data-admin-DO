@@ -1,0 +1,70 @@
+{
+  "id": 1209978545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3587,19.20589,-69.3587,19.20589",
+    "geom:latitude":19.20589,
+    "geom:longitude":-69.3587,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200101.0",
+    "gn:admin4_code":"20010104.0",
+    "gn:asciiname":"Los Grini",
+    "gn:country_code":"DO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498541,
+    "gn:latitude":19.20589,
+    "gn:longitude":-69.3587,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Grini",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498541
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"49ccc01670b8917fa9384d3a3d5d862b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1209978545,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1209978545,
+    "wof:lastmodified":1536391804,
+    "wof:name":"Los Grini",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3587,
+    19.20589,
+    -69.3587,
+    19.20589
+],
+  "geometry": {"coordinates":[-69.3587,19.20589],"type":"Point"}
+}

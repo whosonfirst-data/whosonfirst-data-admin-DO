@@ -1,0 +1,74 @@
+{
+  "id": 1276619591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.344,19.45477,-70.344,19.45477",
+    "geom:latitude":19.45477,
+    "geom:longitude":-70.344,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190201.0",
+    "gn:admin4_code":"19020102.0",
+    "gn:asciiname":"La Sigua",
+    "gn:country_code":"DO",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500457,
+    "gn:latitude":19.45477,
+    "gn:longitude":-70.344,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sigua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigua",
+        "La Sigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670583,
+        890425729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500457
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b00b8a8258b0b4dfa662b2a50df2da70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890425729,
+            "locality_id":1276619591,
+            "region_id":85670583
+        }
+    ],
+    "wof:id":1276619591,
+    "wof:lastmodified":1537619960,
+    "wof:name":"La Sigua",
+    "wof:parent_id":890425729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.344,
+    19.45477,
+    -70.344,
+    19.45477
+],
+  "geometry": {"coordinates":[-70.34399999999999,19.45477],"type":"Point"}
+}

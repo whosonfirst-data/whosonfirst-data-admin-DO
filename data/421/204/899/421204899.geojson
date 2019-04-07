@@ -1,0 +1,118 @@
+{
+  "id": 421204899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42199,19.30084,-70.42199,19.30084",
+    "geom:latitude":19.30084,
+    "geom:longitude":-70.42199,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u76ae\u4e9e\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:nan_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:por_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:slv_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u76ae\u4e9e\u93ae"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491908,
+    "qs:gn_pop":3113,
+    "qs:name":"Villa Tapia",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Salcedo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":251367,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":76685,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670583,
+        890429189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491908,
+        "gp:id":76685,
+        "qs:id":251367,
+        "wd:id":"Q1770889",
+        "wk:page":"Villa Tapia"
+    },
+    "wof:country":"DO",
+    "wof:created":1459010202,
+    "wof:geomhash":"f399e67d3910589b6792a7db686e14d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429189,
+            "locality_id":421204899,
+            "region_id":85670583
+        }
+    ],
+    "wof:id":421204899,
+    "wof:lastmodified":1527716187,
+    "wof:name":"Villa Tapia",
+    "wof:parent_id":890429189,
+    "wof:placetype":"locality",
+    "wof:population":3113,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42199,
+    19.30084,
+    -70.42199,
+    19.30084
+],
+  "geometry": {"coordinates":[-70.42198999999999,19.30084],"type":"Point"}
+}

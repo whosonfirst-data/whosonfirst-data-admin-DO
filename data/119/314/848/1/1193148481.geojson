@@ -1,0 +1,75 @@
+{
+  "id": 1193148481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.15058,18.07127,-71.15058,18.07127",
+    "geom:latitude":18.07127,
+    "geom:longitude":-71.15058,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40701.0",
+    "gn:admin4_code":"4070102.0",
+    "gn:asciiname":"Guayuyal",
+    "gn:country_code":"DO",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504940,
+    "gn:latitude":18.07127,
+    "gn:longitude":-71.15058,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guayuyal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayuyo",
+        "Guayuyales",
+        "Guayuyal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504940
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9917e859eed03966a64084a95d43e0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721179,
+            "locality_id":1193148481,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1193148481,
+    "wof:lastmodified":1537620007,
+    "wof:name":"Guayuyal",
+    "wof:parent_id":1108721179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.15058,
+    18.07127,
+    -71.15058,
+    18.07127
+],
+  "geometry": {"coordinates":[-71.15058000000001,18.07127],"type":"Point"}
+}

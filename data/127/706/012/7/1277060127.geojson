@@ -1,0 +1,74 @@
+{
+  "id": 1277060127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83895,18.75856,-68.83895,18.75856",
+    "geom:latitude":18.75856,
+    "geom:longitude":-68.83895,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010103.0",
+    "gn:asciiname":"Las Auyamas",
+    "gn:country_code":"DO",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500831,
+    "gn:latitude":18.75856,
+    "gn:longitude":-68.83895,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Auyamas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Auyamas",
+        "Las Auyamas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500831
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"45745baf03a518d49bfd1b586d3375b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1277060127,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1277060127,
+    "wof:lastmodified":1537619965,
+    "wof:name":"Las Auyamas",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83895,
+    18.75856,
+    -68.83895,
+    18.75856
+],
+  "geometry": {"coordinates":[-68.83895,18.75856],"type":"Point"}
+}

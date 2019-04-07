@@ -1,0 +1,70 @@
+{
+  "id": 1226292041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.90407,18.81816,-69.90407,18.81816",
+    "geom:latitude":18.81816,
+    "geom:longitude":-69.90407,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290102.0",
+    "gn:admin4_code":"29010204.0",
+    "gn:asciiname":"Cruce del Bosque",
+    "gn:country_code":"DO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509161,
+    "gn:latitude":18.81816,
+    "gn:longitude":-69.90407,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce del Bosque",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509161
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bc3a3c6643c1160bcb4773523123434c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1226292041,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1226292041,
+    "wof:lastmodified":1536865762,
+    "wof:name":"Cruce del Bosque",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.90406999999999,
+    18.81816,
+    -69.90406999999999,
+    18.81816
+],
+  "geometry": {"coordinates":[-69.90406999999999,18.81816],"type":"Point"}
+}

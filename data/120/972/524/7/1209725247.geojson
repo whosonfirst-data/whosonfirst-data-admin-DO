@@ -1,0 +1,70 @@
+{
+  "id": 1209725247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55476,18.51143,-70.55476,18.51143",
+    "geom:latitude":18.51143,
+    "geom:longitude":-70.55476,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21001.0",
+    "gn:admin4_code":"2100102.0",
+    "gn:asciiname":"Monte Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496257,
+    "gn:latitude":18.51143,
+    "gn:longitude":-70.55476,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Monte Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496257
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ab55e153dc8aeff5d71e82866a7872fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721149,
+            "locality_id":1209725247,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1209725247,
+    "wof:lastmodified":1536384394,
+    "wof:name":"Monte Abajo",
+    "wof:parent_id":1108721149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55476,
+    18.51143,
+    -70.55476,
+    18.51143
+],
+  "geometry": {"coordinates":[-70.55476,18.51143],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309972325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41667,19.76667,-70.41667,19.76667",
+    "geom:latitude":19.76667,
+    "geom:longitude":-70.41667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Goleta",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502580,
+    "gn:latitude":19.76667,
+    "gn:longitude":-70.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"La Goleta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Caleta",
+        "La Goleta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502580
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ade4d80b64221dbf132b0620f432ce72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309972325,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309972325,
+    "wof:lastmodified":1537619982,
+    "wof:name":"La Goleta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41667,
+    19.76667,
+    -70.41667,
+    19.76667
+],
+  "geometry": {"coordinates":[-70.41667,19.76667],"type":"Point"}
+}

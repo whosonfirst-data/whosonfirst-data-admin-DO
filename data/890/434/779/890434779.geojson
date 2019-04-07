@@ -1,0 +1,102 @@
+{
+  "id": 890434779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6137,19.2281,-69.6137,19.2281",
+    "geom:latitude":19.2281,
+    "geom:longitude":-69.6137,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":11365,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6851\u5207\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:fre_x_preferred":[
+        "Sanchez"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c1\u30a7\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "qs:name":"S\u00e1nchez",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":625,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493198,
+        "gp:id":76400,
+        "qs:id":148533,
+        "wd:id":"Q516965",
+        "wk:page":"S\u00e1nchez"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052039,
+    "wof:geomhash":"0a51e4bb3b1e6b36cd696a9f13ba5f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721283,
+            "locality_id":890434779,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":890434779,
+    "wof:lastmodified":1553816396,
+    "wof:name":"S\u00e1nchez",
+    "wof:parent_id":1108721283,
+    "wof:placetype":"locality",
+    "wof:population":11365,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6137,
+    19.2281,
+    -69.6137,
+    19.2281
+],
+  "geometry": {"coordinates":[-69.61369999999999,19.2281],"type":"Point"}
+}

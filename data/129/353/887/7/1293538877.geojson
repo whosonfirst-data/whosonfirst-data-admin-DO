@@ -1,0 +1,70 @@
+{
+  "id": 1293538877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.8302,19.05596,-69.8302,19.05596",
+    "geom:latitude":19.05596,
+    "geom:longitude":-69.8302,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290303.0",
+    "gn:admin4_code":"29030303.0",
+    "gn:asciiname":"Balsa Mala",
+    "gn:country_code":"DO",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512107,
+    "gn:latitude":19.05596,
+    "gn:longitude":-69.8302,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Balsa Mala",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512107
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"09c3fd21471338127df5411d49ebf113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1293538877,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1293538877,
+    "wof:lastmodified":1536713479,
+    "wof:name":"Balsa Mala",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.8302,
+    19.05596,
+    -69.8302,
+    19.05596
+],
+  "geometry": {"coordinates":[-69.8302,19.05596],"type":"Point"}
+}

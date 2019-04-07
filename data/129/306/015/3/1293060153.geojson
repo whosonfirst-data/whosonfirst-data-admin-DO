@@ -1,0 +1,74 @@
+{
+  "id": 1293060153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.99164,19.01286,-69.99164,19.01286",
+    "geom:latitude":19.01286,
+    "geom:longitude":-69.99164,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240201.0",
+    "gn:admin4_code":"24020103.0",
+    "gn:asciiname":"Sabana del Mariscao",
+    "gn:country_code":"DO",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493555,
+    "gn:latitude":19.01286,
+    "gn:longitude":-69.99164,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana del Mariscao",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabana del Maricao",
+        "Sabana del Mariscao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493555
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6448d0e2e1fae9a9212f3db582c72f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420149,
+            "locality_id":1293060153,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1293060153,
+    "wof:lastmodified":1537619913,
+    "wof:name":"Sabana del Mariscao",
+    "wof:parent_id":890420149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.99164,
+    19.01286,
+    -69.99164,
+    19.01286
+],
+  "geometry": {"coordinates":[-69.99164,19.01286],"type":"Point"}
+}

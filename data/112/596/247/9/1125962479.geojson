@@ -1,0 +1,106 @@
+{
+  "id": 1125962479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7054,19.08239,-71.7054,19.08239",
+    "geom:latitude":19.08239,
+    "geom:longitude":-71.7054,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1443,
+    "gn:population":1443,
+    "iso:country":"DO",
+    "lbl:latitude":19.08239,
+    "lbl:longitude":-71.7054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u5df4\u5c3c\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "name:ger_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco de B\u00e1nica"
+    ],
+    "name:nan_x_preferred":[
+        "San Francisco de B\u00e1nica"
+    ],
+    "name:por_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3512064,
+    "qs_pg:gn_pop":1443,
+    "qs_pg:name":"B\u00e1nica",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":148583,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512064,
+        "qs_pg:id":148583,
+        "wd:id":"Q1771472"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297854,
+    "wof:geomhash":"7a4dc3dde80bcafe0b0d0fb91ba99c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1125962479,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1125962479,
+    "wof:lastmodified":1513955898,
+    "wof:name":"B\u00e1nica",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:population":1443,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7054,
+    19.08239,
+    -71.7054,
+    19.08239
+],
+  "geometry": {"coordinates":[-71.7054,19.08239],"type":"Point"}
+}

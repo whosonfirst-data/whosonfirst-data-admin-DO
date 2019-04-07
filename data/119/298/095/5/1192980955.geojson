@@ -1,0 +1,70 @@
+{
+  "id": 1192980955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36604,19.35399,-70.36604,19.35399",
+    "geom:latitude":19.35399,
+    "geom:longitude":-70.36604,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190101.0",
+    "gn:admin4_code":"19010102.0",
+    "gn:asciiname":"Conuco",
+    "gn:country_code":"DO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509347,
+    "gn:latitude":19.35399,
+    "gn:longitude":-70.36604,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Conuco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670583,
+        1108721251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509347
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f6d84fa100b21b64fa1218b4dbdf8af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721251,
+            "locality_id":1192980955,
+            "region_id":85670583
+        }
+    ],
+    "wof:id":1192980955,
+    "wof:lastmodified":1536367932,
+    "wof:name":"Conuco",
+    "wof:parent_id":1108721251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36604,
+    19.35399,
+    -70.36604,
+    19.35399
+],
+  "geometry": {"coordinates":[-70.36604,19.35399],"type":"Point"}
+}

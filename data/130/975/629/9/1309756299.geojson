@@ -1,0 +1,70 @@
+{
+  "id": 1309756299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41667,19.26667,-70.41667,19.26667",
+    "geom:latitude":19.26667,
+    "geom:longitude":-70.41667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:admin4_code":"13010103.0",
+    "gn:asciiname":"Toro Cenizo",
+    "gn:country_code":"DO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492296,
+    "gn:latitude":19.26667,
+    "gn:longitude":-70.41667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Toro Cenizo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492296
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"472cf1003da9bcd1875d181b6d518d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1309756299,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1309756299,
+    "wof:lastmodified":1537001824,
+    "wof:name":"Toro Cenizo",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41667,
+    19.26667,
+    -70.41667,
+    19.26667
+],
+  "geometry": {"coordinates":[-70.41667,19.26667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310457853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.46594,18.7457,-69.46594,18.7457",
+    "geom:latitude":18.7457,
+    "geom:longitude":-69.46594,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230202.0",
+    "gn:admin4_code":"23020202.0",
+    "gn:asciiname":"Confor",
+    "gn:country_code":"DO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509375,
+    "gn:latitude":18.7457,
+    "gn:longitude":-69.46594,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Confor",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509375
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3c0b8ddefe5351fcc162cd0814c0c0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429255,
+            "locality_id":1310457853,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1310457853,
+    "wof:lastmodified":1536984967,
+    "wof:name":"Confor",
+    "wof:parent_id":890429255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.46594,
+    18.7457,
+    -69.46594,
+    18.7457
+],
+  "geometry": {"coordinates":[-69.46594,18.7457],"type":"Point"}
+}

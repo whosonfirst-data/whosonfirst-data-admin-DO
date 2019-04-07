@@ -1,0 +1,108 @@
+{
+  "id": 85793793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7339006.016849,
+    "geom:bbox":"-69.840873,18.481966,-69.840873,18.481966",
+    "geom:latitude":18.481966,
+    "geom:longitude":-69.840873,
+    "iso:country":"DO",
+    "lbl:latitude":18.481966,
+    "lbl:longitude":-69.840873,
+    "mps:latitude":18.485841,
+    "mps:longitude":-69.838565,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Mosquiteria"
+    ],
+    "name:spa_x_preferred":[
+        "Mosquiter\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Masqueteria"
+    ],
+    "name:unk_x_variant":[
+        "Mosquiter\u00eda"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_id":0,
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:id":0,
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Mosquiter\u00eda",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santo Domingo",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":72,
+    "qs:photo_sum":220,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":28358196,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        1108721275,
+        85670553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":75399
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d48f45543e5f3d049c3e340121b58274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721275,
+            "locality_id":-1,
+            "neighbourhood_id":85793793,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":85793793,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861423,
+    "wof:name":"Mosquiter\u00eda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.840873,
+    18.481966,
+    -69.840873,
+    18.481966
+],
+  "geometry": {"coordinates":[-69.840873,18.481966],"type":"Point"}
+}

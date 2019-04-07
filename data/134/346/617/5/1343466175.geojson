@@ -1,0 +1,70 @@
+{
+  "id": 1343466175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.27605,17.95901,-71.27605,17.95901",
+    "geom:latitude":17.95901,
+    "geom:longitude":-71.27605,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40301.0",
+    "gn:admin4_code":"4030104.0",
+    "gn:asciiname":"La Guama",
+    "gn:country_code":"DO",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502529,
+    "gn:latitude":17.95901,
+    "gn:longitude":-71.27605,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Guama",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502529
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"627e4183dee51933c965a9a52918dfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429291,
+            "locality_id":1343466175,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1343466175,
+    "wof:lastmodified":1536737753,
+    "wof:name":"La Guama",
+    "wof:parent_id":890429291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.27605,
+    17.95901,
+    -71.27605,
+    17.95901
+],
+  "geometry": {"coordinates":[-71.27605,17.95901],"type":"Point"}
+}

@@ -1,0 +1,285 @@
+{
+  "id": 890442071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7349,18.45319,-70.7349,18.45319",
+    "geom:latitude":18.45319,
+    "geom:longitude":-70.7349,
+    "gn:country":"DO",
+    "gn:fcode":"PPLA",
+    "gn:pop":59139,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0632\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u099c\u09c1\u09af\u09bc\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0441\u0443\u0430 \u0434\u0435 \u041a\u043e\u043c\u043f\u043e\u0441\u0442\u0435\u043b\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u8607\u963f"
+    ],
+    "name:dan_x_preferred":[
+        "Azua"
+    ],
+    "name:dut_x_preferred":[
+        "Azua"
+    ],
+    "name:eng_x_preferred":[
+        "Azua"
+    ],
+    "name:fin_x_preferred":[
+        "Azua"
+    ],
+    "name:fre_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "name:glg_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03c3\u03bf\u03c5\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a9d\u0ac1\u0a86"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091c\u0941\u0906"
+    ],
+    "name:ind_x_preferred":[
+        "Azua"
+    ],
+    "name:ita_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c9c\u0cc1\u0cb5\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc218\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Asva"
+    ],
+    "name:lit_x_preferred":[
+        "Asua"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u091d\u0941\u0906"
+    ],
+    "name:may_x_preferred":[
+        "Azua"
+    ],
+    "name:nan_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "name:nob_x_preferred":[
+        "Azua"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0632\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Azua"
+    ],
+    "name:por_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0443\u0430-\u0434\u0435-\u041a\u043e\u043c\u043f\u043e\u0441\u0442\u0435\u043b\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc3\u0dd4\u0dc0\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1zua de Compostela"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0bb8\u0bc1\u0bb5\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c1c\u0c41\u0c06"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e0b\u0e39\u0e2d\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Azua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0443\u0430-\u0434\u0435-\u041a\u043e\u043c\u043f\u043e\u0441\u0442\u0435\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Compostela de Azua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0633\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Azua"
+    ],
+    "name:war_x_preferred":[
+        "Azua de Compostela"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Dominican Republic",
+    "ne:ADM0_A3":"DOM",
+    "ne:ADM1NAME":"Azua",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3512208,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Azua de Compostela",
+    "ne:GN_POP":59139,
+    "ne:GTOPO30":80.0,
+    "ne:ISO_A2":"DO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":18.453996,
+    "ne:LONGITUDE":-70.729002,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Azua",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Azua",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":59139,
+    "ne:POP_MIN":59139,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Dominican Republic",
+    "ne:SOV_A3":"DOM",
+    "ne:TIMEZONE":"America/Santo_Domingo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Azua de Compostela",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512208,
+        "gp:id":69173,
+        "qs:id":274383,
+        "wd:id":"Q1836680"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1072008
+    },
+    "wof:country":"DO",
+    "wof:created":1469052349,
+    "wof:geomhash":"93c2a6325f47dde3426f86f5e7a1af19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721105,
+            "locality_id":890442071,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":890442071,
+    "wof:lastmodified":1534379287,
+    "wof:name":"Azua de Compostela",
+    "wof:parent_id":1108721105,
+    "wof:placetype":"locality",
+    "wof:population":59139,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421186475
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7349,
+    18.45319,
+    -70.7349,
+    18.45319
+],
+  "geometry": {"coordinates":[-70.7349,18.45319],"type":"Point"}
+}

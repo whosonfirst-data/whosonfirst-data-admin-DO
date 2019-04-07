@@ -1,0 +1,74 @@
+{
+  "id": 1242992809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.58578,19.43727,-70.58578,19.43727",
+    "geom:latitude":19.43727,
+    "geom:longitude":-70.58578,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90106.0",
+    "gn:admin4_code":"9010601.0",
+    "gn:asciiname":"Canca Reina",
+    "gn:country_code":"DO",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510424,
+    "gn:latitude":19.43727,
+    "gn:longitude":-70.58578,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Canca Reina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canca la Reina",
+        "Canca Reina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510424
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0655a9f8426853222b34c60be29d5ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1242992809,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1242992809,
+    "wof:lastmodified":1537620056,
+    "wof:name":"Canca Reina",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.58578,
+    19.43727,
+    -70.58578,
+    19.43727
+],
+  "geometry": {"coordinates":[-70.58578,19.43727],"type":"Point"}
+}

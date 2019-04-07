@@ -1,0 +1,74 @@
+{
+  "id": 1309695951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76772,18.25143,-68.76772,18.25143",
+    "geom:latitude":18.25143,
+    "geom:longitude":-68.76772,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:admin4_code":"11020302.0",
+    "gn:asciiname":"Tres Hermanos",
+    "gn:country_code":"DO",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492256,
+    "gn:latitude":18.25143,
+    "gn:longitude":-68.76772,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Tres Hermanos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Tres Hermanas",
+        "Tres Hermanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492256
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ea59ff15278bb879bca7255e12481c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1309695951,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1309695951,
+    "wof:lastmodified":1537619906,
+    "wof:name":"Tres Hermanos",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76772,
+    18.25143,
+    -68.76772,
+    18.25143
+],
+  "geometry": {"coordinates":[-68.76772,18.25143],"type":"Point"}
+}

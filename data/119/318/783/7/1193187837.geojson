@@ -1,0 +1,70 @@
+{
+  "id": 1193187837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11683,18.45253,-70.11683,18.45253",
+    "geom:latitude":18.45253,
+    "geom:longitude":-70.11683,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210101.0",
+    "gn:admin4_code":"21010107.0",
+    "gn:asciiname":"Mandinga",
+    "gn:country_code":"DO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496936,
+    "gn:latitude":18.45253,
+    "gn:longitude":-70.11683,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mandinga",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496936
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"754313536fcd14441cc8f4f8394e1cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1193187837,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1193187837,
+    "wof:lastmodified":1536364651,
+    "wof:name":"Mandinga",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11683000000001,
+    18.45253,
+    -70.11683000000001,
+    18.45253
+],
+  "geometry": {"coordinates":[-70.11683000000001,18.45253],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310646271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.94661,18.72804,-69.94661,18.72804",
+    "geom:latitude":18.72804,
+    "geom:longitude":-69.94661,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290402.0",
+    "gn:admin4_code":"29040205.0",
+    "gn:asciiname":"Batey Las Mayas",
+    "gn:country_code":"DO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511751,
+    "gn:latitude":18.72804,
+    "gn:longitude":-69.94661,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Las Mayas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511751
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e37ce7d480930399c834d7edc01c34ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1310646271,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1310646271,
+    "wof:lastmodified":1536714178,
+    "wof:name":"Batey Las Mayas",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.94660999999999,
+    18.72804,
+    -69.94660999999999,
+    18.72804
+],
+  "geometry": {"coordinates":[-69.94660999999999,18.72804],"type":"Point"}
+}

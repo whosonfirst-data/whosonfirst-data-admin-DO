@@ -1,0 +1,70 @@
+{
+  "id": 1259759071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.49304,19.75781,-70.49304,19.75781",
+    "geom:latitude":19.75781,
+    "geom:longitude":-70.49304,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070103.0",
+    "gn:asciiname":"La Mulata",
+    "gn:country_code":"DO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501545,
+    "gn:latitude":19.75781,
+    "gn:longitude":-70.49304,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Mulata",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501545
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"313578fbd24a4c283ce089ac581ab435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429207,
+            "locality_id":1259759071,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1259759071,
+    "wof:lastmodified":1536958311,
+    "wof:name":"La Mulata",
+    "wof:parent_id":890429207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.49304000000002,
+    19.75781,
+    -70.49304000000002,
+    19.75781
+],
+  "geometry": {"coordinates":[-70.49304000000002,19.75781],"type":"Point"}
+}

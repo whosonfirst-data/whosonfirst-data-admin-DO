@@ -1,0 +1,74 @@
+{
+  "id": 1260027417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0228,19.68731,-71.0228,19.68731",
+    "geom:latitude":19.68731,
+    "geom:longitude":-71.0228,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2702.0",
+    "gn:admin3_code":"270202.0",
+    "gn:admin4_code":"27020206.0",
+    "gn:asciiname":"Guamacho",
+    "gn:country_code":"DO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505183,
+    "gn:latitude":19.68731,
+    "gn:longitude":-71.0228,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guamacho",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Guamachos",
+        "Guamacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505183
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"99e20ff49303e11c25be19b92e219d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":1260027417,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1260027417,
+    "wof:lastmodified":1537620008,
+    "wof:name":"Guamacho",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0228,
+    19.68731,
+    -71.0228,
+    19.68731
+],
+  "geometry": {"coordinates":[-71.0228,19.68731],"type":"Point"}
+}

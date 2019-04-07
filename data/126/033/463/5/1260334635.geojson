@@ -1,0 +1,70 @@
+{
+  "id": 1260334635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6608,18.95272,-70.6608,18.95272",
+    "geom:latitude":18.95272,
+    "geom:longitude":-70.6608,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130202.0",
+    "gn:admin4_code":"13020206.0",
+    "gn:asciiname":"La Vaca Blanca",
+    "gn:country_code":"DO",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499992,
+    "gn:latitude":18.95272,
+    "gn:longitude":-70.6608,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Vaca Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890453401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499992
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7ba05faf3d5447ed9d5b0680693197db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453401,
+            "locality_id":1260334635,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1260334635,
+    "wof:lastmodified":1536642754,
+    "wof:name":"La Vaca Blanca",
+    "wof:parent_id":890453401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6608,
+    18.95272000000001,
+    -70.6608,
+    18.95272000000001
+],
+  "geometry": {"coordinates":[-70.66079999999999,18.95272000000001],"type":"Point"}
+}

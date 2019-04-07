@@ -1,0 +1,70 @@
+{
+  "id": 1343240399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58706,18.9953,-71.58706,18.9953",
+    "geom:latitude":18.9953,
+    "geom:longitude":-71.58706,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70203.0",
+    "gn:admin4_code":"7020302.0",
+    "gn:asciiname":"La Cueva",
+    "gn:country_code":"DO",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502865,
+    "gn:latitude":18.9953,
+    "gn:longitude":-71.58706,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cueva",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502865
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"18267c997f3cce6e2742ec2732c0cbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1343240399,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1343240399,
+    "wof:lastmodified":1537061265,
+    "wof:name":"La Cueva",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58706,
+    18.9953,
+    -71.58706,
+    18.9953
+],
+  "geometry": {"coordinates":[-71.58705999999999,18.9953],"type":"Point"}
+}

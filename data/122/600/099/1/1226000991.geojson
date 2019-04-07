@@ -1,0 +1,70 @@
+{
+  "id": 1226000991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.43333,18.71667,-71.43333,18.71667",
+    "geom:latitude":18.71667,
+    "geom:longitude":-71.43333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220602.0",
+    "gn:admin4_code":"22060202.0",
+    "gn:asciiname":"Sabana Lino",
+    "gn:country_code":"DO",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493451,
+    "gn:latitude":18.71667,
+    "gn:longitude":-71.43333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana Lino",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493451
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3a497d58fb60ab266543eb5afbf6db2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429203,
+            "locality_id":1226000991,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1226000991,
+    "wof:lastmodified":1536790237,
+    "wof:name":"Sabana Lino",
+    "wof:parent_id":890429203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43333,
+    18.71667,
+    -71.43333,
+    18.71667
+],
+  "geometry": {"coordinates":[-71.43333,18.71667],"type":"Point"}
+}

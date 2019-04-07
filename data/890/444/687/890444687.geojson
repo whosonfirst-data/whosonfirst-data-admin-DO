@@ -1,0 +1,72 @@
+{
+  "id": 890444687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4464,19.7411,-71.4464,19.7411",
+    "geom:latitude":19.7411,
+    "geom:longitude":-71.4464,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":11642,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Villa Isabel"
+    ],
+    "qs:name":"Villa V\u00e1squez",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":478,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491905,
+        "gp:id":76687,
+        "qs:id":1045276,
+        "wd:id":"Q1770880",
+        "wk:page":"Villa V\u00e1squez"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052478,
+    "wof:geomhash":"ead4a225c1fa0001b4e1a4df141765e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":890444687,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":890444687,
+    "wof:lastmodified":1527782129,
+    "wof:name":"Villa V\u00e1squez",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:population":11642,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4464,
+    19.7411,
+    -71.4464,
+    19.7411
+],
+  "geometry": {"coordinates":[-71.4464,19.7411],"type":"Point"}
+}

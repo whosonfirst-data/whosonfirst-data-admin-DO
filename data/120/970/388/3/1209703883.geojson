@@ -1,0 +1,74 @@
+{
+  "id": 1209703883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57664,18.76152,-71.57664,18.76152",
+    "geom:latitude":18.76152,
+    "geom:longitude":-71.57664,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70601.0",
+    "gn:admin4_code":"7060105.0",
+    "gn:asciiname":"Las Mesas",
+    "gn:country_code":"DO",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500352,
+    "gn:latitude":18.76152,
+    "gn:longitude":-71.57664,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Mesas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Mesas",
+        "Las Mesas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500352
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0db2b88acc7452f07c83c73ff9a143e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721177,
+            "locality_id":1209703883,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1209703883,
+    "wof:lastmodified":1537619959,
+    "wof:name":"Las Mesas",
+    "wof:parent_id":1108721177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57664,
+    18.76152,
+    -71.57664,
+    18.76152
+],
+  "geometry": {"coordinates":[-71.57664,18.76152],"type":"Point"}
+}

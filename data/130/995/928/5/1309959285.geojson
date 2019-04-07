@@ -1,0 +1,71 @@
+{
+  "id": 1309959285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67663,18.5978,-70.67663,18.5978",
+    "geom:latitude":18.5978,
+    "geom:longitude":-70.67663,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Los Naranjos",
+    "gn:country_code":"DO",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497985,
+    "gn:latitude":18.5978,
+    "gn:longitude":-70.67663,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Los Naranjos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranjos",
+        "Los Naranjos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497985
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9791652d4330845d68f39e3271307933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721149,
+            "locality_id":1309959285,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1309959285,
+    "wof:lastmodified":1537619940,
+    "wof:name":"Los Naranjos",
+    "wof:parent_id":1108721149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67663,
+    18.5978,
+    -70.67663,
+    18.5978
+],
+  "geometry": {"coordinates":[-70.67663,18.5978],"type":"Point"}
+}

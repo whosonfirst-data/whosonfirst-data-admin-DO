@@ -1,0 +1,70 @@
+{
+  "id": 1276349755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72252,18.61697,-70.72252,18.61697",
+    "geom:latitude":18.61697,
+    "geom:longitude":-70.72252,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20501.0",
+    "gn:admin4_code":"2050104.0",
+    "gn:asciiname":"Los Nueces",
+    "gn:country_code":"DO",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497937,
+    "gn:latitude":18.61697,
+    "gn:longitude":-70.72252,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Nueces",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890455305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497937
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"04f121660a094f7fa17690db1bacb9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455305,
+            "locality_id":1276349755,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1276349755,
+    "wof:lastmodified":1536756480,
+    "wof:name":"Los Nueces",
+    "wof:parent_id":890455305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72251999999997,
+    18.61697,
+    -70.72251999999997,
+    18.61697
+],
+  "geometry": {"coordinates":[-70.72251999999997,18.61697],"type":"Point"}
+}

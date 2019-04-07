@@ -1,0 +1,74 @@
+{
+  "id": 1276482109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.4041,19.01169,-70.4041,19.01169",
+    "geom:latitude":19.01169,
+    "geom:longitude":-70.4041,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280105.0",
+    "gn:admin4_code":"28010503.0",
+    "gn:asciiname":"El Llano",
+    "gn:country_code":"DO",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507114,
+    "gn:latitude":19.01169,
+    "gn:longitude":-70.4041,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Llano",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Llanos",
+        "El Llano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507114
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"767292c1b9922583609e7ffc1166c8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1276482109,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1276482109,
+    "wof:lastmodified":1537620025,
+    "wof:name":"El Llano",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.4041,
+    19.01169,
+    -70.4041,
+    19.01169
+],
+  "geometry": {"coordinates":[-70.4041,19.01169],"type":"Point"}
+}

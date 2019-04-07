@@ -1,0 +1,74 @@
+{
+  "id": 1259570145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88921,18.50769,-68.88921,18.50769",
+    "geom:latitude":18.50769,
+    "geom:longitude":-68.88921,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120101.0",
+    "gn:admin4_code":"12010102.0",
+    "gn:asciiname":"Corsica",
+    "gn:country_code":"DO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509229,
+    "gn:latitude":18.50769,
+    "gn:longitude":-68.88921,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"C\u00f3rsica",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey C\u00f3rsica",
+        "C\u00f3rsica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670673,
+        1108721183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509229
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3e98b76c4d58eb2314ec23ff8ff03edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721183,
+            "locality_id":1259570145,
+            "region_id":85670673
+        }
+    ],
+    "wof:id":1259570145,
+    "wof:lastmodified":1537620047,
+    "wof:name":"Corsica",
+    "wof:parent_id":1108721183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88920999999999,
+    18.50769,
+    -68.88920999999999,
+    18.50769
+],
+  "geometry": {"coordinates":[-68.88920999999999,18.50769],"type":"Point"}
+}

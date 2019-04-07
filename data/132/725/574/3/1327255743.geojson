@@ -1,0 +1,70 @@
+{
+  "id": 1327255743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21667,19.28333,-70.21667,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-70.21667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60101.0",
+    "gn:admin4_code":"6010103.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"DO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492975,
+    "gn:latitude":19.28333,
+    "gn:longitude":-70.21667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492975
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"696649420f6bef8f2202afb298c14ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1327255743,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1327255743,
+    "wof:lastmodified":1536936682,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21667,
+    19.28333,
+    -70.21667,
+    19.28333
+],
+  "geometry": {"coordinates":[-70.21666999999999,19.28333],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 421174227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.02734,19.63655,-71.02734,19.63655",
+    "geom:latitude":19.63655,
+    "geom:longitude":-71.02734,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0438\u0437\u0430\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Maizal"
+    ],
+    "name:dut_x_preferred":[
+        "Maizal"
+    ],
+    "name:eng_x_preferred":[
+        "Maizal"
+    ],
+    "name:swe_x_preferred":[
+        "Maizal"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3497204,
+    "qs:gn_pop":3384,
+    "qs:name":"Maizal",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Valverde",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":254,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":695085,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":75066,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497204,
+        "gp:id":75066,
+        "qs:id":695085,
+        "wd:id":"Q6737246",
+        "wk:page":"Maizal"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009024,
+    "wof:geomhash":"510e5e6441b97ae4f24008610aadd2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":421174227,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":421174227,
+    "wof:lastmodified":1527716224,
+    "wof:name":"Maizal",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:population":3384,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.02734,
+    19.63655,
+    -71.02734,
+    19.63655
+],
+  "geometry": {"coordinates":[-71.02734,19.63655],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293676247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.01033,18.54338,-69.01033,18.54338",
+    "geom:latitude":18.54338,
+    "geom:longitude":-69.01033,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120201.0",
+    "gn:admin4_code":"12020102.0",
+    "gn:asciiname":"Batey Guerrero",
+    "gn:country_code":"DO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511792,
+    "gn:latitude":18.54338,
+    "gn:longitude":-69.01033,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Guerrero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guerrero",
+        "Batey Guerrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670673,
+        890429281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511792
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cc807329e9cca66725a8cf160cf32b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429281,
+            "locality_id":1293676247,
+            "region_id":85670673
+        }
+    ],
+    "wof:id":1293676247,
+    "wof:lastmodified":1537620074,
+    "wof:name":"Batey Guerrero",
+    "wof:parent_id":890429281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.01033000000001,
+    18.54338,
+    -69.01033000000001,
+    18.54338
+],
+  "geometry": {"coordinates":[-69.01033000000001,18.54338],"type":"Point"}
+}

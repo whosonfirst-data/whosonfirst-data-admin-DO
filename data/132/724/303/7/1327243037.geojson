@@ -1,0 +1,70 @@
+{
+  "id": 1327243037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.27806,18.19436,-71.27806,18.19436",
+    "geom:latitude":18.19436,
+    "geom:longitude":-71.27806,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40201.0",
+    "gn:admin4_code":"4020102.0",
+    "gn:asciiname":"Las Avispas",
+    "gn:country_code":"DO",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500809,
+    "gn:latitude":18.19436,
+    "gn:longitude":-71.27806,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Avispas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500809
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2ae8a1f554697486f41cd551946fff54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721127,
+            "locality_id":1327243037,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1327243037,
+    "wof:lastmodified":1536954226,
+    "wof:name":"Las Avispas",
+    "wof:parent_id":1108721127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.27806,
+    18.19436,
+    -71.27806,
+    18.19436
+],
+  "geometry": {"coordinates":[-71.27806,18.19436],"type":"Point"}
+}

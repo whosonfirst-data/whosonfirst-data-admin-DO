@@ -1,0 +1,70 @@
+{
+  "id": 1243503683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01125,18.75916,-70.01125,18.75916",
+    "geom:latitude":18.75916,
+    "geom:longitude":-70.01125,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290402.0",
+    "gn:admin4_code":"29040202.0",
+    "gn:asciiname":"Resoli",
+    "gn:country_code":"DO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493889,
+    "gn:latitude":18.75916,
+    "gn:longitude":-70.01125,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Resol\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493889
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b7026ef56a703d0f347e78bf09a7532d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1243503683,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1243503683,
+    "wof:lastmodified":1536723498,
+    "wof:name":"Resoli",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01125,
+    18.75916,
+    -70.01125,
+    18.75916
+],
+  "geometry": {"coordinates":[-70.01125,18.75916],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277125937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.74464,18.79754,-69.74464,18.79754",
+    "geom:latitude":18.79754,
+    "geom:longitude":-69.74464,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290101.0",
+    "gn:admin4_code":"29010105.0",
+    "gn:asciiname":"San Diego",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493183,
+    "gn:latitude":18.79754,
+    "gn:longitude":-69.74464,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San Diego",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493183
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"feca29e5bece1d03a72e1cbd299c866f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1277125937,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1277125937,
+    "wof:lastmodified":1536705789,
+    "wof:name":"San Diego",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.74464,
+    18.79754,
+    -69.74464,
+    18.79754
+],
+  "geometry": {"coordinates":[-69.74464,18.79754],"type":"Point"}
+}

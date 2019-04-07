@@ -1,0 +1,74 @@
+{
+  "id": 1226316077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.52113,19.71235,-71.52113,19.71235",
+    "geom:latitude":19.71235,
+    "geom:longitude":-71.52113,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150202.0",
+    "gn:admin4_code":"15020203.0",
+    "gn:asciiname":"Yaguarizo",
+    "gn:country_code":"DO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491811,
+    "gn:latitude":19.71235,
+    "gn:longitude":-71.52113,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yaguarizo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Yag\u00fcarisos",
+        "Yaguarizo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491811
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"85eb9972ca3b87a43be259c1fa566d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721131,
+            "locality_id":1226316077,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1226316077,
+    "wof:lastmodified":1537619903,
+    "wof:name":"Yaguarizo",
+    "wof:parent_id":1108721131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.52113,
+    19.71235,
+    -71.52113,
+    19.71235
+],
+  "geometry": {"coordinates":[-71.52113,19.71235],"type":"Point"}
+}

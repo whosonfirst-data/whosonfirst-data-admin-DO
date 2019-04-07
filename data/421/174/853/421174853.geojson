@@ -1,0 +1,118 @@
+{
+  "id": 421174853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.42115,18.43507,-69.42115,18.43507",
+    "geom:latitude":18.43507,
+    "geom:longitude":-69.42115,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:deu_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:dut_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:fra_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:fre_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:ger_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05df \u05d3\u05d5\u05dc\u05d9\u05d5"
+    ],
+    "name:nld_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:pol_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u0414\u043e\u043b\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:swe_x_preferred":[
+        "Juan Dolio"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3503889,
+    "qs:gn_pop":0,
+    "qs:name":"Juan Dolio",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"San Pedro de Marcoris",
+    "qs:photos":839,
+    "qs:photos_1k":170,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":839,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"13",
+    "qs:qs_id":901127,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":72183,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":939,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503889,
+        "gp:id":72183,
+        "qs:id":901127,
+        "wd:id":"Q984141",
+        "wk:page":"Juan Dolio"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009046,
+    "wof:geomhash":"1481ae9a185a052759718cb5d7f502a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721163,
+            "locality_id":421174853,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":421174853,
+    "wof:lastmodified":1527716230,
+    "wof:name":"Juan Dolio",
+    "wof:parent_id":1108721163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.42115,
+    18.43507,
+    -69.42115,
+    18.43507
+],
+  "geometry": {"coordinates":[-69.42115,18.43507],"type":"Point"}
+}

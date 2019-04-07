@@ -1,0 +1,70 @@
+{
+  "id": 1343943421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.57648,19.37943,-70.57648,19.37943",
+    "geom:latitude":19.37943,
+    "geom:longitude":-70.57648,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90107.0",
+    "gn:admin4_code":"9010704.0",
+    "gn:asciiname":"Tierra Dura",
+    "gn:country_code":"DO",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492426,
+    "gn:latitude":19.37943,
+    "gn:longitude":-70.57648,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Tierra Dura",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492426
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8023d0bbc100c6ae38e91b4cf1f4fef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1343943421,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1343943421,
+    "wof:lastmodified":1537042897,
+    "wof:name":"Tierra Dura",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.57648,
+    19.37943,
+    -70.57648,
+    19.37943
+],
+  "geometry": {"coordinates":[-70.57648,19.37943],"type":"Point"}
+}

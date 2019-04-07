@@ -1,0 +1,74 @@
+{
+  "id": 1209829669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.95317,18.8751,-70.95317,18.8751",
+    "geom:latitude":18.8751,
+    "geom:longitude":-70.95317,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20405.0",
+    "gn:admin4_code":"2040504.0",
+    "gn:asciiname":"La Pastilla",
+    "gn:country_code":"DO",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501379,
+    "gn:latitude":18.8751,
+    "gn:longitude":-70.95317,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pastilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Patilla",
+        "La Pastilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890429227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501379
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"69353493144e469b532f46f017f77e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429227,
+            "locality_id":1209829669,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1209829669,
+    "wof:lastmodified":1537619969,
+    "wof:name":"La Pastilla",
+    "wof:parent_id":890429227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.95317,
+    18.8751,
+    -70.95317,
+    18.8751
+],
+  "geometry": {"coordinates":[-70.95317,18.8751],"type":"Point"}
+}

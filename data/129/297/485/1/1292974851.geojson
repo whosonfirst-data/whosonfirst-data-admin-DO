@@ -1,0 +1,77 @@
+{
+  "id": 1292974851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15,19.1,-70.15,19.1",
+    "geom:latitude":19.1,
+    "geom:longitude":-70.15,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2404.0",
+    "gn:admin3_code":"240402.0",
+    "gn:admin4_code":"24040202.0",
+    "gn:asciiname":"Los Higueeros",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498387,
+    "gn:latitude":19.1,
+    "gn:longitude":-70.15,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Hig\u00fceros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Hig\u00fceras",
+        "El Hig\u00fcerito",
+        "El Hig\u00fceral",
+        "Los Hig\u00fceros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        1108721181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498387
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"67931fcabfec08c37d68886f78000523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721181,
+            "locality_id":1292974851,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1292974851,
+    "wof:lastmodified":1537619943,
+    "wof:name":"Los Higueeros",
+    "wof:parent_id":1108721181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15,
+    19.1,
+    -70.15,
+    19.1
+],
+  "geometry": {"coordinates":[-70.15000000000001,19.1],"type":"Point"}
+}

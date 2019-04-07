@@ -1,0 +1,70 @@
+{
+  "id": 1242799925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.76839,19.15659,-69.76839,19.15659",
+    "geom:latitude":19.15659,
+    "geom:longitude":-69.76839,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"602.0",
+    "gn:admin3_code":"60202.0",
+    "gn:admin4_code":"6020204.0",
+    "gn:asciiname":"Atronca Perros",
+    "gn:country_code":"DO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512236,
+    "gn:latitude":19.15659,
+    "gn:longitude":-69.76839,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Atronca Perros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512236
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7fa6d64cd1ddadbca273513f5bd8a08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721103,
+            "locality_id":1242799925,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1242799925,
+    "wof:lastmodified":1536743199,
+    "wof:name":"Atronca Perros",
+    "wof:parent_id":1108721103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.76839,
+    19.15659,
+    -69.76839,
+    19.15659
+],
+  "geometry": {"coordinates":[-69.76839,19.15659],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 890444683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.02508,18.77014,-70.02508,18.77014",
+    "geom:latitude":18.77014,
+    "geom:longitude":-70.02508,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":11595,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e9e\u99ac\u85a9"
+    ],
+    "name:eng_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30de\u30b5"
+    ],
+    "name:nan_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Villa de Yamas\u00e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0645\u0627\u0633\u0627"
+    ],
+    "qs:name":"Yamas\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491796,
+        "gp:id":76728,
+        "qs:id":1045274,
+        "wd:id":"Q4022462",
+        "wk:page":"Yamas\u00e1"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052478,
+    "wof:geomhash":"f9bc33579566b34b1beeab71d9974725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":890444683,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":890444683,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Yamas\u00e1",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:population":11595,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.02508,
+    18.77014,
+    -70.02508,
+    18.77014
+],
+  "geometry": {"coordinates":[-70.02508,18.77014],"type":"Point"}
+}

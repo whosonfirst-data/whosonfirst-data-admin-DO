@@ -1,0 +1,138 @@
+{
+  "id": 85793777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":198508.11272,
+    "geom:bbox":"-69.909466,18.48028,-69.909466,18.48028",
+    "geom:latitude":18.48028,
+    "geom:longitude":-69.909466,
+    "gn:latitude":18.48333,
+    "gn:longitude":-69.9,
+    "iso:country":"DO",
+    "lbl:latitude":18.48028,
+    "lbl:longitude":-69.909466,
+    "mps:latitude":18.48375,
+    "mps:longitude":-69.899373,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:hun_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0458\u0430 \u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430 \u0434\u0435 \u0424\u0430\u0440\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:spa_x_colloquial":[
+        "La Faria"
+    ],
+    "name:spa_x_preferred":[
+        "La Far\u00eda",
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Faria"
+    ],
+    "name:unk_x_variant":[
+        "Faria",
+        "La Far\u00eda"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"La Far\u00eda",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"La Far\u00eda",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":251,
+    "qs:photo_sum":1053,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":2345176,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670659,
+        102191575,
+        85632713,
+        1108721273
+    ],
+    "wof:breaches":[
+        85793799
+    ],
+    "wof:concordances":{
+        "gn:id":3502670,
+        "gp:id":72737,
+        "qs:id":1151739
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1c3a14c8a8260fa0c210f6a909ecc452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":85793777,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":85793777,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379288,
+    "wof:name":"La Far\u00eda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[
+        1126060711
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.909466,
+    18.48028,
+    -69.909466,
+    18.48028
+],
+  "geometry": {"coordinates":[-69.90946599999999,18.48028],"type":"Point"}
+}

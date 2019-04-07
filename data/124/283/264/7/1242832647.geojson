@@ -1,0 +1,75 @@
+{
+  "id": 1242832647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31667,18.96667,-71.31667,18.96667",
+    "geom:latitude":18.96667,
+    "geom:longitude":-71.31667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220108.0",
+    "gn:admin4_code":"22010804.0",
+    "gn:asciiname":"La Canita",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503322,
+    "gn:latitude":18.96667,
+    "gn:longitude":-71.31667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Ca\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Ca\u00f1itas",
+        "La Ca\u00f1ita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503322
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"709af83c2972800b2cf02da587e699da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1242832647,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1242832647,
+    "wof:lastmodified":1537619991,
+    "wof:name":"La Canita",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31667,
+    18.96667,
+    -71.31667,
+    18.96667
+],
+  "geometry": {"coordinates":[-71.31667,18.96667],"type":"Point"}
+}

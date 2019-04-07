@@ -1,0 +1,70 @@
+{
+  "id": 1292963969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.8413,19.66607,-70.8413,19.66607",
+    "geom:latitude":19.66607,
+    "geom:longitude":-70.8413,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180201.0",
+    "gn:admin4_code":"18020105.0",
+    "gn:asciiname":"La Piedra",
+    "gn:country_code":"DO",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501245,
+    "gn:latitude":19.66607,
+    "gn:longitude":-70.8413,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501245
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"eedbbdffab460b10958b211923cda0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1292963969,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1292963969,
+    "wof:lastmodified":1537043052,
+    "wof:name":"La Piedra",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8413,
+    19.66607,
+    -70.8413,
+    19.66607
+],
+  "geometry": {"coordinates":[-70.8413,19.66607],"type":"Point"}
+}

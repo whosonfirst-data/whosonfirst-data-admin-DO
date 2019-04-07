@@ -1,0 +1,70 @@
+{
+  "id": 1242948929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89298,19.70499,-70.89298,19.70499",
+    "geom:latitude":19.70499,
+    "geom:longitude":-70.89298,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1803.0",
+    "gn:admin3_code":"180301.0",
+    "gn:admin4_code":"18030102.0",
+    "gn:asciiname":"Fundacion",
+    "gn:country_code":"DO",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505610,
+    "gn:latitude":19.70499,
+    "gn:longitude":-70.89298,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Fundaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505610
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3281dac35c99d813e12c31e60a4b3851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721159,
+            "locality_id":1242948929,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1242948929,
+    "wof:lastmodified":1537024810,
+    "wof:name":"Fundacion",
+    "wof:parent_id":1108721159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89298000000002,
+    19.70499,
+    -70.89298000000002,
+    19.70499
+],
+  "geometry": {"coordinates":[-70.89298000000002,19.70499],"type":"Point"}
+}

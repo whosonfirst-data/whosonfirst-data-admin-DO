@@ -1,0 +1,74 @@
+{
+  "id": 1309979329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64795,19.82757,-71.64795,19.82757",
+    "geom:latitude":19.82757,
+    "geom:longitude":-71.64795,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010104.0",
+    "gn:asciiname":"Las Penas",
+    "gn:country_code":"DO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500294,
+    "gn:latitude":19.82757,
+    "gn:longitude":-71.64795,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Pe\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Pe\u00f1a",
+        "Las Pe\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500294
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"af7964df05fc6be969612fc7ef6c6151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1309979329,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1309979329,
+    "wof:lastmodified":1537619958,
+    "wof:name":"Las Penas",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64795,
+    19.82757,
+    -71.64795,
+    19.82757
+],
+  "geometry": {"coordinates":[-71.64794999999999,19.82757],"type":"Point"}
+}

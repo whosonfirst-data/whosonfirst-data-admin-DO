@@ -1,0 +1,70 @@
+{
+  "id": 1192992395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.12578,19.15337,-70.12578,19.15337",
+    "geom:latitude":19.15337,
+    "geom:longitude":-70.12578,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2404.0",
+    "gn:admin3_code":"240402.0",
+    "gn:admin4_code":"24040203.0",
+    "gn:asciiname":"Jobo Macho",
+    "gn:country_code":"DO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504001,
+    "gn:latitude":19.15337,
+    "gn:longitude":-70.12578,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jobo Macho",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890455303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504001
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ecfd7406e614c2cde0be293aa6ecaaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455303,
+            "locality_id":1192992395,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1192992395,
+    "wof:lastmodified":1536379467,
+    "wof:name":"Jobo Macho",
+    "wof:parent_id":890455303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.12578,
+    19.15337,
+    -70.12578,
+    19.15337
+],
+  "geometry": {"coordinates":[-70.12578000000001,19.15337],"type":"Point"}
+}

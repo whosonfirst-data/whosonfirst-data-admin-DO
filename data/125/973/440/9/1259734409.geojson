@@ -1,0 +1,70 @@
+{
+  "id": 1259734409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19867,18.89163,-69.19867,18.89163",
+    "geom:latitude":18.89163,
+    "geom:longitude":-69.19867,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80103.0",
+    "gn:admin4_code":"8010302.0",
+    "gn:asciiname":"La Subida de la Cuchilla",
+    "gn:country_code":"DO",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500203,
+    "gn:latitude":18.89163,
+    "gn:longitude":-69.19867,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Subida de la Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500203
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dd205731db6eff3c06eba9249a1bbf96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1259734409,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1259734409,
+    "wof:lastmodified":1536993066,
+    "wof:name":"La Subida de la Cuchilla",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19866999999999,
+    18.89163,
+    -69.19866999999999,
+    18.89163
+],
+  "geometry": {"coordinates":[-69.19866999999999,18.89163],"type":"Point"}
+}

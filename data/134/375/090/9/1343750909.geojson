@@ -1,0 +1,75 @@
+{
+  "id": 1343750909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76667,18.45,-68.76667,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-68.76667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020103.0",
+    "gn:asciiname":"Batey Montecarlo",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511726,
+    "gn:latitude":18.45,
+    "gn:longitude":-68.76667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Montecarlo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Monte Carlos",
+        "Batey Montecarlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511726
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"33eab135346fd477c07452a99402e397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1343750909,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1343750909,
+    "wof:lastmodified":1537620070,
+    "wof:name":"Batey Montecarlo",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76666999999999,
+    18.45,
+    -68.76666999999999,
+    18.45
+],
+  "geometry": {"coordinates":[-68.76666999999999,18.45],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343946871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.65259,18.41262,-68.65259,18.41262",
+    "geom:latitude":18.41262,
+    "geom:longitude":-68.65259,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020102.0",
+    "gn:asciiname":"La Pelada",
+    "gn:country_code":"DO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501349,
+    "gn:latitude":18.41262,
+    "gn:longitude":-68.65259,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pelada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pelado",
+        "La Patada",
+        "La Pelada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501349
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"00e4c52a2201e071c4d0aa4c38938392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1343946871,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1343946871,
+    "wof:lastmodified":1537619969,
+    "wof:name":"La Pelada",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.65259,
+    18.41262,
+    -68.65259,
+    18.41262
+],
+  "geometry": {"coordinates":[-68.65259,18.41262],"type":"Point"}
+}

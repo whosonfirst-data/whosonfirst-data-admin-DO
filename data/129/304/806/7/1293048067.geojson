@@ -1,0 +1,70 @@
+{
+  "id": 1293048067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.32961,18.74621,-69.32961,18.74621",
+    "geom:latitude":18.74621,
+    "geom:longitude":-69.32961,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300102.0",
+    "gn:admin4_code":"30010203.0",
+    "gn:asciiname":"El Mamon",
+    "gn:country_code":"DO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507028,
+    "gn:latitude":18.74621,
+    "gn:longitude":-69.32961,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Mam\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507028
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bfeed3a33af2e0126e5caa2183c3d084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1293048067,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1293048067,
+    "wof:lastmodified":1536924407,
+    "wof:name":"El Mamon",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.32961,
+    18.74621,
+    -69.32961,
+    18.74621
+],
+  "geometry": {"coordinates":[-69.32961,18.74621],"type":"Point"}
+}

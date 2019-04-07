@@ -1,0 +1,279 @@
+{
+  "id": 890444717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78399,18.807,-69.78399,18.807",
+    "geom:latitude":18.807,
+    "geom:longitude":-69.78399,
+    "gn:country":"DO",
+    "gn:fcode":"PPLA",
+    "gn:pop":15532,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u064a \u0628\u0644\u0627\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09cd\u099f\u09c7 \u09aa\u09cd\u09b2\u09be\u099f\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u8499\u7279\u666e\u62c9\u5854"
+    ],
+    "name:dan_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:dut_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:fin_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:fre_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:ger_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5 \u03a0\u03bb\u03ac\u03c4\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7 \u0aaa\u0acd\u0ab2\u0abe\u0a9f\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947 \u092a\u094d\u0932\u093e\u091f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:ita_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30fb\u30d7\u30e9\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0c82\u0c9f\u0cc6 \u0caa\u0ccd\u0cb2\u0cbe\u0c9f\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud14c\ud50c\ub77c\ud0c0"
+    ],
+    "name:lav_x_preferred":[
+        "Monteplata"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947 \u092a\u094d\u0932\u093e\u091f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:nan_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:nob_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0647 \u067e\u0644\u0627\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:por_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dda \u0db4\u0dca\u0dbd\u0dcf\u0da7\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0ba3\u0bcd\u0b9f\u0bc7 \u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c02\u0c1f\u0c47 \u0c2a\u0c4d\u0c32\u0c1f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e19\u0e40\u0e15 \u0e1e\u0e32\u0e15\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "San Antonio de Monte Plata"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u06d2 \u067e\u0644\u0627\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Monte Plata"
+    ],
+    "name:war_x_preferred":[
+        "Monte Plata"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Dominican Republic",
+    "ne:ADM0_A3":"DOM",
+    "ne:ADM1NAME":"Monte Plata",
+    "ne:ADMIN1_COD":32,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3496134,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Monte Plata",
+    "ne:GN_POP":15532,
+    "ne:GTOPO30":41.0,
+    "ne:ISO_A2":"DO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":18.807003,
+    "ne:LONGITUDE":-69.784002,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Monte Plata",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Monte Plata",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":15532,
+    "ne:POP_MIN":15532,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Dominican Republic",
+    "ne:SOV_A3":"DOM",
+    "ne:TIMEZONE":"America/Santo_Domingo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Monte Plata",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":234,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496134,
+        "gp:id":75381,
+        "qs:id":1045323,
+        "wd:id":"Q634487",
+        "wk:page":"Monte Plata"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052479,
+    "wof:geomhash":"49bc8a27819e04b527dd944db4cfa2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":890444717,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":890444717,
+    "wof:lastmodified":1527787055,
+    "wof:name":"Monte Plata",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:population":15532,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78399,
+    18.807,
+    -69.78399,
+    18.807
+],
+  "geometry": {"coordinates":[-69.78399,18.807],"type":"Point"}
+}

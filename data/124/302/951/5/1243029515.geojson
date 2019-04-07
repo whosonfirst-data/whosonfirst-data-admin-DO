@@ -1,0 +1,70 @@
+{
+  "id": 1243029515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,18.81667,-68.96667,18.81667",
+    "geom:latitude":18.81667,
+    "geom:longitude":-68.96667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010105.0",
+    "gn:asciiname":"Arroyo Mateo",
+    "gn:country_code":"DO",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512382,
+    "gn:latitude":18.81667,
+    "gn:longitude":-68.96667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Mateo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512382
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5e5705f8d9ba27b553be997a8df34f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1243029515,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1243029515,
+    "wof:lastmodified":1536909995,
+    "wof:name":"Arroyo Mateo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    18.81667,
+    -68.96667,
+    18.81667
+],
+  "geometry": {"coordinates":[-68.96666999999999,18.81667],"type":"Point"}
+}

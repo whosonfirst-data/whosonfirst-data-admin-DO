@@ -1,0 +1,71 @@
+{
+  "id": 1343518949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93977,19.14556,-70.93977,19.14556",
+    "geom:latitude":19.14556,
+    "geom:longitude":-70.93977,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250504.0",
+    "gn:admin4_code":"25050405.0",
+    "gn:asciiname":"Jamamucito",
+    "gn:country_code":"DO",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504182,
+    "gn:latitude":19.14556,
+    "gn:longitude":-70.93977,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jamamucito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504182,
+        "wk:page":"Jamamucito"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"240ed06df632fc349b78554a651c2555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1343518949,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1343518949,
+    "wof:lastmodified":1537504244,
+    "wof:name":"Jamamucito",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93977,
+    19.14556,
+    -70.93977,
+    19.14556
+],
+  "geometry": {"coordinates":[-70.93977,19.14556],"type":"Point"}
+}

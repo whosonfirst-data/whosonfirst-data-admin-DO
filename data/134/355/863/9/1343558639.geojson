@@ -1,0 +1,70 @@
+{
+  "id": 1343558639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05024,19.21407,-70.05024,19.21407",
+    "geom:latitude":19.21407,
+    "geom:longitude":-70.05024,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:admin4_code":"6030104.0",
+    "gn:asciiname":"Los Cachones",
+    "gn:country_code":"DO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499149,
+    "gn:latitude":19.21407,
+    "gn:longitude":-70.05024,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Cachones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499149
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a1d9192b2ca17b7d73a93adf12d01fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721135,
+            "locality_id":1343558639,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1343558639,
+    "wof:lastmodified":1536601426,
+    "wof:name":"Los Cachones",
+    "wof:parent_id":1108721135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05024,
+    19.21407,
+    -70.05024,
+    19.21407
+],
+  "geometry": {"coordinates":[-70.05024,19.21407],"type":"Point"}
+}

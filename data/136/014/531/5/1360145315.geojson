@@ -1,0 +1,70 @@
+{
+  "id": 1360145315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87659,19.03784,-70.87659,19.03784",
+    "geom:latitude":19.03784,
+    "geom:longitude":-70.87659,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130303.0",
+    "gn:admin4_code":"13030303.0",
+    "gn:asciiname":"Los Granizos",
+    "gn:country_code":"DO",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498548,
+    "gn:latitude":19.03784,
+    "gn:longitude":-70.87659,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Granizos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498548
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"18973fcc9cabc4b7a235a6602227c59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1360145315,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1360145315,
+    "wof:lastmodified":1536857657,
+    "wof:name":"Los Granizos",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87659000000002,
+    19.03784,
+    -70.87659000000002,
+    19.03784
+],
+  "geometry": {"coordinates":[-70.87659000000002,19.03784],"type":"Point"}
+}

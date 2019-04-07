@@ -1,0 +1,70 @@
+{
+  "id": 1293756809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2048,19.60105,-71.2048,19.60105",
+    "geom:latitude":19.60105,
+    "geom:longitude":-71.2048,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150304.0",
+    "gn:admin4_code":"15030404.0",
+    "gn:asciiname":"Piloto",
+    "gn:country_code":"DO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494770,
+    "gn:latitude":19.60105,
+    "gn:longitude":-71.2048,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Piloto",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494770
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"102bd3ede73e4d7999ca481157d333c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1293756809,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1293756809,
+    "wof:lastmodified":1536895823,
+    "wof:name":"Piloto",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2048,
+    19.60105,
+    -71.2048,
+    19.60105
+],
+  "geometry": {"coordinates":[-71.20480000000001,19.60105],"type":"Point"}
+}

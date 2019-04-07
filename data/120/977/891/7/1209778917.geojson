@@ -1,0 +1,70 @@
+{
+  "id": 1209778917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.80508,19.71138,-70.80508,19.71138",
+    "geom:latitude":19.71138,
+    "geom:longitude":-70.80508,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180201.0",
+    "gn:admin4_code":"18020106.0",
+    "gn:asciiname":"Bellaco",
+    "gn:country_code":"DO",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511567,
+    "gn:latitude":19.71138,
+    "gn:longitude":-70.80508,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bellaco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511567
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b1339151bdf5a9e31f8d727dcd7a550e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1209778917,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1209778917,
+    "wof:lastmodified":1536375839,
+    "wof:name":"Bellaco",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.80508,
+    19.71138,
+    -70.80508,
+    19.71138
+],
+  "geometry": {"coordinates":[-70.80508,19.71138],"type":"Point"}
+}

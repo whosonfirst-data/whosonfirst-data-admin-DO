@@ -1,0 +1,70 @@
+{
+  "id": 1209863297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.89181,18.88016,-68.89181,18.88016",
+    "geom:latitude":18.88016,
+    "geom:longitude":-68.89181,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010105.0",
+    "gn:asciiname":"Janabo",
+    "gn:country_code":"DO",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504167,
+    "gn:latitude":18.88016,
+    "gn:longitude":-68.89181,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Janabo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504167
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fa931bd5aa5b31805236375a3d441f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1209863297,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1209863297,
+    "wof:lastmodified":1536381379,
+    "wof:name":"Janabo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.89180999999999,
+    18.88016,
+    -68.89180999999999,
+    18.88016
+],
+  "geometry": {"coordinates":[-68.89180999999999,18.88016],"type":"Point"}
+}

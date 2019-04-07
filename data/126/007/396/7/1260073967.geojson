@@ -1,0 +1,74 @@
+{
+  "id": 1260073967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75942,18.49809,-68.75942,18.49809",
+    "geom:latitude":18.49809,
+    "geom:longitude":-68.75942,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020104.0",
+    "gn:asciiname":"La Guazuma",
+    "gn:country_code":"DO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502434,
+    "gn:latitude":18.49809,
+    "gn:longitude":-68.75942,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Gu\u00e1zuma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Guazuma",
+        "La Gu\u00e1zuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502434
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"db8af496f3f39efe52f2e3589e8e3292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1260073967,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1260073967,
+    "wof:lastmodified":1537619980,
+    "wof:name":"La Guazuma",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75941999999999,
+    18.49809,
+    -68.75941999999999,
+    18.49809
+],
+  "geometry": {"coordinates":[-68.75941999999999,18.49809],"type":"Point"}
+}

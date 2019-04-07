@@ -1,0 +1,75 @@
+{
+  "id": 1310290561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.52399,19.42428,-70.52399,19.42428",
+    "geom:latitude":19.42428,
+    "geom:longitude":-70.52399,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90104.0",
+    "gn:admin4_code":"9010402.0",
+    "gn:asciiname":"Guauci Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505031,
+    "gn:latitude":19.42428,
+    "gn:longitude":-70.52399,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guauc\u00ed Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guaic\u00ed Arriba",
+        "Guaisi Arriba",
+        "Guauc\u00ed Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505031
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"58f8f06b8d36a4a8a4f7a1635f5007ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1310290561,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1310290561,
+    "wof:lastmodified":1537620007,
+    "wof:name":"Guauci Arriba",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.52399,
+    19.42428,
+    -70.52399,
+    19.42428
+],
+  "geometry": {"coordinates":[-70.52399,19.42428],"type":"Point"}
+}

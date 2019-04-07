@@ -1,0 +1,114 @@
+{
+  "id": 421201993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33333,19.28333,-69.33333,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-69.33333,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u5df4\u5217"
+    ],
+    "name:dut_x_preferred":[
+        "El Valle"
+    ],
+    "name:eng_x_preferred":[
+        "El Valle"
+    ],
+    "name:fre_x_preferred":[
+        "El Valle"
+    ],
+    "name:ger_x_preferred":[
+        "El Valle"
+    ],
+    "name:ita_x_preferred":[
+        "El Valle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d0\u30b8\u30a7"
+    ],
+    "name:nan_x_preferred":[
+        "El Valle"
+    ],
+    "name:por_x_preferred":[
+        "El Valle"
+    ],
+    "name:spa_x_preferred":[
+        "El Valle"
+    ],
+    "name:swe_x_preferred":[
+        "El Valle"
+    ],
+    "name:unk_x_variant":[
+        "Arroyo Seco"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3506032,
+    "qs:gn_pop":0,
+    "qs:name":"El Valle",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Samana",
+    "qs:photos":113,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":113,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":216881,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":71552,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506032,
+        "gp:id":71552,
+        "qs:id":216881,
+        "wd:id":"Q1770328"
+    },
+    "wof:country":"DO",
+    "wof:created":1459010100,
+    "wof:geomhash":"dbca31c7ae25f5731e9bd7fa96e0d529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":421201993,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":421201993,
+    "wof:lastmodified":1553816388,
+    "wof:name":"El Valle",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33333,
+    19.28333,
+    -69.33333,
+    19.28333
+],
+  "geometry": {"coordinates":[-69.33333,19.28333],"type":"Point"}
+}

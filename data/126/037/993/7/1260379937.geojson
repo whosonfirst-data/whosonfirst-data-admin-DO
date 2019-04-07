@@ -1,0 +1,74 @@
+{
+  "id": 1260379937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8278,18.34872,-68.8278,18.34872",
+    "geom:latitude":18.34872,
+    "geom:longitude":-68.8278,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:admin4_code":"11020302.0",
+    "gn:asciiname":"La Laguna",
+    "gn:country_code":"DO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502041,
+    "gn:latitude":18.34872,
+    "gn:longitude":-68.8278,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Lagunas",
+        "La Laguna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502041
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a0a6e978881d27f460ce038635719209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1260379937,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1260379937,
+    "wof:lastmodified":1537619976,
+    "wof:name":"La Laguna",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8278,
+    18.34872,
+    -68.8278,
+    18.34872
+],
+  "geometry": {"coordinates":[-68.8278,18.34872],"type":"Point"}
+}

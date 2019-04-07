@@ -1,0 +1,74 @@
+{
+  "id": 1193122815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45289,19.38056,-70.45289,19.38056",
+    "geom:latitude":19.38056,
+    "geom:longitude":-70.45289,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90101.0",
+    "gn:admin4_code":"9010103.0",
+    "gn:asciiname":"El Algarrobo",
+    "gn:country_code":"DO",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508589,
+    "gn:latitude":19.38056,
+    "gn:longitude":-70.45289,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Algarrobo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algarrobo",
+        "El Algarrobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508589
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8506e4585ac8bbc254ddfa0b165dc619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1193122815,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1193122815,
+    "wof:lastmodified":1537620042,
+    "wof:name":"El Algarrobo",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45289,
+    19.38056,
+    -70.45289,
+    19.38056
+],
+  "geometry": {"coordinates":[-70.45289,19.38056],"type":"Point"}
+}

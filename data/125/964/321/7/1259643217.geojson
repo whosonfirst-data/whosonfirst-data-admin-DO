@@ -1,0 +1,70 @@
+{
+  "id": 1259643217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.94477,18.72703,-69.94477,18.72703",
+    "geom:latitude":18.72703,
+    "geom:longitude":-69.94477,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290402.0",
+    "gn:admin4_code":"29040205.0",
+    "gn:asciiname":"Los Callejones",
+    "gn:country_code":"DO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499081,
+    "gn:latitude":18.72703,
+    "gn:longitude":-69.94477,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Callejones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499081
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6ca384456aaf7eae1796ea21406e47c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1259643217,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1259643217,
+    "wof:lastmodified":1536626963,
+    "wof:name":"Los Callejones",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.94476999999999,
+    18.72703,
+    -69.94476999999999,
+    18.72703
+],
+  "geometry": {"coordinates":[-69.94476999999999,18.72703],"type":"Point"}
+}

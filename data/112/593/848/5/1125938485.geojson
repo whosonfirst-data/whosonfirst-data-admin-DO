@@ -1,0 +1,106 @@
+{
+  "id": 1125938485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5473,19.48403,-71.5473,19.48403",
+    "geom:latitude":19.48403,
+    "geom:longitude":-71.5473,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2170,
+    "gn:population":2170,
+    "iso:country":"DO",
+    "lbl:latitude":19.48403,
+    "lbl:longitude":-71.5473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0434\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u723e\u8482\u591a"
+    ],
+    "name:dut_x_preferred":[
+        "Partido"
+    ],
+    "name:eng_x_preferred":[
+        "Partido"
+    ],
+    "name:ita_x_preferred":[
+        "Partido"
+    ],
+    "name:nan_x_preferred":[
+        "Partido"
+    ],
+    "name:por_x_preferred":[
+        "Partido"
+    ],
+    "name:spa_x_preferred":[
+        "Partido"
+    ],
+    "name:swe_x_preferred":[
+        "Partido"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3495256,
+    "qs_pg:gn_pop":2170,
+    "qs_pg:name":"Partido",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1045329,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495256,
+        "qs_pg:id":1045329,
+        "wd:id":"Q3896653"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297037,
+    "wof:geomhash":"d5e7dbf80f725bd9ad8df1f41eaa5d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721215,
+            "locality_id":1125938485,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1125938485,
+    "wof:lastmodified":1553816645,
+    "wof:name":"Partido",
+    "wof:parent_id":1108721215,
+    "wof:placetype":"locality",
+    "wof:population":2170,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5473,
+    19.48403,
+    -71.5473,
+    19.48403
+],
+  "geometry": {"coordinates":[-71.54730000000001,19.48403],"type":"Point"}
+}

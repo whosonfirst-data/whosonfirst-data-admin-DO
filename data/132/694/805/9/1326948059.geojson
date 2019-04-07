@@ -1,0 +1,74 @@
+{
+  "id": 1326948059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85025,18.75512,-70.85025,18.75512",
+    "geom:latitude":18.75512,
+    "geom:longitude":-70.85025,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20403.0",
+    "gn:admin4_code":"2040303.0",
+    "gn:asciiname":"Periquito",
+    "gn:country_code":"DO",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494994,
+    "gn:latitude":18.75512,
+    "gn:longitude":-70.85025,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Periquito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Periquitos",
+        "Periquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890429227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494994
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8815adceaf6d29479ac68c4385795c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429227,
+            "locality_id":1326948059,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1326948059,
+    "wof:lastmodified":1537619922,
+    "wof:name":"Periquito",
+    "wof:parent_id":890429227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85025,
+    18.75512,
+    -70.85025,
+    18.75512
+],
+  "geometry": {"coordinates":[-70.85025,18.75512],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193190821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39262,18.55321,-70.39262,18.55321",
+    "geom:latitude":18.55321,
+    "geom:longitude":-70.39262,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310102.0",
+    "gn:admin4_code":"31010204.0",
+    "gn:asciiname":"Boca de Mahoma",
+    "gn:country_code":"DO",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511295,
+    "gn:latitude":18.55321,
+    "gn:longitude":-70.39262,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca de Mahoma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511295
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5bb1957b8ddb5b2a9cae8b4ed6fc3e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1193190821,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1193190821,
+    "wof:lastmodified":1536383011,
+    "wof:name":"Boca de Mahoma",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39262,
+    18.55321,
+    -70.39262,
+    18.55321
+],
+  "geometry": {"coordinates":[-70.39261999999999,18.55321],"type":"Point"}
+}

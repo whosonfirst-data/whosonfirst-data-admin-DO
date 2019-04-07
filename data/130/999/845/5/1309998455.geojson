@@ -1,0 +1,70 @@
+{
+  "id": 1309998455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.07133,19.22286,-70.07133,19.22286",
+    "geom:latitude":19.22286,
+    "geom:longitude":-70.07133,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:admin4_code":"6030105.0",
+    "gn:asciiname":"Cruce de los Lanos",
+    "gn:country_code":"DO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509154,
+    "gn:latitude":19.22286,
+    "gn:longitude":-70.07133,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de los Lanos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509154
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"825f3848605056655339048dd93250ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721135,
+            "locality_id":1309998455,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1309998455,
+    "wof:lastmodified":1536653420,
+    "wof:name":"Cruce de los Lanos",
+    "wof:parent_id":1108721135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.07133,
+    19.22286,
+    -70.07133,
+    19.22286
+],
+  "geometry": {"coordinates":[-70.07133,19.22286],"type":"Point"}
+}

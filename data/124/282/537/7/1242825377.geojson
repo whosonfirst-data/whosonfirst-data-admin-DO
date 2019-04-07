@@ -1,0 +1,74 @@
+{
+  "id": 1242825377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.95827,18.85556,-68.95827,18.85556",
+    "geom:latitude":18.85556,
+    "geom:longitude":-68.95827,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010105.0",
+    "gn:asciiname":"Coamo",
+    "gn:country_code":"DO",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509539,
+    "gn:latitude":18.85556,
+    "gn:longitude":-68.95827,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Coamo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Coamo",
+        "Coamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509539
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4e639b34c2b0167571f889544a36c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1242825377,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1242825377,
+    "wof:lastmodified":1537620049,
+    "wof:name":"Coamo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.95827,
+    18.85556,
+    -68.95827,
+    18.85556
+],
+  "geometry": {"coordinates":[-68.95827,18.85556],"type":"Point"}
+}

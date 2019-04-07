@@ -1,0 +1,75 @@
+{
+  "id": 1226832857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.85267,18.62316,-68.85267,18.62316",
+    "geom:latitude":18.62316,
+    "geom:longitude":-68.85267,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Guanabana",
+    "gn:country_code":"DO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505164,
+    "gn:latitude":18.62316,
+    "gn:longitude":-68.85267,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guan\u00e1bana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guani\u00e1bano",
+        "Guajabona",
+        "Guan\u00e1bana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505164
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a0bb2b6df4d66cb1946b1592e65e0811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1226832857,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1226832857,
+    "wof:lastmodified":1537620008,
+    "wof:name":"Guanabana",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.85266999999999,
+    18.62316,
+    -68.85266999999999,
+    18.62316
+],
+  "geometry": {"coordinates":[-68.85266999999999,18.62316],"type":"Point"}
+}

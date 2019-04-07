@@ -1,0 +1,67 @@
+{
+  "id": 1243244663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85941,18.95573,-71.85941,18.95573",
+    "geom:latitude":18.95573,
+    "geom:longitude":-71.85941,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Colorado",
+    "gn:country_code":"DO",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509459,
+    "gn:latitude":18.95573,
+    "gn:longitude":-71.85941,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509459
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ae9dcbccdf28559cc645ae1e5e7c6e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1243244663,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1243244663,
+    "wof:lastmodified":1537093178,
+    "wof:name":"Colorado",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85941,
+    18.95573,
+    -71.85941,
+    18.95573
+],
+  "geometry": {"coordinates":[-71.85941,18.95573],"type":"Point"}
+}

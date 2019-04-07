@@ -1,0 +1,75 @@
+{
+  "id": 1226718643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53333,18.78333,-71.53333,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":-71.53333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220301.0",
+    "gn:admin4_code":"22030102.0",
+    "gn:asciiname":"Monte Arriba",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496232,
+    "gn:latitude":18.78333,
+    "gn:longitude":-71.53333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Monte Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Ca\u00f1a",
+        "Monte Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496232
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"644ca754d655fe63ec0741d092d401c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1226718643,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1226718643,
+    "wof:lastmodified":1537619929,
+    "wof:name":"Monte Arriba",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53333,
+    18.78333,
+    -71.53333,
+    18.78333
+],
+  "geometry": {"coordinates":[-71.53333000000001,18.78333],"type":"Point"}
+}

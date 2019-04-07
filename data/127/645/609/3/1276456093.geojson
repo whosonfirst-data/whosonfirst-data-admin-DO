@@ -1,0 +1,74 @@
+{
+  "id": 1276456093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25761,18.43124,-71.25761,18.43124",
+    "geom:latitude":18.43124,
+    "geom:longitude":-71.25761,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30102.0",
+    "gn:admin4_code":"3010205.0",
+    "gn:asciiname":"Batey Dos",
+    "gn:country_code":"DO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511820,
+    "gn:latitude":18.43124,
+    "gn:longitude":-71.25761,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey 2",
+        "Batey Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        890429235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511820
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"45fcd424e66cdd7f759edfcf00ff5408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429235,
+            "locality_id":1276456093,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1276456093,
+    "wof:lastmodified":1537620075,
+    "wof:name":"Batey Dos",
+    "wof:parent_id":890429235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25761,
+    18.43124,
+    -71.25761,
+    18.43124
+],
+  "geometry": {"coordinates":[-71.25761,18.43124],"type":"Point"}
+}

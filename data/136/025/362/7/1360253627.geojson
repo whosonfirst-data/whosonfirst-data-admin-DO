@@ -1,0 +1,77 @@
+{
+  "id": 1360253627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35,18.86667,-71.35,18.86667",
+    "geom:latitude":18.86667,
+    "geom:longitude":-71.35,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220102.0",
+    "gn:admin4_code":"22010204.0",
+    "gn:asciiname":"Arroyo El Loro",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512447,
+    "gn:latitude":18.86667,
+    "gn:longitude":-71.35,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo El Loro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Loro",
+        "Arroyo Loro",
+        "Arroyo del Loro",
+        "Arroyo El Loro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512447
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"abf3a5f69cdc5ddc4970f821573933cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1360253627,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1360253627,
+    "wof:lastmodified":1537620082,
+    "wof:name":"Arroyo El Loro",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35,
+    18.86667000000001,
+    -71.35,
+    18.86667000000001
+],
+  "geometry": {"coordinates":[-71.34999999999999,18.86667000000001],"type":"Point"}
+}

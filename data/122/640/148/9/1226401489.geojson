@@ -1,0 +1,67 @@
+{
+  "id": 1226401489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09917,18.53173,-70.09917,18.53173",
+    "geom:latitude":18.53173,
+    "geom:longitude":-70.09917,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Los Montones Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498029,
+    "gn:latitude":18.53173,
+    "gn:longitude":-70.09917,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Los Montones Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498029
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ae39feceae2b825ea7465fcaab10ff9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721219,
+            "locality_id":1226401489,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1226401489,
+    "wof:lastmodified":1536709670,
+    "wof:name":"Los Montones Abajo",
+    "wof:parent_id":1108721219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09917,
+    18.53173,
+    -70.09917,
+    18.53173
+],
+  "geometry": {"coordinates":[-70.09917,18.53173],"type":"Point"}
+}

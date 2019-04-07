@@ -1,0 +1,115 @@
+{
+  "id": 421200749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.74513,19.69841,-71.74513,19.69841",
+    "geom:latitude":19.69841,
+    "geom:longitude":-71.74513,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:dut_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:eng_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:ger_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:ita_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:nan_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:por_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:spa_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:swe_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:unk_x_variant":[
+        "Manzanillo"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3495024,
+    "qs:gn_pop":3866,
+    "qs:name":"Pepillo Salcedo",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Monte Cristri",
+    "qs:photos":77,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":77,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":894254,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":75715,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890455307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495024,
+        "gp:id":75715,
+        "qs:id":894254,
+        "wd:id":"Q3899368",
+        "wk:page":"Pepillo Salcedo, Dominican Republic"
+    },
+    "wof:country":"DO",
+    "wof:created":1459010037,
+    "wof:geomhash":"b4ea792226d2e63e023c189dec44aab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455307,
+            "locality_id":421200749,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":421200749,
+    "wof:lastmodified":1527716425,
+    "wof:name":"Pepillo Salcedo",
+    "wof:parent_id":890455307,
+    "wof:placetype":"locality",
+    "wof:population":3866,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.74513,
+    19.69841,
+    -71.74513,
+    19.69841
+],
+  "geometry": {"coordinates":[-71.74513,19.69841],"type":"Point"}
+}

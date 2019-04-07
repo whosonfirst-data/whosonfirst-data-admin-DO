@@ -1,0 +1,70 @@
+{
+  "id": 1242822995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19506,18.69107,-70.19506,18.69107",
+    "geom:latitude":18.69107,
+    "geom:longitude":-70.19506,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210501.0",
+    "gn:admin4_code":"21050102.0",
+    "gn:asciiname":"Batey Lecheria",
+    "gn:country_code":"DO",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511747,
+    "gn:latitude":18.69107,
+    "gn:longitude":-70.19506,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Lecher\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511747
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b35389eeca8cccd26838e3d4962aae24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429199,
+            "locality_id":1242822995,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1242822995,
+    "wof:lastmodified":1536710651,
+    "wof:name":"Batey Lecheria",
+    "wof:parent_id":890429199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19506,
+    18.69107,
+    -70.19506,
+    18.69107
+],
+  "geometry": {"coordinates":[-70.19506,18.69107],"type":"Point"}
+}

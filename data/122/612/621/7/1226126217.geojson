@@ -1,0 +1,75 @@
+{
+  "id": 1226126217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46707,18.39299,-68.46707,18.39299",
+    "geom:latitude":18.39299,
+    "geom:longitude":-68.46707,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020102.0",
+    "gn:asciiname":"Coyuba",
+    "gn:country_code":"DO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509203,
+    "gn:latitude":18.39299,
+    "gn:longitude":-68.46707,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Coyuba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayuba",
+        "Coyoba",
+        "Coyuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509203
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1b1b0131706e0ab752e8cf797877e68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1226126217,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1226126217,
+    "wof:lastmodified":1537620047,
+    "wof:name":"Coyuba",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46706999999999,
+    18.39299,
+    -68.46706999999999,
+    18.39299
+],
+  "geometry": {"coordinates":[-68.46706999999999,18.39299],"type":"Point"}
+}

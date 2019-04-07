@@ -1,0 +1,74 @@
+{
+  "id": 1309716125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89541,18.59071,-70.89541,18.59071",
+    "geom:latitude":18.59071,
+    "geom:longitude":-70.89541,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20803.0",
+    "gn:admin4_code":"2080301.0",
+    "gn:asciiname":"Amiama Gomez",
+    "gn:country_code":"DO",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512722,
+    "gn:latitude":18.59071,
+    "gn:longitude":-70.89541,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Amiama G\u00f3mez",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u00e1fara",
+        "Amiama G\u00f3mez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512722
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b760f7133834e5dea43b50f3a21d918d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721287,
+            "locality_id":1309716125,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1309716125,
+    "wof:lastmodified":1537620085,
+    "wof:name":"Amiama Gomez",
+    "wof:parent_id":1108721287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89541,
+    18.59071,
+    -70.89541,
+    18.59071
+],
+  "geometry": {"coordinates":[-70.89541,18.59071],"type":"Point"}
+}

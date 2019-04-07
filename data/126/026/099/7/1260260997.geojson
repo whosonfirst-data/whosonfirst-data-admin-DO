@@ -1,0 +1,74 @@
+{
+  "id": 1260260997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76444,18.71213,-71.76444,18.71213",
+    "geom:latitude":18.71213,
+    "geom:longitude":-71.76444,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70401.0",
+    "gn:admin4_code":"7040102.0",
+    "gn:asciiname":"Aniceto Martinez",
+    "gn:country_code":"DO",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512660,
+    "gn:latitude":18.71213,
+    "gn:longitude":-71.76444,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Aniceto Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aniceto Martines",
+        "Aniceto Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890429275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512660
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f9ff52a4a7049f4029f9948ea391ecf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429275,
+            "locality_id":1260260997,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1260260997,
+    "wof:lastmodified":1537620085,
+    "wof:name":"Aniceto Martinez",
+    "wof:parent_id":890429275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76444000000002,
+    18.71213,
+    -71.76444000000002,
+    18.71213
+],
+  "geometry": {"coordinates":[-71.76444000000002,18.71213],"type":"Point"}
+}

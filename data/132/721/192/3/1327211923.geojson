@@ -1,0 +1,67 @@
+{
+  "id": 1327211923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56575,18.70556,-71.56575,18.70556",
+    "geom:latitude":18.70556,
+    "geom:longitude":-71.56575,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Guayabo Dulce",
+    "gn:country_code":"DO",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504981,
+    "gn:latitude":18.70556,
+    "gn:longitude":-71.56575,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Guayabo Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504981
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a475b6ae31e875851ac14ed3f1c884b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1327211923,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1327211923,
+    "wof:lastmodified":1536998508,
+    "wof:name":"Guayabo Dulce",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56575,
+    18.70556,
+    -71.56575,
+    18.70556
+],
+  "geometry": {"coordinates":[-71.56574999999999,18.70556],"type":"Point"}
+}

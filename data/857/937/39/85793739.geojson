@@ -1,0 +1,110 @@
+{
+  "id": 85793739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":9522493.641938,
+    "geom:bbox":"-69.860211,18.506879,-69.860211,18.506879",
+    "geom:latitude":18.506879,
+    "geom:longitude":-69.860211,
+    "gn:latitude":18.5,
+    "gn:longitude":-69.86667,
+    "iso:country":"DO",
+    "lbl:latitude":18.506879,
+    "lbl:longitude":-69.860211,
+    "mps:latitude":18.509338,
+    "mps:longitude":-69.86009,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Ensanche Los Minas"
+    ],
+    "name:unk_x_variant":[
+        "Ensanche Los Minas"
+    ],
+    "qs:gn_adm0_cc":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7874116,
+    "qs:gn_nam_loc":"limoncillar",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Ensanche Los Minas",
+    "qs:local_max":5287,
+    "qs:local_sum":19037,
+    "qs:localhoods":30,
+    "qs:name":"Ensanche Los Minas",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santo Domingo",
+    "qs:name_local":"Santo Domingo",
+    "qs:photo_max":22,
+    "qs:photo_sum":48,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424800,
+    "qs:woe_adm1":28358196,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":76456,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670553,
+        102191575,
+        85632713,
+        1108721275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505937,
+        "gp:id":71589,
+        "qs:id":965532
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9c1c86f59b687017a76fe1052e6b59c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721275,
+            "locality_id":-1,
+            "neighbourhood_id":85793739,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":85793739,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379288,
+    "wof:name":"Ensanche Los Minas",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[
+        1126065421
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.860211,
+    18.506879,
+    -69.860211,
+    18.506879
+],
+  "geometry": {"coordinates":[-69.86021100000001,18.506879],"type":"Point"}
+}

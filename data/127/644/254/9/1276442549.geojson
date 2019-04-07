@@ -1,0 +1,70 @@
+{
+  "id": 1276442549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.55,19.5,-71.55,19.5",
+    "geom:latitude":19.5,
+    "geom:longitude":-71.55,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50301.0",
+    "gn:admin4_code":"5030102.0",
+    "gn:asciiname":"Vaca Gorda",
+    "gn:country_code":"DO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492176,
+    "gn:latitude":19.5,
+    "gn:longitude":-71.55,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Vaca Gorda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492176
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ac8130bb8d14482b30cb0a027db2c94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721215,
+            "locality_id":1276442549,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1276442549,
+    "wof:lastmodified":1536630680,
+    "wof:name":"Vaca Gorda",
+    "wof:parent_id":1108721215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.55,
+    19.5,
+    -71.55,
+    19.5
+],
+  "geometry": {"coordinates":[-71.55,19.5],"type":"Point"}
+}

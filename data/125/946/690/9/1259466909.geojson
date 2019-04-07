@@ -1,0 +1,75 @@
+{
+  "id": 1259466909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.60573,18.48051,-68.60573,18.48051",
+    "geom:latitude":18.48051,
+    "geom:longitude":-68.60573,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010104.0",
+    "gn:asciiname":"Estrelladora",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505807,
+    "gn:latitude":18.48051,
+    "gn:longitude":-68.60573,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Estrelladora",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Estralladora",
+        "Estralladora",
+        "Estrelladora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505807
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6ba6ade7e5827ddd1789735914cf1008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1259466909,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1259466909,
+    "wof:lastmodified":1537620011,
+    "wof:name":"Estrelladora",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.60573000000001,
+    18.48051,
+    -68.60573000000001,
+    18.48051
+],
+  "geometry": {"coordinates":[-68.60573000000001,18.48051],"type":"Point"}
+}

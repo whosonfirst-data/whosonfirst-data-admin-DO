@@ -1,0 +1,76 @@
+{
+  "id": 1343738159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.59695,19.63958,-70.59695,19.63958",
+    "geom:latitude":19.63958,
+    "geom:longitude":-70.59695,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180102.0",
+    "gn:admin4_code":"18010205.0",
+    "gn:asciiname":"Yasica Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491758,
+    "gn:latitude":19.63958,
+    "gn:longitude":-70.59695,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Y\u00e1sica Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bris\u00f3n",
+        "Y\u00e1sica",
+        "Y\u00e1sica Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491758,
+        "wk:page":"Y%C3%A1sica_Arriba"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e9600c37c493f0b2b23f1db8500a0a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1343738159,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1343738159,
+    "wof:lastmodified":1537619903,
+    "wof:name":"Yasica Arriba",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.59695,
+    19.63958,
+    -70.59695,
+    19.63958
+],
+  "geometry": {"coordinates":[-70.59695000000001,19.63958],"type":"Point"}
+}

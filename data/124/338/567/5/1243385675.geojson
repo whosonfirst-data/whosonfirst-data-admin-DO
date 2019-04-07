@@ -1,0 +1,70 @@
+{
+  "id": 1243385675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19694,19.23939,-70.19694,19.23939",
+    "geom:latitude":19.23939,
+    "geom:longitude":-70.19694,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60601.0",
+    "gn:admin4_code":"6060103.0",
+    "gn:asciiname":"El Hato",
+    "gn:country_code":"DO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507388,
+    "gn:latitude":19.23939,
+    "gn:longitude":-70.19694,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Hato",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507388
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bba54765c08447c28f09050dc3bbdba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721191,
+            "locality_id":1243385675,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1243385675,
+    "wof:lastmodified":1536892974,
+    "wof:name":"El Hato",
+    "wof:parent_id":1108721191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19694,
+    19.23939,
+    -70.19694,
+    19.23939
+],
+  "geometry": {"coordinates":[-70.19694,19.23939],"type":"Point"}
+}

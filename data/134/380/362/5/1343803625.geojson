@@ -1,0 +1,70 @@
+{
+  "id": 1343803625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04762,18.69768,-70.04762,18.69768",
+    "geom:latitude":18.69768,
+    "geom:longitude":-70.04762,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290403.0",
+    "gn:admin4_code":"29040305.0",
+    "gn:asciiname":"Sabana Grande",
+    "gn:country_code":"DO",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493505,
+    "gn:latitude":18.69768,
+    "gn:longitude":-70.04762,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493505
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"97e73b44e0f9d25078c488503268acb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1343803625,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1343803625,
+    "wof:lastmodified":1536748507,
+    "wof:name":"Sabana Grande",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04762,
+    18.69768,
+    -70.04762,
+    18.69768
+],
+  "geometry": {"coordinates":[-70.04761999999999,18.69768],"type":"Point"}
+}

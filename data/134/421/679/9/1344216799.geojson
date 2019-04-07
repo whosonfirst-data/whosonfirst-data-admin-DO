@@ -1,0 +1,76 @@
+{
+  "id": 1344216799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88333,18.85,-69.88333,18.85",
+    "geom:latitude":18.85,
+    "geom:longitude":-69.88333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290101.0",
+    "gn:admin4_code":"29010102.0",
+    "gn:asciiname":"Fondo Vicente",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505697,
+    "gn:latitude":18.85,
+    "gn:longitude":-69.88333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Fondo Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vicente",
+        "Fondo de Vicente",
+        "Fondo Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505697
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c1d4ef89bdbb7823f10711a1aad72b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1344216799,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1344216799,
+    "wof:lastmodified":1537620010,
+    "wof:name":"Fondo Vicente",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88333,
+    18.85,
+    -69.88333,
+    18.85
+],
+  "geometry": {"coordinates":[-69.88333,18.85],"type":"Point"}
+}

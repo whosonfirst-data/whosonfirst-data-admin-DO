@@ -1,0 +1,74 @@
+{
+  "id": 1225988827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.48446,18.69477,-70.48446,18.69477",
+    "geom:latitude":18.69477,
+    "geom:longitude":-70.48446,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3103.0",
+    "gn:admin3_code":"310301.0",
+    "gn:admin4_code":"31030104.0",
+    "gn:asciiname":"La Cienaguita",
+    "gn:country_code":"DO",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503065,
+    "gn:latitude":18.69477,
+    "gn:longitude":-70.48446,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cienaguita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cieneguita",
+        "La Cienaguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503065
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0ac5f09f86cf2d01a18e9e0dfdc420b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721237,
+            "locality_id":1225988827,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1225988827,
+    "wof:lastmodified":1537619987,
+    "wof:name":"La Cienaguita",
+    "wof:parent_id":1108721237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.48446,
+    18.69477,
+    -70.48446,
+    18.69477
+],
+  "geometry": {"coordinates":[-70.48446,18.69477],"type":"Point"}
+}

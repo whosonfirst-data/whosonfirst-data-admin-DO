@@ -1,0 +1,74 @@
+{
+  "id": 1226339915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23743,19.28398,-70.23743,19.28398",
+    "geom:latitude":19.28398,
+    "geom:longitude":-70.23743,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60101.0",
+    "gn:admin4_code":"6010101.0",
+    "gn:asciiname":"Mata Larga",
+    "gn:country_code":"DO",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496610,
+    "gn:latitude":19.28398,
+    "gn:longitude":-70.23743,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata Larga",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nata Larga",
+        "Mata Larga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496610
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5b2322baa3f5d2592eb72d71faf361dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1226339915,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1226339915,
+    "wof:lastmodified":1537619931,
+    "wof:name":"Mata Larga",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23743,
+    19.28398,
+    -70.23743,
+    19.28398
+],
+  "geometry": {"coordinates":[-70.23743,19.28398],"type":"Point"}
+}

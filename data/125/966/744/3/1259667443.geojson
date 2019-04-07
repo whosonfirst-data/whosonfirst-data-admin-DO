@@ -1,0 +1,70 @@
+{
+  "id": 1259667443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66676,18.41123,-68.66676,18.41123",
+    "geom:latitude":18.41123,
+    "geom:longitude":-68.66676,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020102.0",
+    "gn:asciiname":"La Guarapa",
+    "gn:country_code":"DO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502478,
+    "gn:latitude":18.41123,
+    "gn:longitude":-68.66676,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Guarapa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502478
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2fe3f9defd3b1009b3a6457074f802b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1259667443,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1259667443,
+    "wof:lastmodified":1537086944,
+    "wof:name":"La Guarapa",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66676,
+    18.41123,
+    -68.66676,
+    18.41123
+],
+  "geometry": {"coordinates":[-68.66676,18.41123],"type":"Point"}
+}

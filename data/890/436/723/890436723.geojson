@@ -1,0 +1,90 @@
+{
+  "id": 890436723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.609,18.37825,-68.609,18.37825",
+    "geom:latitude":18.37825,
+    "geom:longitude":-68.609,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":1991,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Boca del Yuma"
+    ],
+    "name:dut_x_preferred":[
+        "Boca de Yuma"
+    ],
+    "name:eng_x_preferred":[
+        "Boca de Yuma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30ab\u30fb\u30c7\u30fb\u30e6\u30de"
+    ],
+    "name:spa_x_preferred":[
+        "Boca de Yuma"
+    ],
+    "name:swe_x_preferred":[
+        "Boca de Yuma"
+    ],
+    "name:unk_x_variant":[
+        "Yuma"
+    ],
+    "qs:name":"Boca de Yuma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":918,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511277,
+        "gp:id":69608,
+        "qs:id":1045392,
+        "wd:id":"Q4936128",
+        "wk:page":"Boca de Yuma"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052122,
+    "wof:geomhash":"9d7763ac714c7e7530e46ed23e4a9294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":890436723,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":890436723,
+    "wof:lastmodified":1527735403,
+    "wof:name":"Boca de Yuma",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:population":1991,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.609,
+    18.37825,
+    -68.609,
+    18.37825
+],
+  "geometry": {"coordinates":[-68.60899999999999,18.37825],"type":"Point"}
+}

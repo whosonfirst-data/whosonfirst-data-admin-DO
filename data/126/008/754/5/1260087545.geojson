@@ -1,0 +1,75 @@
+{
+  "id": 1260087545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08834,18.19515,-71.08834,18.19515",
+    "geom:latitude":18.19515,
+    "geom:longitude":-71.08834,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40101.0",
+    "gn:admin4_code":"4010101.0",
+    "gn:asciiname":"Rio Sito",
+    "gn:country_code":"DO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493740,
+    "gn:latitude":18.19515,
+    "gn:longitude":-71.08834,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"R\u00edo Sito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Riosita",
+        "R\u00edo Cito",
+        "R\u00edo Sito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493740
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ea4b9d598fc71a9bf7777845bc85d245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721111,
+            "locality_id":1260087545,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1260087545,
+    "wof:lastmodified":1537619914,
+    "wof:name":"Rio Sito",
+    "wof:parent_id":1108721111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08834,
+    18.19515,
+    -71.08834,
+    18.19515
+],
+  "geometry": {"coordinates":[-71.08834,18.19515],"type":"Point"}
+}

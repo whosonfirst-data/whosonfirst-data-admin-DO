@@ -1,0 +1,74 @@
+{
+  "id": 1309729757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69983,18.51392,-70.69983,18.51392",
+    "geom:latitude":18.51392,
+    "geom:longitude":-70.69983,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20109.0",
+    "gn:admin4_code":"2010902.0",
+    "gn:asciiname":"Los Cacaos",
+    "gn:country_code":"DO",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499184,
+    "gn:latitude":18.51392,
+    "gn:longitude":-70.69983,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Cacaos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Cacao",
+        "Los Cacaos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499184
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4a6f4db064e13dbf8fa618d9e90285f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721105,
+            "locality_id":1309729757,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1309729757,
+    "wof:lastmodified":1537619949,
+    "wof:name":"Los Cacaos",
+    "wof:parent_id":1108721105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69983,
+    18.51392,
+    -70.69983,
+    18.51392
+],
+  "geometry": {"coordinates":[-70.69983000000001,18.51392],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126064287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.87516,18.46721,-69.87516,18.46721",
+    "geom:latitude":18.46721,
+    "geom:longitude":-69.87516,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"DO",
+    "lbl:latitude":18.46721,
+    "lbl:longitude":-69.87516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3493007,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sans Souci",
+    "qs_pg:name_adm0":"Rep\u00fablica Dominicana",
+    "qs_pg:name_adm1":"Distrito Nacional",
+    "qs_pg:photos":4582,
+    "qs_pg:photos_1k":928,
+    "qs_pg:photos_9k":20,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4582,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165069,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424800,
+    "qs_pg:woe_id":76407,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424800,
+    "woe:name_adm0":"Rep\u00fablica Dominicana",
+    "woe:name_adm1":"Distrito Nacional",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670553,
+        102191575,
+        85632713,
+        1108721275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493007,
+        "gp:id":76407,
+        "qs_pg:id":1165069
+    },
+    "wof:country":"DO",
+    "wof:created":1497308615,
+    "wof:geomhash":"7d1b6af4b0dd40d1f78bfacaa78dc2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721275,
+            "locality_id":-1,
+            "neighbourhood_id":1126064287,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1126064287,
+    "wof:lastmodified":1534379288,
+    "wof:name":"Sans Souci",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[
+        85793803
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.87516,
+    18.46721,
+    -69.87516,
+    18.46721
+],
+  "geometry": {"coordinates":[-69.87515999999999,18.46721],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259930359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.60695,19.01934,-70.60695,19.01934",
+    "geom:latitude":19.01934,
+    "geom:longitude":-70.60695,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030108.0",
+    "gn:asciiname":"La Pita",
+    "gn:country_code":"DO",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501150,
+    "gn:latitude":19.01934,
+    "gn:longitude":-70.60695,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pita",
+        "La Pinta",
+        "La Pita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501150
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d0e54e8dffcd285de41ac02a074450ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1259930359,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1259930359,
+    "wof:lastmodified":1537619968,
+    "wof:name":"La Pita",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.60695,
+    19.01934,
+    -70.60695,
+    19.01934
+],
+  "geometry": {"coordinates":[-70.60695,19.01934],"type":"Point"}
+}

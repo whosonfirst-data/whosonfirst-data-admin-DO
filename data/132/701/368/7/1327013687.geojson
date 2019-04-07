@@ -1,0 +1,74 @@
+{
+  "id": 1327013687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.67952,18.54858,-68.67952,18.54858",
+    "geom:latitude":18.54858,
+    "geom:longitude":-68.67952,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010104.0",
+    "gn:asciiname":"Guajabo",
+    "gn:country_code":"DO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505212,
+    "gn:latitude":18.54858,
+    "gn:longitude":-68.67952,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Guajabo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Guajabo",
+        "Guajabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505212
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"278dabcb8a6fff791ed12f1b054cacd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1327013687,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1327013687,
+    "wof:lastmodified":1537620009,
+    "wof:name":"Guajabo",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.67952,
+    18.54858,
+    -68.67952,
+    18.54858
+],
+  "geometry": {"coordinates":[-68.67952,18.54858],"type":"Point"}
+}

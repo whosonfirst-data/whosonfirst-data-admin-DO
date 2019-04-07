@@ -1,0 +1,70 @@
+{
+  "id": 1293031831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43612,18.94544,-70.43612,18.94544",
+    "geom:latitude":18.94544,
+    "geom:longitude":-70.43612,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280104.0",
+    "gn:admin4_code":"28010404.0",
+    "gn:asciiname":"El Frontino",
+    "gn:country_code":"DO",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507599,
+    "gn:latitude":18.94544,
+    "gn:longitude":-70.43612,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Frontino",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507599
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ce8a653e2355fe5b117ef30c5b90b523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1293031831,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1293031831,
+    "wof:lastmodified":1536947441,
+    "wof:name":"El Frontino",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43611999999997,
+    18.94544,
+    -70.43611999999997,
+    18.94544
+],
+  "geometry": {"coordinates":[-70.43611999999997,18.94544],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360138773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14958,18.42232,-70.14958,18.42232",
+    "geom:latitude":18.42232,
+    "geom:longitude":-70.14958,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210101.0",
+    "gn:admin4_code":"21010108.0",
+    "gn:asciiname":"Cambita Sterling",
+    "gn:country_code":"DO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510636,
+    "gn:latitude":18.42232,
+    "gn:longitude":-70.14958,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cambita Sterling",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambita Esterlina",
+        "Cambita Esterling",
+        "Cambita Sterling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510636
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"799db3728b67de0363f09403e4a74322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721257,
+            "locality_id":1360138773,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1360138773,
+    "wof:lastmodified":1537620059,
+    "wof:name":"Cambita Sterling",
+    "wof:parent_id":1108721257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14958,
+    18.42232000000001,
+    -70.14958,
+    18.42232000000001
+],
+  "geometry": {"coordinates":[-70.14958,18.42232000000001],"type":"Point"}
+}

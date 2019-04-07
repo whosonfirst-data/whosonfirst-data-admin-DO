@@ -1,0 +1,74 @@
+{
+  "id": 1243411105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38123,19.32694,-71.38123,19.32694",
+    "geom:latitude":19.32694,
+    "geom:longitude":-71.38123,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2601.0",
+    "gn:admin3_code":"260101.0",
+    "gn:admin4_code":"26010106.0",
+    "gn:asciiname":"Coqui",
+    "gn:country_code":"DO",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509315,
+    "gn:latitude":19.32694,
+    "gn:longitude":-71.38123,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Coqu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cogu\u00ed",
+        "Coqu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        1108721263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509315
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a7d3104273ebdbb1a7508a7422dc072d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721263,
+            "locality_id":1243411105,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1243411105,
+    "wof:lastmodified":1537620048,
+    "wof:name":"Coqui",
+    "wof:parent_id":1108721263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38123,
+    19.32694,
+    -71.38123,
+    19.32694
+],
+  "geometry": {"coordinates":[-71.38123,19.32694],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226492543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63333,19.33333,-70.63333,19.33333",
+    "geom:latitude":19.33333,
+    "geom:longitude":-70.63333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:admin4_code":"13010405.0",
+    "gn:asciiname":"Las Canas",
+    "gn:country_code":"DO",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500729,
+    "gn:latitude":19.33333,
+    "gn:longitude":-70.63333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Canas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500729
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"01c6640a2a91114f01eaf645d65123cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1226492543,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1226492543,
+    "wof:lastmodified":1537071765,
+    "wof:name":"Las Canas",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63333,
+    19.33333,
+    -70.63333,
+    19.33333
+],
+  "geometry": {"coordinates":[-70.63333,19.33333],"type":"Point"}
+}

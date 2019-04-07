@@ -1,0 +1,70 @@
+{
+  "id": 1259870325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43233,19.65881,-70.43233,19.65881",
+    "geom:latitude":19.65881,
+    "geom:longitude":-70.43233,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90401.0",
+    "gn:admin4_code":"9040103.0",
+    "gn:asciiname":"Los Brazos",
+    "gn:country_code":"DO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499215,
+    "gn:latitude":19.65881,
+    "gn:longitude":-70.43233,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Brazos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        1108721167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499215
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"13a5847b05e615efeaf915d4bd342d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721167,
+            "locality_id":1259870325,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1259870325,
+    "wof:lastmodified":1536798293,
+    "wof:name":"Los Brazos",
+    "wof:parent_id":1108721167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43233000000002,
+    19.65881,
+    -70.43233000000002,
+    19.65881
+],
+  "geometry": {"coordinates":[-70.43233000000002,19.65881],"type":"Point"}
+}

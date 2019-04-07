@@ -1,0 +1,70 @@
+{
+  "id": 1309704649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27795,19.25546,-70.27795,19.25546",
+    "geom:latitude":19.25546,
+    "geom:longitude":-70.27795,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60105.0",
+    "gn:admin4_code":"6010503.0",
+    "gn:asciiname":"El Pozo",
+    "gn:country_code":"DO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506460,
+    "gn:latitude":19.25546,
+    "gn:longitude":-70.27795,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506460
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1ae32ef6f7d999a68a901020312e9ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1309704649,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1309704649,
+    "wof:lastmodified":1537073926,
+    "wof:name":"El Pozo",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27795,
+    19.25546,
+    -70.27795,
+    19.25546
+],
+  "geometry": {"coordinates":[-70.27795,19.25546],"type":"Point"}
+}

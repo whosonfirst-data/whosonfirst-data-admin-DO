@@ -1,0 +1,304 @@
+{
+  "id": 890442067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.52956,19.22207,-70.52956,19.22207",
+    "geom:latitude":19.22207,
+    "geom:longitude":-70.52956,
+    "gn:country":"DO",
+    "gn:fcode":"PPLA",
+    "gn:pop":102426,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0641\u064a\u063a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09ad\u09c7\u0997\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u7dad\u52a0"
+    ],
+    "name:dan_x_preferred":[
+        "La Vega"
+    ],
+    "name:deu_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:dut_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd \u03b4\u03b5 \u039b\u03b1 \u0392\u03ad\u03b3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:epo_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:fin_x_preferred":[
+        "La Vega"
+    ],
+    "name:fra_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:fre_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:ger_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd \u03b4\u03b5 \u039b\u03b1 \u0392\u03ad\u03b3\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0ab5\u0ac7\u0a97\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05e1\u05e4\u05e1\u05d9\u05d5\u05df \u05d3\u05d4 \u05dc\u05d4 \u05d5\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0935\u0947\u0917\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "La Vega"
+    ],
+    "name:ita_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30bb\u30d7\u30b7\u30aa\u30f3\u30fb\u30c7\u30fb\u30e9\u30fb\u30d9\u30ac"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0cb5\u0cc6\u0c97\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubca0\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Lavega"
+    ],
+    "name:lit_x_preferred":[
+        "La Vega"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u0935\u0947\u0917\u093e"
+    ],
+    "name:may_x_preferred":[
+        "La Vega"
+    ],
+    "name:nah_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:nan_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:nld_x_preferred":[
+        "La Vega"
+    ],
+    "name:nld_x_variant":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:nob_x_preferred":[
+        "La Vega"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0648\u06af\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u0438\u043e\u043d-\u0434\u0435-\u043b\u0430-\u0412\u0435\u0433\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0dc0\u0dda\u0d9c\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:swe_x_preferred":[
+        "Concepci\u00f3n de La Vega"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe \u0bb5\u0bc7\u0b95\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32 \u0c35\u0c47\u0c17"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e2a\u0e40\u0e27\u0e01\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "La Vega"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d-\u0434\u0435-\u043b\u0430-\u0412\u0435\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "La Vega"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0648\u06cc\u063a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Vega"
+    ],
+    "name:war_x_preferred":[
+        "Concepci\u00f3n de la Vega"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7dad\u52a0"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Dominican Republic",
+    "ne:ADM0_A3":"DOM",
+    "ne:ADM1NAME":"La Vega",
+    "ne:ADMIN1_COD":30,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3509382,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Concepcion de La Vega",
+    "ne:GN_POP":102426,
+    "ne:GTOPO30":77.0,
+    "ne:ISO_A2":"DO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":19.216591,
+    "ne:LONGITUDE":-70.516585,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"La Vega",
+    "ne:MAX_AREAKM":76.0,
+    "ne:MAX_AREAMI":29.0,
+    "ne:MAX_BBXMAX":-70.441667,
+    "ne:MAX_BBXMIN":-70.591667,
+    "ne:MAX_BBYMAX":19.325,
+    "ne:MAX_BBYMIN":19.2,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":112.0,
+    "ne:MAX_PERMI":69.0,
+    "ne:MAX_POP10":163197,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-70.512145,
+    "ne:MEAN_BBYC":19.248936,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":76.0,
+    "ne:MIN_AREAMI":29.0,
+    "ne:MIN_BBXMAX":-70.441667,
+    "ne:MIN_BBXMIN":-70.591667,
+    "ne:MIN_BBYMAX":19.325,
+    "ne:MIN_BBYMIN":19.2,
+    "ne:MIN_PERKM":112.0,
+    "ne:MIN_PERMI":69.0,
+    "ne:NAME":"La Vega",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Vega",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":163197,
+    "ne:POP_MIN":102426,
+    "ne:POP_OTHER":163850,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Dominican Republic",
+    "ne:SOV_A3":"DOM",
+    "ne:TIMEZONE":"America/Santo_Domingo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Concepci\u00f3n de La Vega",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509382,
+        "gp:id":70145,
+        "qs:id":274380,
+        "wd:id":"Q538953"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052349,
+    "wof:geomhash":"a5e901179d030a1136241581b524e0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":890442067,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":890442067,
+    "wof:lastmodified":1513955900,
+    "wof:name":"Concepci\u00f3n de La Vega",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:population":102426,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.52956,
+    19.22207,
+    -70.52956,
+    19.22207
+],
+  "geometry": {"coordinates":[-70.52956,19.22207],"type":"Point"}
+}

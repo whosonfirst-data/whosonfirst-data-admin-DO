@@ -1,0 +1,70 @@
+{
+  "id": 1309974713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.30877,19.14605,-71.30877,19.14605",
+    "geom:latitude":19.14605,
+    "geom:longitude":-71.30877,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220103.0",
+    "gn:admin4_code":"22010305.0",
+    "gn:asciiname":"Palo de Viento",
+    "gn:country_code":"DO",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495383,
+    "gn:latitude":19.14605,
+    "gn:longitude":-71.30877,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Palo de Viento",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495383
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d1719bccc336a91070ae2eb93c061d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1309974713,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1309974713,
+    "wof:lastmodified":1536687818,
+    "wof:name":"Palo de Viento",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.30877,
+    19.14605,
+    -71.30877,
+    19.14605
+],
+  "geometry": {"coordinates":[-71.30877,19.14605],"type":"Point"}
+}

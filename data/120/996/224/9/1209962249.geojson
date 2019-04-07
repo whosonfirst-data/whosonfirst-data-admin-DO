@@ -1,0 +1,70 @@
+{
+  "id": 1209962249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78818,18.82857,-69.78818,18.82857",
+    "geom:latitude":18.82857,
+    "geom:longitude":-69.78818,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290104.0",
+    "gn:admin4_code":"29010404.0",
+    "gn:asciiname":"Ana Santana",
+    "gn:country_code":"DO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512701,
+    "gn:latitude":18.82857,
+    "gn:longitude":-69.78818,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ana Santana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512701
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"87aa5acc56e472a6ccf9e287d379ef1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1209962249,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1209962249,
+    "wof:lastmodified":1536372260,
+    "wof:name":"Ana Santana",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78818000000001,
+    18.82857000000001,
+    -69.78818000000001,
+    18.82857000000001
+],
+  "geometry": {"coordinates":[-69.78818000000001,18.82857000000001],"type":"Point"}
+}

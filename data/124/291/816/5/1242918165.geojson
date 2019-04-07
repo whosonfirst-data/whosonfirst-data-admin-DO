@@ -1,0 +1,75 @@
+{
+  "id": 1242918165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26667,18.3,-70.26667,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-70.26667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170107.0",
+    "gn:admin4_code":"17010702.0",
+    "gn:asciiname":"Los Pinos",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497768,
+    "gn:latitude":18.3,
+    "gn:longitude":-70.26667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Pinos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pino",
+        "Los Pinos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        1108721109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497768
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"863f1e613fb623517cc9624dd9f2175b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721109,
+            "locality_id":1242918165,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":1242918165,
+    "wof:lastmodified":1537619939,
+    "wof:name":"Los Pinos",
+    "wof:parent_id":1108721109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26666999999999,
+    18.3,
+    -70.26666999999999,
+    18.3
+],
+  "geometry": {"coordinates":[-70.26666999999999,18.3],"type":"Point"}
+}

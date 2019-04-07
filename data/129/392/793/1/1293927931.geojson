@@ -1,0 +1,70 @@
+{
+  "id": 1293927931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39923,18.52428,-70.39923,18.52428",
+    "geom:latitude":18.52428,
+    "geom:longitude":-70.39923,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310102.0",
+    "gn:admin4_code":"31010202.0",
+    "gn:asciiname":"El Cocuyo",
+    "gn:country_code":"DO",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507872,
+    "gn:latitude":18.52428,
+    "gn:longitude":-70.39923,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Cocuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507872
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d8602d019761f53d1edf55de43e20a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1293927931,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1293927931,
+    "wof:lastmodified":1536649035,
+    "wof:name":"El Cocuyo",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39923,
+    18.52428,
+    -70.39923,
+    18.52428
+],
+  "geometry": {"coordinates":[-70.39923,18.52428],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326594729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.38333,19.26667,-69.38333,19.26667",
+    "geom:latitude":19.26667,
+    "geom:longitude":-69.38333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200101.0",
+    "gn:admin4_code":"20010104.0",
+    "gn:asciiname":"Los Platanos",
+    "gn:country_code":"DO",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497724,
+    "gn:latitude":19.26667,
+    "gn:longitude":-69.38333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Pl\u00e1tanos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497724
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c7b5ba8c0b3d60456e7df13b173fd52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1326594729,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1326594729,
+    "wof:lastmodified":1536893773,
+    "wof:name":"Los Platanos",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.38333,
+    19.26667,
+    -69.38333,
+    19.26667
+],
+  "geometry": {"coordinates":[-69.38333,19.26667],"type":"Point"}
+}

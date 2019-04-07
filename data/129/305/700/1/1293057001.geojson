@@ -1,0 +1,74 @@
+{
+  "id": 1293057001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.54672,18.55211,-69.54672,18.55211",
+    "geom:latitude":18.55211,
+    "geom:longitude":-69.54672,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:admin4_code":"23020103.0",
+    "gn:asciiname":"La Victorina",
+    "gn:country_code":"DO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499940,
+    "gn:latitude":18.55211,
+    "gn:longitude":-69.54672,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Victorina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Victorina",
+        "La Victorina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499940
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bf66bff4ed07dcbf505639fbbb06ce23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429255,
+            "locality_id":1293057001,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1293057001,
+    "wof:lastmodified":1537619955,
+    "wof:name":"La Victorina",
+    "wof:parent_id":890429255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.54672,
+    18.55211,
+    -69.54672,
+    18.55211
+],
+  "geometry": {"coordinates":[-69.54671999999999,18.55211],"type":"Point"}
+}

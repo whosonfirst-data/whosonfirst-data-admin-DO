@@ -1,0 +1,70 @@
+{
+  "id": 1276531437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.0228,19.44495,-70.0228,19.44495",
+    "geom:latitude":19.44495,
+    "geom:longitude":-70.0228,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140103.0",
+    "gn:admin4_code":"14010305.0",
+    "gn:asciiname":"Mata Bonita",
+    "gn:country_code":"DO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496681,
+    "gn:latitude":19.44495,
+    "gn:longitude":-70.0228,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata Bonita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496681
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"54cde94f2db6039d30de791ea4b9161b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1276531437,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1276531437,
+    "wof:lastmodified":1537009873,
+    "wof:name":"Mata Bonita",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.0228,
+    19.44495,
+    -70.0228,
+    19.44495
+],
+  "geometry": {"coordinates":[-70.0228,19.44495],"type":"Point"}
+}

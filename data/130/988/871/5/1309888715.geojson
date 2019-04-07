@@ -1,0 +1,70 @@
+{
+  "id": 1309888715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.40519,19.78764,-71.40519,19.78764",
+    "geom:latitude":19.78764,
+    "geom:longitude":-71.40519,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:admin4_code":"15060102.0",
+    "gn:asciiname":"La Baitoa",
+    "gn:country_code":"DO",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503651,
+    "gn:latitude":19.78764,
+    "gn:longitude":-71.40519,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Baitoa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503651
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2593a6e1c5dcaff7e2f7f26d0ad7412b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1309888715,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1309888715,
+    "wof:lastmodified":1536811131,
+    "wof:name":"La Baitoa",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40519,
+    19.78764,
+    -71.40519,
+    19.78764
+],
+  "geometry": {"coordinates":[-71.40519,19.78764],"type":"Point"}
+}

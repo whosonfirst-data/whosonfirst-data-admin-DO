@@ -1,0 +1,70 @@
+{
+  "id": 1343721129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.31506,18.65684,-70.31506,18.65684",
+    "geom:latitude":18.65684,
+    "geom:longitude":-70.31506,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2108.0",
+    "gn:admin3_code":"210801.0",
+    "gn:admin4_code":"21080104.0",
+    "gn:asciiname":"Los Canos",
+    "gn:country_code":"DO",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499025,
+    "gn:latitude":18.65684,
+    "gn:longitude":-70.31506,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Ca\u00f1os",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499025
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4506731857735c079b07f2b0fc0279c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721203,
+            "locality_id":1343721129,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1343721129,
+    "wof:lastmodified":1536866476,
+    "wof:name":"Los Canos",
+    "wof:parent_id":1108721203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.31506,
+    18.65684,
+    -70.31506,
+    18.65684
+],
+  "geometry": {"coordinates":[-70.31506,18.65684],"type":"Point"}
+}

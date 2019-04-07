@@ -1,0 +1,75 @@
+{
+  "id": 1326993325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.52863,19.7457,-70.52863,19.7457",
+    "geom:latitude":19.7457,
+    "geom:longitude":-70.52863,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070103.0",
+    "gn:asciiname":"Los Altos de Jalisco",
+    "gn:country_code":"DO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499454,
+    "gn:latitude":19.7457,
+    "gn:longitude":-70.52863,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Altos de Jalisco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto de los Peregrines",
+        "Alto de Los Peregrinos",
+        "Los Altos de Jalisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499454
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ce739f15dafa9c8db5ba0cf00f0bbcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429207,
+            "locality_id":1326993325,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1326993325,
+    "wof:lastmodified":1537619952,
+    "wof:name":"Los Altos de Jalisco",
+    "wof:parent_id":890429207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.52863,
+    19.7457,
+    -70.52863,
+    19.7457
+],
+  "geometry": {"coordinates":[-70.52863000000001,19.7457],"type":"Point"}
+}

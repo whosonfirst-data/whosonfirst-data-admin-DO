@@ -1,0 +1,75 @@
+{
+  "id": 1293942435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23333,19.1,-70.23333,19.1",
+    "geom:latitude":19.1,
+    "geom:longitude":-70.23333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2404.0",
+    "gn:admin3_code":"240404.0",
+    "gn:admin4_code":"24040403.0",
+    "gn:asciiname":"Bomo",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511241,
+    "gn:latitude":19.1,
+    "gn:longitude":-70.23333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bomo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boma",
+        "Bomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        1108721181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511241
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"26c136e6b77888fd6a5dc913de84dff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721181,
+            "locality_id":1293942435,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1293942435,
+    "wof:lastmodified":1537620062,
+    "wof:name":"Bomo",
+    "wof:parent_id":1108721181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23333000000001,
+    19.1,
+    -70.23333000000001,
+    19.1
+],
+  "geometry": {"coordinates":[-70.23333000000001,19.1],"type":"Point"}
+}

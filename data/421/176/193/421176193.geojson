@@ -1,0 +1,89 @@
+{
+  "id": 421176193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65256,19.59202,-70.65256,19.59202",
+    "geom:latitude":19.59202,
+    "geom:longitude":-70.65256,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Pedro Garc\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Pedro Garc\u00eda"
+    ],
+    "name:unk_x_variant":[
+        "Padre Garc\u00eda"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3495111,
+    "qs:gn_pop":1457,
+    "qs:name":"Pedro Garc\u00eda",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1045326,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":56122433,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495111,
+        "gp:id":56122433,
+        "qs:id":1045326
+    },
+    "wof:country":"DO",
+    "wof:created":1459009101,
+    "wof:geomhash":"7688fd57069ae513b4abd2e35424ff29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":421176193,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":421176193,
+    "wof:lastmodified":1527726468,
+    "wof:name":"Pedro Garc\u00eda",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:population":1457,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65256,
+    19.59202,
+    -70.65256,
+    19.59202
+],
+  "geometry": {"coordinates":[-70.65255999999999,19.59202],"type":"Point"}
+}

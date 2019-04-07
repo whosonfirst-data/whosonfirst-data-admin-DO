@@ -1,0 +1,74 @@
+{
+  "id": 1343668133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65589,19.39084,-71.65589,19.39084",
+    "geom:latitude":19.39084,
+    "geom:longitude":-71.65589,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50202.0",
+    "gn:admin4_code":"5020202.0",
+    "gn:asciiname":"Las Tres Palmas",
+    "gn:country_code":"DO",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500222,
+    "gn:latitude":19.39084,
+    "gn:longitude":-71.65589,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Tres Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tres Palmas",
+        "Las Tres Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500222
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"46e32a34bd8de95ea62ebcf8a894e30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721199,
+            "locality_id":1343668133,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1343668133,
+    "wof:lastmodified":1537619957,
+    "wof:name":"Las Tres Palmas",
+    "wof:parent_id":1108721199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65589,
+    19.39084,
+    -71.65589,
+    19.39084
+],
+  "geometry": {"coordinates":[-71.65589,19.39084],"type":"Point"}
+}

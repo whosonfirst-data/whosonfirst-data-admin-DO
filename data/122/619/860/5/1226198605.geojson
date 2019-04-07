@@ -1,0 +1,70 @@
+{
+  "id": 1226198605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.30157,19.11074,-71.30157,19.11074",
+    "geom:latitude":19.11074,
+    "geom:longitude":-71.30157,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220103.0",
+    "gn:admin4_code":"22010305.0",
+    "gn:asciiname":"Los Tomates",
+    "gn:country_code":"DO",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497472,
+    "gn:latitude":19.11074,
+    "gn:longitude":-71.30157,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Tomates",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497472
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"805540a3a4af7f57782fedc420cf48b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1226198605,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1226198605,
+    "wof:lastmodified":1537000929,
+    "wof:name":"Los Tomates",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.30157,
+    19.11074,
+    -71.30157,
+    19.11074
+],
+  "geometry": {"coordinates":[-71.30157,19.11074],"type":"Point"}
+}

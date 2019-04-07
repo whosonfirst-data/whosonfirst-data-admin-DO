@@ -1,0 +1,75 @@
+{
+  "id": 1293330679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39816,18.56256,-70.39816,18.56256",
+    "geom:latitude":18.56256,
+    "geom:longitude":-70.39816,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310102.0",
+    "gn:admin4_code":"31010204.0",
+    "gn:asciiname":"La Lagunita",
+    "gn:country_code":"DO",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502008,
+    "gn:latitude":18.56256,
+    "gn:longitude":-70.39816,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lagunita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Laguna",
+        "Lagunita",
+        "La Lagunita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502008
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b8e092e76af89611988bf92d1328d0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1293330679,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1293330679,
+    "wof:lastmodified":1537619975,
+    "wof:name":"La Lagunita",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39816,
+    18.56256,
+    -70.39816,
+    18.56256
+],
+  "geometry": {"coordinates":[-70.39816,18.56256],"type":"Point"}
+}

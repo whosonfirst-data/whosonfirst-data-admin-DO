@@ -1,0 +1,74 @@
+{
+  "id": 1360080997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83855,18.64438,-68.83855,18.64438",
+    "geom:latitude":18.64438,
+    "geom:longitude":-68.83855,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Cruce de Jovina",
+    "gn:country_code":"DO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509170,
+    "gn:latitude":18.64438,
+    "gn:longitude":-68.83855,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de J\u00f3vina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruce de Jovino",
+        "Cruce de J\u00f3vina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509170
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"80e1003ebcbc1446f18de719dd1d291c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1360080997,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1360080997,
+    "wof:lastmodified":1537620047,
+    "wof:name":"Cruce de Jovina",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83855,
+    18.64438,
+    -68.83855,
+    18.64438
+],
+  "geometry": {"coordinates":[-68.83855,18.64438],"type":"Point"}
+}

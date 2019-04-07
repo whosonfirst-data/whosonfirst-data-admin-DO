@@ -1,0 +1,64 @@
+{
+  "id": 1209512949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.20512,19.37071,-70.20512,19.37071",
+    "geom:latitude":19.37071,
+    "geom:longitude":-70.20512,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60104.0",
+    "gn:admin4_code":"6010405.0",
+    "gn:asciiname":"La Jagueita",
+    "gn:country_code":"DO",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502197,
+    "gn:latitude":19.37071,
+    "gn:longitude":-70.20512,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Jag\u00fcita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502197
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4d394b9f2a599d1b12b6b917b5622a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209512949
+        }
+    ],
+    "wof:id":1209512949,
+    "wof:lastmodified":1536284824,
+    "wof:name":"La Jagueita",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.20512,
+    19.37071,
+    -70.20512,
+    19.37071
+],
+  "geometry": {"coordinates":[-70.20511999999999,19.37071],"type":"Point"}
+}

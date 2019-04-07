@@ -1,0 +1,83 @@
+{
+  "id": 890422237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.22648,18.29935,-70.22648,18.29935",
+    "geom:latitude":18.29935,
+    "geom:longitude":-70.22648,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":2695,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0437\u0430\u0440\u0435\u0442\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Pizarrete"
+    ],
+    "name:eng_x_preferred":[
+        "Pizarrete"
+    ],
+    "name:ita_x_preferred":[
+        "Pizarrete"
+    ],
+    "name:swe_x_preferred":[
+        "Pizarrete"
+    ],
+    "qs:name":"Pizarrete",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670623,
+        890429233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494655,
+        "qs:id":1045315,
+        "wd:id":"Q7199936",
+        "wk:page":"Pizarrete"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051433,
+    "wof:geomhash":"a2d20696fdca14de6b00f6f3bebc9070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429233,
+            "locality_id":890422237,
+            "region_id":85670623
+        }
+    ],
+    "wof:id":890422237,
+    "wof:lastmodified":1527727164,
+    "wof:name":"Pizarrete",
+    "wof:parent_id":890429233,
+    "wof:placetype":"locality",
+    "wof:population":2695,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.22648,
+    18.29935,
+    -70.22648,
+    18.29935
+],
+  "geometry": {"coordinates":[-70.22648,18.29935],"type":"Point"}
+}

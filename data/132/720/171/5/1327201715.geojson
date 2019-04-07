@@ -1,0 +1,70 @@
+{
+  "id": 1327201715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69723,19.48738,-70.69723,19.48738",
+    "geom:latitude":19.48738,
+    "geom:longitude":-70.69723,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250101.0",
+    "gn:admin4_code":"25010101.0",
+    "gn:asciiname":"Ciruelitos Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509583,
+    "gn:latitude":19.48738,
+    "gn:longitude":-70.69723,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ciruelitos Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509583
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d2492b8af5f3fb48b7579d2ceba34147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":1327201715,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1327201715,
+    "wof:lastmodified":1537013309,
+    "wof:name":"Ciruelitos Arriba",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69723,
+    19.48738,
+    -70.69723,
+    19.48738
+],
+  "geometry": {"coordinates":[-70.69723,19.48738],"type":"Point"}
+}

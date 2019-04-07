@@ -1,0 +1,80 @@
+{
+  "id": 421187111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26952,18.84322,-69.26952,18.84322",
+    "geom:latitude":18.84322,
+    "geom:longitude":-69.26952,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Loma del Consuelo"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3509357,
+    "qs:gn_pop":0,
+    "qs:name":"Consuelo",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Hato Mayor",
+    "qs:photos":625,
+    "qs:photos_1k":127,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":625,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1080484,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":70153,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509357,
+        "gp:id":70153,
+        "qs:id":1080484
+    },
+    "wof:country":"DO",
+    "wof:created":1459009502,
+    "wof:geomhash":"65548b9e6bf35299a2f7f6adc9dd172a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":421187111,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":421187111,
+    "wof:lastmodified":1527716248,
+    "wof:name":"Consuelo",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26952,
+    18.84322,
+    -69.26952,
+    18.84322
+],
+  "geometry": {"coordinates":[-69.26952,18.84322],"type":"Point"}
+}

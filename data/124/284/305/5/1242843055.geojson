@@ -1,0 +1,70 @@
+{
+  "id": 1242843055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.51959,18.83054,-71.51959,18.83054",
+    "geom:latitude":18.83054,
+    "geom:longitude":-71.51959,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220501.0",
+    "gn:admin4_code":"22050102.0",
+    "gn:asciiname":"La Estancia",
+    "gn:country_code":"DO",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502701,
+    "gn:latitude":18.83054,
+    "gn:longitude":-71.51959,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Estancia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502701
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"bb3ba4e0e5f0d49e69cf5832aaf7ba42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429267,
+            "locality_id":1242843055,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1242843055,
+    "wof:lastmodified":1536681365,
+    "wof:name":"La Estancia",
+    "wof:parent_id":890429267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.51959000000002,
+    18.83054,
+    -71.51959000000002,
+    18.83054
+],
+  "geometry": {"coordinates":[-71.51959000000002,18.83054],"type":"Point"}
+}

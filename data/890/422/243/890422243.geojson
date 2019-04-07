@@ -1,0 +1,98 @@
+{
+  "id": 890422243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.77029,18.58164,-70.77029,18.58164",
+    "geom:latitude":18.58164,
+    "geom:longitude":-70.77029,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":7236,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4f69\u62c9\u723e\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Peralta"
+    ],
+    "name:eng_x_preferred":[
+        "Peralta"
+    ],
+    "name:ita_x_preferred":[
+        "Peralta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30e9\u30eb\u30bf"
+    ],
+    "name:nan_x_preferred":[
+        "Peralta"
+    ],
+    "name:por_x_preferred":[
+        "Peralta"
+    ],
+    "name:spa_x_preferred":[
+        "Peralta"
+    ],
+    "name:swe_x_preferred":[
+        "Peralta"
+    ],
+    "name:unk_x_variant":[
+        "Pinar de Peralta"
+    ],
+    "qs:name":"Peralta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890455305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495020,
+        "qs:id":1045318,
+        "wd:id":"Q3899640",
+        "wk:page":"Peralta"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051433,
+    "wof:geomhash":"0d54fb034792e29d9f835c1042db3337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455305,
+            "locality_id":890422243,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":890422243,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Peralta",
+    "wof:parent_id":890455305,
+    "wof:placetype":"locality",
+    "wof:population":7236,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.77029,
+    18.58164,
+    -70.77029,
+    18.58164
+],
+  "geometry": {"coordinates":[-70.77029,18.58164],"type":"Point"}
+}

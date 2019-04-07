@@ -1,0 +1,70 @@
+{
+  "id": 1226166801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71794,19.32941,-71.71794,19.32941",
+    "geom:latitude":19.32941,
+    "geom:longitude":-71.71794,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:admin4_code":"5040104.0",
+    "gn:asciiname":"Valle Nuevo",
+    "gn:country_code":"DO",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492119,
+    "gn:latitude":19.32941,
+    "gn:longitude":-71.71794,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Valle Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492119
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"6c6696e5769bb432993cda3be8f38040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721239,
+            "locality_id":1226166801,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1226166801,
+    "wof:lastmodified":1537045468,
+    "wof:name":"Valle Nuevo",
+    "wof:parent_id":1108721239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71794,
+    19.32941,
+    -71.71794,
+    19.32941
+],
+  "geometry": {"coordinates":[-71.71794,19.32941],"type":"Point"}
+}

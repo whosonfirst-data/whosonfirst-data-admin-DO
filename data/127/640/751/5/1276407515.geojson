@@ -1,0 +1,70 @@
+{
+  "id": 1276407515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.00875,19.14672,-71.00875,19.14672",
+    "geom:latitude":19.14672,
+    "geom:longitude":-71.00875,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250501.0",
+    "gn:admin4_code":"25050104.0",
+    "gn:asciiname":"Mohoso",
+    "gn:country_code":"DO",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496308,
+    "gn:latitude":19.14672,
+    "gn:longitude":-71.00875,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mohoso",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496308
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dbcc15600dabcb4550c8919d39594e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1276407515,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1276407515,
+    "wof:lastmodified":1536679313,
+    "wof:name":"Mohoso",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.00875,
+    19.14672,
+    -71.00875,
+    19.14672
+],
+  "geometry": {"coordinates":[-71.00875000000001,19.14672],"type":"Point"}
+}

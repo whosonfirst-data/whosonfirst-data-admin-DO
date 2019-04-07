@@ -1,0 +1,102 @@
+{
+  "id": 890434807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.48342,19.34413,-70.48342,19.34413",
+    "geom:latitude":19.34413,
+    "geom:longitude":-70.48342,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":2526,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u8036\u5854\u8afe\u8d6b\u723e\u83ab\u68ee"
+    ],
+    "name:dut_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:fre_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b8\u30a7\u30bf\u30ce\u30fb\u30d8\u30eb\u30e2\u30bb\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Cayetano Germosen"
+    ],
+    "name:por_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:slv_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:unk_x_variant":[
+        "Gayetano Germosen"
+    ],
+    "qs:name":"Cayetano Germos\u00e9n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        1108721137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509989,
+        "gp:id":75306,
+        "qs:id":148575,
+        "wd:id":"Q3664033",
+        "wk:page":"Cayetano Germos\u00e9n"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052040,
+    "wof:geomhash":"518383fa6eee98f26cac2ebc3e612f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721137,
+            "locality_id":890434807,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":890434807,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Cayetano Germos\u00e9n",
+    "wof:parent_id":1108721137,
+    "wof:placetype":"locality",
+    "wof:population":2526,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.48342,
+    19.34413,
+    -70.48342,
+    19.34413
+],
+  "geometry": {"coordinates":[-70.48342,19.34413],"type":"Point"}
+}

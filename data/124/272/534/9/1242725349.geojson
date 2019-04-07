@@ -1,0 +1,70 @@
+{
+  "id": 1242725349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.08374,18.77937,-69.08374,18.77937",
+    "geom:latitude":18.77937,
+    "geom:longitude":-69.08374,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010104.0",
+    "gn:asciiname":"Cerro Naranjo",
+    "gn:country_code":"DO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509843,
+    "gn:latitude":18.77937,
+    "gn:longitude":-69.08374,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cerro Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509843
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fe5b1897ee4aece2b18317c1ade9d038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1242725349,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1242725349,
+    "wof:lastmodified":1536849923,
+    "wof:name":"Cerro Naranjo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.08374,
+    18.77937,
+    -69.08374,
+    18.77937
+],
+  "geometry": {"coordinates":[-69.08374000000001,18.77937],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259353221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58796,19.75934,-71.58796,19.75934",
+    "geom:latitude":19.75934,
+    "geom:longitude":-71.58796,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010103.0",
+    "gn:asciiname":"Batey Isabel",
+    "gn:country_code":"DO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511784,
+    "gn:latitude":19.75934,
+    "gn:longitude":-71.58796,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isabel",
+        "Batey Isabel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511784
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c4845c41442ba6f79a8f1583d22131f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1259353221,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1259353221,
+    "wof:lastmodified":1537620073,
+    "wof:name":"Batey Isabel",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58796,
+    19.75934,
+    -71.58796,
+    19.75934
+],
+  "geometry": {"coordinates":[-71.58796,19.75934],"type":"Point"}
+}

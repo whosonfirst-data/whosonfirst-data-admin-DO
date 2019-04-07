@@ -1,0 +1,70 @@
+{
+  "id": 1310567557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.50955,19.66918,-70.50955,19.66918",
+    "geom:latitude":19.66918,
+    "geom:longitude":-70.50955,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070102.0",
+    "gn:asciiname":"Jagua Mocha",
+    "gn:country_code":"DO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504215,
+    "gn:latitude":19.66918,
+    "gn:longitude":-70.50955,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jagua Mocha",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504215
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"91b59f3fa61a244907c6c9dcf1e82418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429207,
+            "locality_id":1310567557,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1310567557,
+    "wof:lastmodified":1536826599,
+    "wof:name":"Jagua Mocha",
+    "wof:parent_id":890429207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.50955,
+    19.66918,
+    -70.50955,
+    19.66918
+],
+  "geometry": {"coordinates":[-70.50955,19.66918],"type":"Point"}
+}

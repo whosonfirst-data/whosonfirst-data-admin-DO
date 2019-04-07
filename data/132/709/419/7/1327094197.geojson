@@ -1,0 +1,70 @@
+{
+  "id": 1327094197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63505,18.73874,-69.63505,18.73874",
+    "geom:latitude":18.73874,
+    "geom:longitude":-69.63505,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020104.0",
+    "gn:asciiname":"Babieca",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512195,
+    "gn:latitude":18.73874,
+    "gn:longitude":-69.63505,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Babieca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512195
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"521f2b6f46149e3a44068e75468b9680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1327094197,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1327094197,
+    "wof:lastmodified":1536671405,
+    "wof:name":"Babieca",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63505,
+    18.73874,
+    -69.63505,
+    18.73874
+],
+  "geometry": {"coordinates":[-69.63505000000001,18.73874],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310251323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.51261,19.2472,-70.51261,19.2472",
+    "geom:latitude":19.2472,
+    "geom:longitude":-70.51261,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:admin4_code":"13010105.0",
+    "gn:asciiname":"Quebrada Honda la Cueva",
+    "gn:country_code":"DO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494178,
+    "gn:latitude":19.2472,
+    "gn:longitude":-70.51261,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Quebrada Honda la Cueva",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quebrada Honda",
+        "Quebrada Honda la Cueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494178
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8cc2a25a7b61bea2ed104016746253f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1310251323,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1310251323,
+    "wof:lastmodified":1537619918,
+    "wof:name":"Quebrada Honda la Cueva",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.51261,
+    19.2472,
+    -70.51261,
+    19.2472
+],
+  "geometry": {"coordinates":[-70.51261,19.2472],"type":"Point"}
+}

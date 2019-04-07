@@ -1,0 +1,65 @@
+{
+  "id": 1226586961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58333,18.43333,-69.58333,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":-69.58333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Agua del Rey",
+    "gn:country_code":"DO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512949,
+    "gn:latitude":18.43333,
+    "gn:longitude":-69.58333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Agua del Rey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua de Rey",
+        "Agua del Rey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512949
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b69d65aace2496e0a836f70ea7a04136",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226586961,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226586961,
+    "wof:lastmodified":1537620088,
+    "wof:name":"Agua del Rey",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58333,
+    18.43333,
+    -69.58333,
+    18.43333
+],
+  "geometry": {"coordinates":[-69.58333,18.43333],"type":"Point"}
+}

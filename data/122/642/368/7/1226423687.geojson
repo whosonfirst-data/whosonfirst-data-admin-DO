@@ -1,0 +1,72 @@
+{
+  "id": 1226423687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.79016,18.99857,-71.79016,18.99857",
+    "geom:latitude":18.99857,
+    "geom:longitude":-71.79016,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Playa de Galicia",
+    "gn:country_code":"DO",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494616,
+    "gn:latitude":18.99857,
+    "gn:longitude":-71.79016,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Playa de Galicia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paya de Galicia",
+        "Plage Galice",
+        "Playa de Galicia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494616
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f7538c79f934581b385cdc46b289e498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1226423687,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1226423687,
+    "wof:lastmodified":1537619920,
+    "wof:name":"Playa de Galicia",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.79016,
+    18.99857,
+    -71.79016,
+    18.99857
+],
+  "geometry": {"coordinates":[-71.79016,18.99857],"type":"Point"}
+}

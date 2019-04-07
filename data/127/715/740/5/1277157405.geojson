@@ -1,0 +1,74 @@
+{
+  "id": 1277157405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.00857,18.44614,-69.00857,18.44614",
+    "geom:latitude":18.44614,
+    "geom:longitude":-69.00857,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120301.0",
+    "gn:admin4_code":"12030101.0",
+    "gn:asciiname":"Cumayasa Kilometros Cuarto y Medio",
+    "gn:country_code":"DO",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508978,
+    "gn:latitude":18.44614,
+    "gn:longitude":-69.00857,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cumayasa Kil\u00f3metros Cuarto y Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cumayasa Kil\u00f3metros 4 1/2",
+        "Cumayasa Kil\u00f3metros Cuarto y Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670673,
+        1108721291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508978
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8e03b7741d8b3ab3a056c7a8f8858d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721291,
+            "locality_id":1277157405,
+            "region_id":85670673
+        }
+    ],
+    "wof:id":1277157405,
+    "wof:lastmodified":1537620045,
+    "wof:name":"Cumayasa Kilometros Cuarto y Medio",
+    "wof:parent_id":1108721291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.00856999999999,
+    18.44614,
+    -69.00856999999999,
+    18.44614
+],
+  "geometry": {"coordinates":[-69.00856999999999,18.44614],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 421179063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2383,18.87402,-71.2383,18.87402",
+    "geom:latitude":18.87402,
+    "geom:longitude":-71.2383,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:chi_x_preferred":[
+        "\u80e1\u5b89\u5fb7\u57c3\u96f7\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:eng_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:ita_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30f3\u30fb\u30c7\u30fb\u30a8\u30ec\u30e9"
+    ],
+    "name:nan_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:por_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:spa_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:swe_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Juan de Herrera"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5b89\u5fb7\u57c3\u96f7\u62c9"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3503900,
+    "qs:gn_pop":5543,
+    "qs:name":"Juan de Herrera",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"San Juan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":148551,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":72178,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503900,
+        "gp:id":72178,
+        "qs:id":148551,
+        "wd:id":"Q3810939",
+        "wk:page":"Juan de Herrera, Dominican Republic"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009203,
+    "wof:geomhash":"cc32e8d342c094a027a85ed6d39911d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721175,
+            "locality_id":421179063,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":421179063,
+    "wof:lastmodified":1527717705,
+    "wof:name":"Juan de Herrera",
+    "wof:parent_id":1108721175,
+    "wof:placetype":"locality",
+    "wof:population":5543,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2383,
+    18.87402,
+    -71.2383,
+    18.87402
+],
+  "geometry": {"coordinates":[-71.2383,18.87402],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292950141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03106,18.88656,-70.03106,18.88656",
+    "geom:latitude":18.88656,
+    "geom:longitude":-70.03106,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2905.0",
+    "gn:admin3_code":"290501.0",
+    "gn:admin4_code":"29050102.0",
+    "gn:asciiname":"La Guardia Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502454,
+    "gn:latitude":18.88656,
+    "gn:longitude":-70.03106,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Guardia Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Guardia",
+        "La Guardia Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502454
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e01ce7df660c9a5b61c369a8122a1f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721225,
+            "locality_id":1292950141,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1292950141,
+    "wof:lastmodified":1537619980,
+    "wof:name":"La Guardia Abajo",
+    "wof:parent_id":1108721225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03106,
+    18.88656,
+    -70.03106,
+    18.88656
+],
+  "geometry": {"coordinates":[-70.03106,18.88656],"type":"Point"}
+}

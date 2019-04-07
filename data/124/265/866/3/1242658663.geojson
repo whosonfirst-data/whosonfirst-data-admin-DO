@@ -1,0 +1,70 @@
+{
+  "id": 1242658663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61229,19.06328,-71.61229,19.06328",
+    "geom:latitude":19.06328,
+    "geom:longitude":-71.61229,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70201.0",
+    "gn:admin4_code":"7020102.0",
+    "gn:asciiname":"El Cigual",
+    "gn:country_code":"DO",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507903,
+    "gn:latitude":19.06328,
+    "gn:longitude":-71.61229,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Cigual",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507903
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d1a7dce963cb13f2170554e022d00aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721125,
+            "locality_id":1242658663,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1242658663,
+    "wof:lastmodified":1536947461,
+    "wof:name":"El Cigual",
+    "wof:parent_id":1108721125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61229,
+    19.06328,
+    -71.61229,
+    19.06328
+],
+  "geometry": {"coordinates":[-71.61229,19.06328],"type":"Point"}
+}

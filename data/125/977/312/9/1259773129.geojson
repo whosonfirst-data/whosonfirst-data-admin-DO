@@ -1,0 +1,70 @@
+{
+  "id": 1259773129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61667,18.33333,-71.61667,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-71.61667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100201.0",
+    "gn:admin4_code":"10020102.0",
+    "gn:asciiname":"El Naranjo",
+    "gn:country_code":"DO",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506809,
+    "gn:latitude":18.33333,
+    "gn:longitude":-71.61667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        890420145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506809
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"025c8910526ec49df03a74b53c07cf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420145,
+            "locality_id":1259773129,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1259773129,
+    "wof:lastmodified":1536938823,
+    "wof:name":"El Naranjo",
+    "wof:parent_id":890420145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61667,
+    18.33333,
+    -71.61667,
+    18.33333
+],
+  "geometry": {"coordinates":[-71.61667,18.33333],"type":"Point"}
+}

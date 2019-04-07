@@ -1,0 +1,67 @@
+{
+  "id": 1326718693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56667,18.7,-71.56667,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":-71.56667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Juan de la Cruz",
+    "gn:country_code":"DO",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503898,
+    "gn:latitude":18.7,
+    "gn:longitude":-71.56667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Juan de la Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890420143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503898
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f9f3d6327583d2621b44db026fa9990f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420143,
+            "locality_id":1326718693,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1326718693,
+    "wof:lastmodified":1536715636,
+    "wof:name":"Juan de la Cruz",
+    "wof:parent_id":890420143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56667,
+    18.7,
+    -71.56667,
+    18.7
+],
+  "geometry": {"coordinates":[-71.56667,18.7],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209269917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97762,19.17876,-70.97762,19.17876",
+    "geom:latitude":19.17876,
+    "geom:longitude":-70.97762,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250501.0",
+    "gn:admin4_code":"25050104.0",
+    "gn:asciiname":"Loma Prieta",
+    "gn:country_code":"DO",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499551,
+    "gn:latitude":19.17876,
+    "gn:longitude":-70.97762,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Loma Prieta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499551
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"394b59c2d4247e7bdf3564eb659c8e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209269917
+        }
+    ],
+    "wof:id":1209269917,
+    "wof:lastmodified":1536292395,
+    "wof:name":"Loma Prieta",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97762,
+    19.17876,
+    -70.97762,
+    19.17876
+],
+  "geometry": {"coordinates":[-70.97762,19.17876],"type":"Point"}
+}

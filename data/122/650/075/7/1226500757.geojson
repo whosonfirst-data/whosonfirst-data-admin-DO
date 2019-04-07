@@ -1,0 +1,74 @@
+{
+  "id": 1226500757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.26515,18.70414,-71.26515,18.70414",
+    "geom:latitude":18.70414,
+    "geom:longitude":-71.26515,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220601.0",
+    "gn:admin4_code":"22060102.0",
+    "gn:asciiname":"La Palma Cana",
+    "gn:country_code":"DO",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501438,
+    "gn:latitude":18.70414,
+    "gn:longitude":-71.26515,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Palma Ca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palma Cana",
+        "La Palma Ca\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501438
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"37ccd273d31f559684a389ba375423da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429203,
+            "locality_id":1226500757,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1226500757,
+    "wof:lastmodified":1537619970,
+    "wof:name":"La Palma Cana",
+    "wof:parent_id":890429203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.26515,
+    18.70414,
+    -71.26515,
+    18.70414
+],
+  "geometry": {"coordinates":[-71.26515000000001,18.70414],"type":"Point"}
+}

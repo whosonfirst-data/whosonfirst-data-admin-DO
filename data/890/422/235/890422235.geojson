@@ -1,0 +1,102 @@
+{
+  "id": 890422235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28723,18.07873,-71.28723,18.07873",
+    "geom:latitude":18.07873,
+    "geom:longitude":-71.28723,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":2121,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6ce2\u6d1b"
+    ],
+    "name:dut_x_preferred":[
+        "Polo"
+    ],
+    "name:eng_x_preferred":[
+        "Polo"
+    ],
+    "name:fre_x_preferred":[
+        "Polo"
+    ],
+    "name:ita_x_preferred":[
+        "Polo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ed"
+    ],
+    "name:nan_x_preferred":[
+        "Polo"
+    ],
+    "name:por_x_preferred":[
+        "Polo"
+    ],
+    "name:spa_x_preferred":[
+        "Polo"
+    ],
+    "name:swe_x_preferred":[
+        "Polo"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0644\u0648\u060c \u0628\u0627\u0631\u0627\u06c1\u0648\u0646\u0627"
+    ],
+    "qs:name":"Polo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":6734,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494584,
+        "gp:id":75821,
+        "qs:id":1045314,
+        "wd:id":"Q1770610",
+        "wk:page":"Polo"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051433,
+    "wof:geomhash":"30e359e66730934c02b0a920fd0ff803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721229,
+            "locality_id":890422235,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":890422235,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Polo",
+    "wof:parent_id":1108721229,
+    "wof:placetype":"locality",
+    "wof:population":2121,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28723,
+    18.07873,
+    -71.28723,
+    18.07873
+],
+  "geometry": {"coordinates":[-71.28722999999999,18.07873],"type":"Point"}
+}

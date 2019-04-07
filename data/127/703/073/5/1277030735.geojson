@@ -1,0 +1,74 @@
+{
+  "id": 1277030735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3003,18.9928,-71.3003,18.9928",
+    "geom:latitude":18.9928,
+    "geom:longitude":-71.3003,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220103.0",
+    "gn:admin4_code":"22010304.0",
+    "gn:asciiname":"Seboruco",
+    "gn:country_code":"DO",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492875,
+    "gn:latitude":18.9928,
+    "gn:longitude":-71.3003,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Seboruco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceboruco",
+        "Seboruco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492875
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8c597115597df5e4d42e9b5ff30871b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1277030735,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1277030735,
+    "wof:lastmodified":1537619909,
+    "wof:name":"Seboruco",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3003,
+    18.9928,
+    -71.3003,
+    18.9928
+],
+  "geometry": {"coordinates":[-71.30029999999999,18.9928],"type":"Point"}
+}

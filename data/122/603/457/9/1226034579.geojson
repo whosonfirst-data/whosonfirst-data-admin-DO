@@ -1,0 +1,76 @@
+{
+  "id": 1226034579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41222,18.34989,-71.41222,18.34989",
+    "geom:latitude":18.34989,
+    "geom:longitude":-71.41222,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100601.0",
+    "gn:admin4_code":"10060102.0",
+    "gn:asciiname":"Los Pasos",
+    "gn:country_code":"DO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497846,
+    "gn:latitude":18.34989,
+    "gn:longitude":-71.41222,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Pasos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pozos de Mella",
+        "Los Pasos Mella",
+        "Los Posos",
+        "Los Pasos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        1108721209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497846
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"55923c19e29418ade4934c883f91baa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721209,
+            "locality_id":1226034579,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1226034579,
+    "wof:lastmodified":1537619939,
+    "wof:name":"Los Pasos",
+    "wof:parent_id":1108721209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41221999999998,
+    18.34989,
+    -71.41221999999998,
+    18.34989
+],
+  "geometry": {"coordinates":[-71.41221999999998,18.34989],"type":"Point"}
+}

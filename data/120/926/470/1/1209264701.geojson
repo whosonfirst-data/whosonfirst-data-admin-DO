@@ -1,0 +1,64 @@
+{
+  "id": 1209264701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54056,19.1518,-70.54056,19.1518",
+    "geom:latitude":19.1518,
+    "geom:longitude":-70.54056,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:admin4_code":"13010109.0",
+    "gn:asciiname":"Arroyo Amarillo",
+    "gn:country_code":"DO",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512516,
+    "gn:latitude":19.1518,
+    "gn:longitude":-70.54056,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Amarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512516
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7af2b2ed16e2d9361c8b96b8b5fe9a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209264701
+        }
+    ],
+    "wof:id":1209264701,
+    "wof:lastmodified":1536292574,
+    "wof:name":"Arroyo Amarillo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54056,
+    19.1518,
+    -70.54056,
+    19.1518
+],
+  "geometry": {"coordinates":[-70.54056,19.1518],"type":"Point"}
+}

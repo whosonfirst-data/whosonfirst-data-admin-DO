@@ -1,0 +1,74 @@
+{
+  "id": 1344209021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.12822,18.57035,-70.12822,18.57035",
+    "geom:latitude":18.57035,
+    "geom:longitude":-70.12822,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3207.0",
+    "gn:admin3_code":"320701.0",
+    "gn:admin4_code":"32070103.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"DO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493050,
+    "gn:latitude":18.57035,
+    "gn:longitude":-70.12822,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabana Miguel",
+        "San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493050
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"78355a7f5e3f54f53fffd2e10fadfa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721219,
+            "locality_id":1344209021,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1344209021,
+    "wof:lastmodified":1537619910,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108721219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.12822,
+    18.57035,
+    -70.12822,
+    18.57035
+],
+  "geometry": {"coordinates":[-70.12822,18.57035],"type":"Point"}
+}

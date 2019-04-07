@@ -1,0 +1,70 @@
+{
+  "id": 1259419345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53902,18.87282,-70.53902,18.87282",
+    "geom:latitude":18.87282,
+    "geom:longitude":-70.53902,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280106.0",
+    "gn:admin4_code":"28010603.0",
+    "gn:asciiname":"El Rodeo",
+    "gn:country_code":"DO",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506261,
+    "gn:latitude":18.87282,
+    "gn:longitude":-70.53902,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506261
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"724efc85a4bef6e9588a6c54b3830ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1259419345,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1259419345,
+    "wof:lastmodified":1536951052,
+    "wof:name":"El Rodeo",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53902,
+    18.87282,
+    -70.53902,
+    18.87282
+],
+  "geometry": {"coordinates":[-70.53901999999999,18.87282],"type":"Point"}
+}

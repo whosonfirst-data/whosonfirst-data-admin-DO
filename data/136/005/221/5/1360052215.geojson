@@ -1,0 +1,74 @@
+{
+  "id": 1360052215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88805,19.645,-70.88805,19.645",
+    "geom:latitude":19.645,
+    "geom:longitude":-70.88805,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2702.0",
+    "gn:admin3_code":"270205.0",
+    "gn:admin4_code":"27020502.0",
+    "gn:asciiname":"La Cayota",
+    "gn:country_code":"DO",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503252,
+    "gn:latitude":19.645,
+    "gn:longitude":-70.88805,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cayota",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayota",
+        "La Cayota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670545,
+        890429289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503252
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0f2880f6f1dbf8fcd55809fac456e086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429289,
+            "locality_id":1360052215,
+            "region_id":85670545
+        }
+    ],
+    "wof:id":1360052215,
+    "wof:lastmodified":1537619990,
+    "wof:name":"La Cayota",
+    "wof:parent_id":890429289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88805,
+    19.645,
+    -70.88805,
+    19.645
+],
+  "geometry": {"coordinates":[-70.88805000000001,19.645],"type":"Point"}
+}

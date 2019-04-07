@@ -1,0 +1,95 @@
+{
+  "id": 890444773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4754,19.43536,-71.4754,19.43536",
+    "geom:latitude":19.43536,
+    "geom:longitude":-71.4754,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":1529,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u76ae\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "El Pino"
+    ],
+    "name:eng_x_preferred":[
+        "El Pino"
+    ],
+    "name:fre_x_preferred":[
+        "El Pino"
+    ],
+    "name:ita_x_preferred":[
+        "El Pino"
+    ],
+    "name:nan_x_preferred":[
+        "El Pino"
+    ],
+    "name:por_x_preferred":[
+        "El Pino"
+    ],
+    "name:spa_x_preferred":[
+        "El Pino"
+    ],
+    "name:swe_x_preferred":[
+        "El Pino"
+    ],
+    "qs:name":"El Pino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506541,
+        "qs:id":1045376,
+        "wd:id":"Q3720977",
+        "wk:page":"El Pino"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052481,
+    "wof:geomhash":"92b23e0948f927b6c50b73c355d01b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721145,
+            "locality_id":890444773,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":890444773,
+    "wof:lastmodified":1553816401,
+    "wof:name":"El Pino",
+    "wof:parent_id":1108721145,
+    "wof:placetype":"locality",
+    "wof:population":1529,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4754,
+    19.43536,
+    -71.4754,
+    19.43536
+],
+  "geometry": {"coordinates":[-71.47539999999999,19.43536],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360128889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36667,18.56667,-70.36667,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":-70.36667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Palo de la Higuera",
+    "gn:country_code":"DO",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495389,
+    "gn:latitude":18.56667,
+    "gn:longitude":-70.36667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Palo de la Higuera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495389
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8f41f55fa8f5403e9f5cc121274ada11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721203,
+            "locality_id":1360128889,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1360128889,
+    "wof:lastmodified":1536881844,
+    "wof:name":"Palo de la Higuera",
+    "wof:parent_id":1108721203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36667,
+    18.56667,
+    -70.36667,
+    18.56667
+],
+  "geometry": {"coordinates":[-70.36667,18.56667],"type":"Point"}
+}

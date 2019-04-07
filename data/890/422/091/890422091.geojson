@@ -1,0 +1,72 @@
+{
+  "id": 890422091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.81629,19.47341,-70.81629,19.47341",
+    "geom:latitude":19.47341,
+    "geom:longitude":-70.81629,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":4026,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Canela"
+    ],
+    "qs:name":"La Canela",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":625,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503338,
+        "gp:id":56123418,
+        "qs:id":148547,
+        "wd:id":"Q3820697",
+        "wk:page":"La Canela"
+    },
+    "wof:country":"DO",
+    "wof:created":1469051427,
+    "wof:geomhash":"a9350523501bdc81c144208bf02f1c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":890422091,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":890422091,
+    "wof:lastmodified":1527727160,
+    "wof:name":"La Canela",
+    "wof:parent_id":1108721271,
+    "wof:placetype":"locality",
+    "wof:population":4026,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.81629,
+    19.47341,
+    -70.81629,
+    19.47341
+],
+  "geometry": {"coordinates":[-70.81629,19.47341],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209372163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65084,19.45821,-70.65084,19.45821",
+    "geom:latitude":19.45821,
+    "geom:longitude":-70.65084,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250101.0",
+    "gn:admin4_code":"25010107.0",
+    "gn:asciiname":"Monte Adentro Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496237,
+    "gn:latitude":19.45821,
+    "gn:longitude":-70.65084,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Monte Adentro Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Adentro",
+        "Monte Abajo",
+        "Monte Adentro Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496237
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"50caca0a93b379b71bea3f2a47941a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209372163
+        }
+    ],
+    "wof:id":1209372163,
+    "wof:lastmodified":1537619929,
+    "wof:name":"Monte Adentro Abajo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65084,
+    19.45821,
+    -70.65084,
+    19.45821
+],
+  "geometry": {"coordinates":[-70.65084,19.45821],"type":"Point"}
+}

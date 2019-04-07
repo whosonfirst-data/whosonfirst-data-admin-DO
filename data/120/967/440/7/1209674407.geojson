@@ -1,0 +1,64 @@
+{
+  "id": 1209674407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2,19.0,-70.2,19.0",
+    "geom:latitude":19.0,
+    "geom:longitude":-70.2,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010103.0",
+    "gn:asciiname":"Los Ranchos",
+    "gn:country_code":"DO",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497600,
+    "gn:latitude":19.0,
+    "gn:longitude":-70.2,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Ranchos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497600
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fe44d358bb5351ba116383d8ce4b3af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209674407
+        }
+    ],
+    "wof:id":1209674407,
+    "wof:lastmodified":1536279806,
+    "wof:name":"Los Ranchos",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2,
+    19.0,
+    -70.2,
+    19.0
+],
+  "geometry": {"coordinates":[-70.2,19.0],"type":"Point"}
+}

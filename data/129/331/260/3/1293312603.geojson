@@ -1,0 +1,71 @@
+{
+  "id": 1293312603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53719,19.54679,-70.53719,19.54679",
+    "geom:latitude":19.54679,
+    "geom:longitude":-70.53719,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Veintiuno",
+    "gn:country_code":"DO",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497403,
+    "gn:latitude":19.54679,
+    "gn:longitude":-70.53719,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Los Veintiuno",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los 21",
+        "Los Veintiuno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497403
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e7794d8c190cfbb03ac086f4d82554d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1293312603,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1293312603,
+    "wof:lastmodified":1537619936,
+    "wof:name":"Los Veintiuno",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53719,
+    19.54679,
+    -70.53719,
+    19.54679
+],
+  "geometry": {"coordinates":[-70.53719,19.54679],"type":"Point"}
+}

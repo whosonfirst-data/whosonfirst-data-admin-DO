@@ -1,0 +1,70 @@
+{
+  "id": 1226192483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.51986,19.30011,-70.51986,19.30011",
+    "geom:latitude":19.30011,
+    "geom:longitude":-70.51986,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130102.0",
+    "gn:admin4_code":"13010207.0",
+    "gn:asciiname":"Los Placeres",
+    "gn:country_code":"DO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497743,
+    "gn:latitude":19.30011,
+    "gn:longitude":-70.51986,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Placeres",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497743
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"47cc55fa67fc5c4c579554525038ad93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1226192483,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1226192483,
+    "wof:lastmodified":1537009776,
+    "wof:name":"Los Placeres",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.51986,
+    19.30011,
+    -70.51986,
+    19.30011
+],
+  "geometry": {"coordinates":[-70.51985999999999,19.30011],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 1126060711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9,18.48333,-69.9,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":-69.9,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":18.48333,
+    "gn:longitude":-69.9,
+    "iso:country":"DO",
+    "lbl:latitude":18.48333,
+    "lbl:longitude":-69.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:hun_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0458\u0430 \u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430 \u0434\u0435 \u0424\u0430\u0440\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:spa_x_colloquial":[
+        "La Faria"
+    ],
+    "name:spa_x_preferred":[
+        "La Far\u00eda",
+        "Mar\u00eda Gabriela de Far\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Faria"
+    ],
+    "name:unk_x_variant":[
+        "La Far\u00eda",
+        "Faria"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3502670,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Far\u00eda",
+    "qs_pg:name_adm0":"Rep\u00fablica Dominicana",
+    "qs_pg:name_adm1":"Distrito Nacional",
+    "qs_pg:photos":1230,
+    "qs_pg:photos_1k":249,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1230,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1151739,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424800,
+    "qs_pg:woe_id":72737,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424800,
+    "woe:name_adm0":"Rep\u00fablica Dominicana",
+    "woe:name_adm1":"Distrito Nacional",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670659,
+        102191575,
+        85632713,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502670,
+        "gp:id":72737,
+        "qs:id":1151739,
+        "qs_pg:id":1151739
+    },
+    "wof:country":"DO",
+    "wof:created":1497308055,
+    "wof:geomhash":"a83fe64b8353610394864a671dbf55ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":1126060711,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":1126060711,
+    "wof:lastmodified":1534379288,
+    "wof:name":"La Far\u00eda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793777
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9,
+    18.48333,
+    -69.9,
+    18.48333
+],
+  "geometry": {"coordinates":[-69.90000000000001,18.48333],"type":"Point"}
+}

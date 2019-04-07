@@ -1,0 +1,71 @@
+{
+  "id": 1293727127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1044,18.53351,-70.1044,18.53351",
+    "geom:latitude":18.53351,
+    "geom:longitude":-70.1044,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3207.0",
+    "gn:admin3_code":"320701.0",
+    "gn:admin4_code":"32070102.0",
+    "gn:asciiname":"Pedro Brand",
+    "gn:country_code":"DO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495118,
+    "gn:latitude":18.53351,
+    "gn:longitude":-70.1044,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pedro Brand",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495118,
+        "wk:page":"Pedro_Brand"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b18ac74dbac347497c8d74224bffed0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721219,
+            "locality_id":1293727127,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1293727127,
+    "wof:lastmodified":1537504228,
+    "wof:name":"Pedro Brand",
+    "wof:parent_id":1108721219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1044,
+    18.53351,
+    -70.1044,
+    18.53351
+],
+  "geometry": {"coordinates":[-70.1044,18.53351],"type":"Point"}
+}

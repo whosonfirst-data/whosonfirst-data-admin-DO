@@ -1,0 +1,75 @@
+{
+  "id": 1360003515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.77074,18.43857,-70.77074,18.43857",
+    "geom:latitude":18.43857,
+    "geom:longitude":-70.77074,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20104.0",
+    "gn:admin4_code":"2010401.0",
+    "gn:asciiname":"Jura",
+    "gn:country_code":"DO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503770,
+    "gn:latitude":18.43857,
+    "gn:longitude":-70.77074,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Jura",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Botado",
+        "El Jura",
+        "Jura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503770
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"03f022fa7533b58c68b13e4765f32083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721105,
+            "locality_id":1360003515,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1360003515,
+    "wof:lastmodified":1537619997,
+    "wof:name":"Jura",
+    "wof:parent_id":1108721105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.77074,
+    18.43857,
+    -70.77074,
+    18.43857
+],
+  "geometry": {"coordinates":[-70.77074,18.43857],"type":"Point"}
+}

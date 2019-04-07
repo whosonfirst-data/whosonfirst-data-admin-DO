@@ -1,0 +1,74 @@
+{
+  "id": 1293665019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62289,19.76569,-70.62289,19.76569",
+    "geom:latitude":19.76569,
+    "geom:longitude":-70.62289,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1809.0",
+    "gn:admin3_code":"180901.0",
+    "gn:admin4_code":"18090103.0",
+    "gn:asciiname":"Bergantin",
+    "gn:country_code":"DO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511522,
+    "gn:latitude":19.76569,
+    "gn:longitude":-70.62289,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bergant\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Bergant\u00edn",
+        "Bergant\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511522
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"85d81737b981ca8d64f5aa6e40849799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1293665019,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1293665019,
+    "wof:lastmodified":1537620064,
+    "wof:name":"Bergantin",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62289,
+    19.76569,
+    -70.62289,
+    19.76569
+],
+  "geometry": {"coordinates":[-70.62289,19.76569],"type":"Point"}
+}

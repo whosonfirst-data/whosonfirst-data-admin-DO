@@ -1,0 +1,74 @@
+{
+  "id": 1243024445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.50453,18.86722,-71.50453,18.86722",
+    "geom:latitude":18.86722,
+    "geom:longitude":-71.50453,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220501.0",
+    "gn:admin4_code":"22050102.0",
+    "gn:asciiname":"Piedra de Amolar",
+    "gn:country_code":"DO",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494834,
+    "gn:latitude":18.86722,
+    "gn:longitude":-71.50453,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Piedra de Amolar",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piedra de Molar",
+        "Piedra de Amolar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494834
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"43c9db0a948445760896d25a7ea4eb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429267,
+            "locality_id":1243024445,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1243024445,
+    "wof:lastmodified":1537619921,
+    "wof:name":"Piedra de Amolar",
+    "wof:parent_id":890429267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.50453,
+    18.86722,
+    -71.50453,
+    18.86722
+],
+  "geometry": {"coordinates":[-71.50453,18.86722],"type":"Point"}
+}

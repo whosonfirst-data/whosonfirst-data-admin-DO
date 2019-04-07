@@ -1,0 +1,74 @@
+{
+  "id": 1243056847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.81704,18.47917,-68.81704,18.47917",
+    "geom:latitude":18.47917,
+    "geom:longitude":-68.81704,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020103.0",
+    "gn:asciiname":"Batey Las Cejas",
+    "gn:country_code":"DO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511754,
+    "gn:latitude":18.47917,
+    "gn:longitude":-68.81704,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Las Cejas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey La Ceja",
+        "Batey Las Cejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511754
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"427b1cb9314b1dbe5a0e22e95a5cde34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1243056847,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1243056847,
+    "wof:lastmodified":1537620071,
+    "wof:name":"Batey Las Cejas",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.81704,
+    18.47917,
+    -68.81704,
+    18.47917
+],
+  "geometry": {"coordinates":[-68.81704000000001,18.47917],"type":"Point"}
+}

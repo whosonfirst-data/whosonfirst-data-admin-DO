@@ -1,0 +1,70 @@
+{
+  "id": 1242709435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41167,18.90424,-70.41167,18.90424",
+    "geom:latitude":18.90424,
+    "geom:longitude":-70.41167,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280103.0",
+    "gn:admin4_code":"28010304.0",
+    "gn:asciiname":"Jatico",
+    "gn:country_code":"DO",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504147,
+    "gn:latitude":18.90424,
+    "gn:longitude":-70.41167,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"J\u00e1tico",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504147
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"178a035646142fda17ae0dd52ccd019b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1242709435,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1242709435,
+    "wof:lastmodified":1536872909,
+    "wof:name":"Jatico",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41167,
+    18.90424,
+    -70.41167,
+    18.90424
+],
+  "geometry": {"coordinates":[-70.41167,18.90424],"type":"Point"}
+}

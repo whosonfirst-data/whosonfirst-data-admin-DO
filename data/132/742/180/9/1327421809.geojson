@@ -1,0 +1,70 @@
+{
+  "id": 1327421809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75346,18.96461,-71.75346,18.96461",
+    "geom:latitude":18.96461,
+    "geom:longitude":-71.75346,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:admin4_code":"7010103.0",
+    "gn:asciiname":"Los Corralitos",
+    "gn:country_code":"DO",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498710,
+    "gn:latitude":18.96461,
+    "gn:longitude":-71.75346,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Corralitos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890453405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498710
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cd8c630b7cab30433c92af1477e8bfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453405,
+            "locality_id":1327421809,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1327421809,
+    "wof:lastmodified":1536696308,
+    "wof:name":"Los Corralitos",
+    "wof:parent_id":890453405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75346,
+    18.96461,
+    -71.75346,
+    18.96461
+],
+  "geometry": {"coordinates":[-71.75346,18.96461],"type":"Point"}
+}

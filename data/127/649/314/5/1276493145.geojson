@@ -1,0 +1,70 @@
+{
+  "id": 1276493145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.99027,18.72457,-68.99027,18.72457",
+    "geom:latitude":18.72457,
+    "geom:longitude":-68.99027,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80104.0",
+    "gn:admin4_code":"8010402.0",
+    "gn:asciiname":"La Jina",
+    "gn:country_code":"DO",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502112,
+    "gn:latitude":18.72457,
+    "gn:longitude":-68.99027,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Jina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502112
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ba805bc3430f610ec1c7da9868b57352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1276493145,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1276493145,
+    "wof:lastmodified":1537059316,
+    "wof:name":"La Jina",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.99027,
+    18.72457,
+    -68.99027,
+    18.72457
+],
+  "geometry": {"coordinates":[-68.99027,18.72457],"type":"Point"}
+}

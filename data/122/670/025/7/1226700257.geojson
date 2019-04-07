@@ -1,0 +1,71 @@
+{
+  "id": 1226700257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.51383,18.97582,-70.51383,18.97582",
+    "geom:latitude":18.97582,
+    "geom:longitude":-70.51383,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Jina",
+    "gn:country_code":"DO",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504062,
+    "gn:latitude":18.97582,
+    "gn:longitude":-70.51383,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jina",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jima",
+        "Jina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504062
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"50e16c3d597dea4389f63e3d69294856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1226700257,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1226700257,
+    "wof:lastmodified":1537620000,
+    "wof:name":"Jina",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.51383,
+    18.97582,
+    -70.51383,
+    18.97582
+],
+  "geometry": {"coordinates":[-70.51383,18.97582],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293543519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1,18.33333,-70.1,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-70.1,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210701.0",
+    "gn:admin4_code":"21070103.0",
+    "gn:asciiname":"Dios Dira",
+    "gn:country_code":"DO",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508810,
+    "gn:latitude":18.33333,
+    "gn:longitude":-70.1,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Dios Dir\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508810
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"937dc570b077f9c8687e9bc90814ec87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721261,
+            "locality_id":1293543519,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1293543519,
+    "wof:lastmodified":1536706745,
+    "wof:name":"Dios Dira",
+    "wof:parent_id":1108721261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1,
+    18.33333,
+    -70.1,
+    18.33333
+],
+  "geometry": {"coordinates":[-70.09999999999999,18.33333],"type":"Point"}
+}

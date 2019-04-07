@@ -1,0 +1,67 @@
+{
+  "id": 1293344193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.97155,18.46238,-69.97155,18.46238",
+    "geom:latitude":18.46238,
+    "geom:longitude":-69.97155,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Herrera",
+    "gn:country_code":"DO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504702,
+    "gn:latitude":18.46238,
+    "gn:longitude":-69.97155,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Herrera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504702
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d20afb70c008b7336385a4813e3ba1ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721281,
+            "locality_id":1293344193,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1293344193,
+    "wof:lastmodified":1536992914,
+    "wof:name":"Herrera",
+    "wof:parent_id":1108721281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.97155,
+    18.46238,
+    -69.97155,
+    18.46238
+],
+  "geometry": {"coordinates":[-69.97154999999999,18.46238],"type":"Point"}
+}

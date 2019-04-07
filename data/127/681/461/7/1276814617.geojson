@@ -1,0 +1,70 @@
+{
+  "id": 1276814617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7004,18.86839,-70.7004,18.86839",
+    "geom:latitude":18.86839,
+    "geom:longitude":-70.7004,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130203.0",
+    "gn:admin4_code":"13020302.0",
+    "gn:asciiname":"Los Pinitos Verdes",
+    "gn:country_code":"DO",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497772,
+    "gn:latitude":18.86839,
+    "gn:longitude":-70.7004,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Pinitos Verdes",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890453401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497772
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f81553c24e8ce2691476cf44b7511d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453401,
+            "locality_id":1276814617,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1276814617,
+    "wof:lastmodified":1536629348,
+    "wof:name":"Los Pinitos Verdes",
+    "wof:parent_id":890453401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7004,
+    18.86839,
+    -70.7004,
+    18.86839
+],
+  "geometry": {"coordinates":[-70.7004,18.86839],"type":"Point"}
+}

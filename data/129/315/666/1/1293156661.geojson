@@ -1,0 +1,76 @@
+{
+  "id": 1293156661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.41667,18.63333,-69.41667,18.63333",
+    "geom:latitude":18.63333,
+    "geom:longitude":-69.41667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:admin4_code":"23020104.0",
+    "gn:asciiname":"Batey Casui",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511847,
+    "gn:latitude":18.63333,
+    "gn:longitude":-69.41667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Casu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cas\u00fa",
+        "Cas\u00fa\u00ed",
+        "Batey Casu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511847
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"025760322528e8d29b7411ddf452cad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429255,
+            "locality_id":1293156661,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1293156661,
+    "wof:lastmodified":1537620077,
+    "wof:name":"Batey Casui",
+    "wof:parent_id":890429255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.41667,
+    18.63333,
+    -69.41667,
+    18.63333
+],
+  "geometry": {"coordinates":[-69.41667,18.63333],"type":"Point"}
+}

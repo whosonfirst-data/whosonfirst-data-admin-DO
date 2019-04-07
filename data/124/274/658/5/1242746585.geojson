@@ -1,0 +1,74 @@
+{
+  "id": 1242746585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.9852,18.78954,-70.9852,18.78954",
+    "geom:latitude":18.78954,
+    "geom:longitude":-70.9852,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220202.0",
+    "gn:admin4_code":"22020202.0",
+    "gn:asciiname":"La Boca del Arroyo",
+    "gn:country_code":"DO",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503533,
+    "gn:latitude":18.78954,
+    "gn:longitude":-70.9852,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Boca del Arroyo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca del Arroyo",
+        "La Boca del Arroyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503533
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7b6adf4c3ae0a471d09cf9e8a6e1b1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721121,
+            "locality_id":1242746585,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1242746585,
+    "wof:lastmodified":1537619994,
+    "wof:name":"La Boca del Arroyo",
+    "wof:parent_id":1108721121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.9852,
+    18.78954,
+    -70.9852,
+    18.78954
+],
+  "geometry": {"coordinates":[-70.98520000000001,18.78954],"type":"Point"}
+}

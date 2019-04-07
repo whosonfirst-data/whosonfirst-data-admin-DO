@@ -1,0 +1,70 @@
+{
+  "id": 1259417809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38662,18.93282,-70.38662,18.93282",
+    "geom:latitude":18.93282,
+    "geom:longitude":-70.38662,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280103.0",
+    "gn:admin4_code":"28010303.0",
+    "gn:asciiname":"Cano Grande",
+    "gn:country_code":"DO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510327,
+    "gn:latitude":18.93282,
+    "gn:longitude":-70.38662,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1o Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510327
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d99e4d34bd75cdf646c181b88ad7576c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1259417809,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1259417809,
+    "wof:lastmodified":1536953219,
+    "wof:name":"Cano Grande",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38662,
+    18.93282,
+    -70.38662,
+    18.93282
+],
+  "geometry": {"coordinates":[-70.38661999999999,18.93282],"type":"Point"}
+}

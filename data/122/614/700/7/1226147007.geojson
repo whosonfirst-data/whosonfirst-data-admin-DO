@@ -1,0 +1,70 @@
+{
+  "id": 1226147007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89532,18.5412,-70.89532,18.5412",
+    "geom:latitude":18.5412,
+    "geom:longitude":-70.89532,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:admin4_code":"2080401.0",
+    "gn:asciiname":"Paso Hondo",
+    "gn:country_code":"DO",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495207,
+    "gn:latitude":18.5412,
+    "gn:longitude":-70.89532,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Paso Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495207
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fa95c4bbc275c4244c658251bd1baf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721287,
+            "locality_id":1226147007,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1226147007,
+    "wof:lastmodified":1537072765,
+    "wof:name":"Paso Hondo",
+    "wof:parent_id":1108721287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89532,
+    18.5412,
+    -70.89532,
+    18.5412
+],
+  "geometry": {"coordinates":[-70.89532,18.5412],"type":"Point"}
+}

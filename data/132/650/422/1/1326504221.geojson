@@ -1,0 +1,74 @@
+{
+  "id": 1326504221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03276,19.05165,-70.03276,19.05165",
+    "geom:latitude":19.05165,
+    "geom:longitude":-70.03276,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:admin4_code":"24020203.0",
+    "gn:asciiname":"La Colesita Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503036,
+    "gn:latitude":19.05165,
+    "gn:longitude":-70.03276,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Colesita Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colesita Arriba",
+        "La Colesita Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503036
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2dafbc202449bf10bae05567b69089b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420149,
+            "locality_id":1326504221,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1326504221,
+    "wof:lastmodified":1537619986,
+    "wof:name":"La Colesita Arriba",
+    "wof:parent_id":890420149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03276,
+    19.05165,
+    -70.03276,
+    19.05165
+],
+  "geometry": {"coordinates":[-70.03276,19.05165],"type":"Point"}
+}

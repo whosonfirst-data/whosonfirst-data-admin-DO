@@ -1,0 +1,70 @@
+{
+  "id": 1343241071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.77871,19.25447,-69.77871,19.25447",
+    "geom:latitude":19.25447,
+    "geom:longitude":-69.77871,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140102.0",
+    "gn:admin4_code":"14010203.0",
+    "gn:asciiname":"Cruce de Rincon",
+    "gn:country_code":"DO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509143,
+    "gn:latitude":19.25447,
+    "gn:longitude":-69.77871,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890429237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509143
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e8782d61bc1a61aab62ea7884f8b2ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429237,
+            "locality_id":1343241071,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1343241071,
+    "wof:lastmodified":1537060348,
+    "wof:name":"Cruce de Rincon",
+    "wof:parent_id":890429237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.77871,
+    19.25447,
+    -69.77871,
+    19.25447
+],
+  "geometry": {"coordinates":[-69.77871,19.25447],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 421191709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.33994,18.60932,-68.33994,18.60932",
+    "geom:latitude":18.60932,
+    "geom:longitude":-68.33994,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Cape Enga\u00f1o"
+    ],
+    "name:epo_x_preferred":[
+        "Kabo Enga\u00f1o"
+    ],
+    "name:ita_x_preferred":[
+        "Capo Enga\u00f1o"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30ac\u30fc\u30cb\u30e7\u5cac"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3510893,
+    "qs:gn_pop":0,
+    "qs:name":"Cabo Engano",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"La Altagracia",
+    "qs:photos":3889,
+    "qs:photos_1k":788,
+    "qs:photos_9k":17,
+    "qs:photos_9r":12,
+    "qs:photos_all":3889,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1152529,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":69719,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510893,
+        "gp:id":69719,
+        "qs:id":1152529,
+        "wd:id":"Q9301527"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009702,
+    "wof:geomhash":"16e81fd34c92ae93af70b864fa10d677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":421191709,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":421191709,
+    "wof:lastmodified":1527716371,
+    "wof:name":"Cabo Engano",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.33994,
+    18.60932,
+    -68.33994,
+    18.60932
+],
+  "geometry": {"coordinates":[-68.33994,18.60932],"type":"Point"}
+}

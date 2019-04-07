@@ -1,0 +1,70 @@
+{
+  "id": 1310383649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57616,19.08606,-71.57616,19.08606",
+    "geom:latitude":19.08606,
+    "geom:longitude":-71.57616,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70501.0",
+    "gn:admin4_code":"7050105.0",
+    "gn:asciiname":"Sabana Quemada",
+    "gn:country_code":"DO",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493429,
+    "gn:latitude":19.08606,
+    "gn:longitude":-71.57616,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana Quemada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493429
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ab0c9896cfd9be9f825666daa322730b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721221,
+            "locality_id":1310383649,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1310383649,
+    "wof:lastmodified":1537089598,
+    "wof:name":"Sabana Quemada",
+    "wof:parent_id":1108721221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57616,
+    19.08606,
+    -71.57616,
+    19.08606
+],
+  "geometry": {"coordinates":[-71.57616,19.08606],"type":"Point"}
+}

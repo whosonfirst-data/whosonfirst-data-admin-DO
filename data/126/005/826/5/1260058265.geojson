@@ -1,0 +1,70 @@
+{
+  "id": 1260058265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73559,18.93532,-71.73559,18.93532",
+    "geom:latitude":18.93532,
+    "geom:longitude":-71.73559,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:admin4_code":"7010103.0",
+    "gn:asciiname":"Cruce de Malena",
+    "gn:country_code":"DO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509150,
+    "gn:latitude":18.93532,
+    "gn:longitude":-71.73559,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cruce de Malena",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890453405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509150
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5e9602fe70ba6b09f6a346477ff68c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453405,
+            "locality_id":1260058265,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1260058265,
+    "wof:lastmodified":1537023398,
+    "wof:name":"Cruce de Malena",
+    "wof:parent_id":890453405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73559,
+    18.93532,
+    -71.73559,
+    18.93532
+],
+  "geometry": {"coordinates":[-71.73559,18.93532],"type":"Point"}
+}

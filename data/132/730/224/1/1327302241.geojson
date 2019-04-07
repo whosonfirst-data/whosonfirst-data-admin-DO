@@ -1,0 +1,76 @@
+{
+  "id": 1327302241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.28292,18.49321,-69.28292,18.49321",
+    "geom:latitude":18.49321,
+    "geom:longitude":-69.28292,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230101.0",
+    "gn:admin4_code":"23010102.0",
+    "gn:asciiname":"La Inocencia",
+    "gn:country_code":"DO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502289,
+    "gn:latitude":18.49321,
+    "gn:longitude":-69.28292,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Inocencia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inocencia",
+        "La Inoscencia",
+        "Inocencio",
+        "La Inocencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        1108721269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502289
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"464d30720cf0cba06ad5b67e58a5c3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721269,
+            "locality_id":1327302241,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1327302241,
+    "wof:lastmodified":1537619978,
+    "wof:name":"La Inocencia",
+    "wof:parent_id":1108721269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.28291999999999,
+    18.49321,
+    -69.28291999999999,
+    18.49321
+],
+  "geometry": {"coordinates":[-69.28291999999999,18.49321],"type":"Point"}
+}

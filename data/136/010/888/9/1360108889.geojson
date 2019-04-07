@@ -1,0 +1,70 @@
+{
+  "id": 1360108889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73029,19.30759,-71.73029,19.30759",
+    "geom:latitude":19.30759,
+    "geom:longitude":-71.73029,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:admin4_code":"5040104.0",
+    "gn:asciiname":"Corral de los Mangos",
+    "gn:country_code":"DO",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509249,
+    "gn:latitude":19.30759,
+    "gn:longitude":-71.73029,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Corral de los Mangos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670575,
+        1108721239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509249
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"aa239cbde5d2b5afd2d872f37ca2e2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721239,
+            "locality_id":1360108889,
+            "region_id":85670575
+        }
+    ],
+    "wof:id":1360108889,
+    "wof:lastmodified":1536911659,
+    "wof:name":"Corral de los Mangos",
+    "wof:parent_id":1108721239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73029,
+    19.30759,
+    -71.73029,
+    19.30759
+],
+  "geometry": {"coordinates":[-71.73029,19.30759],"type":"Point"}
+}

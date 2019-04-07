@@ -1,0 +1,64 @@
+{
+  "id": 1209263835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6913,18.83273,-69.6913,18.83273",
+    "geom:latitude":18.83273,
+    "geom:longitude":-69.6913,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020102.0",
+    "gn:asciiname":"Las Cruces",
+    "gn:country_code":"DO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500616,
+    "gn:latitude":18.83273,
+    "gn:longitude":-69.6913,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500616
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"34a7295202b8cde6992f00a11f892dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209263835
+        }
+    ],
+    "wof:id":1209263835,
+    "wof:lastmodified":1536292603,
+    "wof:name":"Las Cruces",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6913,
+    18.83273,
+    -69.6913,
+    18.83273
+],
+  "geometry": {"coordinates":[-69.6913,18.83273],"type":"Point"}
+}

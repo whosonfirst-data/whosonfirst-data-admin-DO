@@ -1,0 +1,64 @@
+{
+  "id": 1209074771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29314,19.12089,-71.29314,19.12089",
+    "geom:latitude":19.12089,
+    "geom:longitude":-71.29314,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220103.0",
+    "gn:admin4_code":"22010303.0",
+    "gn:asciiname":"Hondo Valle",
+    "gn:country_code":"DO",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504464,
+    "gn:latitude":19.12089,
+    "gn:longitude":-71.29314,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hondo Valle",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504464
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0885e422b0ebd1f5706b867e8ae209c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209074771
+        }
+    ],
+    "wof:id":1209074771,
+    "wof:lastmodified":1536298530,
+    "wof:name":"Hondo Valle",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29314000000002,
+    19.12089,
+    -71.29314000000002,
+    19.12089
+],
+  "geometry": {"coordinates":[-71.29314000000002,19.12089],"type":"Point"}
+}

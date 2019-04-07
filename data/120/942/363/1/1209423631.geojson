@@ -1,0 +1,61 @@
+{
+  "id": 1209423631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35,18.6,-71.35,18.6",
+    "geom:latitude":18.6,
+    "geom:longitude":-71.35,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Rosa",
+    "gn:country_code":"DO",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500946,
+    "gn:latitude":18.6,
+    "gn:longitude":-71.35,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"La Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500946
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b1e0171e1697e06c52c67c0e38931e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209423631
+        }
+    ],
+    "wof:id":1209423631,
+    "wof:lastmodified":1536287449,
+    "wof:name":"La Rosa",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35,
+    18.6,
+    -71.35,
+    18.6
+],
+  "geometry": {"coordinates":[-71.34999999999999,18.6],"type":"Point"}
+}

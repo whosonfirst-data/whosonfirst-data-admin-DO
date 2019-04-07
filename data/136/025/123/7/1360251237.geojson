@@ -1,0 +1,70 @@
+{
+  "id": 1360251237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76363,19.65739,-70.76363,19.65739",
+    "geom:latitude":19.65739,
+    "geom:longitude":-70.76363,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180202.0",
+    "gn:admin4_code":"18020204.0",
+    "gn:asciiname":"Rio Grande Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493762,
+    "gn:latitude":19.65739,
+    "gn:longitude":-70.76363,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"R\u00edo Grande Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        890429293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493762
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"97bee1ca0159b65218051a10c5fac571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429293,
+            "locality_id":1360251237,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1360251237,
+    "wof:lastmodified":1536706315,
+    "wof:name":"Rio Grande Arriba",
+    "wof:parent_id":890429293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76363,
+    19.65739,
+    -70.76363,
+    19.65739
+],
+  "geometry": {"coordinates":[-70.76363000000001,19.65739],"type":"Point"}
+}

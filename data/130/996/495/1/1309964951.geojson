@@ -1,0 +1,70 @@
+{
+  "id": 1309964951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01319,18.44329,-70.01319,18.44329",
+    "geom:latitude":18.44329,
+    "geom:longitude":-70.01319,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2103.0",
+    "gn:admin3_code":"210302.0",
+    "gn:admin4_code":"21030203.0",
+    "gn:asciiname":"Quita Sueno",
+    "gn:country_code":"DO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494112,
+    "gn:latitude":18.44329,
+    "gn:longitude":-70.01319,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Quita Sue\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494112
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"76fe1c189042104a26da2bdc613d61e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721107,
+            "locality_id":1309964951,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1309964951,
+    "wof:lastmodified":1536702168,
+    "wof:name":"Quita Sueno",
+    "wof:parent_id":1108721107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01319000000001,
+    18.44329,
+    -70.01319000000001,
+    18.44329
+],
+  "geometry": {"coordinates":[-70.01319000000001,18.44329],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293457983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14358,18.49498,-69.14358,18.49498",
+    "geom:latitude":18.49498,
+    "geom:longitude":-69.14358,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:admin4_code":"23030102.0",
+    "gn:asciiname":"Higueerito",
+    "gn:country_code":"DO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504626,
+    "gn:latitude":18.49498,
+    "gn:longitude":-69.14358,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hig\u00fcerito",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504626
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"48fdd8c916df2cf9b13bbec884739ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429221,
+            "locality_id":1293457983,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1293457983,
+    "wof:lastmodified":1536828796,
+    "wof:name":"Higueerito",
+    "wof:parent_id":890429221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14358,
+    18.49498,
+    -69.14358,
+    18.49498
+],
+  "geometry": {"coordinates":[-69.14358,18.49498],"type":"Point"}
+}

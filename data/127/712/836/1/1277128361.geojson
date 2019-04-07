@@ -1,0 +1,70 @@
+{
+  "id": 1277128361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.87908,18.67645,-69.87908,18.67645",
+    "geom:latitude":18.67645,
+    "geom:longitude":-69.87908,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320302.0",
+    "gn:admin4_code":"32030207.0",
+    "gn:asciiname":"Hacienda Estrella",
+    "gn:country_code":"DO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504835,
+    "gn:latitude":18.67645,
+    "gn:longitude":-69.87908,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hacienda Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504835
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8aa21b89cc0274f53ab7878773fa7c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721279,
+            "locality_id":1277128361,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1277128361,
+    "wof:lastmodified":1536702294,
+    "wof:name":"Hacienda Estrella",
+    "wof:parent_id":1108721279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.87908,
+    18.67645,
+    -69.87908,
+    18.67645
+],
+  "geometry": {"coordinates":[-69.87908,18.67645],"type":"Point"}
+}

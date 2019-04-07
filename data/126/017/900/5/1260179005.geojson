@@ -1,0 +1,74 @@
+{
+  "id": 1260179005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.46649,19.52588,-70.46649,19.52588",
+    "geom:latitude":19.52588,
+    "geom:longitude":-70.46649,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90102.0",
+    "gn:admin4_code":"9010204.0",
+    "gn:asciiname":"Cola de Pato",
+    "gn:country_code":"DO",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509504,
+    "gn:latitude":19.52588,
+    "gn:longitude":-70.46649,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cola de Pato",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corte Nuevo",
+        "Cola de Pato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509504
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"57c358893ed15405063e9a2646f12b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1260179005,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1260179005,
+    "wof:lastmodified":1537620049,
+    "wof:name":"Cola de Pato",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.46649000000002,
+    19.52588,
+    -70.46649000000002,
+    19.52588
+],
+  "geometry": {"coordinates":[-70.46649000000002,19.52588],"type":"Point"}
+}

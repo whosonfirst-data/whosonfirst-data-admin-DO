@@ -1,0 +1,74 @@
+{
+  "id": 1259487385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87994,18.40715,-70.87994,18.40715",
+    "geom:latitude":18.40715,
+    "geom:longitude":-70.87994,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20604.0",
+    "gn:admin4_code":"2060402.0",
+    "gn:asciiname":"Galindo Afuera",
+    "gn:country_code":"DO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3505533,
+    "gn:latitude":18.40715,
+    "gn:longitude":-70.87994,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Galindo Afuera",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galindo",
+        "Galindo Afuera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3505533
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9f9b050ab6a7482d0de2eada2249400e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721249,
+            "locality_id":1259487385,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1259487385,
+    "wof:lastmodified":1537620010,
+    "wof:name":"Galindo Afuera",
+    "wof:parent_id":1108721249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87994,
+    18.40715,
+    -70.87994,
+    18.40715
+],
+  "geometry": {"coordinates":[-70.87994,18.40715],"type":"Point"}
+}

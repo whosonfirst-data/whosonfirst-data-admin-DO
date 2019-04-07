@@ -1,0 +1,70 @@
+{
+  "id": 1327329131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.48865,19.59517,-70.48865,19.59517",
+    "geom:latitude":19.59517,
+    "geom:longitude":-70.48865,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90401.0",
+    "gn:admin4_code":"9040105.0",
+    "gn:asciiname":"Las Espinitas",
+    "gn:country_code":"DO",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500549,
+    "gn:latitude":19.59517,
+    "gn:longitude":-70.48865,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Espinitas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        1108721167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500549
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"dcaa7e0f9106b7fd66e1006a92fdb983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721167,
+            "locality_id":1327329131,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1327329131,
+    "wof:lastmodified":1536829005,
+    "wof:name":"Las Espinitas",
+    "wof:parent_id":1108721167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.48865,
+    19.59517,
+    -70.48865,
+    19.59517
+],
+  "geometry": {"coordinates":[-70.48865000000001,19.59517],"type":"Point"}
+}

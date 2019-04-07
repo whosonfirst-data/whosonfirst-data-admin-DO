@@ -1,0 +1,74 @@
+{
+  "id": 1343854157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.513,18.20399,-71.513,18.20399",
+    "geom:latitude":18.20399,
+    "geom:longitude":-71.513,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100201.0",
+    "gn:admin4_code":"10020102.0",
+    "gn:asciiname":"Charco de la Paloma",
+    "gn:country_code":"DO",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509773,
+    "gn:latitude":18.20399,
+    "gn:longitude":-71.513,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Charco de la Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charco de la Palma",
+        "Charco de la Paloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        890420145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509773
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"85023fb9310f3d2091bdc958a7e2bf28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420145,
+            "locality_id":1343854157,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1343854157,
+    "wof:lastmodified":1537620050,
+    "wof:name":"Charco de la Paloma",
+    "wof:parent_id":890420145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.513,
+    18.20399,
+    -71.513,
+    18.20399
+],
+  "geometry": {"coordinates":[-71.51300000000001,18.20399],"type":"Point"}
+}

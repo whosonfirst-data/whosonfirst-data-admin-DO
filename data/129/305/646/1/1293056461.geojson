@@ -1,0 +1,70 @@
+{
+  "id": 1293056461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.82114,19.19412,-70.82114,19.19412",
+    "geom:latitude":19.19412,
+    "geom:longitude":-70.82114,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250302.0",
+    "gn:admin4_code":"25030204.0",
+    "gn:asciiname":"Juncalito Arriba",
+    "gn:country_code":"DO",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503781,
+    "gn:latitude":19.19412,
+    "gn:longitude":-70.82114,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Juncalito Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503781
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8fdace200cc6874b94f5078ab6cfe394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1293056461,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1293056461,
+    "wof:lastmodified":1536912077,
+    "wof:name":"Juncalito Arriba",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.82114,
+    19.19412,
+    -70.82114,
+    19.19412
+],
+  "geometry": {"coordinates":[-70.82114,19.19412],"type":"Point"}
+}

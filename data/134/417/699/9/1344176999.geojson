@@ -1,0 +1,75 @@
+{
+  "id": 1344176999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.47352,19.42453,-70.47352,19.42453",
+    "geom:latitude":19.42453,
+    "geom:longitude":-70.47352,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90105.0",
+    "gn:admin4_code":"9010502.0",
+    "gn:asciiname":"Las Lagunas Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500425,
+    "gn:latitude":19.42453,
+    "gn:longitude":-70.47352,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Lagunas Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laguna Abajo",
+        "Las Lagunas",
+        "Las Lagunas Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500425
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"446d2d24abab8070ebb614450344f45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1344176999,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1344176999,
+    "wof:lastmodified":1537619960,
+    "wof:name":"Las Lagunas Abajo",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.47352,
+    19.42453,
+    -70.47352,
+    19.42453
+],
+  "geometry": {"coordinates":[-70.47351999999999,19.42453],"type":"Point"}
+}

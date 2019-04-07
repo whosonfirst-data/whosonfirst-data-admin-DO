@@ -1,0 +1,74 @@
+{
+  "id": 1343933727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.57618,19.7031,-70.57618,19.7031",
+    "geom:latitude":19.7031,
+    "geom:longitude":-70.57618,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1809.0",
+    "gn:admin3_code":"180901.0",
+    "gn:admin4_code":"18090107.0",
+    "gn:asciiname":"La Bucara",
+    "gn:country_code":"DO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503461,
+    "gn:latitude":19.7031,
+    "gn:longitude":-70.57618,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La B\u00facara",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00facara",
+        "La B\u00facara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503461
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b896591e42879f16178b1470e8cd06ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1343933727,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1343933727,
+    "wof:lastmodified":1537619993,
+    "wof:name":"La Bucara",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.57618000000002,
+    19.7031,
+    -70.57618000000002,
+    19.7031
+],
+  "geometry": {"coordinates":[-70.57618000000002,19.7031],"type":"Point"}
+}

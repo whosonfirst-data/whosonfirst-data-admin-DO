@@ -1,0 +1,74 @@
+{
+  "id": 1327383411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.83584,18.93914,-69.83584,18.93914",
+    "geom:latitude":18.93914,
+    "geom:longitude":-69.83584,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030102.0",
+    "gn:asciiname":"Batey Galeano",
+    "gn:country_code":"DO",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511801,
+    "gn:latitude":18.93914,
+    "gn:longitude":-69.83584,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey Galeano",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Galiano",
+        "Batey Galeano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511801
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cfe90deca69ff6b4db153e766a39c543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1327383411,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1327383411,
+    "wof:lastmodified":1537620074,
+    "wof:name":"Batey Galeano",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.83584,
+    18.93914,
+    -69.83584,
+    18.93914
+],
+  "geometry": {"coordinates":[-69.83584,18.93914],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209745739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54161,18.90264,-70.54161,18.90264",
+    "geom:latitude":18.90264,
+    "geom:longitude":-70.54161,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280106.0",
+    "gn:admin4_code":"28010603.0",
+    "gn:asciiname":"La Totona",
+    "gn:country_code":"DO",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500069,
+    "gn:latitude":18.90264,
+    "gn:longitude":-70.54161,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Toto\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500069
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e71d8a809b3e87185e5ea2fbf1155e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1209745739,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1209745739,
+    "wof:lastmodified":1536395091,
+    "wof:name":"La Totona",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54160999999998,
+    18.90264,
+    -70.54160999999998,
+    18.90264
+],
+  "geometry": {"coordinates":[-70.54160999999998,18.90264],"type":"Point"}
+}

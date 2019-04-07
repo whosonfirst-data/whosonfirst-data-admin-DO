@@ -1,0 +1,75 @@
+{
+  "id": 1293009447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22615,18.43483,-71.22615,18.43483",
+    "geom:latitude":18.43483,
+    "geom:longitude":-71.22615,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30102.0",
+    "gn:admin4_code":"3010202.0",
+    "gn:asciiname":"Batey Numero Uno",
+    "gn:country_code":"DO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511696,
+    "gn:latitude":18.43483,
+    "gn:longitude":-71.22615,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey N\u00famero Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey 1",
+        "Batey N\u00famero 1",
+        "Batey N\u00famero Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        890429235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511696
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f5add18cdf35980dea3a0b50373bc4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429235,
+            "locality_id":1293009447,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1293009447,
+    "wof:lastmodified":1537620068,
+    "wof:name":"Batey Numero Uno",
+    "wof:parent_id":890429235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22615,
+    18.43483,
+    -71.22615,
+    18.43483
+],
+  "geometry": {"coordinates":[-71.22615,18.43483],"type":"Point"}
+}

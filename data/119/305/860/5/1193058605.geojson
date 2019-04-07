@@ -1,0 +1,70 @@
+{
+  "id": 1193058605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55375,18.52416,-70.55375,18.52416",
+    "geom:latitude":18.52416,
+    "geom:longitude":-70.55375,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310104.0",
+    "gn:admin4_code":"31010402.0",
+    "gn:asciiname":"El Corbanal",
+    "gn:country_code":"DO",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507831,
+    "gn:latitude":18.52416,
+    "gn:longitude":-70.55375,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Corbanal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507831
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"22e3a3dc3ed72d48b041f0bc0104e9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1193058605,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1193058605,
+    "wof:lastmodified":1536380197,
+    "wof:name":"El Corbanal",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55375,
+    18.52416,
+    -70.55375,
+    18.52416
+],
+  "geometry": {"coordinates":[-70.55374999999999,18.52416],"type":"Point"}
+}

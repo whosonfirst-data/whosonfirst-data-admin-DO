@@ -1,0 +1,70 @@
+{
+  "id": 1309998589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29682,19.19994,-70.29682,19.19994",
+    "geom:latitude":19.19994,
+    "geom:longitude":-70.29682,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60103.0",
+    "gn:admin4_code":"6010307.0",
+    "gn:asciiname":"El Bobo",
+    "gn:country_code":"DO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508345,
+    "gn:latitude":19.19994,
+    "gn:longitude":-70.29682,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Bobo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508345
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3891bf68e92a6e79419e35096e7060c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429213,
+            "locality_id":1309998589,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1309998589,
+    "wof:lastmodified":1536653215,
+    "wof:name":"El Bobo",
+    "wof:parent_id":890429213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29682,
+    19.19994,
+    -70.29682,
+    19.19994
+],
+  "geometry": {"coordinates":[-70.29682,19.19994],"type":"Point"}
+}

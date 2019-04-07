@@ -1,0 +1,70 @@
+{
+  "id": 1260156785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55784,19.7067,-70.55784,19.7067",
+    "geom:latitude":19.7067,
+    "geom:longitude":-70.55784,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1809.0",
+    "gn:admin3_code":"180901.0",
+    "gn:admin4_code":"18090107.0",
+    "gn:asciiname":"La Cana",
+    "gn:country_code":"DO",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503361,
+    "gn:latitude":19.7067,
+    "gn:longitude":-70.55784,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503361
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"52db93af080a8f4712fc0577702a98ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721297,
+            "locality_id":1260156785,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1260156785,
+    "wof:lastmodified":1536884065,
+    "wof:name":"La Cana",
+    "wof:parent_id":1108721297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55784,
+    19.7067,
+    -70.55784,
+    19.7067
+],
+  "geometry": {"coordinates":[-70.55784,19.7067],"type":"Point"}
+}

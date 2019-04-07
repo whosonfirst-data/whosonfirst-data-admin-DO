@@ -1,0 +1,70 @@
+{
+  "id": 1360051703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53419,19.62552,-70.53419,19.62552",
+    "geom:latitude":19.62552,
+    "geom:longitude":-70.53419,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180701.0",
+    "gn:admin4_code":"18070102.0",
+    "gn:asciiname":"La Pelota",
+    "gn:country_code":"DO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501338,
+    "gn:latitude":19.62552,
+    "gn:longitude":-70.53419,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pelota",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501338
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8e6ced9ef941f57f636cde7b81bba8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721233,
+            "locality_id":1360051703,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1360051703,
+    "wof:lastmodified":1536993132,
+    "wof:name":"La Pelota",
+    "wof:parent_id":1108721233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53419,
+    19.62552,
+    -70.53419,
+    19.62552
+],
+  "geometry": {"coordinates":[-70.53419,19.62552],"type":"Point"}
+}

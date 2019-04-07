@@ -1,0 +1,64 @@
+{
+  "id": 1209157595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66811,18.45247,-69.66811,18.45247",
+    "geom:latitude":18.45247,
+    "geom:longitude":-69.66811,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3204.0",
+    "gn:admin3_code":"320402.0",
+    "gn:admin4_code":"32040201.0",
+    "gn:asciiname":"Monte Adentro",
+    "gn:country_code":"DO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496245,
+    "gn:latitude":18.45247,
+    "gn:longitude":-69.66811,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Monte Adentro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496245
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"8719c76522449c67ec9cb6be8532e8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209157595
+        }
+    ],
+    "wof:id":1209157595,
+    "wof:lastmodified":1536296008,
+    "wof:name":"Monte Adentro",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66811,
+    18.45247,
+    -69.66811,
+    18.45247
+],
+  "geometry": {"coordinates":[-69.66811,18.45247],"type":"Point"}
+}

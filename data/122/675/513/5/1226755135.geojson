@@ -1,0 +1,70 @@
+{
+  "id": 1226755135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.30932,18.15306,-71.30932,18.15306",
+    "geom:latitude":18.15306,
+    "geom:longitude":-71.30932,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"410.0",
+    "gn:admin3_code":"41001.0",
+    "gn:admin4_code":"4100103.0",
+    "gn:asciiname":"Los Charquitos",
+    "gn:country_code":"DO",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498882,
+    "gn:latitude":18.15306,
+    "gn:longitude":-71.30932,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Charquitos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498882
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"eb28647ca2f1fc985f28447f1f599cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721229,
+            "locality_id":1226755135,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1226755135,
+    "wof:lastmodified":1536702216,
+    "wof:name":"Los Charquitos",
+    "wof:parent_id":1108721229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.30932,
+    18.15306,
+    -71.30932,
+    18.15306
+],
+  "geometry": {"coordinates":[-71.30932,18.15306],"type":"Point"}
+}

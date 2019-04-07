@@ -1,0 +1,74 @@
+{
+  "id": 1344006895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15013,18.34253,-70.15013,18.34253",
+    "geom:latitude":18.34253,
+    "geom:longitude":-70.15013,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:admin4_code":"21060103.0",
+    "gn:asciiname":"Najayo al Medio",
+    "gn:country_code":"DO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496008,
+    "gn:latitude":18.34253,
+    "gn:longitude":-70.15013,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Najayo al Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najayo en Medio",
+        "Najayo al Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496008
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7095799237a82fce5064eea0688ee98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429185,
+            "locality_id":1344006895,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1344006895,
+    "wof:lastmodified":1537619928,
+    "wof:name":"Najayo al Medio",
+    "wof:parent_id":890429185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15013,
+    18.34253,
+    -70.15013,
+    18.34253
+],
+  "geometry": {"coordinates":[-70.15013,18.34253],"type":"Point"}
+}

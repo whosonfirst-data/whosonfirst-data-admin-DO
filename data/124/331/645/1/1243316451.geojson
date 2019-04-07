@@ -1,0 +1,70 @@
+{
+  "id": 1243316451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42548,18.57113,-70.42548,18.57113",
+    "geom:latitude":18.57113,
+    "geom:longitude":-70.42548,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310102.0",
+    "gn:admin4_code":"31010203.0",
+    "gn:asciiname":"Pelegrino",
+    "gn:country_code":"DO",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495080,
+    "gn:latitude":18.57113,
+    "gn:longitude":-70.42548,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pelegrino",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495080
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b37730a1058218a5c46d07586259ae6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1243316451,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1243316451,
+    "wof:lastmodified":1536992282,
+    "wof:name":"Pelegrino",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42548000000002,
+    18.57113,
+    -70.42548000000002,
+    18.57113
+],
+  "geometry": {"coordinates":[-70.42548000000002,18.57113],"type":"Point"}
+}

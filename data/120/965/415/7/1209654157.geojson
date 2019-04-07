@@ -1,0 +1,64 @@
+{
+  "id": 1209654157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.80834,18.59772,-69.80834,18.59772",
+    "geom:latitude":18.59772,
+    "geom:longitude":-69.80834,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3203.0",
+    "gn:admin3_code":"320302.0",
+    "gn:admin4_code":"32030204.0",
+    "gn:asciiname":"Mata Mamon",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3496604,
+    "gn:latitude":18.59772,
+    "gn:longitude":-69.80834,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mata Mam\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3496604
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ec9423e8b9f135425f24d32ba34ec6cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209654157
+        }
+    ],
+    "wof:id":1209654157,
+    "wof:lastmodified":1536280489,
+    "wof:name":"Mata Mamon",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.80834,
+    18.59772,
+    -69.80834,
+    18.59772
+],
+  "geometry": {"coordinates":[-69.80834,18.59772],"type":"Point"}
+}

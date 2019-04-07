@@ -1,0 +1,74 @@
+{
+  "id": 1293933709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.60607,19.11011,-70.60607,19.11011",
+    "geom:latitude":19.11011,
+    "geom:longitude":-70.60607,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130302.0",
+    "gn:admin4_code":"13030205.0",
+    "gn:asciiname":"Los Corrales",
+    "gn:country_code":"DO",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498726,
+    "gn:latitude":19.11011,
+    "gn:longitude":-70.60607,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corrales",
+        "Los Corrales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498726
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"340ec7e7abdf5cd0862b2ea073965921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1293933709,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1293933709,
+    "wof:lastmodified":1537619945,
+    "wof:name":"Los Corrales",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.60606999999997,
+    19.11011,
+    -70.60606999999997,
+    19.11011
+],
+  "geometry": {"coordinates":[-70.60606999999997,19.11011],"type":"Point"}
+}

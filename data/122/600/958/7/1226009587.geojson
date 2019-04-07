@@ -1,0 +1,75 @@
+{
+  "id": 1226009587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19251,19.25768,-69.19251,19.25768",
+    "geom:latitude":19.25768,
+    "geom:longitude":-69.19251,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200104.0",
+    "gn:admin4_code":"20010402.0",
+    "gn:asciiname":"La Guazuma",
+    "gn:country_code":"DO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502429,
+    "gn:latitude":19.25768,
+    "gn:longitude":-69.19251,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Gu\u00e1zuma",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e1sima",
+        "La Guazma",
+        "La Gu\u00e1zuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502429
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2725201203fdd57e47b401d6146d4d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1226009587,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1226009587,
+    "wof:lastmodified":1537619980,
+    "wof:name":"La Guazuma",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19251,
+    19.25768,
+    -69.19251,
+    19.25768
+],
+  "geometry": {"coordinates":[-69.19251,19.25768],"type":"Point"}
+}

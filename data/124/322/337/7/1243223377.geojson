@@ -1,0 +1,70 @@
+{
+  "id": 1243223377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15396,18.83163,-70.15396,18.83163",
+    "geom:latitude":18.83163,
+    "geom:longitude":-70.15396,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290401.0",
+    "gn:admin4_code":"29040102.0",
+    "gn:asciiname":"La Majagua",
+    "gn:country_code":"DO",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501795,
+    "gn:latitude":18.83163,
+    "gn:longitude":-70.15396,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Majagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501795
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"249c6e156f5b54db4a2671668e23ee1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1243223377,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1243223377,
+    "wof:lastmodified":1536628509,
+    "wof:name":"La Majagua",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15396,
+    18.83163,
+    -70.15396,
+    18.83163
+],
+  "geometry": {"coordinates":[-70.15396,18.83163],"type":"Point"}
+}

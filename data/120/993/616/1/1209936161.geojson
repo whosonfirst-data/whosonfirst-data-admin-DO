@@ -1,0 +1,74 @@
+{
+  "id": 1209936161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29474,19.60174,-70.29474,19.60174",
+    "geom:latitude":19.60174,
+    "geom:longitude":-70.29474,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:admin4_code":"9030103.0",
+    "gn:asciiname":"Boca del Anon",
+    "gn:country_code":"DO",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511316,
+    "gn:latitude":19.60174,
+    "gn:longitude":-70.29474,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca del An\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Boca de An\u00f3n",
+        "Boca del An\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511316
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ed95aa850670e891cea9641a8f1a5c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429285,
+            "locality_id":1209936161,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1209936161,
+    "wof:lastmodified":1537620063,
+    "wof:name":"Boca del Anon",
+    "wof:parent_id":890429285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29474,
+    19.60174,
+    -70.29474,
+    19.60174
+],
+  "geometry": {"coordinates":[-70.29474,19.60174],"type":"Point"}
+}

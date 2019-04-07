@@ -1,0 +1,70 @@
+{
+  "id": 1259953091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21272,19.76712,-71.21272,19.76712",
+    "geom:latitude":19.76712,
+    "geom:longitude":-71.21272,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150303.0",
+    "gn:admin4_code":"15030303.0",
+    "gn:asciiname":"Agua de Luis",
+    "gn:country_code":"DO",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512947,
+    "gn:latitude":19.76712,
+    "gn:longitude":-71.21272,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Agua de Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        890429279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512947
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"627276b9316068f0b5e789a038e32083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429279,
+            "locality_id":1259953091,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1259953091,
+    "wof:lastmodified":1536678979,
+    "wof:name":"Agua de Luis",
+    "wof:parent_id":890429279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21271999999998,
+    19.76712,
+    -71.21271999999998,
+    19.76712
+],
+  "geometry": {"coordinates":[-71.21271999999998,19.76712],"type":"Point"}
+}

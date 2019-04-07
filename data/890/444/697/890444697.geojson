@@ -1,0 +1,219 @@
+{
+  "id": 890444697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.03886,18.76559,-69.03886,18.76559",
+    "geom:latitude":18.76559,
+    "geom:longitude":-69.03886,
+    "gn:country":"DO",
+    "gn:fcode":"PPLA",
+    "gn:pop":23547,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u585e\u6c83"
+    ],
+    "name:dut_x_preferred":[
+        "El Seibo"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz del Seibo"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz del Seibo"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz del Seibo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30bb\u30a4\u30dc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc138\uc774\ubcf4"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Cruz de El Seibo"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644 \u0633\u06cc\u0628\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "El Seibo"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz de El Seibo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437-\u0434\u0435\u043b\u044c-\u0421\u0435\u0439\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz de El Seibo"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz de El Seibo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437-\u0434\u0435\u043b\u044c-\u0421\u0435\u0439\u0431\u043e"
+    ],
+    "name:unk_x_variant":[
+        "El Seibo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0633\u0626\u06cc\u0628\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Santa Cruz de El Seibo"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Dominican Republic",
+    "ne:ADM0_A3":"DOM",
+    "ne:ADM1NAME":"El Seybo",
+    "ne:ADMIN1_COD":28,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3492984,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Santa Cruz de El Seibo",
+    "ne:GN_POP":23547,
+    "ne:GTOPO30":97.0,
+    "ne:ISO_A2":"DO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":18.764001,
+    "ne:LONGITUDE":-69.035003,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"El Seibo",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Seibo",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":23547,
+    "ne:POP_MIN":23547,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Dominican Republic",
+    "ne:SOV_A3":"DOM",
+    "ne:TIMEZONE":"America/Santo_Domingo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Santa Cruz de El Seibo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492984,
+        "gp:id":76422,
+        "qs:id":1045284,
+        "wd:id":"Q2420339"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1198208
+    },
+    "wof:country":"DO",
+    "wof:created":1469052478,
+    "wof:geomhash":"c55c16474308dc5cafa6431fee52b94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":890444697,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":890444697,
+    "wof:lastmodified":1534379287,
+    "wof:name":"Santa Cruz de El Seibo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:population":23547,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421170959
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.03886,
+    18.76559,
+    -69.03886,
+    18.76559
+],
+  "geometry": {"coordinates":[-69.03886,18.76559],"type":"Point"}
+}

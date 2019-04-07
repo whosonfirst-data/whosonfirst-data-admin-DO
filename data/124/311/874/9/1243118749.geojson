@@ -1,0 +1,70 @@
+{
+  "id": 1243118749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62197,19.05635,-70.62197,19.05635",
+    "geom:latitude":19.05635,
+    "geom:longitude":-70.62197,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030108.0",
+    "gn:asciiname":"La Sabana",
+    "gn:country_code":"DO",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500920,
+    "gn:latitude":19.05635,
+    "gn:longitude":-70.62197,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Sabana",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500920
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"265657264dae8717a20ed25b4c23fe7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1243118749,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1243118749,
+    "wof:lastmodified":1536781549,
+    "wof:name":"La Sabana",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62196999999998,
+    19.05635,
+    -70.62196999999998,
+    19.05635
+],
+  "geometry": {"coordinates":[-70.62196999999998,19.05635],"type":"Point"}
+}

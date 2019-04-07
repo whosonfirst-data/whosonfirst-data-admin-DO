@@ -1,0 +1,75 @@
+{
+  "id": 1343855041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.439,19.5303,-70.439,19.5303",
+    "geom:latitude":19.5303,
+    "geom:longitude":-70.439,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90102.0",
+    "gn:admin4_code":"9010204.0",
+    "gn:asciiname":"Los Trastacos",
+    "gn:country_code":"DO",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497448,
+    "gn:latitude":19.5303,
+    "gn:longitude":-70.439,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Trastacos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Trataces",
+        "Los Tratrases",
+        "Los Trastacos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497448
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"3d7ad8a1ae52b09732c3ba9c2ce15b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429241,
+            "locality_id":1343855041,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1343855041,
+    "wof:lastmodified":1537619936,
+    "wof:name":"Los Trastacos",
+    "wof:parent_id":890429241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.439,
+    19.5303,
+    -70.439,
+    19.5303
+],
+  "geometry": {"coordinates":[-70.43899999999999,19.5303],"type":"Point"}
+}

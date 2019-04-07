@@ -1,0 +1,70 @@
+{
+  "id": 1309853013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.40631,18.77969,-69.40631,18.77969",
+    "geom:latitude":18.77969,
+    "geom:longitude":-69.40631,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3001.0",
+    "gn:admin3_code":"300101.0",
+    "gn:admin4_code":"30010102.0",
+    "gn:asciiname":"El Mamey",
+    "gn:country_code":"DO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507051,
+    "gn:latitude":18.77969,
+    "gn:longitude":-69.40631,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Mamey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507051
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"737c300fef7e7f70df36b875c9626389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":1309853013,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1309853013,
+    "wof:lastmodified":1536861719,
+    "wof:name":"El Mamey",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.40630999999999,
+    18.77969,
+    -69.40630999999999,
+    18.77969
+],
+  "geometry": {"coordinates":[-69.40630999999999,18.77969],"type":"Point"}
+}

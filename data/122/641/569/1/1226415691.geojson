@@ -1,0 +1,70 @@
+{
+  "id": 1226415691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65,19.83333,-71.65,19.83333",
+    "geom:latitude":19.83333,
+    "geom:longitude":-71.65,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010101.0",
+    "gn:asciiname":"La Barca",
+    "gn:country_code":"DO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503620,
+    "gn:latitude":19.83333,
+    "gn:longitude":-71.65,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Barca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503620
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c5bfc3b39385e0bcfc35bfe302c01f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1226415691,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1226415691,
+    "wof:lastmodified":1536688999,
+    "wof:name":"La Barca",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65,
+    19.83333,
+    -71.65,
+    19.83333
+],
+  "geometry": {"coordinates":[-71.65000000000001,19.83333],"type":"Point"}
+}

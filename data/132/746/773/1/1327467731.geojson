@@ -1,0 +1,74 @@
+{
+  "id": 1327467731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45328,18.92195,-70.45328,18.92195",
+    "geom:latitude":18.92195,
+    "geom:longitude":-70.45328,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280104.0",
+    "gn:admin4_code":"28010402.0",
+    "gn:asciiname":"Arroyo Toro",
+    "gn:country_code":"DO",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512305,
+    "gn:latitude":18.92195,
+    "gn:longitude":-70.45328,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toro",
+        "Arroyo Toro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512305
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e6494336b50093618c4049b453bdc9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1327467731,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1327467731,
+    "wof:lastmodified":1537620082,
+    "wof:name":"Arroyo Toro",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45328,
+    18.92195,
+    -70.45328,
+    18.92195
+],
+  "geometry": {"coordinates":[-70.45328000000001,18.92195],"type":"Point"}
+}

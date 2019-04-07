@@ -1,0 +1,70 @@
+{
+  "id": 1259743791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33333,19.13333,-70.33333,19.13333",
+    "geom:latitude":19.13333,
+    "geom:longitude":-70.33333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130401.0",
+    "gn:admin4_code":"13040103.0",
+    "gn:asciiname":"La Pina Vieja",
+    "gn:country_code":"DO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501168,
+    "gn:latitude":19.13333,
+    "gn:longitude":-70.33333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pi\u00f1a Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501168
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2e2a9c8d6e1e26814689aa5e7e713ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721173,
+            "locality_id":1259743791,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1259743791,
+    "wof:lastmodified":1536979779,
+    "wof:name":"La Pina Vieja",
+    "wof:parent_id":1108721173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33333,
+    19.13333,
+    -70.33333,
+    19.13333
+],
+  "geometry": {"coordinates":[-70.33333,19.13333],"type":"Point"}
+}

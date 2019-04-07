@@ -1,0 +1,99 @@
+{
+  "id": 890444693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91319,19.18068,-69.91319,19.18068",
+    "geom:latitude":19.18068,
+    "geom:longitude":-69.91319,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
+    "gn:pop":5700,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u91cc\u74e6\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30b8\u30e3\u30fb\u30ea\u30d0"
+    ],
+    "name:nan_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:por_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Riva"
+    ],
+    "name:unk_x_variant":[
+        "Riva"
+    ],
+    "qs:name":"Villa Riva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491916,
+        "gp:id":76682,
+        "qs:id":1045278,
+        "wd:id":"Q949768",
+        "wk:page":"Villa Riva"
+    },
+    "wof:country":"DO",
+    "wof:created":1469052478,
+    "wof:geomhash":"d2b4090cd93b79359fa6d25aded20e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429191,
+            "locality_id":890444693,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":890444693,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Villa Riva",
+    "wof:parent_id":890429191,
+    "wof:placetype":"locality",
+    "wof:population":5700,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91319,
+    19.18068,
+    -69.91319,
+    19.18068
+],
+  "geometry": {"coordinates":[-69.91319,19.18068],"type":"Point"}
+}

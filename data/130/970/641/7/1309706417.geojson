@@ -1,0 +1,70 @@
+{
+  "id": 1309706417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.84798,18.57138,-68.84798,18.57138",
+    "geom:latitude":18.57138,
+    "geom:longitude":-68.84798,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:admin4_code":"11010102.0",
+    "gn:asciiname":"Chavon Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509737,
+    "gn:latitude":18.57138,
+    "gn:longitude":-68.84798,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Chav\u00f3n Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509737
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4aa50b3915ba81cda12e7876078a97cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1309706417,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1309706417,
+    "wof:lastmodified":1537071358,
+    "wof:name":"Chavon Abajo",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.84798,
+    18.57138,
+    -68.84798,
+    18.57138
+],
+  "geometry": {"coordinates":[-68.84798000000001,18.57138],"type":"Point"}
+}

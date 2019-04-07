@@ -1,0 +1,64 @@
+{
+  "id": 1209365799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.06667,18.7,-69.06667,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":-69.06667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80104.0",
+    "gn:admin4_code":"8010404.0",
+    "gn:asciiname":"Batey de los Cruzes",
+    "gn:country_code":"DO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511825,
+    "gn:latitude":18.7,
+    "gn:longitude":-69.06667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey de los Cruzes",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511825
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"90839c9a28cbfaadd9fd079ba30b2b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209365799
+        }
+    ],
+    "wof:id":1209365799,
+    "wof:lastmodified":1536289277,
+    "wof:name":"Batey de los Cruzes",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.06667,
+    18.7,
+    -69.06667,
+    18.7
+],
+  "geometry": {"coordinates":[-69.06667,18.7],"type":"Point"}
+}

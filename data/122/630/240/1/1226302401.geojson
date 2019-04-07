@@ -1,0 +1,74 @@
+{
+  "id": 1226302401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91865,18.98945,-69.91865,18.98945",
+    "geom:latitude":18.98945,
+    "geom:longitude":-69.91865,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2903.0",
+    "gn:admin3_code":"290301.0",
+    "gn:admin4_code":"29030104.0",
+    "gn:asciiname":"Los Guineos",
+    "gn:country_code":"DO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498456,
+    "gn:latitude":18.98945,
+    "gn:longitude":-69.91865,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Guineos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Los Guineos",
+        "Los Guineos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498456
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"28f330e3915fc4b8c205903baadd18bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429217,
+            "locality_id":1226302401,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1226302401,
+    "wof:lastmodified":1537619944,
+    "wof:name":"Los Guineos",
+    "wof:parent_id":890429217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91865,
+    18.98945,
+    -69.91865,
+    18.98945
+],
+  "geometry": {"coordinates":[-69.91865,18.98945],"type":"Point"}
+}

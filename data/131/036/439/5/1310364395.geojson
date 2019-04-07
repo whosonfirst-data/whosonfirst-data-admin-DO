@@ -1,0 +1,76 @@
+{
+  "id": 1310364395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15,19.05,-70.15,19.05",
+    "geom:latitude":19.05,
+    "geom:longitude":-70.15,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010101.0",
+    "gn:asciiname":"La Estancia",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502700,
+    "gn:latitude":19.05,
+    "gn:longitude":-70.15,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Estancia",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barrio La Esperanza",
+        "Estancia",
+        "La Estancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502700
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"687beb6e4a3d898bf8675201ef334568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1310364395,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1310364395,
+    "wof:lastmodified":1537619983,
+    "wof:name":"La Estancia",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15,
+    19.05,
+    -70.15,
+    19.05
+],
+  "geometry": {"coordinates":[-70.15000000000001,19.05],"type":"Point"}
+}

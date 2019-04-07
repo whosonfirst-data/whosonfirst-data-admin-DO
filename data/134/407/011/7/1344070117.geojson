@@ -1,0 +1,70 @@
+{
+  "id": 1344070117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4819,18.59344,-71.4819,18.59344",
+    "geom:latitude":18.59344,
+    "geom:longitude":-71.4819,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30401.0",
+    "gn:admin4_code":"3040103.0",
+    "gn:asciiname":"Arroyo Seco",
+    "gn:country_code":"DO",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512320,
+    "gn:latitude":18.59344,
+    "gn:longitude":-71.4819,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        890429195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512320
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"16693fcaafed689dea4196d661ebcc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429195,
+            "locality_id":1344070117,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1344070117,
+    "wof:lastmodified":1536860188,
+    "wof:name":"Arroyo Seco",
+    "wof:parent_id":890429195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4819,
+    18.59344,
+    -71.4819,
+    18.59344
+],
+  "geometry": {"coordinates":[-71.4819,18.59344],"type":"Point"}
+}

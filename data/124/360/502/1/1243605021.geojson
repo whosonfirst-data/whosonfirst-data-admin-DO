@@ -1,0 +1,75 @@
+{
+  "id": 1243605021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14644,18.89992,-69.14644,18.89992",
+    "geom:latitude":18.89992,
+    "geom:longitude":-69.14644,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80102.0",
+    "gn:admin4_code":"8010203.0",
+    "gn:asciiname":"Loma del Limon",
+    "gn:country_code":"DO",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499587,
+    "gn:latitude":18.89992,
+    "gn:longitude":-69.14644,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Loma del Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Lim\u00f3n",
+        "Loma Lim\u00f3n",
+        "Loma del Lim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499587
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"61e3abf268d0960b5d901cbba167d7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1243605021,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1243605021,
+    "wof:lastmodified":1537619953,
+    "wof:name":"Loma del Limon",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14644,
+    18.89992,
+    -69.14644,
+    18.89992
+],
+  "geometry": {"coordinates":[-69.14644,18.89992],"type":"Point"}
+}

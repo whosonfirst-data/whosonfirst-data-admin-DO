@@ -1,0 +1,70 @@
+{
+  "id": 1243145409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.55151,19.71955,-71.55151,19.71955",
+    "geom:latitude":19.71955,
+    "geom:longitude":-71.55151,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010103.0",
+    "gn:asciiname":"Higueero",
+    "gn:country_code":"DO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504597,
+    "gn:latitude":19.71955,
+    "gn:longitude":-71.55151,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hig\u00fcero",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504597
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"fb923056a7bf4c001b201c04e59a7cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1243145409,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1243145409,
+    "wof:lastmodified":1536742457,
+    "wof:name":"Higueero",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.55151,
+    19.71955,
+    -71.55151,
+    19.71955
+],
+  "geometry": {"coordinates":[-71.55150999999999,19.71955],"type":"Point"}
+}

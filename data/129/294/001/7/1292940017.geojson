@@ -1,0 +1,74 @@
+{
+  "id": 1292940017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39603,18.95563,-70.39603,18.95563",
+    "geom:latitude":18.95563,
+    "geom:longitude":-70.39603,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280103.0",
+    "gn:admin4_code":"28010303.0",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"DO",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500584,
+    "gn:latitude":18.95563,
+    "gn:longitude":-70.39603,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delicias",
+        "Las Delicias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500584
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1cda87355071ab1fc125772c946e0d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1292940017,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1292940017,
+    "wof:lastmodified":1537619962,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39603000000002,
+    18.95563,
+    -70.39603000000002,
+    18.95563
+],
+  "geometry": {"coordinates":[-70.39603000000002,18.95563],"type":"Point"}
+}

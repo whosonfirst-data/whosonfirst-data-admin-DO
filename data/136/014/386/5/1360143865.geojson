@@ -1,0 +1,70 @@
+{
+  "id": 1360143865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21226,18.50452,-70.21226,18.50452",
+    "geom:latitude":18.50452,
+    "geom:longitude":-70.21226,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210401.0",
+    "gn:admin4_code":"21040104.0",
+    "gn:asciiname":"La Boca de Mano Matuey",
+    "gn:country_code":"DO",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503516,
+    "gn:latitude":18.50452,
+    "gn:longitude":-70.21226,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Boca de Mano Matuey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        1108721129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503516
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4661f0acab4d801a48d837271ce3a7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721129,
+            "locality_id":1360143865,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1360143865,
+    "wof:lastmodified":1536859627,
+    "wof:name":"La Boca de Mano Matuey",
+    "wof:parent_id":1108721129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21226,
+    18.50452,
+    -70.21226,
+    18.50452
+],
+  "geometry": {"coordinates":[-70.21226,18.50452],"type":"Point"}
+}

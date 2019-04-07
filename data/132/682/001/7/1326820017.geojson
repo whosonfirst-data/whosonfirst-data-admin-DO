@@ -1,0 +1,75 @@
+{
+  "id": 1326820017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.77194,18.63694,-71.77194,18.63694",
+    "geom:latitude":18.63694,
+    "geom:longitude":-71.77194,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100301.0",
+    "gn:admin4_code":"10030102.0",
+    "gn:asciiname":"Angel Felix",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512683,
+    "gn:latitude":18.63694,
+    "gn:longitude":-71.77194,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"\u00c1ngel F\u00e9lix",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angel F\u00e9liz",
+        "\u00c1ngel F\u00e9lix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        890455315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512683
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9df8bbb7b79b14709bb30af98bb1bc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455315,
+            "locality_id":1326820017,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1326820017,
+    "wof:lastmodified":1537620085,
+    "wof:name":"Angel Felix",
+    "wof:parent_id":890455315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.77194,
+    18.63694,
+    -71.77194,
+    18.63694
+],
+  "geometry": {"coordinates":[-71.77194,18.63694],"type":"Point"}
+}

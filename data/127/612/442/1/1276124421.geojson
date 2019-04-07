@@ -1,0 +1,75 @@
+{
+  "id": 1276124421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73333,19.6,-71.73333,19.6",
+    "geom:latitude":19.6,
+    "geom:longitude":-71.73333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50102.0",
+    "gn:admin4_code":"5010202.0",
+    "gn:asciiname":"La Vigia",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499927,
+    "gn:latitude":19.6,
+    "gn:longitude":-71.73333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Vig\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vij\u00eda",
+        "La Vig\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499927
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"95509067db86b0fbbea5ef8bd8c71627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1276124421,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1276124421,
+    "wof:lastmodified":1537619954,
+    "wof:name":"La Vigia",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73333000000002,
+    19.6,
+    -71.73333000000002,
+    19.6
+],
+  "geometry": {"coordinates":[-71.73333000000002,19.6],"type":"Point"}
+}

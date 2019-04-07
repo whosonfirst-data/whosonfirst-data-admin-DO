@@ -1,0 +1,72 @@
+{
+  "id": 1360123505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.97625,18.54143,-69.97625,18.54143",
+    "geom:latitude":18.54143,
+    "geom:longitude":-69.97625,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"La Hondonada",
+    "gn:country_code":"DO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502325,
+    "gn:latitude":18.54143,
+    "gn:longitude":-69.97625,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"La Hondonada",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hondonada",
+        "La Hondonada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670659,
+        1108721273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502325,
+        "wk:page":"La_Hondonada"
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ed64fddd252781e4f205b925d6a6e195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":1360123505,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":1360123505,
+    "wof:lastmodified":1537619979,
+    "wof:name":"La Hondonada",
+    "wof:parent_id":1108721273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.97625,
+    18.54143,
+    -69.97625,
+    18.54143
+],
+  "geometry": {"coordinates":[-69.97624999999999,18.54143],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209216491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28333,17.96667,-71.28333,17.96667",
+    "geom:latitude":17.96667,
+    "geom:longitude":-71.28333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40302.0",
+    "gn:admin4_code":"4030204.0",
+    "gn:asciiname":"La Vaca",
+    "gn:country_code":"DO",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500011,
+    "gn:latitude":17.96667,
+    "gn:longitude":-71.28333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500011
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"960c39edb0f997c5053f95766e760340",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209216491
+        }
+    ],
+    "wof:id":1209216491,
+    "wof:lastmodified":1536294114,
+    "wof:name":"La Vaca",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28333,
+    17.96667,
+    -71.28333,
+    17.96667
+],
+  "geometry": {"coordinates":[-71.28333000000001,17.96667],"type":"Point"}
+}

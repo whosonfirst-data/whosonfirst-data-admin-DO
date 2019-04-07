@@ -1,0 +1,74 @@
+{
+  "id": 1192972535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15559,18.66518,-70.15559,18.66518",
+    "geom:latitude":18.66518,
+    "geom:longitude":-70.15559,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210501.0",
+    "gn:admin4_code":"21050103.0",
+    "gn:asciiname":"La Isabela Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502284,
+    "gn:latitude":18.66518,
+    "gn:longitude":-70.15559,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Isabela Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Isabela",
+        "La Isabela Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670655,
+        890429199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502284
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4b14bfe0a8700562d0f9bfef38cf77b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429199,
+            "locality_id":1192972535,
+            "region_id":85670655
+        }
+    ],
+    "wof:id":1192972535,
+    "wof:lastmodified":1537619978,
+    "wof:name":"La Isabela Abajo",
+    "wof:parent_id":890429199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15559,
+    18.66518,
+    -70.15559,
+    18.66518
+],
+  "geometry": {"coordinates":[-70.15559,18.66518],"type":"Point"}
+}

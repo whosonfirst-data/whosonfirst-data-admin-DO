@@ -1,0 +1,72 @@
+{
+  "id": 1277041821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,19.51667,-70.01667,19.51667",
+    "geom:latitude":19.51667,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Batey Laguneta",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511762,
+    "gn:latitude":19.51667,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Batey Laguneta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey",
+        "Batey Laguneta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890436811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511762
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ac2146d6c315717c3c8a7fb8cf5ac3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890436811,
+            "locality_id":1277041821,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1277041821,
+    "wof:lastmodified":1537620072,
+    "wof:name":"Batey Laguneta",
+    "wof:parent_id":890436811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    19.51667,
+    -70.01666999999999,
+    19.51667
+],
+  "geometry": {"coordinates":[-70.01666999999999,19.51667],"type":"Point"}
+}

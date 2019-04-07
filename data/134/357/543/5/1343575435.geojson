@@ -1,0 +1,74 @@
+{
+  "id": 1343575435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89605,18.54521,-70.89605,18.54521",
+    "geom:latitude":18.54521,
+    "geom:longitude":-70.89605,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:admin4_code":"2080401.0",
+    "gn:asciiname":"Los Toros",
+    "gn:country_code":"DO",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497460,
+    "gn:latitude":18.54521,
+    "gn:longitude":-70.89605,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Toros",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Charco de los Toros",
+        "Los Toros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        1108721287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497460
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4a2f71f0ee6dc68c45bdbc724c860d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721287,
+            "locality_id":1343575435,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1343575435,
+    "wof:lastmodified":1537619936,
+    "wof:name":"Los Toros",
+    "wof:parent_id":1108721287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89605,
+    18.54521,
+    -70.89605,
+    18.54521
+],
+  "geometry": {"coordinates":[-70.89605,18.54521],"type":"Point"}
+}

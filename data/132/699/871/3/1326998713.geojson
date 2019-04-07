@@ -1,0 +1,74 @@
+{
+  "id": 1326998713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24093,18.85348,-71.24093,18.85348",
+    "geom:latitude":18.85348,
+    "geom:longitude":-71.24093,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2204.0",
+    "gn:admin3_code":"220401.0",
+    "gn:admin4_code":"22040103.0",
+    "gn:asciiname":"Corral de Los Indios",
+    "gn:country_code":"DO",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509250,
+    "gn:latitude":18.85348,
+    "gn:longitude":-71.24093,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Corral de Los Indios",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corral de los Indios",
+        "Corral de Los Indios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509250
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f403c29730027d897c6c78ae98eaf33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721175,
+            "locality_id":1326998713,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1326998713,
+    "wof:lastmodified":1537620047,
+    "wof:name":"Corral de Los Indios",
+    "wof:parent_id":1108721175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24093,
+    18.85348,
+    -71.24093,
+    18.85348
+],
+  "geometry": {"coordinates":[-71.24093000000001,18.85348],"type":"Point"}
+}

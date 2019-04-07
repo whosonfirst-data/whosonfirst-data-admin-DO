@@ -1,0 +1,75 @@
+{
+  "id": 1277150113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65,19.76667,-71.65,19.76667",
+    "geom:latitude":19.76667,
+    "geom:longitude":-71.65,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150101.0",
+    "gn:admin4_code":"15010104.0",
+    "gn:asciiname":"Batey La Cruz",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511772,
+    "gn:latitude":19.76667,
+    "gn:longitude":-71.65,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Batey La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cruz",
+        "Batey La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670567,
+        1108721211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511772
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9a364d0b957cd382b35c5b5d90f1b9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721211,
+            "locality_id":1277150113,
+            "region_id":85670567
+        }
+    ],
+    "wof:id":1277150113,
+    "wof:lastmodified":1537620072,
+    "wof:name":"Batey La Cruz",
+    "wof:parent_id":1108721211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65,
+    19.76667,
+    -71.65,
+    19.76667
+],
+  "geometry": {"coordinates":[-71.65000000000001,19.76667],"type":"Point"}
+}

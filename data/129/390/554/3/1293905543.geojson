@@ -1,0 +1,70 @@
+{
+  "id": 1293905543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7688,19.15304,-69.7688,19.15304",
+    "geom:latitude":19.15304,
+    "geom:longitude":-69.7688,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60502.0",
+    "gn:admin4_code":"6050202.0",
+    "gn:asciiname":"El Callejon de Tilo",
+    "gn:country_code":"DO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3508169,
+    "gn:latitude":19.15304,
+    "gn:longitude":-69.7688,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Callej\u00f3n de Tilo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        890429191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3508169
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4117048fb8e33778def8cc4d7892fde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429191,
+            "locality_id":1293905543,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1293905543,
+    "wof:lastmodified":1536681572,
+    "wof:name":"El Callejon de Tilo",
+    "wof:parent_id":890429191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7688,
+    19.15304,
+    -69.7688,
+    19.15304
+],
+  "geometry": {"coordinates":[-69.7688,19.15304],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293061813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65,19.1,-70.65,19.1",
+    "geom:latitude":19.1,
+    "geom:longitude":-70.65,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130301.0",
+    "gn:admin4_code":"13030102.0",
+    "gn:asciiname":"Yaque",
+    "gn:country_code":"DO",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491782,
+    "gn:latitude":19.1,
+    "gn:longitude":-70.65,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yaque",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491782
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f52ccaf272a8ef17b775eb9fa2b12e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1293061813,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1293061813,
+    "wof:lastmodified":1536904154,
+    "wof:name":"Yaque",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65,
+    19.1,
+    -70.65,
+    19.1
+],
+  "geometry": {"coordinates":[-70.65000000000001,19.1],"type":"Point"}
+}

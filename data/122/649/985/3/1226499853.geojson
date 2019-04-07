@@ -1,0 +1,74 @@
+{
+  "id": 1226499853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.02799,19.34777,-71.02799,19.34777",
+    "geom:latitude":19.34777,
+    "geom:longitude":-71.02799,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2505.0",
+    "gn:admin3_code":"250501.0",
+    "gn:admin4_code":"25050102.0",
+    "gn:asciiname":"La Bruja",
+    "gn:country_code":"DO",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3503467,
+    "gn:latitude":19.34777,
+    "gn:longitude":-71.02799,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Bruja",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Brujas",
+        "La Bruja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890455301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503467
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d7d85b688316840a5e15faf181e7186f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455301,
+            "locality_id":1226499853,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1226499853,
+    "wof:lastmodified":1537619993,
+    "wof:name":"La Bruja",
+    "wof:parent_id":890455301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.02799,
+    19.34777,
+    -71.02799,
+    19.34777
+],
+  "geometry": {"coordinates":[-71.02799,19.34777],"type":"Point"}
+}

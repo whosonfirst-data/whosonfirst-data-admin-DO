@@ -1,0 +1,74 @@
+{
+  "id": 1360246443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.03226,18.7301,-69.03226,18.7301",
+    "geom:latitude":18.7301,
+    "geom:longitude":-69.03226,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80104.0",
+    "gn:admin4_code":"8010404.0",
+    "gn:asciiname":"Higueera Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504633,
+    "gn:latitude":18.7301,
+    "gn:longitude":-69.03226,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hig\u00fcera Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Higera Abajo",
+        "Hig\u00fcera Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504633
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d310878352016cdfaabab349945a3438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1360246443,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1360246443,
+    "wof:lastmodified":1537620004,
+    "wof:name":"Higueera Abajo",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.03226,
+    18.7301,
+    -69.03226,
+    18.7301
+],
+  "geometry": {"coordinates":[-69.03225999999999,18.7301],"type":"Point"}
+}

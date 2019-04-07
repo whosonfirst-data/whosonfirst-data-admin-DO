@@ -1,0 +1,74 @@
+{
+  "id": 1293123163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.99103,19.23579,-69.99103,19.23579",
+    "geom:latitude":19.23579,
+    "geom:longitude":-69.99103,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:admin4_code":"6030102.0",
+    "gn:asciiname":"Los Palmaritos",
+    "gn:country_code":"DO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497910,
+    "gn:latitude":19.23579,
+    "gn:longitude":-69.99103,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Palmaritos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Palmarito",
+        "Los Palmaritos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497910
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e3cba5de22102793b95f4ba9773f52bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721135,
+            "locality_id":1293123163,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1293123163,
+    "wof:lastmodified":1537619940,
+    "wof:name":"Los Palmaritos",
+    "wof:parent_id":1108721135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.99103000000001,
+    19.23579,
+    -69.99103000000001,
+    19.23579
+],
+  "geometry": {"coordinates":[-69.99103000000001,19.23579],"type":"Point"}
+}

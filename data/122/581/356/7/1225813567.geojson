@@ -1,0 +1,74 @@
+{
+  "id": 1225813567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.47958,18.76441,-69.47958,18.76441",
+    "geom:latitude":18.76441,
+    "geom:longitude":-69.47958,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230202.0",
+    "gn:admin4_code":"23020202.0",
+    "gn:asciiname":"San Jeronimo",
+    "gn:country_code":"DO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493125,
+    "gn:latitude":18.76441,
+    "gn:longitude":-69.47958,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"San Jer\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ger\u00f3nimo",
+        "San Jer\u00f3nimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670563,
+        890429255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493125
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"98ad842e47ada610cf97314839c2f27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429255,
+            "locality_id":1225813567,
+            "region_id":85670563
+        }
+    ],
+    "wof:id":1225813567,
+    "wof:lastmodified":1537619910,
+    "wof:name":"San Jeronimo",
+    "wof:parent_id":890429255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.47958,
+    18.76441,
+    -69.47958,
+    18.76441
+],
+  "geometry": {"coordinates":[-69.47958,18.76441],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327018827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.61124,18.71895,-68.61124,18.71895",
+    "geom:latitude":18.71895,
+    "geom:longitude":-68.61124,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110104.0",
+    "gn:admin4_code":"11010403.0",
+    "gn:asciiname":"Canada Honda",
+    "gn:country_code":"DO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510498,
+    "gn:latitude":18.71895,
+    "gn:longitude":-68.61124,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1ada Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510498
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"239c3739d3c6ba864673cb962c365c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1327018827,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1327018827,
+    "wof:lastmodified":1536780578,
+    "wof:name":"Canada Honda",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.61124000000001,
+    18.71895,
+    -68.61124000000001,
+    18.71895
+],
+  "geometry": {"coordinates":[-68.61124000000001,18.71895],"type":"Point"}
+}

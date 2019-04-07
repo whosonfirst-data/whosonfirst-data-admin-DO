@@ -1,0 +1,74 @@
+{
+  "id": 1259396789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.8775,18.73585,-70.8775,18.73585",
+    "geom:latitude":18.73585,
+    "geom:longitude":-70.8775,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20404.0",
+    "gn:admin4_code":"2040403.0",
+    "gn:asciiname":"Los Paticos",
+    "gn:country_code":"DO",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497844,
+    "gn:latitude":18.73585,
+    "gn:longitude":-70.8775,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Paticos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Patios",
+        "Los Paticos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670609,
+        890429227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497844
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0dd591c83a4e26807bf65206e1ecb970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429227,
+            "locality_id":1259396789,
+            "region_id":85670609
+        }
+    ],
+    "wof:id":1259396789,
+    "wof:lastmodified":1537619939,
+    "wof:name":"Los Paticos",
+    "wof:parent_id":890429227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8775,
+    18.73585,
+    -70.8775,
+    18.73585
+],
+  "geometry": {"coordinates":[-70.8775,18.73585],"type":"Point"}
+}

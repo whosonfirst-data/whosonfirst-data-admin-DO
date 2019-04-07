@@ -1,0 +1,70 @@
+{
+  "id": 1226087607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.52115,18.82879,-69.52115,18.82879",
+    "geom:latitude":18.82879,
+    "geom:longitude":-69.52115,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020106.0",
+    "gn:asciiname":"Haiti Mejia",
+    "gn:country_code":"DO",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504821,
+    "gn:latitude":18.82879,
+    "gn:longitude":-69.52115,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hait\u00ed Mej\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504821
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5f87d63f69c80c9690662dac17b779a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1226087607,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1226087607,
+    "wof:lastmodified":1536664787,
+    "wof:name":"Haiti Mejia",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.52115,
+    18.82879,
+    -69.52115,
+    18.82879
+],
+  "geometry": {"coordinates":[-69.52115000000001,18.82879],"type":"Point"}
+}

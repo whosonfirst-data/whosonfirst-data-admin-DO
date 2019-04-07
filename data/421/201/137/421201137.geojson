@@ -1,0 +1,77 @@
+{
+  "id": 421201137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91667,18.5,-69.91667,18.5",
+    "geom:latitude":18.5,
+    "geom:longitude":-69.91667,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3503617,
+    "qs:gn_pop":0,
+    "qs:name":"La Barquita de Santa Cruz",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Distrito Nacional",
+    "qs:photos":202,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":202,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":210102,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":72290,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        1108721273,
+        85670659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3503617,
+        "gp:id":72290,
+        "qs:id":210102
+    },
+    "wof:country":"DO",
+    "wof:created":1459010058,
+    "wof:geomhash":"fe742e59c90d45ad69fd380db7a343b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721273,
+            "locality_id":-1,
+            "neighbourhood_id":421201137,
+            "region_id":85670659
+        }
+    ],
+    "wof:id":421201137,
+    "wof:lastmodified":1531858791,
+    "wof:name":"La Barquita de Santa Cruz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91667,
+    18.5,
+    -69.91667,
+    18.5
+],
+  "geometry": {"coordinates":[-69.91667,18.5],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226385523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09554,18.63863,-70.09554,18.63863",
+    "geom:latitude":18.63863,
+    "geom:longitude":-70.09554,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"3207.0",
+    "gn:admin3_code":"320703.0",
+    "gn:admin4_code":"32070303.0",
+    "gn:asciiname":"Los Jobos de Matua",
+    "gn:country_code":"DO",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498273,
+    "gn:latitude":18.63863,
+    "gn:longitude":-70.09554,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Jobos de Mat\u00faa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670553,
+        1108721219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498273
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5b7b0badd36f03f866890f7af0b4b07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721219,
+            "locality_id":1226385523,
+            "region_id":85670553
+        }
+    ],
+    "wof:id":1226385523,
+    "wof:lastmodified":1536732568,
+    "wof:name":"Los Jobos de Matua",
+    "wof:parent_id":1108721219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09554,
+    18.63863,
+    -70.09554,
+    18.63863
+],
+  "geometry": {"coordinates":[-70.09554,18.63863],"type":"Point"}
+}

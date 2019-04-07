@@ -1,0 +1,74 @@
+{
+  "id": 1360044263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21458,19.07718,-70.21458,19.07718",
+    "geom:latitude":19.07718,
+    "geom:longitude":-70.21458,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2404.0",
+    "gn:admin3_code":"240401.0",
+    "gn:admin4_code":"24040102.0",
+    "gn:asciiname":"Aguazarca",
+    "gn:country_code":"DO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512888,
+    "gn:latitude":19.07718,
+    "gn:longitude":-70.21458,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Aguazarca",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Sarca",
+        "Aguazarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        1108721181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512888
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"10b5d9377ec6361e7fbe1e3b3cfa98ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721181,
+            "locality_id":1360044263,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1360044263,
+    "wof:lastmodified":1537620087,
+    "wof:name":"Aguazarca",
+    "wof:parent_id":1108721181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21458,
+    19.07718,
+    -70.21458,
+    19.07718
+],
+  "geometry": {"coordinates":[-70.21458,19.07718],"type":"Point"}
+}

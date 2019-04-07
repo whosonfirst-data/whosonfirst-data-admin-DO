@@ -1,0 +1,72 @@
+{
+  "id": 1327342553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21483,18.82237,-71.21483,18.82237",
+    "geom:latitude":18.82237,
+    "geom:longitude":-71.21483,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Solorin",
+    "gn:country_code":"DO",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3492691,
+    "gn:latitude":18.82237,
+    "gn:longitude":-71.21483,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Solor\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solar\u00edn",
+        "Salori",
+        "Solor\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3492691
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2e056a8b0d1a2470f6c82501faa6e7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1327342553,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1327342553,
+    "wof:lastmodified":1537619908,
+    "wof:name":"Solorin",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21483,
+    18.82237000000001,
+    -71.21483,
+    18.82237000000001
+],
+  "geometry": {"coordinates":[-71.21483000000001,18.82237000000001],"type":"Point"}
+}

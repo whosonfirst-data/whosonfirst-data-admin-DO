@@ -1,0 +1,70 @@
+{
+  "id": 1309695987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6555,18.7353,-68.6555,18.7353",
+    "geom:latitude":18.7353,
+    "geom:longitude":-68.6555,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:admin4_code":"11010303.0",
+    "gn:asciiname":"Vista Alegre",
+    "gn:country_code":"DO",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491893,
+    "gn:latitude":18.7353,
+    "gn:longitude":-68.6555,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Vista Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491893
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a449005515a55dfd1126da94dd7ba44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1309695987,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1309695987,
+    "wof:lastmodified":1537086280,
+    "wof:name":"Vista Alegre",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6555,
+    18.7353,
+    -68.6555,
+    18.7353
+],
+  "geometry": {"coordinates":[-68.6555,18.7353],"type":"Point"}
+}

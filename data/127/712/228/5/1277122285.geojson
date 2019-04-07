@@ -1,0 +1,74 @@
+{
+  "id": 1277122285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05201,18.77548,-70.05201,18.77548",
+    "geom:latitude":18.77548,
+    "geom:longitude":-70.05201,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290401.0",
+    "gn:admin4_code":"29040106.0",
+    "gn:asciiname":"La Lamedora",
+    "gn:country_code":"DO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501981,
+    "gn:latitude":18.77548,
+    "gn:longitude":-70.05201,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Lamedora",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Lambedera",
+        "La Lamedora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501981
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"92a251ee984d37666388ca914f778cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1277122285,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1277122285,
+    "wof:lastmodified":1537619975,
+    "wof:name":"La Lamedora",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05201,
+    18.77548,
+    -70.05201,
+    18.77548
+],
+  "geometry": {"coordinates":[-70.05201,18.77548],"type":"Point"}
+}

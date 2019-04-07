@@ -1,0 +1,70 @@
+{
+  "id": 1259623605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43542,18.52459,-70.43542,18.52459",
+    "geom:latitude":18.52459,
+    "geom:longitude":-70.43542,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310102.0",
+    "gn:admin4_code":"31010202.0",
+    "gn:asciiname":"La Pringamosa",
+    "gn:country_code":"DO",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501064,
+    "gn:latitude":18.52459,
+    "gn:longitude":-70.43542,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pringamosa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501064
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"a2404589dc9b20f04fd408f061df99db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1259623605,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1259623605,
+    "wof:lastmodified":1536656971,
+    "wof:name":"La Pringamosa",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43542,
+    18.52459,
+    -70.43542,
+    18.52459
+],
+  "geometry": {"coordinates":[-70.43541999999999,18.52459],"type":"Point"}
+}

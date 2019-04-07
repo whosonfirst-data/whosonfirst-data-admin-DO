@@ -1,0 +1,76 @@
+{
+  "id": 1327301737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.78202,19.58706,-70.78202,19.58706",
+    "geom:latitude":19.58706,
+    "geom:longitude":-70.78202,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2507.0",
+    "gn:admin3_code":"250703.0",
+    "gn:admin4_code":"25070302.0",
+    "gn:asciiname":"Los Mates del Palmar",
+    "gn:country_code":"DO",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498085,
+    "gn:latitude":19.58706,
+    "gn:longitude":-70.78202,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Mates del Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Mata del Palmar",
+        "Las Matas de Palma",
+        "Las Matas del Palmar",
+        "Los Mates del Palmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498085
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b6d6865e534f32e0d69bdd8c83f90fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721289,
+            "locality_id":1327301737,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1327301737,
+    "wof:lastmodified":1537619941,
+    "wof:name":"Los Mates del Palmar",
+    "wof:parent_id":1108721289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.78201999999997,
+    19.58706,
+    -70.78201999999997,
+    19.58706
+],
+  "geometry": {"coordinates":[-70.78201999999997,19.58706],"type":"Point"}
+}

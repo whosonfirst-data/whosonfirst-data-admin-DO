@@ -1,0 +1,70 @@
+{
+  "id": 1259571175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7,18.78333,-71.7,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":-71.7,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70302.0",
+    "gn:admin4_code":"7030203.0",
+    "gn:asciiname":"El Valle",
+    "gn:country_code":"DO",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506036,
+    "gn:latitude":18.78333,
+    "gn:longitude":-71.7,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Valle",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890420137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506036
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7dd2ed1b319f4fa0088e94b8bda14997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420137,
+            "locality_id":1259571175,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1259571175,
+    "wof:lastmodified":1536732872,
+    "wof:name":"El Valle",
+    "wof:parent_id":890420137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7,
+    18.78333,
+    -71.7,
+    18.78333
+],
+  "geometry": {"coordinates":[-71.7,18.78333],"type":"Point"}
+}

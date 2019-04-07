@@ -1,0 +1,70 @@
+{
+  "id": 1243012505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38577,18.67994,-70.38577,18.67994",
+    "geom:latitude":18.67994,
+    "geom:longitude":-70.38577,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3103.0",
+    "gn:admin3_code":"310301.0",
+    "gn:admin4_code":"31030103.0",
+    "gn:asciiname":"Arroyo Prieto",
+    "gn:country_code":"DO",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512353,
+    "gn:latitude":18.67994,
+    "gn:longitude":-70.38577,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Prieto",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512353
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"caf4a2f661e10026ce9acea9cbe9399c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721237,
+            "locality_id":1243012505,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1243012505,
+    "wof:lastmodified":1536934848,
+    "wof:name":"Arroyo Prieto",
+    "wof:parent_id":1108721237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38577,
+    18.67994,
+    -70.38577,
+    18.67994
+],
+  "geometry": {"coordinates":[-70.38576999999999,18.67994],"type":"Point"}
+}

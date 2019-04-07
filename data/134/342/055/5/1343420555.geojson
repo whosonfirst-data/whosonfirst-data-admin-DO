@@ -1,0 +1,70 @@
+{
+  "id": 1343420555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,18.8,-70.01667,18.8",
+    "geom:latitude":18.8,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290401.0",
+    "gn:admin4_code":"29040105.0",
+    "gn:asciiname":"Pantoa",
+    "gn:country_code":"DO",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495309,
+    "gn:latitude":18.8,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Pantoa",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495309
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d98270a0643cc66d6cd63783ca2afb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1343420555,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1343420555,
+    "wof:lastmodified":1536803890,
+    "wof:name":"Pantoa",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    18.8,
+    -70.01666999999999,
+    18.8
+],
+  "geometry": {"coordinates":[-70.01666999999999,18.8],"type":"Point"}
+}

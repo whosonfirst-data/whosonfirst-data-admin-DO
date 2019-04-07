@@ -1,0 +1,311 @@
+{
+  "id": 421176199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25681,18.76278,-69.25681,18.76278",
+    "geom:latitude":18.76278,
+    "geom:longitude":-69.25681,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u062a\u0648 \u0645\u0627\u064a\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09a4\u09cb \u09ae\u09c7\u09af\u09bc\u09b0 \u09a6\u09c7\u09b2 \u09b0\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u6258\u99ac\u7d04"
+    ],
+    "name:dan_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:dut_x_preferred":[
+        "Hato Mayor"
+    ],
+    "name:eng_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u0648 \u0645\u0627\u06cc\u0648\u0631 \u062f\u0644 \u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:fra_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:fre_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03c4\u03bf \u039c\u03b1\u03b3\u03b9\u03cc\u03c1 \u03bd\u03c4\u03b5\u03bb \u03a1\u03ad\u03ca"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ac7\u0a9f\u0acb \u0aae\u0ac7\u0aaf\u0ab0 \u0aa1\u0ac7\u0ab2 \u0ab0\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u091f\u094b \u092e\u0947\u092f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:ita_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c8\u30fb\u30de\u30b8\u30e7\u30fc\u30eb\u30fb\u30c7\u30eb\u30fb\u30ec\u30a4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0ccd\u0caf\u0cbe\u0c9f\u0cca \u0cae\u0cc7\u0caf\u0cb0\u0ccd \u0ca1\u0cc6\u0cb2\u0ccd \u0cb0\u0cc7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud1a0\ub9c8\uc694\ub974\ub378\ub808\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Atomajora del Reja"
+    ],
+    "name:lit_x_preferred":[
+        "Hato Major del Rei"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0945\u091f\u094b \u092e\u0947\u092f\u0930 \u0921\u0947\u0932 \u0930\u0947"
+    ],
+    "name:may_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:nan_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:nld_x_preferred":[
+        "Hato Mayor"
+    ],
+    "name:nob_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u062a\u0648 \u0645\u0627\u06cc\u0648\u0631 \u062f\u0644 \u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:por_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043e-\u041c\u0430\u0439\u043e\u0440-\u0434\u0435\u043b\u044c-\u0420\u0435\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0da7\u0ddd \u0db8\u0dda\u0dba\u0dbb\u0dca \u0da9\u0dd9\u0dbd\u0dca \u0dbb\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:swe_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0b9f\u0bcb  \u0bae\u0bbe\u0baf\u0bcb\u0bb0\u0bcd  \u0b9f\u0bc7\u0bb2\u0bcd   \u0bb0\u0bc6\u0baf\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c1f\u0c4b \u0c2e\u0c46\u0c2f\u0c30\u0c4d \u0c26\u0c46\u0c32\u0c4d \u0c30\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e32\u0e42\u0e15 \u0e40\u0e21\u0e40\u0e22\u0e2d\u0e23\u0e4c \u0e40\u0e14\u0e25 \u0e40\u0e23\u0e22\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0442\u043e-\u041c\u0430\u0439\u043e\u0440-\u0434\u0435\u043b\u044c-\u0420\u0435\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Hato Mayor"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u062a\u0648 \u0645\u0627\u0626\u06cc\u0648\u0631 \u062f\u06cc\u0644 \u0631\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:war_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hato Mayor del Rey"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6258\u99ac\u7d04"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Dominican Republic",
+    "ne:ADM0_A3":"DOM",
+    "ne:ADM1NAME":"Hato Mayor",
+    "ne:ADMIN1_COD":29,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3504765,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Hato Mayor del Rey",
+    "ne:GN_POP":35999,
+    "ne:GTOPO30":150.0,
+    "ne:ISO_A2":"DO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":18.764001,
+    "ne:LONGITUDE":-69.256997,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Hato Mayor",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Hato Mayor",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":35999,
+    "ne:POP_MIN":35999,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Dominican Republic",
+    "ne:SOV_A3":"DOM",
+    "ne:TIMEZONE":"America/Santo_Domingo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3504765,
+    "qs:gn_pop":35999,
+    "qs:name":"Hato Mayor del Rey",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Hato Mayor",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1045351,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":71885,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":102.0,
+    "wd:latitude":18.767,
+    "wd:longitude":-69.267,
+    "wd:population":70141,
+    "wd:wordcount":510,
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        1108721165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504765,
+        "gp:id":71885,
+        "qs:id":1045351,
+        "wd:id":"Q2427660",
+        "wk:page":"Hato Mayor del Rey"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009101,
+    "wof:geomhash":"0d1d3cfbec8857e5363495398010af52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721165,
+            "locality_id":421176199,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":421176199,
+    "wof:lastmodified":1527726474,
+    "wof:name":"Hato Mayor del Rey",
+    "wof:parent_id":1108721165,
+    "wof:placetype":"locality",
+    "wof:population":70141,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25681,
+    18.76278,
+    -69.25681,
+    18.76278
+],
+  "geometry": {"coordinates":[-69.25681,18.76278],"type":"Point"}
+}

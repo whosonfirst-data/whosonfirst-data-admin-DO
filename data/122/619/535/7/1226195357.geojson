@@ -1,0 +1,74 @@
+{
+  "id": 1226195357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.48952,18.55601,-70.48952,18.55601",
+    "geom:latitude":18.55601,
+    "geom:longitude":-70.48952,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310105.0",
+    "gn:admin4_code":"31010502.0",
+    "gn:asciiname":"Ojo de Agua",
+    "gn:country_code":"DO",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495750,
+    "gn:latitude":18.55601,
+    "gn:longitude":-70.48952,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ojo de Agua",
+        "Ojo de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495750
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"91ccfc99bcbd41dda284a28f3f7eeb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1226195357,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1226195357,
+    "wof:lastmodified":1537619926,
+    "wof:name":"Ojo de Agua",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.48952,
+    18.55601,
+    -70.48952,
+    18.55601
+],
+  "geometry": {"coordinates":[-70.48952,18.55601],"type":"Point"}
+}

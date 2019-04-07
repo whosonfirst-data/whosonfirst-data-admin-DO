@@ -1,0 +1,74 @@
+{
+  "id": 1260226249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09631,18.71304,-70.09631,18.71304",
+    "geom:latitude":18.71304,
+    "geom:longitude":-70.09631,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290403.0",
+    "gn:admin4_code":"29040303.0",
+    "gn:asciiname":"La Cuchilla",
+    "gn:country_code":"DO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502902,
+    "gn:latitude":18.71304,
+    "gn:longitude":-70.09631,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Cuchillas",
+        "La Cuchilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502902
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"43da00fa97b5181bd873221cc1ec0695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1260226249,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1260226249,
+    "wof:lastmodified":1537619985,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09631,
+    18.71304,
+    -70.09631,
+    18.71304
+],
+  "geometry": {"coordinates":[-70.09631,18.71304],"type":"Point"}
+}

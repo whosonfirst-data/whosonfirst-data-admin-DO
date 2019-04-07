@@ -1,0 +1,61 @@
+{
+  "id": 1209581151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.25458,19.46408,-70.25458,19.46408",
+    "geom:latitude":19.46408,
+    "geom:longitude":-70.25458,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cruce del Guinea",
+    "gn:country_code":"DO",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509158,
+    "gn:latitude":19.46408,
+    "gn:longitude":-70.25458,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Cruce del Guinea",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509158
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"04ea99cb913734b19a05d112b552a2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209581151
+        }
+    ],
+    "wof:id":1209581151,
+    "wof:lastmodified":1536282784,
+    "wof:name":"Cruce del Guinea",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.25458,
+    19.46408,
+    -70.25458,
+    19.46408
+],
+  "geometry": {"coordinates":[-70.25458,19.46408],"type":"Point"}
+}

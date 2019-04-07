@@ -1,0 +1,118 @@
+{
+  "id": 1125938531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.5428,19.31102,-69.5428,19.31102",
+    "geom:latitude":19.31102,
+    "geom:longitude":-69.5428,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7713,
+    "gn:population":7713,
+    "iso:country":"DO",
+    "lbl:latitude":19.31102,
+    "lbl:longitude":-69.5428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u7279\u96f7\u7d0d\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:ger_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30c6\u30ec\u30ca\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:por_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0435\u0440\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:unk_x_variant":[
+        "Terrenas"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3500243,
+    "qs_pg:gn_pop":7713,
+    "qs_pg:name":"Las Terrenas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1045346,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500243,
+        "qs_pg:id":1045346,
+        "wd:id":"Q1806486"
+    },
+    "wof:country":"DO",
+    "wof:created":1497297043,
+    "wof:geomhash":"9b848ad9418c7caa9e0b5cb3cc83a63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721195,
+            "locality_id":1125938531,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1125938531,
+    "wof:lastmodified":1513955936,
+    "wof:name":"Las Terrenas",
+    "wof:parent_id":1108721195,
+    "wof:placetype":"locality",
+    "wof:population":7713,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.5428,
+    19.31102,
+    -69.5428,
+    19.31102
+],
+  "geometry": {"coordinates":[-69.5428,19.31102],"type":"Point"}
+}

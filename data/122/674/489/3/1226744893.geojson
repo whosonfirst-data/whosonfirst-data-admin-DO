@@ -1,0 +1,74 @@
+{
+  "id": 1226744893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06498,19.27437,-70.06498,19.27437",
+    "geom:latitude":19.27437,
+    "geom:longitude":-70.06498,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:admin4_code":"6030106.0",
+    "gn:asciiname":"La Jagua",
+    "gn:country_code":"DO",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502227,
+    "gn:latitude":19.27437,
+    "gn:longitude":-70.06498,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Jugua",
+        "La Jagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670633,
+        1108721135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502227
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"898583a1ba72dd1e6560160bf9e630d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721135,
+            "locality_id":1226744893,
+            "region_id":85670633
+        }
+    ],
+    "wof:id":1226744893,
+    "wof:lastmodified":1537619978,
+    "wof:name":"La Jagua",
+    "wof:parent_id":1108721135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06498,
+    19.27437,
+    -70.06498,
+    19.27437
+],
+  "geometry": {"coordinates":[-70.06498000000001,19.27437],"type":"Point"}
+}

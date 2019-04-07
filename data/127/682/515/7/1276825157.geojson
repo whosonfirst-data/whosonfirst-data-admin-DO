@@ -1,0 +1,70 @@
+{
+  "id": 1276825157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.60321,18.84019,-71.60321,18.84019",
+    "geom:latitude":18.84019,
+    "geom:longitude":-71.60321,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220502.0",
+    "gn:admin4_code":"22050202.0",
+    "gn:asciiname":"Las Carreras",
+    "gn:country_code":"DO",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500669,
+    "gn:latitude":18.84019,
+    "gn:longitude":-71.60321,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Carreras",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        890429267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500669
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"37a986f17daa6db5ed2d458af0897863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429267,
+            "locality_id":1276825157,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1276825157,
+    "wof:lastmodified":1536614696,
+    "wof:name":"Las Carreras",
+    "wof:parent_id":890429267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.60321,
+    18.84019,
+    -71.60321,
+    18.84019
+],
+  "geometry": {"coordinates":[-71.60321,18.84019],"type":"Point"}
+}

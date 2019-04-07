@@ -1,0 +1,70 @@
+{
+  "id": 1276881997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33592,18.48918,-71.33592,18.48918",
+    "geom:latitude":18.48918,
+    "geom:longitude":-71.33592,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30202.0",
+    "gn:admin4_code":"3020202.0",
+    "gn:asciiname":"Cabeza de Agua",
+    "gn:country_code":"DO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510955,
+    "gn:latitude":18.48918,
+    "gn:longitude":-71.33592,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cabeza de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670589,
+        1108721157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510955
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"b984732fee3a21441bdae785e083f163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721157,
+            "locality_id":1276881997,
+            "region_id":85670589
+        }
+    ],
+    "wof:id":1276881997,
+    "wof:lastmodified":1537036615,
+    "wof:name":"Cabeza de Agua",
+    "wof:parent_id":1108721157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33592,
+    18.48918,
+    -71.33592,
+    18.48918
+],
+  "geometry": {"coordinates":[-71.33592,18.48918],"type":"Point"}
+}

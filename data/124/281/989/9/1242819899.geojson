@@ -1,0 +1,74 @@
+{
+  "id": 1242819899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.56108,18.71101,-69.56108,18.71101",
+    "geom:latitude":18.71101,
+    "geom:longitude":-69.56108,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2902.0",
+    "gn:admin3_code":"290201.0",
+    "gn:admin4_code":"29020107.0",
+    "gn:asciiname":"La Manuela",
+    "gn:country_code":"DO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501708,
+    "gn:latitude":18.71101,
+    "gn:longitude":-69.56108,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Manuela",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Manuelas",
+        "La Manuela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501708
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"74b21112d8ee20afae1404aacc19f624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721113,
+            "locality_id":1242819899,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1242819899,
+    "wof:lastmodified":1537619972,
+    "wof:name":"La Manuela",
+    "wof:parent_id":1108721113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.56108,
+    18.71101,
+    -69.56108,
+    18.71101
+],
+  "geometry": {"coordinates":[-69.56108,18.71101],"type":"Point"}
+}

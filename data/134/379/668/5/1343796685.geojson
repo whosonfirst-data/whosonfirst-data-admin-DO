@@ -1,0 +1,70 @@
+{
+  "id": 1343796685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41287,18.96501,-70.41287,18.96501",
+    "geom:latitude":18.96501,
+    "geom:longitude":-70.41287,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2801.0",
+    "gn:admin3_code":"280101.0",
+    "gn:admin4_code":"28010103.0",
+    "gn:asciiname":"Los Arroces",
+    "gn:country_code":"DO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499380,
+    "gn:latitude":18.96501,
+    "gn:longitude":-70.41287,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Arroces",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499380
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"99094231940732986e3ec571e5b8e496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721123,
+            "locality_id":1343796685,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1343796685,
+    "wof:lastmodified":1536758858,
+    "wof:name":"Los Arroces",
+    "wof:parent_id":1108721123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41287,
+    18.96501,
+    -70.41287,
+    18.96501
+],
+  "geometry": {"coordinates":[-70.41287,18.96501],"type":"Point"}
+}

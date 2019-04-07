@@ -1,0 +1,70 @@
+{
+  "id": 1309870605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23509,19.2627,-69.23509,19.2627",
+    "geom:latitude":19.2627,
+    "geom:longitude":-69.23509,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200104.0",
+    "gn:admin4_code":"20010403.0",
+    "gn:asciiname":"Los Tocones",
+    "gn:country_code":"DO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497478,
+    "gn:latitude":19.2627,
+    "gn:longitude":-69.23509,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Tocones",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497478
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0634c7250767927e5f234a87d5ad3075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721253,
+            "locality_id":1309870605,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1309870605,
+    "wof:lastmodified":1536836782,
+    "wof:name":"Los Tocones",
+    "wof:parent_id":1108721253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23509,
+    19.2627,
+    -69.23509,
+    19.2627
+],
+  "geometry": {"coordinates":[-69.23509,19.2627],"type":"Point"}
+}

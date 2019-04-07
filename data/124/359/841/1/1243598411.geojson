@@ -1,0 +1,70 @@
+{
+  "id": 1243598411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.40932,18.53745,-70.40932,18.53745",
+    "geom:latitude":18.53745,
+    "geom:longitude":-70.40932,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310102.0",
+    "gn:admin4_code":"31010204.0",
+    "gn:asciiname":"Los Penas",
+    "gn:country_code":"DO",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3497825,
+    "gn:latitude":18.53745,
+    "gn:longitude":-70.40932,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Pe\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3497825
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0a21fc79ea48d7bf94562a09b8bc2123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1243598411,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1243598411,
+    "wof:lastmodified":1537080347,
+    "wof:name":"Los Penas",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.40932,
+    18.53745,
+    -70.40932,
+    18.53745
+],
+  "geometry": {"coordinates":[-70.40931999999999,18.53745],"type":"Point"}
+}

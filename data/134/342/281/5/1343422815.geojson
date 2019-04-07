@@ -1,0 +1,70 @@
+{
+  "id": 1343422815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63092,19.23527,-69.63092,19.23527",
+    "geom:latitude":19.23527,
+    "geom:longitude":-69.63092,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:admin4_code":"20020102.0",
+    "gn:asciiname":"Los Mangos",
+    "gn:country_code":"DO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3498111,
+    "gn:latitude":19.23527,
+    "gn:longitude":-69.63092,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Los Mangos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670653,
+        1108721283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3498111
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c0a005dac5a90553773787a105936785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721283,
+            "locality_id":1343422815,
+            "region_id":85670653
+        }
+    ],
+    "wof:id":1343422815,
+    "wof:lastmodified":1536800771,
+    "wof:name":"Los Mangos",
+    "wof:parent_id":1108721283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63091999999999,
+    19.23527,
+    -69.63091999999999,
+    19.23527
+],
+  "geometry": {"coordinates":[-69.63091999999999,19.23527],"type":"Point"}
+}

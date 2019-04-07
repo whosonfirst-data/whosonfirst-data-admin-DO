@@ -1,0 +1,74 @@
+{
+  "id": 1309879411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05917,19.64354,-70.05917,19.64354",
+    "geom:latitude":19.64354,
+    "geom:longitude":-70.05917,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1404.0",
+    "gn:admin3_code":"140401.0",
+    "gn:admin4_code":"14040103.0",
+    "gn:asciiname":"Cuerno de Buey",
+    "gn:country_code":"DO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509053,
+    "gn:latitude":19.64354,
+    "gn:longitude":-70.05917,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cuerno de Buey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carne de Buey",
+        "Cuerno de Buey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670645,
+        890436811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509053
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"e603e68cdfa1cfaa0911e546474cf622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890436811,
+            "locality_id":1309879411,
+            "region_id":85670645
+        }
+    ],
+    "wof:id":1309879411,
+    "wof:lastmodified":1537620045,
+    "wof:name":"Cuerno de Buey",
+    "wof:parent_id":890436811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05917,
+    19.64354,
+    -70.05917,
+    19.64354
+],
+  "geometry": {"coordinates":[-70.05916999999999,19.64354],"type":"Point"}
+}

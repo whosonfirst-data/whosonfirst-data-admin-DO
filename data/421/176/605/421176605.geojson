@@ -1,0 +1,113 @@
+{
+  "id": 421176605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16526,17.99172,-71.16526,17.99172",
+    "geom:latitude":17.99172,
+    "geom:longitude":-71.16526,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e15\u62c9\u4f0a\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:eng_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:fre_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:ger_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:ita_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30a4\u30bd"
+    ],
+    "name:nan_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:por_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:spa_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:swe_x_preferred":[
+        "Para\u00edso"
+    ],
+    "qs:gn_country":"DO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3495272,
+    "qs:gn_pop":6490,
+    "qs:name":"Para\u00edso",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Barahona",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1052133,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":75627,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        890429225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495272,
+        "gp:id":75627,
+        "qs:id":1052133,
+        "wd:id":"Q1988637"
+    },
+    "wof:country":"DO",
+    "wof:created":1459009113,
+    "wof:geomhash":"39e1234b0a5f146022018e6eac1a8eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429225,
+            "locality_id":421176605,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":421176605,
+    "wof:lastmodified":1553816366,
+    "wof:name":"Para\u00edso",
+    "wof:parent_id":890429225,
+    "wof:placetype":"locality",
+    "wof:population":6490,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16526,
+    17.99172,
+    -71.16526,
+    17.99172
+],
+  "geometry": {"coordinates":[-71.16526,17.99172],"type":"Point"}
+}

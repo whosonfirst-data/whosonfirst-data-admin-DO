@@ -1,0 +1,76 @@
+{
+  "id": 1193277605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25,18.2,-71.25,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":-71.25,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40201.0",
+    "gn:admin4_code":"4020102.0",
+    "gn:asciiname":"Boca El Naranjo",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511276,
+    "gn:latitude":18.2,
+    "gn:longitude":-71.25,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca El Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranja",
+        "Boca Naranjo",
+        "Boca El Naranjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511276
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"c097604831e8e3bd9fee27fb1fe53d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721127,
+            "locality_id":1193277605,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":1193277605,
+    "wof:lastmodified":1537620062,
+    "wof:name":"Boca El Naranjo",
+    "wof:parent_id":1108721127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25,
+    18.2,
+    -71.25,
+    18.2
+],
+  "geometry": {"coordinates":[-71.25,18.2],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259643199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9787,18.79535,-69.9787,18.79535",
+    "geom:latitude":18.79535,
+    "geom:longitude":-69.9787,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290401.0",
+    "gn:admin4_code":"29040104.0",
+    "gn:asciiname":"Antonci",
+    "gn:country_code":"DO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512643,
+    "gn:latitude":18.79535,
+    "gn:longitude":-69.9787,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Antonc\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antonio",
+        "Batey Antonc\u00ed",
+        "Antonc\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512643
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"ad56b66bb568d99c2b71768395f8949e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1259643199,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1259643199,
+    "wof:lastmodified":1537620085,
+    "wof:name":"Antonci",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9787,
+    18.79535,
+    -69.9787,
+    18.79535
+],
+  "geometry": {"coordinates":[-69.9787,18.79535],"type":"Point"}
+}

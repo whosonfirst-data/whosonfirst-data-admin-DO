@@ -1,0 +1,70 @@
+{
+  "id": 1293270365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75298,18.96189,-71.75298,18.96189",
+    "geom:latitude":18.96189,
+    "geom:longitude":-71.75298,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:admin4_code":"7010103.0",
+    "gn:asciiname":"Corral de Marcos",
+    "gn:country_code":"DO",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509248,
+    "gn:latitude":18.96189,
+    "gn:longitude":-71.75298,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Corral de Marcos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890453405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509248
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"eb178fee46a1728a1804f8a4468f1b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453405,
+            "locality_id":1293270365,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1293270365,
+    "wof:lastmodified":1537096807,
+    "wof:name":"Corral de Marcos",
+    "wof:parent_id":890453405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75298000000002,
+    18.96189,
+    -71.75298000000002,
+    18.96189
+],
+  "geometry": {"coordinates":[-71.75298000000002,18.96189],"type":"Point"}
+}

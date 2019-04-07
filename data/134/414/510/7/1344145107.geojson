@@ -1,0 +1,74 @@
+{
+  "id": 1344145107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4444,19.22887,-71.4444,19.22887",
+    "geom:latitude":19.22887,
+    "geom:longitude":-71.4444,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70502.0",
+    "gn:admin4_code":"7050203.0",
+    "gn:asciiname":"Puerta de Copey",
+    "gn:country_code":"DO",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494300,
+    "gn:latitude":19.22887,
+    "gn:longitude":-71.4444,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Puerta de Copey",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerta de Cupey",
+        "Puerta de Copey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        1108721221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494300
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f5928320f1cb0c01822337dacd5571cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721221,
+            "locality_id":1344145107,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1344145107,
+    "wof:lastmodified":1537619918,
+    "wof:name":"Puerta de Copey",
+    "wof:parent_id":1108721221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4444,
+    19.22887,
+    -71.4444,
+    19.22887
+],
+  "geometry": {"coordinates":[-71.4444,19.22887],"type":"Point"}
+}

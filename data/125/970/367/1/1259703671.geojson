@@ -1,0 +1,70 @@
+{
+  "id": 1259703671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1774,19.61401,-70.1774,19.61401",
+    "geom:latitude":19.61401,
+    "geom:longitude":-70.1774,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90304.0",
+    "gn:admin4_code":"9030401.0",
+    "gn:asciiname":"La Yagua",
+    "gn:country_code":"DO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499896,
+    "gn:latitude":19.61401,
+    "gn:longitude":-70.1774,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Yagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        890429285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499896
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"697eecb638f359fce4a8553998f25165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429285,
+            "locality_id":1259703671,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1259703671,
+    "wof:lastmodified":1537036454,
+    "wof:name":"La Yagua",
+    "wof:parent_id":890429285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1774,
+    19.61401,
+    -70.1774,
+    19.61401
+],
+  "geometry": {"coordinates":[-70.17740000000001,19.61401],"type":"Point"}
+}

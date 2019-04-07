@@ -1,0 +1,79 @@
+{
+  "id": 421187079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10403,18.211578,-71.10403,18.211578",
+    "geom:latitude":18.211578,
+    "geom:longitude":-71.10403,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Cruz de Barahona",
+    "qs:name_adm0":"Rep\u00fablica Dominicana",
+    "qs:name_adm1":"Barahona",
+    "qs:photos":513,
+    "qs:photos_1k":104,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":513,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1080028,
+    "qs:woe_adm0":23424800,
+    "qs:woe_id":76421,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670591,
+        1108721111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":76421,
+        "qs:id":1080028
+    },
+    "wof:country":"DO",
+    "wof:created":1459009501,
+    "wof:geomhash":"6974a7a6b090629a98e85daa648f01a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721111,
+            "locality_id":421187079,
+            "region_id":85670591
+        }
+    ],
+    "wof:id":421187079,
+    "wof:lastmodified":1534379286,
+    "wof:name":"Santa Cruz de Barahona",
+    "wof:parent_id":1108721111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[
+        890444699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10403,
+    18.211578,
+    -71.10403,
+    18.211578
+],
+  "geometry": {"coordinates":[-71.10402999999999,18.211578],"type":"Point"}
+}

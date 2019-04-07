@@ -1,0 +1,64 @@
+{
+  "id": 1209603145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.62821,19.10752,-71.62821,19.10752",
+    "geom:latitude":19.10752,
+    "geom:longitude":-71.62821,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70501.0",
+    "gn:admin4_code":"7050102.0",
+    "gn:asciiname":"La Guardaraya",
+    "gn:country_code":"DO",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502474,
+    "gn:latitude":19.10752,
+    "gn:longitude":-71.62821,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Guardaraya",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502474
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d94c498c078d39612c4b31fec362f0a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209603145
+        }
+    ],
+    "wof:id":1209603145,
+    "wof:lastmodified":1536282100,
+    "wof:name":"La Guardaraya",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62821,
+    19.10752,
+    -71.62821,
+    19.10752
+],
+  "geometry": {"coordinates":[-71.62821,19.10752],"type":"Point"}
+}

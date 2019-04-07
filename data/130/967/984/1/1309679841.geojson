@@ -1,0 +1,70 @@
+{
+  "id": 1309679841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.81775,19.15407,-70.81775,19.15407",
+    "geom:latitude":19.15407,
+    "geom:longitude":-70.81775,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250302.0",
+    "gn:admin4_code":"25030206.0",
+    "gn:asciiname":"Cerro Prieto",
+    "gn:country_code":"DO",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509839,
+    "gn:latitude":19.15407,
+    "gn:longitude":-70.81775,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cerro Prieto",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509839
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"cd68329d87e9f5485ce9c11b397b98c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1309679841,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1309679841,
+    "wof:lastmodified":1536613445,
+    "wof:name":"Cerro Prieto",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.81775,
+    19.15407,
+    -70.81775,
+    19.15407
+],
+  "geometry": {"coordinates":[-70.81775,19.15407],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344152501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.73333,18.51667,-68.73333,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":-68.73333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:admin4_code":"11020104.0",
+    "gn:asciiname":"La Pinita",
+    "gn:cc2":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501165,
+    "gn:latitude":18.51667,
+    "gn:longitude":-68.73333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Pi\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Pi\u00f1ita",
+        "La Pi\u00f1ita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501165
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"956700c467b9baf2e7abd52222ed69ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1344152501,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1344152501,
+    "wof:lastmodified":1537619968,
+    "wof:name":"La Pinita",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.73333000000001,
+    18.51667,
+    -68.73333000000001,
+    18.51667
+],
+  "geometry": {"coordinates":[-68.73333000000001,18.51667],"type":"Point"}
+}

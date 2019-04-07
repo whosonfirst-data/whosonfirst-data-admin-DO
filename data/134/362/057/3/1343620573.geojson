@@ -1,0 +1,70 @@
+{
+  "id": 1343620573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04783,19.11019,-70.04783,19.11019",
+    "geom:latitude":19.11019,
+    "geom:longitude":-70.04783,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240105.0",
+    "gn:admin4_code":"24010504.0",
+    "gn:asciiname":"Las Cien Tareas",
+    "gn:country_code":"DO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500632,
+    "gn:latitude":19.11019,
+    "gn:longitude":-70.04783,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Cien Tareas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500632
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f2e12f1eb78b25e9fb47f94fe8e2ed2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1343620573,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1343620573,
+    "wof:lastmodified":1537011968,
+    "wof:name":"Las Cien Tareas",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04783,
+    19.11019,
+    -70.04783,
+    19.11019
+],
+  "geometry": {"coordinates":[-70.04783,19.11019],"type":"Point"}
+}

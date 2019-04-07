@@ -1,0 +1,70 @@
+{
+  "id": 1293069643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35207,18.95442,-71.35207,18.95442",
+    "geom:latitude":18.95442,
+    "geom:longitude":-71.35207,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220108.0",
+    "gn:admin4_code":"22010803.0",
+    "gn:asciiname":"El Guanal",
+    "gn:country_code":"DO",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507503,
+    "gn:latitude":18.95442,
+    "gn:longitude":-71.35207,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Guanal",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670549,
+        1108721267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3507503
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"1818e8f2043b3dd12cd25253652b0dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721267,
+            "locality_id":1293069643,
+            "region_id":85670549
+        }
+    ],
+    "wof:id":1293069643,
+    "wof:lastmodified":1536892305,
+    "wof:name":"El Guanal",
+    "wof:parent_id":1108721267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35207,
+    18.95442,
+    -71.35207,
+    18.95442
+],
+  "geometry": {"coordinates":[-71.35207,18.95442],"type":"Point"}
+}

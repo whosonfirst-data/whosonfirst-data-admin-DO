@@ -1,0 +1,70 @@
+{
+  "id": 1343908963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.98852,18.84482,-68.98852,18.84482",
+    "geom:latitude":18.84482,
+    "geom:longitude":-68.98852,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010102.0",
+    "gn:asciiname":"Sabana de Arroyo Grande",
+    "gn:country_code":"DO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3493589,
+    "gn:latitude":18.84482,
+    "gn:longitude":-68.98852,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Sabana de Arroyo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3493589
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0e7c6c48e5e9536c7639395b9f9e9663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1343908963,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1343908963,
+    "wof:lastmodified":1537091209,
+    "wof:name":"Sabana de Arroyo Grande",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.98852,
+    18.84482,
+    -68.98852,
+    18.84482
+],
+  "geometry": {"coordinates":[-68.98851999999999,18.84482],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309794859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.73333,18.81667,-68.73333,18.81667",
+    "geom:latitude":18.81667,
+    "geom:longitude":-68.73333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:admin4_code":"11010204.0",
+    "gn:asciiname":"Las Guamas",
+    "gn:country_code":"DO",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500525,
+    "gn:latitude":18.81667,
+    "gn:longitude":-68.73333,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Guamas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890429277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500525
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"63d36dfb14f8ecc516060ede883a7b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429277,
+            "locality_id":1309794859,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1309794859,
+    "wof:lastmodified":1536947220,
+    "wof:name":"Las Guamas",
+    "wof:parent_id":890429277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.73333000000001,
+    18.81667,
+    -68.73333000000001,
+    18.81667
+],
+  "geometry": {"coordinates":[-68.73333000000001,18.81667],"type":"Point"}
+}

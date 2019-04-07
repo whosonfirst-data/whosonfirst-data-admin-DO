@@ -1,0 +1,70 @@
+{
+  "id": 1243417531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90005,19.71179,-70.90005,19.71179",
+    "geom:latitude":19.71179,
+    "geom:longitude":-70.90005,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1803.0",
+    "gn:admin3_code":"180301.0",
+    "gn:admin4_code":"18030107.0",
+    "gn:asciiname":"Las Piraguas",
+    "gn:country_code":"DO",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3500281,
+    "gn:latitude":19.71179,
+    "gn:longitude":-70.90005,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Las Piraguas",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670571,
+        1108721159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3500281
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"7cfcc93cc4ac92733ae8bd4724577fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721159,
+            "locality_id":1243417531,
+            "region_id":85670571
+        }
+    ],
+    "wof:id":1243417531,
+    "wof:lastmodified":1536846180,
+    "wof:name":"Las Piraguas",
+    "wof:parent_id":1108721159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90005,
+    19.71179,
+    -70.90005,
+    19.71179
+],
+  "geometry": {"coordinates":[-70.90004999999999,19.71179],"type":"Point"}
+}

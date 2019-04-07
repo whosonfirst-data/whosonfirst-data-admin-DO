@@ -1,0 +1,70 @@
+{
+  "id": 1343410621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.74453,18.81968,-69.74453,18.81968",
+    "geom:latitude":18.81968,
+    "geom:longitude":-69.74453,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2901.0",
+    "gn:admin3_code":"290101.0",
+    "gn:admin4_code":"29010105.0",
+    "gn:asciiname":"La Lena",
+    "gn:country_code":"DO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3501956,
+    "gn:latitude":18.81968,
+    "gn:longitude":-69.74453,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Le\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        1108721213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3501956
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0b0e871a46e519c830cd454963f44722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721213,
+            "locality_id":1343410621,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1343410621,
+    "wof:lastmodified":1536817477,
+    "wof:name":"La Lena",
+    "wof:parent_id":1108721213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.74453000000001,
+    18.81968,
+    -69.74453000000001,
+    18.81968
+],
+  "geometry": {"coordinates":[-69.74453000000001,18.81968],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209356029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23,18.37857,-70.23,18.37857",
+    "geom:latitude":18.37857,
+    "geom:longitude":-70.23,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:admin4_code":"21060104.0",
+    "gn:asciiname":"Naranjo Dulce",
+    "gn:country_code":"DO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495901,
+    "gn:latitude":18.37857,
+    "gn:longitude":-70.23,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Naranjo Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495901
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"720f372c4ac3879758052f0ead8f0ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632713,
+            "locality_id":1209356029
+        }
+    ],
+    "wof:id":1209356029,
+    "wof:lastmodified":1536289581,
+    "wof:name":"Naranjo Dulce",
+    "wof:parent_id":85632713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23,
+    18.37857,
+    -70.23,
+    18.37857
+],
+  "geometry": {"coordinates":[-70.23,18.37857],"type":"Point"}
+}

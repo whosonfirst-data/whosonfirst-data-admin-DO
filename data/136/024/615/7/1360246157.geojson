@@ -1,0 +1,74 @@
+{
+  "id": 1360246157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.46388,19.02121,-69.46388,19.02121",
+    "geom:latitude":19.02121,
+    "geom:longitude":-69.46388,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"3002.0",
+    "gn:admin3_code":"300201.0",
+    "gn:admin4_code":"30020102.0",
+    "gn:asciiname":"Arroyo El Agua",
+    "gn:country_code":"DO",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512452,
+    "gn:latitude":19.02121,
+    "gn:longitude":-69.46388,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo El Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arroyo del Agua",
+        "Arroyo El Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670637,
+        890429219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512452
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"f816cf0b183cd11f53fe8984acad5082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429219,
+            "locality_id":1360246157,
+            "region_id":85670637
+        }
+    ],
+    "wof:id":1360246157,
+    "wof:lastmodified":1537620083,
+    "wof:name":"Arroyo El Agua",
+    "wof:parent_id":890429219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.46388,
+    19.02121,
+    -69.46388,
+    19.02121
+],
+  "geometry": {"coordinates":[-69.46388,19.02121],"type":"Point"}
+}

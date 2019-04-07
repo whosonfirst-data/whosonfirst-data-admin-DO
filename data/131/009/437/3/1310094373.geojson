@@ -1,0 +1,75 @@
+{
+  "id": 1310094373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63809,18.2655,-68.63809,18.2655",
+    "geom:latitude":18.2655,
+    "geom:longitude":-68.63809,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110202.0",
+    "gn:admin4_code":"11020202.0",
+    "gn:asciiname":"La Granchorra",
+    "gn:country_code":"DO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3502564,
+    "gn:latitude":18.2655,
+    "gn:longitude":-68.63809,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"La Granchorra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Granchorro",
+        "Granchorra",
+        "La Granchorra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670669,
+        890455299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3502564
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"2a8cb42f9e11eaaed3b1b6a0bedb2491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455299,
+            "locality_id":1310094373,
+            "region_id":85670669
+        }
+    ],
+    "wof:id":1310094373,
+    "wof:lastmodified":1537619982,
+    "wof:name":"La Granchorra",
+    "wof:parent_id":890455299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63809,
+    18.2655,
+    -68.63809,
+    18.2655
+],
+  "geometry": {"coordinates":[-68.63809000000001,18.2655],"type":"Point"}
+}

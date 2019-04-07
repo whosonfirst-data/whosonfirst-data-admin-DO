@@ -1,0 +1,74 @@
+{
+  "id": 1360235887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.98787,18.8532,-68.98787,18.8532",
+    "geom:latitude":18.8532,
+    "geom:longitude":-68.98787,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80101.0",
+    "gn:admin4_code":"8010102.0",
+    "gn:asciiname":"Canada Te Hundes",
+    "gn:country_code":"DO",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3510471,
+    "gn:latitude":18.8532,
+    "gn:longitude":-68.98787,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ca\u00f1ada Te Hundes",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ada T\u00e9 Hunde",
+        "Ca\u00f1ada Te Hundes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670663,
+        1108721147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3510471
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"5a038ca0396797322c8985f2a0d439a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721147,
+            "locality_id":1360235887,
+            "region_id":85670663
+        }
+    ],
+    "wof:id":1360235887,
+    "wof:lastmodified":1537620057,
+    "wof:name":"Canada Te Hundes",
+    "wof:parent_id":1108721147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.98787,
+    18.8532,
+    -68.98787,
+    18.8532
+],
+  "geometry": {"coordinates":[-68.98787,18.8532],"type":"Point"}
+}

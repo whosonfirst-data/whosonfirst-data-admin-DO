@@ -1,0 +1,112 @@
+{
+  "id": 1125869115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.44664,19.63552,-70.44664,19.63552",
+    "geom:latitude":19.63552,
+    "geom:longitude":-70.44664,
+    "gn:gn_country":"DO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2216,
+    "gn:population":2216,
+    "iso:country":"DO",
+    "lbl:latitude":19.63552,
+    "lbl:longitude":-70.44664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5317\u54c8\u6bdb"
+    ],
+    "name:dut_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:eng_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:fre_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:ita_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30de\u30aa\u30fb\u30a2\u30eb\u30fb\u30ce\u30eb\u30c6"
+    ],
+    "name:nan_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:por_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:swe_x_preferred":[
+        "Jamao al Norte"
+    ],
+    "name:unk_x_variant":[
+        "Jamao al Morte"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u06c1\u0648 \u0627\u0644 \u0646\u0648\u0631\u062a\u06d2"
+    ],
+    "qs_pg:aaroncc":"DO",
+    "qs_pg:gn_country":"DO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3504175,
+    "qs_pg:gn_pop":2216,
+    "qs_pg:name":"Jamao al Norte",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":148560,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670581,
+        1108721167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504175,
+        "qs_pg:id":148560,
+        "wd:id":"Q3806431"
+    },
+    "wof:country":"DO",
+    "wof:created":1497294198,
+    "wof:geomhash":"1aa4c2905bb96558bf7ab96cc0a96f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721167,
+            "locality_id":1125869115,
+            "region_id":85670581
+        }
+    ],
+    "wof:id":1125869115,
+    "wof:lastmodified":1513955920,
+    "wof:name":"Jamao al Norte",
+    "wof:parent_id":1108721167,
+    "wof:placetype":"locality",
+    "wof:population":2216,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.44664,
+    19.63552,
+    -70.44664,
+    19.63552
+],
+  "geometry": {"coordinates":[-70.44664,19.63552],"type":"Point"}
+}

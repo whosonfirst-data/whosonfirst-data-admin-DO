@@ -1,0 +1,70 @@
+{
+  "id": 1260353533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.13667,19.04581,-70.13667,19.04581",
+    "geom:latitude":19.04581,
+    "geom:longitude":-70.13667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:admin4_code":"24010101.0",
+    "gn:asciiname":"Colonia Juan Sanchez Ramirez",
+    "gn:country_code":"DO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509477,
+    "gn:latitude":19.04581,
+    "gn:longitude":-70.13667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Colonia Juan S\u00e1nchez Ram\u00edrez",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670557,
+        890420147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509477
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d3d600146b3ac082bfd5b44c74f8a662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890420147,
+            "locality_id":1260353533,
+            "region_id":85670557
+        }
+    ],
+    "wof:id":1260353533,
+    "wof:lastmodified":1536615873,
+    "wof:name":"Colonia Juan Sanchez Ramirez",
+    "wof:parent_id":890420147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.13667,
+    19.04581,
+    -70.13667,
+    19.04581
+],
+  "geometry": {"coordinates":[-70.13667,19.04581],"type":"Point"}
+}

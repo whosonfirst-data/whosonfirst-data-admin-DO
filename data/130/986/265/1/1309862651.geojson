@@ -1,0 +1,70 @@
+{
+  "id": 1309862651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19403,19.41954,-71.19403,19.41954",
+    "geom:latitude":19.41954,
+    "geom:longitude":-71.19403,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2603.0",
+    "gn:admin3_code":"260301.0",
+    "gn:admin4_code":"26030103.0",
+    "gn:asciiname":"Gurabo",
+    "gn:country_code":"DO",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3504872,
+    "gn:latitude":19.41954,
+    "gn:longitude":-71.19403,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gurabo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670543,
+        890429239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3504872
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"4a1722a92bb5d872d901a48539d8803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429239,
+            "locality_id":1309862651,
+            "region_id":85670543
+        }
+    ],
+    "wof:id":1309862651,
+    "wof:lastmodified":1536848224,
+    "wof:name":"Gurabo",
+    "wof:parent_id":890429239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19403,
+    19.41954,
+    -71.19403,
+    19.41954
+],
+  "geometry": {"coordinates":[-71.19403,19.41954],"type":"Point"}
+}

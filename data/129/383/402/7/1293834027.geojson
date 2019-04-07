@@ -1,0 +1,70 @@
+{
+  "id": 1293834027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.59827,19.23297,-70.59827,19.23297",
+    "geom:latitude":19.23297,
+    "geom:longitude":-70.59827,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:admin4_code":"13010104.0",
+    "gn:asciiname":"Cercado Alto",
+    "gn:country_code":"DO",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3509881,
+    "gn:latitude":19.23297,
+    "gn:longitude":-70.59827,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Cercado Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        1108721185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3509881
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"78235da801af4dbb26411badd01b0936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721185,
+            "locality_id":1293834027,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1293834027,
+    "wof:lastmodified":1536785260,
+    "wof:name":"Cercado Alto",
+    "wof:parent_id":1108721185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.59827,
+    19.23297,
+    -70.59827,
+    19.23297
+],
+  "geometry": {"coordinates":[-70.59827,19.23297],"type":"Point"}
+}

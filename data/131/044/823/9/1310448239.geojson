@@ -1,0 +1,74 @@
+{
+  "id": 1310448239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.82681,19.07379,-70.82681,19.07379",
+    "geom:latitude":19.07379,
+    "geom:longitude":-70.82681,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130303.0",
+    "gn:admin4_code":"13030303.0",
+    "gn:asciiname":"El Paso de la Perra",
+    "gn:country_code":"DO",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3506653,
+    "gn:latitude":19.07379,
+    "gn:longitude":-70.82681,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Paso de la Perra",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso de la Perra",
+        "El Paso de la Perra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670615,
+        890429269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3506653
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"360e177826f14e316c5e73c973c30e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429269,
+            "locality_id":1310448239,
+            "region_id":85670615
+        }
+    ],
+    "wof:id":1310448239,
+    "wof:lastmodified":1537620019,
+    "wof:name":"El Paso de la Perra",
+    "wof:parent_id":890429269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.82681,
+    19.07379,
+    -70.82681,
+    19.07379
+],
+  "geometry": {"coordinates":[-70.82680999999999,19.07379],"type":"Point"}
+}

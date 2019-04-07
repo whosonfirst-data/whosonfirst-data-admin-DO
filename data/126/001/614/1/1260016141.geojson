@@ -1,0 +1,70 @@
+{
+  "id": 1260016141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2943,18.82571,-70.2943,18.82571",
+    "geom:latitude":18.82571,
+    "geom:longitude":-70.2943,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2803.0",
+    "gn:admin3_code":"280301.0",
+    "gn:admin4_code":"28030102.0",
+    "gn:asciiname":"Arroyo Vuelta",
+    "gn:country_code":"DO",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3512299,
+    "gn:latitude":18.82571,
+    "gn:longitude":-70.2943,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arroyo Vuelta",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670619,
+        1108721227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3512299
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"0f8ea4d53d18ad6864a243176ae80a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721227,
+            "locality_id":1260016141,
+            "region_id":85670619
+        }
+    ],
+    "wof:id":1260016141,
+    "wof:lastmodified":1537081730,
+    "wof:name":"Arroyo Vuelta",
+    "wof:parent_id":1108721227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2943,
+    18.82571,
+    -70.2943,
+    18.82571
+],
+  "geometry": {"coordinates":[-70.29430000000001,18.82571],"type":"Point"}
+}

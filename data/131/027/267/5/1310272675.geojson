@@ -1,0 +1,70 @@
+{
+  "id": 1310272675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71588,19.3362,-70.71588,19.3362",
+    "geom:latitude":19.3362,
+    "geom:longitude":-70.71588,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250104.0",
+    "gn:admin4_code":"25010403.0",
+    "gn:asciiname":"Boca de los Rios",
+    "gn:country_code":"DO",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3511299,
+    "gn:latitude":19.3362,
+    "gn:longitude":-70.71588,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Boca de los R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        1108721245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3511299
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"06a8b734dcc00999cdc3d9ac49517023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721245,
+            "locality_id":1310272675,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1310272675,
+    "wof:lastmodified":1536755407,
+    "wof:name":"Boca de los Rios",
+    "wof:parent_id":1108721245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71588,
+    19.3362,
+    -70.71588,
+    19.3362
+],
+  "geometry": {"coordinates":[-70.71588,19.3362],"type":"Point"}
+}

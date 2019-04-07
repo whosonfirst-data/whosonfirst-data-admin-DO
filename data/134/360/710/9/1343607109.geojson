@@ -1,0 +1,74 @@
+{
+  "id": 1343607109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16314,18.86465,-70.16314,18.86465",
+    "geom:latitude":18.86465,
+    "geom:longitude":-70.16314,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"2904.0",
+    "gn:admin3_code":"290401.0",
+    "gn:admin4_code":"29040102.0",
+    "gn:asciiname":"Piedroso",
+    "gn:country_code":"DO",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3494792,
+    "gn:latitude":18.86465,
+    "gn:longitude":-70.16314,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Piedroso",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pedreso",
+        "Piedroso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670641,
+        890429183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3494792
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"d030a1e678c8aafe36a4efe45cc11644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429183,
+            "locality_id":1343607109,
+            "region_id":85670641
+        }
+    ],
+    "wof:id":1343607109,
+    "wof:lastmodified":1537619921,
+    "wof:name":"Piedroso",
+    "wof:parent_id":890429183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16314,
+    18.86465,
+    -70.16314,
+    18.86465
+],
+  "geometry": {"coordinates":[-70.16314,18.86465],"type":"Point"}
+}

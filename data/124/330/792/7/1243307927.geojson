@@ -1,0 +1,74 @@
+{
+  "id": 1243307927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45202,18.61577,-70.45202,18.61577",
+    "geom:latitude":18.61577,
+    "geom:longitude":-70.45202,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"3101.0",
+    "gn:admin3_code":"310103.0",
+    "gn:admin4_code":"31010301.0",
+    "gn:asciiname":"Nizao",
+    "gn:country_code":"DO",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3495810,
+    "gn:latitude":18.61577,
+    "gn:longitude":-70.45202,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Nizao",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizao Arriba",
+        "Nizao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670627,
+        1108721265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3495810
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9c21849d48fbb91c1f2e533e6d574cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721265,
+            "locality_id":1243307927,
+            "region_id":85670627
+        }
+    ],
+    "wof:id":1243307927,
+    "wof:lastmodified":1537619927,
+    "wof:name":"Nizao",
+    "wof:parent_id":1108721265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45201999999998,
+    18.61577,
+    -70.45201999999998,
+    18.61577
+],
+  "geometry": {"coordinates":[-70.45201999999998,18.61577],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327291251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61821,19.40458,-70.61821,19.40458",
+    "geom:latitude":19.40458,
+    "geom:longitude":-70.61821,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2504.0",
+    "gn:admin3_code":"250402.0",
+    "gn:admin4_code":"25040202.0",
+    "gn:asciiname":"Licey Abajo",
+    "gn:country_code":"DO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3499751,
+    "gn:latitude":19.40458,
+    "gn:longitude":-70.61821,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Licey Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santo_Domingo",
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670537,
+        890429271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3499751
+    },
+    "wof:country":"DO",
+    "wof:geomhash":"9a2d3a844ad6e902693f40f9e8bad675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890429271,
+            "locality_id":1327291251,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":1327291251,
+    "wof:lastmodified":1536884209,
+    "wof:name":"Licey Abajo",
+    "wof:parent_id":890429271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-do",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61820999999998,
+    19.40458,
+    -70.61820999999998,
+    19.40458
+],
+  "geometry": {"coordinates":[-70.61820999999998,19.40458],"type":"Point"}
+}

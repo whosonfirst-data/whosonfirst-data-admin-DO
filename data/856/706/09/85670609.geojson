@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231235,
-    "geom:area_square_m":2710209064.982965,
+    "geom:area_square_m":2710209064.983291,
     "geom:bbox":"-71.1647109834,18.245388031,-70.4677947208,19.0044206576",
     "geom:latitude":18.580949,
     "geom:longitude":-70.832641,
@@ -32,32 +32,29 @@
     "name:ben_x_preferred":[
         "\u0986\u099c\u09c1\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8607\u963f\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Azua"
     ],
     "name:dan_x_preferred":[
         "Azua Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Azua"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0386\u03c3\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Azua"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0632\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Azua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Azua"
-    ],
-    "name:ger_x_preferred":[
-        "Azua"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0386\u03c3\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9d\u0ac1\u0a86 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -92,17 +89,17 @@
     "name:mar_x_preferred":[
         "\u0905\u091d\u0941\u0906 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Azua Province"
     ],
     "name:nan_x_preferred":[
         "Azua S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Azua"
+    ],
     "name:nob_x_preferred":[
         "Azua provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0632\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Azua"
@@ -116,7 +113,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dc3\u0dd4\u0d86 \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Azua"
     ],
     "name:slv_x_preferred":[
@@ -161,6 +158,9 @@
     ],
     "name:war_x_preferred":[
         "Azua"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8607\u963f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -285,7 +285,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814768,
+    "wof:lastmodified":1561788347,
     "wof:name":"Azua",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

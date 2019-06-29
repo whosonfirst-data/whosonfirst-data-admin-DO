@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Villa Tapia"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u76ae\u4e9e\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Villa Tapia"
-    ],
     "name:eng_x_preferred":[
         "Villa Tapia"
     ],
@@ -29,6 +23,9 @@
         "Villa Tapia"
     ],
     "name:nan_x_preferred":[
+        "Villa Tapia"
+    ],
+    "name:nld_x_preferred":[
         "Villa Tapia"
     ],
     "name:por_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421204899,
-    "wof:lastmodified":1527716187,
+    "wof:lastmodified":1561788404,
     "wof:name":"Villa Tapia",
     "wof:parent_id":890429189,
     "wof:placetype":"locality",

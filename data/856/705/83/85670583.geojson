@@ -32,29 +32,26 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09ae\u09be\u09a8\u09be\u09b8 \u09ae\u09bf\u09b0\u09be\u09ac\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u62c9\u8c9d\u59d0\u59b9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Hermanas Mirabal Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hermanas Mirabal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c1\u03bc\u03ac\u03bd\u03b1\u03c2 \u039c\u03b9\u03c1\u03b1\u03bc\u03c0\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Hermanas"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u0645\u0627\u0646\u0627\u0633 \u0645\u06cc\u0631\u0627\u0628\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Hermanas Mirabalin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hermanas Mirabal"
-    ],
-    "name:ger_x_preferred":[
-        "Hermanas Mirabal"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c1\u03bc\u03ac\u03bd\u03b1\u03c2 \u039c\u03b9\u03c1\u03b1\u03bc\u03c0\u03ac\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab0\u0acd\u0aae\u0a82\u0ab8 \u0aae\u0abf\u0ab0\u0abe\u0aac\u0abe\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -89,17 +86,17 @@
     "name:mar_x_preferred":[
         "\u0939\u0930\u094d\u092e\u0938 \u092e\u093f\u0930\u092c\u0933 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Hermanas Mirabal"
     ],
     "name:nan_x_preferred":[
         "Hermanas Mirabal S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Hermanas Mirabal"
+    ],
     "name:nob_x_preferred":[
         "Hermanas Mirabal provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u0645\u0627\u0646\u0627\u0633 \u0645\u06cc\u0631\u0627\u0628\u0627\u0644"
     ],
     "name:pol_x_preferred":[
         "Prowincja Hermanas Mirabal"
@@ -151,6 +148,9 @@
     ],
     "name:war_x_preferred":[
         "Hermanas Mirabal"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u62c9\u8c9d\u59d0\u59b9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -273,7 +273,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1561788350,
     "wof:name":"Hermanas",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

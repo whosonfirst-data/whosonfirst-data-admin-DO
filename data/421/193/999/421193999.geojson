@@ -16,22 +16,19 @@
     "name:ceb_x_preferred":[
         "La Descubierta"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5fb7\u65af\u5eab\u7dad\u8036\u723e\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "La Descubierta"
-    ],
     "name:eng_x_preferred":[
         "La Descubierta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Descubierta"
     ],
     "name:ita_x_preferred":[
         "La Descubierta"
     ],
     "name:nan_x_preferred":[
+        "La Descubierta"
+    ],
+    "name:nld_x_preferred":[
         "La Descubierta"
     ],
     "name:por_x_preferred":[
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":421193999,
-    "wof:lastmodified":1527716140,
+    "wof:lastmodified":1561788403,
     "wof:name":"La Descubierta",
     "wof:parent_id":890455315,
     "wof:placetype":"locality",

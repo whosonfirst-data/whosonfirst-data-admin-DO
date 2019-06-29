@@ -25,17 +25,17 @@
     "name:cat_x_preferred":[
         "Santa B\u00e1rbara de Saman\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5854\u82ad\u82ad\u62c9-\u5c71\u7f8e\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Saman\u00e1"
     ],
     "name:dan_x_preferred":[
         "Saman\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Santa B\u00e1rbara de Saman\u00e1"
+    "name:deu_x_preferred":[
+        "Saman\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03b1\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Santa B\u00e1rbara de Saman\u00e1"
@@ -43,17 +43,14 @@
     "name:eng_x_variant":[
         "Saman\u00e1"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Saman\u00e1"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa B\u00e1rbara de Saman\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Saman\u00e1"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03b1\u03bd\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aae\u0abe\u0aa8\u0abe"
@@ -88,17 +85,17 @@
     "name:mar_x_preferred":[
         "\u0938\u092e\u093e\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Samana"
     ],
     "name:nan_x_preferred":[
         "Santa B\u00e1rbara de Saman\u00e1"
     ],
+    "name:nld_x_preferred":[
+        "Santa B\u00e1rbara de Saman\u00e1"
+    ],
     "name:nob_x_preferred":[
         "Samana"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0645\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Saman\u00e1"
@@ -144,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Santa B\u00e1rbara de Saman\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5854\u82ad\u82ad\u62c9-\u5c71\u7f8e\u7d0d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":890444701,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561788409,
     "wof:name":"Santa B\u00e1rbara de Saman\u00e1",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

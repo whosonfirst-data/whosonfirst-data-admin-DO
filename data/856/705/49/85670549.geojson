@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288462,
-    "geom:area_square_m":3375042809.549963,
+    "geom:area_square_m":3375042809.549847,
     "geom:bbox":"-71.6453990115,18.5857893456,-70.8917528458,19.1779116586",
     "geom:latitude":18.876644,
     "geom:longitude":-71.289681,
@@ -35,17 +35,14 @@
     "name:ceb_x_preferred":[
         "Provincia de San Juan"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u7701"
-    ],
     "name:dan_x_preferred":[
         "San Juan Province"
     ],
     "name:deu_x_preferred":[
         "San Juan"
     ],
-    "name:dut_x_preferred":[
-        "San Juan"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "San Juan"
@@ -58,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "San Juan"
-    ],
-    "name:fre_x_preferred":[
-        "San Juan"
-    ],
-    "name:ger_x_preferred":[
-        "San Juan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0ac1\u0a86\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,7 +92,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u091c\u0941\u0906\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Juan Province"
     ],
     "name:nan_x_preferred":[
@@ -115,9 +103,6 @@
     ],
     "name:nob_x_preferred":[
         "San Juan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u062e\u0648\u0627\u0646\u060c \u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
     ],
     "name:pol_x_preferred":[
         "Prowincja San Juan"
@@ -311,7 +296,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814768,
+    "wof:lastmodified":1561788350,
     "wof:name":"San Juan",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

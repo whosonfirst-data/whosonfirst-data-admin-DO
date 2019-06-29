@@ -24,19 +24,16 @@
     "name:ara_x_preferred":[
         "\u0628\u062f\u0631\u0646\u0627\u0644\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5fb7\u7d0d\u840a\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pedernales"
     ],
     "name:eng_x_preferred":[
         "Pedernales"
     ],
-    "name:fre_x_preferred":[
-        "Pedernales"
+    "name:fas_x_preferred":[
+        "\u067e\u062f\u0631\u0646\u0627\u0644\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pedernales"
     ],
     "name:hin_x_preferred":[
@@ -54,8 +51,8 @@
     "name:nan_x_preferred":[
         "Pedernales"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062f\u0631\u0646\u0627\u0644\u0633"
+    "name:nld_x_preferred":[
+        "Pedernales"
     ],
     "name:por_x_preferred":[
         "Pedernales"
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Pedernales"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u7d0d\u840a\u65af"
     ],
     "qs_pg:aaroncc":"DO",
     "qs_pg:gn_country":"DO",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1125938309,
-    "wof:lastmodified":1553816645,
+    "wof:lastmodified":1561788417,
     "wof:name":"Pedernales",
     "wof:parent_id":1108721217,
     "wof:placetype":"locality",

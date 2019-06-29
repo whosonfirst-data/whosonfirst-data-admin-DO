@@ -18,12 +18,6 @@
     "name:cat_x_preferred":[
         "Luper\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u4f69\u9f8d"
-    ],
-    "name:dut_x_preferred":[
-        "Luper\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "Luper\u00f3n"
     ],
@@ -34,6 +28,9 @@
         "\u30eb\u30da\u30ed\u30f3"
     ],
     "name:nan_x_preferred":[
+        "Luper\u00f3n"
+    ],
+    "name:nld_x_preferred":[
         "Luper\u00f3n"
     ],
     "name:por_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Blanco"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u4f69\u9f8d"
     ],
     "qs:name":"Luper\u00f3n",
     "qs:photos_9r":0,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890434789,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561788416,
     "wof:name":"Luper\u00f3n",
     "wof:parent_id":890429253,
     "wof:placetype":"locality",

@@ -29,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Provincia de Dajab\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u54c8\u7fc1\u7701"
-    ],
     "name:deu_x_preferred":[
-        "Dajab\u00f3n"
-    ],
-    "name:dut_x_preferred":[
         "Dajab\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +42,6 @@
         "Dajab\u00f3n"
     ],
     "name:fra_x_preferred":[
-        "Dajab\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Dajab\u00f3n"
-    ],
-    "name:ger_x_preferred":[
         "Dajab\u00f3n"
     ],
     "name:hat_x_preferred":[
@@ -71,8 +59,8 @@
     "name:nan_x_preferred":[
         "Dajab\u00f3n S\u00e9ng"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0627\u062e\u0627\u0628\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Dajab\u00f3n"
     ],
     "name:por_x_preferred":[
         "Dajab\u00f3n"
@@ -104,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Dajab\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u54c8\u7fc1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -228,7 +219,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550367,
+    "wof:lastmodified":1561788349,
     "wof:name":"Dajab\u00f3n",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

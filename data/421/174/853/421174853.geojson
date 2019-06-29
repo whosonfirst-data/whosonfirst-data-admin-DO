@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Juan Dolio"
     ],
-    "name:dut_x_preferred":[
-        "Juan Dolio"
-    ],
     "name:eng_x_preferred":[
         "Juan Dolio"
     ],
     "name:fra_x_preferred":[
-        "Juan Dolio"
-    ],
-    "name:fre_x_preferred":[
-        "Juan Dolio"
-    ],
-    "name:ger_x_preferred":[
         "Juan Dolio"
     ],
     "name:heb_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421174853,
-    "wof:lastmodified":1527716230,
+    "wof:lastmodified":1561788404,
     "wof:name":"Juan Dolio",
     "wof:parent_id":1108721163,
     "wof:placetype":"locality",

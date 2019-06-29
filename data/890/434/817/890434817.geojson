@@ -15,16 +15,10 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u4e9e\u74dc\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Bayaguana"
-    ],
     "name:eng_x_preferred":[
         "Bayaguana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bayaguana"
     ],
     "name:heb_x_preferred":[
@@ -37,6 +31,9 @@
         "\u30d0\u30e4\u30b0\u30a2\u30ca"
     ],
     "name:nan_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:nld_x_preferred":[
         "Bayaguana"
     ],
     "name:por_x_preferred":[
@@ -53,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "San Juan de Bayaguana"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4e9e\u74dc\u7d0d"
     ],
     "qs:name":"Bayaguana",
     "qs:photos_9r":0,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890434817,
-    "wof:lastmodified":1527792943,
+    "wof:lastmodified":1561788415,
     "wof:name":"Bayaguana",
     "wof:parent_id":1108721113,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Sabana de La Mar"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u74e6\u7d0d\u5fb7\u62c9\u99ac\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Sabana de la Mar"
-    ],
     "name:eng_x_preferred":[
         "Sabana de la Mar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sabana de la Mar"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +29,9 @@
         "\u30b5\u30d0\u30ca\u30fb\u30c7\u30fb\u30e9\u30fb\u30de\u30fc\u30eb"
     ],
     "name:nan_x_preferred":[
+        "Sabana de la Mar"
+    ],
+    "name:nld_x_preferred":[
         "Sabana de la Mar"
     ],
     "name:por_x_preferred":[
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":421172963,
-    "wof:lastmodified":1527716300,
+    "wof:lastmodified":1561788405,
     "wof:name":"Sabana de La Mar",
     "wof:parent_id":890429219,
     "wof:placetype":"locality",

@@ -16,19 +16,19 @@
     "name:ceb_x_preferred":[
         "Pepillo Salcedo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pepillo Salcedo"
     ],
     "name:eng_x_preferred":[
-        "Pepillo Salcedo"
-    ],
-    "name:ger_x_preferred":[
         "Pepillo Salcedo"
     ],
     "name:ita_x_preferred":[
         "Pepillo Salcedo"
     ],
     "name:nan_x_preferred":[
+        "Pepillo Salcedo"
+    ],
+    "name:nld_x_preferred":[
         "Pepillo Salcedo"
     ],
     "name:por_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421200749,
-    "wof:lastmodified":1527716425,
+    "wof:lastmodified":1561788405,
     "wof:name":"Pepillo Salcedo",
     "wof:parent_id":890455307,
     "wof:placetype":"locality",

@@ -15,10 +15,7 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7d22\u8607\u963f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sos\u00faa"
     ],
     "name:eng_x_preferred":[
@@ -27,10 +24,7 @@
     "name:epo_x_preferred":[
         "Sos\u00faa"
     ],
-    "name:fre_x_preferred":[
-        "Sos\u00faa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sos\u00faa"
     ],
     "name:heb_x_preferred":[
@@ -45,6 +39,9 @@
     "name:nan_x_preferred":[
         "Sos\u00faa"
     ],
+    "name:nld_x_preferred":[
+        "Sos\u00faa"
+    ],
     "name:por_x_preferred":[
         "Sos\u00faa"
     ],
@@ -56,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Sos\u00faa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u8607\u963f"
     ],
     "qs:name":"Sos\u00faa",
     "qs:photos_9r":0,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890438793,
-    "wof:lastmodified":1527735423,
+    "wof:lastmodified":1561788408,
     "wof:name":"Sos\u00faa",
     "wof:parent_id":890429207,
     "wof:placetype":"locality",

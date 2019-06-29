@@ -23,14 +23,11 @@
     "name:ceb_x_preferred":[
         "Hato Mayor del Rey"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6258\u99ac\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Hato Mayor del Rey"
     ],
-    "name:dut_x_preferred":[
-        "Hato Mayor"
+    "name:ell_x_preferred":[
+        "\u0386\u03c4\u03bf \u039c\u03b1\u03b3\u03b9\u03cc\u03c1 \u03bd\u03c4\u03b5\u03bb \u03a1\u03ad\u03ca"
     ],
     "name:eng_x_preferred":[
         "Hato Mayor del Rey"
@@ -43,12 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Hato Mayor del Rey"
-    ],
-    "name:fre_x_preferred":[
-        "Hato Mayor del Rey"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c4\u03bf \u039c\u03b1\u03b3\u03b9\u03cc\u03c1 \u03bd\u03c4\u03b5\u03bb \u03a1\u03ad\u03ca"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0a9f\u0acb \u0aae\u0ac7\u0aaf\u0ab0 \u0aa1\u0ac7\u0ab2 \u0ab0\u0ac7"
@@ -80,7 +71,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0945\u091f\u094b \u092e\u0947\u092f\u0930 \u0921\u0947\u0932 \u0930\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hato Mayor del Rey"
     ],
     "name:nan_x_preferred":[
@@ -91,9 +82,6 @@
     ],
     "name:nob_x_preferred":[
         "Hato Mayor del Rey"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u062a\u0648 \u0645\u0627\u06cc\u0648\u0631 \u062f\u0644 \u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Hato Mayor del Rey"
@@ -290,7 +278,7 @@
         }
     ],
     "wof:id":421176199,
-    "wof:lastmodified":1527726474,
+    "wof:lastmodified":1561788406,
     "wof:name":"Hato Mayor del Rey",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Boca Chica"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u5361\u5947\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Boca Chica"
-    ],
-    "name:dut_x_preferred":[
         "Boca Chica"
     ],
     "name:eng_x_preferred":[
         "Boca Chica"
     ],
-    "name:fre_x_preferred":[
-        "Boca Chica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Boca Chica"
     ],
     "name:heb_x_preferred":[
@@ -121,7 +112,7 @@
         }
     ],
     "wof:id":421179071,
-    "wof:lastmodified":1527717704,
+    "wof:lastmodified":1561788405,
     "wof:name":"Boca Chica",
     "wof:parent_id":1108721119,
     "wof:placetype":"locality",

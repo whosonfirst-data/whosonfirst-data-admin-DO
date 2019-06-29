@@ -35,16 +35,10 @@
     "name:ceb_x_preferred":[
         "Saman\u00e1 Province"
     ],
-    "name:chi_x_preferred":[
-        "\u5c71\u7f8e\u7d0d\u7701"
-    ],
     "name:dan_x_preferred":[
         "Saman\u00e1 Province"
     ],
     "name:deu_x_preferred":[
-        "Saman\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Saman\u00e1"
     ],
     "name:ell_x_preferred":[
@@ -65,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Saman\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Saman\u00e1"
-    ],
-    "name:ger_x_preferred":[
-        "Saman\u00e1"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03b1\u03bd\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aae\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -108,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0938\u092e\u093e\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Samana Province"
     ],
     "name:nan_x_preferred":[
@@ -119,9 +104,6 @@
     ],
     "name:nob_x_preferred":[
         "Samana provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0645\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Saman\u00e1"
@@ -183,6 +165,9 @@
     ],
     "name:war_x_preferred":[
         "Saman\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u7f8e\u7d0d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -307,7 +292,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550361,
+    "wof:lastmodified":1561788347,
     "wof:name":"Saman\u00e1",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

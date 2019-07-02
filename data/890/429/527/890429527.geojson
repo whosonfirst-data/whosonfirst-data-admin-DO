@@ -18,22 +18,16 @@
     "name:cat_x_preferred":[
         "Jarabacoa"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u62c9\u74e6\u79d1\u963f"
-    ],
     "name:dan_x_preferred":[
         "Jarabacoa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jarabacoa"
     ],
     "name:eng_x_preferred":[
         "Jarabacoa"
     ],
-    "name:fre_x_preferred":[
-        "Jarabacoa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jarabacoa"
     ],
     "name:heb_x_preferred":[
@@ -51,6 +45,9 @@
     "name:nan_x_preferred":[
         "Jarabacoa"
     ],
+    "name:nld_x_preferred":[
+        "Jarabacoa"
+    ],
     "name:por_x_preferred":[
         "Jarabacoa"
     ],
@@ -65,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u0627\u0628\u06a9\u0648\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u62c9\u74e6\u79d1\u963f"
     ],
     "qs:name":"Jarabacoa",
     "qs:photos_9r":0,
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":890429527,
-    "wof:lastmodified":1527792791,
+    "wof:lastmodified":1561788412,
     "wof:name":"Jarabacoa",
     "wof:parent_id":890429269,
     "wof:placetype":"locality",

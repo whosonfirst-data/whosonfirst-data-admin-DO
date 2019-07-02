@@ -16,22 +16,19 @@
     "name:ceb_x_preferred":[
         "Tamayo"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u99ac\u7d04"
-    ],
-    "name:dut_x_preferred":[
-        "Tamayo"
-    ],
     "name:eng_x_preferred":[
         "Tamayo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tamayo"
     ],
     "name:ita_x_preferred":[
         "Tamayo"
     ],
     "name:nan_x_preferred":[
+        "Tamayo"
+    ],
+    "name:nld_x_preferred":[
         "Tamayo"
     ],
     "name:por_x_preferred":[
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":421194257,
-    "wof:lastmodified":1527716130,
+    "wof:lastmodified":1561788402,
     "wof:name":"Tamayo",
     "wof:parent_id":890429205,
     "wof:placetype":"locality",

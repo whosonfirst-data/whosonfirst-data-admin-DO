@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Jima Abajo"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u99ac\u963f\u74e6\u970d"
-    ],
-    "name:dut_x_preferred":[
-        "Jima Abajo"
-    ],
     "name:eng_x_preferred":[
         "Jima Abajo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jima Abajo"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +29,9 @@
         "\u30d2\u30de\u30fb\u30a2\u30d0\u30db"
     ],
     "name:nan_x_preferred":[
+        "Jima Abajo"
+    ],
+    "name:nld_x_preferred":[
         "Jima Abajo"
     ],
     "name:por_x_preferred":[
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":421179065,
-    "wof:lastmodified":1527717704,
+    "wof:lastmodified":1561788405,
     "wof:name":"Jima Abajo",
     "wof:parent_id":1108721173,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Yayas de Viajama"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u4e9e\u65af\u5fb7\u6bd4\u4e9e\u54c8\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Las Yayas de Viajama"
-    ],
     "name:eng_x_preferred":[
         "Las Yayas de Viajama"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Yayas de Viajama"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:nan_x_preferred":[
         "Yayas de Viajama"
+    ],
+    "name:nld_x_preferred":[
+        "Las Yayas de Viajama"
     ],
     "name:por_x_preferred":[
         "Yayas de Viajama"
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":421176191,
-    "wof:lastmodified":1527726473,
+    "wof:lastmodified":1561788406,
     "wof:name":"Yayas de Viajama",
     "wof:parent_id":1108721197,
     "wof:placetype":"locality",

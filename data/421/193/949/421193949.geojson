@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "Villa Altagracia"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u5854\u683c\u62c9\u897f\u4e9e\u93ae"
-    ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Altagracia"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Villa Altagracia"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":421193949,
-    "wof:lastmodified":1527716145,
+    "wof:lastmodified":1561788403,
     "wof:name":"Villa Altagracia",
     "wof:parent_id":890429199,
     "wof:placetype":"locality",

@@ -35,17 +35,14 @@
     "name:ceb_x_preferred":[
         "Provincia de Monse\u00f1or Nouel"
     ],
-    "name:chi_x_preferred":[
-        "\u4e3b\u6559\u00b7\u7459\u9ece\u7701"
-    ],
     "name:dan_x_preferred":[
         "Monse\u00f1or Nouel Province"
     ],
     "name:deu_x_preferred":[
         "Monse\u00f1or Nouel"
     ],
-    "name:dut_x_preferred":[
-        "Monse\u00f1or Nouel"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c3\u03b5\u03bd\u03b9\u03cc\u03c1 \u039d\u03bf\u03c5\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Monse\u00f1or Nouel"
@@ -58,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Monse\u00f1or Nouel"
-    ],
-    "name:fre_x_preferred":[
-        "Monse\u00f1or Nouel"
-    ],
-    "name:ger_x_preferred":[
-        "Monse\u00f1or Nouel"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c3\u03b5\u03bd\u03b9\u03cc\u03c1 \u039d\u03bf\u03c5\u03ad\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0ab8\u0ac7\u0aa8\u0ab0 \u0aa8\u0acc\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0949\u0928\u0938\u0947\u0928\u094b\u0930 \u0928\u090a\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Monse\u00f1or Nouel Province"
     ],
     "name:nan_x_preferred":[
@@ -112,9 +100,6 @@
     ],
     "name:nob_x_preferred":[
         "Monsenor Nouel provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0646\u0633\u0646\u06cc\u0648\u0631 \u0646\u0648\u0648\u0644"
     ],
     "name:pol_x_preferred":[
         "Prowincja Monse\u00f1or Nouel"
@@ -174,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Monse\u00f1or Nouel"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e3b\u6559\u00b7\u7459\u9ece\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -299,7 +287,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550351,
+    "wof:lastmodified":1561788347,
     "wof:name":"Monse\u00f1or Nouel",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

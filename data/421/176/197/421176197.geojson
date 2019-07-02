@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Padre Las Casas"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5fb7\u96f7\u62c9\u65af\u5361\u85a9\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Padre Las Casas"
-    ],
     "name:eng_x_preferred":[
         "Padre Las Casas"
     ],
@@ -29,9 +23,6 @@
         "Padre Las Casas"
     ],
     "name:fra_x_preferred":[
-        "Padre Las Casas"
-    ],
-    "name:fre_x_preferred":[
         "Padre Las Casas"
     ],
     "name:glg_x_preferred":[
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":421176197,
-    "wof:lastmodified":1527726474,
+    "wof:lastmodified":1561788406,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":890429227,
     "wof:placetype":"locality",

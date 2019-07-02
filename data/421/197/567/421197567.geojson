@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Vicente Noble"
     ],
-    "name:chi_x_preferred":[
-        "\u6587\u68ee\u7279\u8afe\u5f17\u840a"
-    ],
-    "name:dut_x_preferred":[
-        "Vicente Noble"
-    ],
     "name:eng_x_preferred":[
         "Vicente Noble"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vicente Noble"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":421197567,
-    "wof:lastmodified":1527716398,
+    "wof:lastmodified":1561788405,
     "wof:name":"Vicente Noble",
     "wof:parent_id":890429201,
     "wof:placetype":"locality",

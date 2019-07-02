@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141871,
-    "geom:area_square_m":1656089475.466645,
+    "geom:area_square_m":1656089475.466542,
     "geom:bbox":"-70.3654987445,19.0453574028,-69.6682380594,19.5211152854",
     "geom:latitude":19.258955,
     "geom:longitude":-70.081461,
@@ -32,29 +32,26 @@
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09af\u09bc\u09be\u09b0\u09cd\u09a4\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u83ef\u5fb7\u7701"
-    ],
     "name:dan_x_preferred":[
         "Duarte Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Duarte"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03ac\u03c1\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Duarte"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0648\u0627\u0631\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "Duarte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Duarte"
-    ],
-    "name:ger_x_preferred":[
-        "Duarte"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03ac\u03c1\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac1\u0a86\u0ab0\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -89,17 +86,17 @@
     "name:mar_x_preferred":[
         "\u0921\u0941\u0906\u0930\u094d\u091f\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Duarte Province"
     ],
     "name:nan_x_preferred":[
         "Duarte S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Duarte"
+    ],
     "name:nob_x_preferred":[
         "Duarte kommune"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0648\u0627\u0631\u062a\u0647"
     ],
     "name:pol_x_preferred":[
         "Prowincja Duarte"
@@ -151,6 +148,9 @@
     ],
     "name:war_x_preferred":[
         "Duarte"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u83ef\u5fb7\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -275,7 +275,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814768,
+    "wof:lastmodified":1561788345,
     "wof:name":"Duarte",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

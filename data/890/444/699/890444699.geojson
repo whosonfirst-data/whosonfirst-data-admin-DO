@@ -22,32 +22,26 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09be\u09b9\u09cb\u09a8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u5967\u7d0d"
-    ],
     "name:dan_x_preferred":[
         "Barahona"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Barahona"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03b1\u03cc\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Cruz de Barahona"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0626\u0648\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Barahona"
     ],
     "name:fra_x_preferred":[
         "Santa Cruz de Barahona"
-    ],
-    "name:fre_x_preferred":[
-        "Santa Cruz de Barahona"
-    ],
-    "name:ger_x_preferred":[
-        "Barahona"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03b1\u03cc\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab0\u0abe\u0ab9\u0acb\u0aa8\u0abe"
@@ -79,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0930\u093e\u0939\u094b\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Barahona"
     ],
     "name:nan_x_preferred":[
@@ -90,9 +84,6 @@
     ],
     "name:nob_x_preferred":[
         "Barahona"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0631\u0627\u0626\u0648\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Barahona"
@@ -138,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "Santa Cruz de Barahona"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u5967\u7d0d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
@@ -265,7 +259,7 @@
         }
     ],
     "wof:id":890444699,
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1561788410,
     "wof:name":"Santa Cruz de Barahona",
     "wof:parent_id":1108721111,
     "wof:placetype":"locality",

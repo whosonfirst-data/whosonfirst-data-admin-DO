@@ -22,14 +22,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u09a6\u09c7 \u09b2\u09be \u09ae\u09be\u0997\u09c1\u09af\u09bc\u09be\u09a8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u5fb7\u62c9\u99ac\u74dc\u7d0d"
-    ],
     "name:dan_x_preferred":[
         "San Juan de la Maguana"
     ],
-    "name:dut_x_preferred":[
-        "San Juan"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03bd\u03c4\u03b5 \u03bb\u03b1 \u039c\u03b1\u03b3\u03bf\u03c5\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "San Juan de la Maguana"
@@ -37,14 +34,14 @@
     "name:eng_x_variant":[
         "San Juan"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0627\u0646 \u062f\u0647 \u0644\u0627 \u0645\u0627\u06af\u0648\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "San Juan de la Maguana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Juan de la Maguana"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03bd\u03c4\u03b5 \u03bb\u03b1 \u039c\u03b1\u03b3\u03bf\u03c5\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0a9c\u0ac1\u0a86\u0aa8 \u0aa6\u0ac7 \u0ab2\u0abe \u0aae\u0a97\u0ac1\u0a86\u0aa8\u0abe"
@@ -76,17 +73,17 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u091c\u0941\u0906\u0928 \u0926\u0947 \u0932\u093e \u092e\u0945\u0917\u0941\u0906\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Juan de la Maguana"
     ],
     "name:nan_x_preferred":[
         "San Juan de la Maguana"
     ],
+    "name:nld_x_preferred":[
+        "San Juan"
+    ],
     "name:nob_x_preferred":[
         "San Huan de la Maguana"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646 \u062e\u0648\u0627\u0646 \u062f\u0647 \u0644\u0627 \u0645\u0627\u06af\u0648\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "San Juan de la Maguana"
@@ -135,6 +132,9 @@
     ],
     "name:war_x_preferred":[
         "San Juan de la Maguana"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u62c9\u99ac\u74dc\u7d0d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
@@ -265,7 +265,7 @@
         }
     ],
     "wof:id":890444705,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561788410,
     "wof:name":"San Juan de la Maguana",
     "wof:parent_id":1108721267,
     "wof:placetype":"locality",

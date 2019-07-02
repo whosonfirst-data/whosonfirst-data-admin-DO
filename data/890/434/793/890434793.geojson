@@ -15,16 +15,10 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u74dc\u62c9\u7d0d\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Las Gu\u00e1ranas"
-    ],
     "name:eng_x_preferred":[
         "Las Gu\u00e1ranas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Gu\u00e1ranas"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     "name:nan_x_preferred":[
         "Las Gu\u00e1ranas"
     ],
+    "name:nld_x_preferred":[
+        "Las Gu\u00e1ranas"
+    ],
     "name:por_x_preferred":[
         "Las Gu\u00e1ranas"
     ],
@@ -44,6 +41,9 @@
     ],
     "name:swe_x_preferred":[
         "Las Gu\u00e1ranas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u74dc\u62c9\u7d0d\u65af"
     ],
     "qs:name":"Las Gu\u00e1ranas",
     "qs:photos_9r":0,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890434793,
-    "wof:lastmodified":1527792946,
+    "wof:lastmodified":1561788415,
     "wof:name":"Las Gu\u00e1ranas",
     "wof:parent_id":1108721191,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "San Rafael del Yuma"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u62c9\u6590\u723e\u5fb7\u723e\u5c24\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "San Rafael del Yuma"
-    ],
     "name:eng_x_preferred":[
         "San Rafael del Yuma"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Rafael del Yuma"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +29,9 @@
         "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb\u30fb\u30c7\u30eb\u30fb\u30e6\u30de"
     ],
     "name:nan_x_preferred":[
+        "San Rafael del Yuma"
+    ],
+    "name:nld_x_preferred":[
         "San Rafael del Yuma"
     ],
     "name:por_x_preferred":[
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":421199333,
-    "wof:lastmodified":1527716415,
+    "wof:lastmodified":1561788405,
     "wof:name":"San Rafael del Yuma",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

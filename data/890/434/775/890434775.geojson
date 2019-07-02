@@ -15,9 +15,6 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u5217\u80e1\u57c3\u6d1b"
-    ],
     "name:eng_x_preferred":[
         "Vallejuelo"
     ],
@@ -38,6 +35,9 @@
     ],
     "name:swe_x_preferred":[
         "Vallejuelo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5217\u80e1\u57c3\u6d1b"
     ],
     "qs:name":"Vallejuelo",
     "qs:photos_9r":0,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":890434775,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561788415,
     "wof:name":"Vallejuelo",
     "wof:parent_id":890429203,
     "wof:placetype":"locality",

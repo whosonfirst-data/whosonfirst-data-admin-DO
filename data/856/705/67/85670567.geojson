@@ -32,14 +32,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09c7 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5ea6\u5c71\u7701"
-    ],
     "name:dan_x_preferred":[
         "Monte Cristi Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Monte Cristi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5 \u039a\u03c1\u03af\u03c3\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Monte Cristi"
@@ -47,17 +47,14 @@
     "name:epo_x_preferred":[
         "Provinco Montecristi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0646\u062a\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Monte Cristin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Monte Cristi"
-    ],
-    "name:ger_x_preferred":[
-        "Monte Cristi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03bd\u03c4\u03b5 \u039a\u03c1\u03af\u03c3\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7 \u0a95\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a9f\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -92,17 +89,17 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0902\u091f\u0947 \u0915\u094d\u0930\u093f\u0938\u094d\u091f\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Monte Cristi Province"
     ],
     "name:nan_x_preferred":[
         "Monte Cristi S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Monte Cristi"
+    ],
     "name:nob_x_preferred":[
         "Monte Cristi provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0646\u062a\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Monte Cristi"
@@ -166,6 +163,9 @@
     ],
     "name:war_x_preferred":[
         "Monte Cristi"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5ea6\u5c71\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -290,7 +290,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550356,
+    "wof:lastmodified":1561788348,
     "wof:name":"Monte Cristi",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

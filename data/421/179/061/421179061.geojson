@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "San Jos\u00e9 de Las Matas"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u5fb7\u62c9\u65af\u99ac\u5854\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 de las Matas"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 de las Matas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Jos\u00e9 de las Matas"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +29,9 @@
         "\u30b5\u30f3\u30fb\u30db\u30bb\u30fb\u30c7\u30fb\u30e9\u30b9\u30fb\u30de\u30bf\u30b9"
     ],
     "name:nan_x_preferred":[
+        "San Jos\u00e9 de las Matas"
+    ],
+    "name:nld_x_preferred":[
         "San Jos\u00e9 de las Matas"
     ],
     "name:por_x_preferred":[
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":421179061,
-    "wof:lastmodified":1527717714,
+    "wof:lastmodified":1561788406,
     "wof:name":"San Jos\u00e9 de Las Matas",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

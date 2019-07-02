@@ -22,10 +22,7 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09c2\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09aa\u09cd\u09b2\u09be\u099f\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u6590\u5229-\u9280\u6e2f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Puerto Plata"
     ],
     "name:dan_x_preferred":[
@@ -37,8 +34,8 @@
     "name:deu_x_variant":[
         "San Felipe de Puerto Plata"
     ],
-    "name:dut_x_preferred":[
-        "Puerto Plata"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u03a0\u03bb\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Puerto Plata"
@@ -52,6 +49,9 @@
     "name:est_x_preferred":[
         "Puerto Plata"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0626\u0631\u062a\u0648 \u067e\u0644\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Puerto Plata"
     ],
@@ -60,15 +60,6 @@
     ],
     "name:fra_x_variant":[
         "Puerto Plata"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto Plata"
-    ],
-    "name:ger_x_preferred":[
-        "Puerto Plata"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u03a0\u03bb\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0aaa\u0acd\u0ab2\u0abe\u0a9f\u0abe"
@@ -103,17 +94,17 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u092a\u094d\u0932\u093e\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puerto Plata"
     ],
     "name:nan_x_preferred":[
         "San Antonio de Guerra"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Puerto Plata"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0626\u0631\u062a\u0648 \u067e\u0644\u0627\u062a\u0627"
+    "name:nob_x_preferred":[
+        "Puerto Plata"
     ],
     "name:pol_x_preferred":[
         "Puerto Plata"
@@ -128,9 +119,6 @@
         "\u0db4\u0dd4\u0dc0\u0dbb\u0dca\u0da7\u0ddd \u0db4\u0dca\u0dbd\u0dcf\u0da7\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "San Felipe de Puerto Plata"
-    ],
-    "name:slo_x_preferred":[
         "San Felipe de Puerto Plata"
     ],
     "name:slv_x_preferred":[
@@ -303,7 +291,7 @@
         }
     ],
     "wof:id":890438783,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561788408,
     "wof:name":"Puerto Plata",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

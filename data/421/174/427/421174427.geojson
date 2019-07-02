@@ -23,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Jiman\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u99ac\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Jiman\u00ed"
     ],
     "name:deu_x_preferred":[
         "Jiman\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Jiman\u00ed"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03bc\u03b1\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Jiman\u00ed"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Jiman\u00ed"
-    ],
-    "name:fre_x_preferred":[
-        "Jiman\u00ed"
-    ],
-    "name:ger_x_preferred":[
-        "Jiman\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03bc\u03b1\u03bd\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0aae\u0abe\u0aa8\u0ac0"
@@ -86,7 +74,7 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u092e\u0928\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jimani"
     ],
     "name:nan_x_preferred":[
@@ -97,9 +85,6 @@
     ],
     "name:nob_x_preferred":[
         "Jimani"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u06cc\u0645\u0627\u0646\u06cc"
     ],
     "name:pol_x_preferred":[
         "Jiman\u00ed"
@@ -145,6 +130,9 @@
     ],
     "name:war_x_preferred":[
         "Jiman\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u99ac\u5c3c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
@@ -289,7 +277,7 @@
         }
     ],
     "wof:id":421174427,
-    "wof:lastmodified":1527716230,
+    "wof:lastmodified":1561788404,
     "wof:name":"Jiman\u00ed",
     "wof:parent_id":890455317,
     "wof:placetype":"locality",

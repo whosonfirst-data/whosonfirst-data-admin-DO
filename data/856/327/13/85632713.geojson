@@ -149,9 +149,6 @@
     "name:cym_x_variant":[
         "Y Weriniaeth Ddominicaidd"
     ],
-    "name:cze_x_preferred":[
-        "Dominik\u00e1nsk\u00e1 republika"
-    ],
     "name:dan_x_preferred":[
         "Dominikanske Republik"
     ],
@@ -569,9 +566,6 @@
     "name:ron_x_preferred":[
         "Republica Dominican\u0103"
     ],
-    "name:rum_x_preferred":[
-        "Republica Dominican\u0103"
-    ],
     "name:run_x_preferred":[
         "Repubulika ya Dominika"
     ],
@@ -920,7 +914,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059190,
+    "wof:lastmodified":1561788350,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

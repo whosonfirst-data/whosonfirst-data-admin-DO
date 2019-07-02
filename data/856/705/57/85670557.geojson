@@ -35,17 +35,14 @@
     "name:ceb_x_preferred":[
         "Provincia S\u00e1nchez Ram\u00edrez"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u5207\u65af\u00b7\u62c9\u7c73\u65af\u7701"
-    ],
     "name:dan_x_preferred":[
         "S\u00e1nchez Ram\u00edrez Province"
     ],
     "name:deu_x_preferred":[
         "S\u00e1nchez Ram\u00edrez"
     ],
-    "name:dut_x_preferred":[
-        "S\u00e1nchez Ram\u00edrez"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03c3\u03b5\u03c2 \u03a1\u03b1\u03bc\u03af\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "S\u00e1nchez Ram\u00edrez"
@@ -58,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "S\u00e1nchez Ram\u00edrez"
-    ],
-    "name:fre_x_preferred":[
-        "S\u00e1nchez Ram\u00edrez"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00e1nchez Ram\u00edrez"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03c3\u03b5\u03c2 \u03a1\u03b1\u03bc\u03af\u03c1\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0a9a\u0ac7\u0a9d \u0ab0\u0abe\u0aae\u0abf\u0ab0\u0ac7\u0a9d \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u091a\u0947\u091d \u0930\u093e\u092e\u093f\u0930\u0947\u091d \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sanchez Ramirez Province"
     ],
     "name:nan_x_preferred":[
@@ -112,9 +100,6 @@
     ],
     "name:nob_x_preferred":[
         "Sanchez Ramirez provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646\u0686\u0632 \u0631\u0627\u0645\u06cc\u0631\u0633"
     ],
     "name:pol_x_preferred":[
         "Prowincja S\u00e1nchez Ram\u00edrez"
@@ -170,6 +155,9 @@
     ],
     "name:war_x_preferred":[
         "S\u00e1nchez Ram\u00edrez"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5207\u65af\u00b7\u62c9\u7c73\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -294,7 +282,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1561788348,
     "wof:name":"Sanchez Ram\u00edrez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

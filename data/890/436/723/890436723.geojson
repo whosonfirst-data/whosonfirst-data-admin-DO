@@ -18,14 +18,14 @@
     "name:deu_x_preferred":[
         "Boca del Yuma"
     ],
-    "name:dut_x_preferred":[
-        "Boca de Yuma"
-    ],
     "name:eng_x_preferred":[
         "Boca de Yuma"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30ab\u30fb\u30c7\u30fb\u30e6\u30de"
+    ],
+    "name:nld_x_preferred":[
+        "Boca de Yuma"
     ],
     "name:spa_x_preferred":[
         "Boca de Yuma"
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890436723,
-    "wof:lastmodified":1527735403,
+    "wof:lastmodified":1561788408,
     "wof:name":"Boca de Yuma",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

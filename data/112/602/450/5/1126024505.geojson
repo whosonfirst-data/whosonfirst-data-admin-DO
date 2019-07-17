@@ -22,8 +22,14 @@
     "name:cat_x_preferred":[
         "Punta Cana"
     ],
+    "name:ceb_x_preferred":[
+        "Punta Cana"
+    ],
     "name:deu_x_preferred":[
         "Punta Cana"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b1 \u039a\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Punta Cana"
@@ -55,6 +61,9 @@
     "name:nld_x_preferred":[
         "Punta Cana"
     ],
+    "name:nob_x_preferred":[
+        "Punta Cana"
+    ],
     "name:pol_x_preferred":[
         "Punta Cana"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Punta Cana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u041a\u0430\u043d\u0430"
     ],
     "name:zho_x_preferred":[
         "\u84ec\u5854\u5361\u7d0d"
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1126024505,
-    "wof:lastmodified":1561788417,
+    "wof:lastmodified":1563336578,
     "wof:name":"Punta Cana",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

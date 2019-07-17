@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Tenares"
     ],
+    "name:ceb_x_preferred":[
+        "Tenares"
+    ],
     "name:ces_x_preferred":[
         "Tenares"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890438785,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336509,
     "wof:name":"Tenares",
     "wof:parent_id":890425729,
     "wof:placetype":"locality",

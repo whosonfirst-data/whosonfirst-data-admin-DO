@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09a8\u09be\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Bonao"
+    ],
     "name:dan_x_preferred":[
         "Bonao"
     ],
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890444785,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1563336518,
     "wof:name":"Bonao",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

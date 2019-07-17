@@ -32,6 +32,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09cb\u09b8\u09c7 \u09a1\u09bf \u0993\u0995\u09cb\u09af\u09bc\u09be  \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09a6\u09c7 \u0993\u0995\u09cb\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:dan_x_preferred":[
         "San Jos\u00e9 de Ocoa Province"
     ],
@@ -279,7 +282,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788345,
+    "wof:lastmodified":1563335698,
     "wof:name":"San Jos\u00e9 De Ocoa",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

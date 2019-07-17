@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Juan Santiago"
     ],
+    "name:ceb_x_preferred":[
+        "Juan Santiago"
+    ],
     "name:eng_x_preferred":[
         "Juan Santiago"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890434801,
-    "wof:lastmodified":1561788415,
+    "wof:lastmodified":1563336566,
     "wof:name":"Juan Santiago",
     "wof:parent_id":1108721177,
     "wof:placetype":"locality",

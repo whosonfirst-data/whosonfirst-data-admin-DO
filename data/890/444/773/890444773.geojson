@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Pino"
+    ],
     "name:eng_x_preferred":[
         "El Pino"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890444773,
-    "wof:lastmodified":1561788411,
+    "wof:lastmodified":1563336529,
     "wof:name":"El Pino",
     "wof:parent_id":1108721145,
     "wof:placetype":"locality",

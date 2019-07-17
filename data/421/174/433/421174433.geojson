@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Cabral"
     ],
+    "name:ceb_x_preferred":[
+        "Cabral"
+    ],
     "name:deu_x_preferred":[
         "Cabral"
     ],
@@ -40,6 +43,9 @@
     "name:nld_x_preferred":[
         "Cabral"
     ],
+    "name:pol_x_preferred":[
+        "Cabral"
+    ],
     "name:por_x_preferred":[
         "Cabral"
     ],
@@ -50,6 +56,9 @@
         "Cabral"
     ],
     "name:swe_x_preferred":[
+        "Cabral"
+    ],
+    "name:tur_x_preferred":[
         "Cabral"
     ],
     "name:unk_x_variant":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421174433,
-    "wof:lastmodified":1561788404,
+    "wof:lastmodified":1563336473,
     "wof:name":"Cabral",
     "wof:parent_id":1108721127,
     "wof:placetype":"locality",

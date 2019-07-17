@@ -16,6 +16,18 @@
     "name:ceb_x_preferred":[
         "Villa Consuelo"
     ],
+    "name:eng_x_preferred":[
+        "Villa Consuelo"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Consuelo"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Consuelo"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Consuelo"
+    ],
     "name:swe_x_preferred":[
         "Villa Consuelo"
     ],
@@ -40,10 +52,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":35,
     "wof:belongsto":[
+        85670659,
         102191575,
         85632713,
-        1108721273,
-        85670659
+        1108721273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":421184539,
-    "wof:lastmodified":1531858537,
+    "wof:lastmodified":1563336482,
     "wof:name":"Villa Consuelo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

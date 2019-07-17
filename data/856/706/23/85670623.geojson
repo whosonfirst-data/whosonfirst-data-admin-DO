@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Peravia"
     ],
+    "name:eng_x_variant":[
+        "Peravia Province"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u0631\u0627\u0648\u06cc\u0627"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud398\ub77c\ube44\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud398\ub77c\ube44\uc544\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Peravijas province"
@@ -130,6 +136,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e23\u0e32\u0e40\u0e27\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1b\u0e23\u0e32\u0e40\u0e1a\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
         "Prevaia Province"
@@ -275,7 +284,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788348,
+    "wof:lastmodified":1563335708,
     "wof:name":"Peravia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

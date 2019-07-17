@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u0631\u0648\u062f\u0631\u064a\u063a\u064a\u0632"
     ],
+    "name:bar_x_preferred":[
+        "Santiago Rodr\u00edguez"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb \u09b0\u09a1\u09cd\u09b0\u09bf\u0997\u09c7\u099c \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Santiago Rodr\u00edguez"
+    ],
+    "name:eng_x_variant":[
+        "Santiago Rodr\u00edguez Province"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u0631\u0648\u062f\u0631\u06cc\u06af\u0632"
@@ -80,6 +86,9 @@
     "name:kor_x_preferred":[
         "\uc0b0\ud2f0\uc544\uace0\ub85c\ub4dc\ub9ac\uac8c\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud2f0\uc544\uace0\ub85c\ub4dc\ub9ac\uac8c\uc2a4\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Santjagorodrigesas province"
     ],
@@ -104,6 +113,9 @@
     "name:pol_x_preferred":[
         "Santiago Rodr\u00edguez Province"
     ],
+    "name:pol_x_variant":[
+        "Santiago Rodr\u00edguez"
+    ],
     "name:por_x_preferred":[
         "Santiago Rodr\u00edguez"
     ],
@@ -120,9 +132,6 @@
         "Santiago Rodriguez",
         "Santiago Rodr\u00edguez"
     ],
-    "name:spa_x_variant":[
-        "Santiago Rodr\u00edguez"
-    ],
     "name:swe_x_preferred":[
         "Santiago Rodr\u00edguez"
     ],
@@ -137,6 +146,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e40\u0e15\u0e35\u0e22\u0e42\u0e01\u0e42\u0e23\u0e14\u0e23\u0e34\u0e40\u0e01\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e40\u0e15\u0e35\u0e22\u0e42\u0e01 \u0e42\u0e23\u0e14\u0e23\u0e34\u0e40\u0e01\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Santiago Rodriguez Province"
@@ -283,7 +295,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788349,
+    "wof:lastmodified":1563335713,
     "wof:name":"Santiago Rodr\u00edguez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

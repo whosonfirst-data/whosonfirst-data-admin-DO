@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ensanche Sim\u00f3n Bol\u00edvar"
+    ],
     "name:spa_x_colloquial":[
         "Ensanche Bolivar"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126089491,
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1563336582,
     "wof:name":"Ensanche Bol\u00edvar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

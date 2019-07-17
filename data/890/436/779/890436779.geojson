@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0430\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Matayaya"
+    ],
     "name:eng_x_preferred":[
         "Matayaya"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890436779,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336507,
     "wof:name":"Matayaya",
     "wof:parent_id":890429267,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Azua"
     ],
+    "name:eng_x_variant":[
+        "Azua Province"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0622\u0632\u0648\u0627"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc218\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc218\uc544\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Asvas province"
@@ -140,6 +146,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e0b\u0e39\u0e2d\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e0b\u0e31\u0e27"
     ],
     "name:tur_x_preferred":[
         "Azua Province"
@@ -285,7 +294,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788347,
+    "wof:lastmodified":1563335701,
     "wof:name":"Azua",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

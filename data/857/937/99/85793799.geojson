@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3305407.3544,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.903603,18.482407,-69.903603,18.482407",
     "geom:latitude":18.482407,
     "geom:longitude":-69.903603,
@@ -30,6 +30,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:ceb_x_preferred":[
+        "San Carlos"
+    ],
+    "name:eng_x_preferred":[
+        "San Carlos"
+    ],
+    "name:nld_x_preferred":[
         "San Carlos"
     ],
     "name:spa_x_preferred":[
@@ -126,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379287,
+    "wof:lastmodified":1563335694,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bohech\u00edo"
+    ],
+    "name:dan_x_preferred":[
+        "Bohech\u00edo"
+    ],
     "name:eng_x_preferred":[
         "Bohech\u00edo"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Bohech\u00edo"
+    ],
+    "name:swe_x_variant":[
+        "Cach\u00f3n"
     ],
     "name:unk_x_variant":[
         "Boech\u00edo"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890444789,
-    "wof:lastmodified":1561788411,
+    "wof:lastmodified":1563336530,
     "wof:name":"Bohech\u00edo",
     "wof:parent_id":1108721121,
     "wof:placetype":"locality",

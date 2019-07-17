@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09c2\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09aa\u09cd\u09b2\u09be\u099f\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Puerto Plata"
+    ],
     "name:ces_x_preferred":[
         "Puerto Plata"
     ],
@@ -144,6 +147,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15 \u0e1b\u0e25\u0e32\u0e15\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e1b\u0e25\u0e32\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "San Felipe de Puerto Plata"
@@ -291,7 +297,7 @@
         }
     ],
     "wof:id":890438783,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336509,
     "wof:name":"Puerto Plata",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

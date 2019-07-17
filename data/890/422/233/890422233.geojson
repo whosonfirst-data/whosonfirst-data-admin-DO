@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "R\u00edo Limpio"
+    ],
     "name:eng_x_preferred":[
         "R\u00edo Limpio"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890422233,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1563336495,
     "wof:name":"R\u00edo Limpio",
     "wof:parent_id":1108721221,
     "wof:placetype":"locality",

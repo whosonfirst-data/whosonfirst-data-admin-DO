@@ -48,8 +48,7 @@
         "Saman\u00e1"
     ],
     "name:eng_x_variant":[
-        "Saman\u00e1 Province",
-        "Saman\u00e1"
+        "Saman\u00e1 Province"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0645\u0627\u0646\u0627"
@@ -83,6 +82,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub9c8\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ub9c8\ub098\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Samanas province"
@@ -150,6 +152,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e23\u0e35\u0e2d\u0e39\u0e01\u0e23\u0e31\u0e19\u0e14\u0e35\u0e14\u0e39\u0e19\u0e2d\u0e23\u0e4c\u0e15\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e21\u0e32\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Samana Province"
@@ -292,7 +297,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788347,
+    "wof:lastmodified":1563335702,
     "wof:name":"Saman\u00e1",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

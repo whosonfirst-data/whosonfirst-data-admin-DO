@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Peralta"
+    ],
     "name:eng_x_preferred":[
         "Peralta"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890422243,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1563336492,
     "wof:name":"Peralta",
     "wof:parent_id":890455305,
     "wof:placetype":"locality",

@@ -15,6 +15,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pedro S\u00e1nchez"
+    ],
+    "name:deu_x_preferred":[
+        "Pedro S\u00e1nchez"
+    ],
     "name:eng_x_preferred":[
         "Pedro S\u00e1nchez"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890435485,
-    "wof:lastmodified":1561788416,
+    "wof:lastmodified":1563336569,
     "wof:name":"Pedro S\u00e1nchez",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09a6\u09be\u099c\u09be\u09ac\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Dajab\u00f3n"
+    ],
     "name:dan_x_preferred":[
         "Dajab\u00f3n"
     ],
@@ -111,6 +114,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e08\u0e32\u0e1a\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e32\u0e2e\u0e32\u0e1a\u0e2d\u0e19"
     ],
     "name:tur_x_preferred":[
         "Dajabon"
@@ -257,7 +263,7 @@
         }
     ],
     "wof:id":890444769,
-    "wof:lastmodified":1561788410,
+    "wof:lastmodified":1563336523,
     "wof:name":"Dajab\u00f3n",
     "wof:parent_id":1108721211,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09cb\u09b8\u09c7 \u09a6\u09cd\u09af \u0993\u0995\u09cb\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09a6\u09c7 \u0993\u0995\u09cb\u09af\u09bc\u09be"
+    ],
     "name:ceb_x_preferred":[
         "San Jos\u00e9 de Ocoa"
     ],
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421174743,
-    "wof:lastmodified":1561788404,
+    "wof:lastmodified":1563336474,
     "wof:name":"San Jos\u00e9 de Ocoa",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",

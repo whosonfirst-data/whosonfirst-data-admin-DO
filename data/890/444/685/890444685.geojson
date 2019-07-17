@@ -36,6 +36,12 @@
     "name:por_x_preferred":[
         "Yaguate"
     ],
+    "name:rus_x_preferred":[
+        "\u042f\u0433\u0443\u0430\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Yaguate"
+    ],
     "name:unk_x_variant":[
         "Villa de Yaguate"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890444685,
-    "wof:lastmodified":1561788410,
+    "wof:lastmodified":1563336525,
     "wof:name":"Yaguate",
     "wof:parent_id":890429185,
     "wof:placetype":"locality",

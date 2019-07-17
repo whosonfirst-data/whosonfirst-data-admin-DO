@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jicom\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Jicom\u00e9"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890429525,
-    "wof:lastmodified":1561788414,
+    "wof:lastmodified":1563336555,
     "wof:name":"Jicom\u00e9",
     "wof:parent_id":890429289,
     "wof:placetype":"locality",

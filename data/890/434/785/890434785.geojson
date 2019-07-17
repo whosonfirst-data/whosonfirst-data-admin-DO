@@ -21,7 +21,13 @@
     "name:jpn_x_preferred":[
         "\u30de\u30bf\u30f3\u30b5\u30b9"
     ],
+    "name:nan_x_preferred":[
+        "Matanzas"
+    ],
     "name:por_x_preferred":[
+        "Matanzas"
+    ],
+    "name:spa_x_preferred":[
         "Matanzas"
     ],
     "name:unk_x_variant":[
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890434785,
-    "wof:lastmodified":1561788415,
+    "wof:lastmodified":1563336563,
     "wof:name":"Matanzas",
     "wof:parent_id":1108721109,
     "wof:placetype":"locality",

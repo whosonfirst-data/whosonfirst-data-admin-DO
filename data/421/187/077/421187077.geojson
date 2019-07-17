@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a6\u09cd\u09b0 \u09a6\u09cd\u09af \u09ae\u09be\u0995\u09cb\u09b0\u09bf"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a6\u09cd\u09b0\u09cb \u09a6\u09c7 \u09ae\u09be\u0995\u09cb\u09b0\u09bf\u09b8"
+    ],
     "name:dan_x_preferred":[
         "San Pedro de Macor\u00eds"
     ],
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421187077,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1563336475,
     "wof:name":"San Pedro de Macor\u00eds",
     "wof:parent_id":1108721269,
     "wof:placetype":"locality",

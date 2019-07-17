@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0443\u0430 \u0434\u0435 \u041a\u043e\u043c\u043f\u043e\u0441\u0442\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Azua"
+    ],
     "name:dan_x_preferred":[
         "Azua"
     ],
@@ -103,6 +106,9 @@
     "name:spa_x_preferred":[
         "Azua de Compostela"
     ],
+    "name:spa_x_variant":[
+        "Azua"
+    ],
     "name:swe_x_preferred":[
         "\u00c1zua de Compostela"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e0b\u0e39\u0e2d\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e0b\u0e31\u0e27"
     ],
     "name:tur_x_preferred":[
         "Azua"
@@ -262,7 +271,7 @@
         }
     ],
     "wof:id":890442071,
-    "wof:lastmodified":1561788414,
+    "wof:lastmodified":1563336558,
     "wof:name":"Azua de Compostela",
     "wof:parent_id":1108721105,
     "wof:placetype":"locality",

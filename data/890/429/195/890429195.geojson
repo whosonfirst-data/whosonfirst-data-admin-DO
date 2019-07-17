@@ -27,8 +27,35 @@
     "mps:longitude":-71.491102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:nan_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:por_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:slv_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Jaragua"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Jaragua"
+    ],
     "name:unk_x_variant":[
         "Jaragua"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u62c9\u74dc\u93ae"
     ],
     "qs:name":"Villa Jaragua",
     "qs:photos_9r":0,
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":890429195,
-    "wof:lastmodified":1536617380,
+    "wof:lastmodified":1563336532,
     "wof:name":"Villa Jaragua",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

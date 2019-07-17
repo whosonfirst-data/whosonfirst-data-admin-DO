@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Barahona"
     ],
+    "name:eng_x_variant":[
+        "Barahona Province"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0631\u0627\u0626\u0648\u0646\u0627"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ub77c\uc624\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ub77c\uc624\ub098\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Baraonas province"
@@ -286,7 +292,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788349,
+    "wof:lastmodified":1563335714,
     "wof:name":"Barahona",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

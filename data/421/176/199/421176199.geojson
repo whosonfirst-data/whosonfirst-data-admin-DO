@@ -98,6 +98,9 @@
     "name:spa_x_preferred":[
         "Hato Mayor del Rey"
     ],
+    "name:spa_x_variant":[
+        "Hato Mayor"
+    ],
     "name:swe_x_preferred":[
         "Hato Mayor del Rey"
     ],
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":421176199,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1563336490,
     "wof:name":"Hato Mayor del Rey",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

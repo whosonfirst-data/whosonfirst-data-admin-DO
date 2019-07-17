@@ -32,6 +32,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09cb\u09ac\u09be\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09a4\u09cb\u09ac\u09be\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Provincia de San Crist\u00f3bal"
     ],
@@ -46,6 +49,12 @@
     ],
     "name:eng_x_preferred":[
         "San Crist\u00f3bal"
+    ],
+    "name:eng_x_variant":[
+        "San Crist\u00f3bal Province"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Kristoforo"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u06a9\u0631\u06cc\u0633\u062a\u0648\u0628\u0627\u0644"
@@ -79,6 +88,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud06c\ub9ac\uc2a4\ud1a0\ubc1c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud06c\ub9ac\uc2a4\ud1a0\ubc1c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Sankristobalas province"
@@ -146,6 +158,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0b\u0e1a\u0e39"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e01\u0e23\u0e34\u0e2a\u0e42\u0e15\u0e1a\u0e31\u0e25"
     ],
     "name:tur_x_preferred":[
         "San Cristobal Province"
@@ -292,7 +307,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788347,
+    "wof:lastmodified":1563335705,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

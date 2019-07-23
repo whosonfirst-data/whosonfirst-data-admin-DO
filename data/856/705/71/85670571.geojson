@@ -47,6 +47,12 @@
     "name:eng_x_preferred":[
         "Puerto Plata"
     ],
+    "name:eng_x_variant":[
+        "Puerto Plata Province"
+    ],
+    "name:epo_x_preferred":[
+        "Haveno Ar\u011dento"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0626\u0631\u062a\u0648 \u067e\u0644\u0627\u062a\u0627"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud478\uc5d0\ub974\ud1a0\ud50c\ub77c\ud0c0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\uc5d0\ub974\ud1a0\ud50c\ub77c\ud0c0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Puertoplatas province"
@@ -144,6 +153,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e1b\u0e25\u0e32\u0e15\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e1b\u0e25\u0e32\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "Puerto Plata Province"
@@ -289,7 +301,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788350,
+    "wof:lastmodified":1563335718,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

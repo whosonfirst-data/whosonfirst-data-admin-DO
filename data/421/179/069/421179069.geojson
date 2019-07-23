@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Constanza"
     ],
+    "name:fin_x_preferred":[
+        "Constanza"
+    ],
     "name:fra_x_preferred":[
         "Constanza"
     ],
@@ -35,6 +38,9 @@
         "Constanza"
     ],
     "name:nld_x_preferred":[
+        "Constanza"
+    ],
+    "name:pol_x_preferred":[
         "Constanza"
     ],
     "name:por_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421179069,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1563336487,
     "wof:name":"Constanza",
     "wof:parent_id":890453401,
     "wof:placetype":"locality",

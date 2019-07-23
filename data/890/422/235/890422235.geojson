@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Polo"
+    ],
     "name:eng_x_preferred":[
         "Polo"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u0648\u060c \u0628\u0627\u0631\u0627\u06c1\u0648\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0648\u0644\u0648"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u6d1b"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890422235,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1563336494,
     "wof:name":"Polo",
     "wof:parent_id":1108721229,
     "wof:placetype":"locality",

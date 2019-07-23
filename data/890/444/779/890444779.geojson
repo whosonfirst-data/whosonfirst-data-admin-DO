@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Factor"
+    ],
     "name:eng_x_preferred":[
         "El Factor"
     ],
@@ -34,6 +37,9 @@
         "El Factor"
     ],
     "name:por_x_preferred":[
+        "El Factor"
+    ],
+    "name:spa_x_preferred":[
         "El Factor"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890444779,
-    "wof:lastmodified":1561788410,
+    "wof:lastmodified":1563336521,
     "wof:name":"El Factor",
     "wof:parent_id":890420141,
     "wof:placetype":"locality",

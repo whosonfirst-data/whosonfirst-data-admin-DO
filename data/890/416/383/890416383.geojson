@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Jaquimeyes"
     ],
+    "name:ceb_x_preferred":[
+        "Jaquimeyes"
+    ],
     "name:eng_x_preferred":[
         "Jaquimeyes"
     ],
@@ -37,6 +40,9 @@
         "Jaquimeyes"
     ],
     "name:por_x_preferred":[
+        "Jaquimeyes"
+    ],
+    "name:spa_x_preferred":[
         "Jaquimeyes"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890416383,
-    "wof:lastmodified":1561788414,
+    "wof:lastmodified":1563336556,
     "wof:name":"Jaquimeyes",
     "wof:parent_id":1108721171,
     "wof:placetype":"locality",

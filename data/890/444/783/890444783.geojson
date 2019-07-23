@@ -36,6 +36,9 @@
     "name:por_x_preferred":[
         "Los Cacaos"
     ],
+    "name:spa_x_preferred":[
+        "Los Cacaos"
+    ],
     "name:unk_x_variant":[
         "Los Cacaos"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890444783,
-    "wof:lastmodified":1561788410,
+    "wof:lastmodified":1563336520,
     "wof:name":"El Cacao",
     "wof:parent_id":1108721203,
     "wof:placetype":"locality",

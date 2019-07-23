@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0437\u0430\u0440\u0435\u0442\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Pizarrete"
+    ],
     "name:eng_x_preferred":[
         "Pizarrete"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890422237,
-    "wof:lastmodified":1561788407,
+    "wof:lastmodified":1563336498,
     "wof:name":"Pizarrete",
     "wof:parent_id":890429233,
     "wof:placetype":"locality",

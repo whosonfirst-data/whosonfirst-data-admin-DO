@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Valle"
+    ],
     "name:deu_x_preferred":[
         "El Valle"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421201993,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1563336481,
     "wof:name":"El Valle",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12629888.814787,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.953913,18.44654,-69.953913,18.44654",
     "geom:latitude":18.44654,
     "geom:longitude":-69.953913,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "La Esperilla"
+    ],
+    "name:nld_x_preferred":[
+        "La Esperilla"
+    ],
     "name:spa_x_preferred":[
         "La Esperilla"
     ],
@@ -64,10 +70,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":37,
     "wof:belongsto":[
+        85670659,
         102191575,
         85632713,
-        1108721273,
-        85670659
+        1108721273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861419,
+    "wof:lastmodified":1563335690,
     "wof:name":"La Esperilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

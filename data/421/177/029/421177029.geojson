@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09bf\u09af\u09bc\u09be\u0997\u09cb \u09a6\u09cd\u09af \u09b2\u09b8 \u0995\u09cd\u09af\u09be\u09ac\u09c7\u09b2\u09be\u09b0\u09cb\u09b8"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044f\u0433\u043e \u0434\u0435 \u043b\u043e\u0441 \u041a\u0430\u0431\u0430\u0439\u0435\u0440\u043e\u0441"
+    ],
     "name:cat_x_preferred":[
         "Santiago de los Caballeros"
     ],
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":421177029,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1563336484,
     "wof:name":"Santiago de los Caballeros",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

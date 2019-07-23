@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0441\u043f\u0435\u0440\u0430\u043b\u0432\u0438\u043b\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Esperalvillo"
+    ],
     "name:deu_x_preferred":[
         "Peralvillo"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890436781,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336507,
     "wof:name":"Esperalvillo",
     "wof:parent_id":1108721225,
     "wof:placetype":"locality",

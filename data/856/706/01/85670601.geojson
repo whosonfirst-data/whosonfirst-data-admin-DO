@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "La Estrelleta"
     ],
+    "name:eng_x_variant":[
+        "El\u00edas Pi\u00f1a Province"
+    ],
     "name:eus_x_preferred":[
         "El\u00edas Pi\u00f1a"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d8\ub9ac\uc544\uc2a4\ud53c\ub0d0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d8\ub9ac\uc544\uc2a4\ud53c\ub0d0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Eliaspinjas province"
@@ -148,6 +154,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e35\u0e40\u0e25\u0e35\u0e22\u0e2a \u0e1b\u0e34\u0e19\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25\u0e34\u0e2d\u0e31\u0e2a \u0e1b\u0e34\u0e0d\u0e0d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Elias Pina Province"
@@ -290,7 +299,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788347,
+    "wof:lastmodified":1563335703,
     "wof:name":"La Estrelleta",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

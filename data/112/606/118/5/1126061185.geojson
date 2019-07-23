@@ -24,6 +24,12 @@
     "name:ceb_x_preferred":[
         "Ciudad Nueva"
     ],
+    "name:eng_x_preferred":[
+        "Ciudad Nueva"
+    ],
+    "name:nld_x_preferred":[
+        "Ciudad Nueva"
+    ],
     "name:spa_x_preferred":[
         "Ciudad Nueva"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126061185,
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1563336582,
     "wof:name":"Ciudad Nueva",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

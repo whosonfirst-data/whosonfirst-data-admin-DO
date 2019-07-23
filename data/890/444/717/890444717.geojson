@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09c7 \u09aa\u09cd\u09b2\u09be\u099f\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Monte Plata"
+    ],
     "name:dan_x_preferred":[
         "Monte Plata"
     ],
@@ -94,6 +97,9 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435 \u041f\u043b\u0430\u0442\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041f\u043b\u0430\u0442\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dda \u0db4\u0dca\u0dbd\u0dcf\u0da7\u0dcf"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e40\u0e15 \u0e1e\u0e32\u0e15\u0e49\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e1b\u0e25\u0e32\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "Monte Plata"
@@ -258,7 +267,7 @@
         }
     ],
     "wof:id":890444717,
-    "wof:lastmodified":1561788411,
+    "wof:lastmodified":1563336529,
     "wof:name":"Monte Plata",
     "wof:parent_id":1108721213,
     "wof:placetype":"locality",

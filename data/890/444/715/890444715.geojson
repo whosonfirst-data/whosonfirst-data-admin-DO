@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0987\u09ac\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Neiba"
+    ],
     "name:dan_x_preferred":[
         "Neyba"
     ],
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":890444715,
-    "wof:lastmodified":1561788410,
+    "wof:lastmodified":1563336519,
     "wof:name":"Neiba",
     "wof:parent_id":890429235,
     "wof:placetype":"locality",

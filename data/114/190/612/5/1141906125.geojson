@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0628\u062f\u0631\u0646\u0627\u0644\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Pedernales"
+    ],
     "name:deu_x_preferred":[
         "Pedernales"
     ],
@@ -51,6 +54,9 @@
     "name:nld_x_preferred":[
         "Pedernales"
     ],
+    "name:pol_x_preferred":[
+        "Pedernales"
+    ],
     "name:por_x_preferred":[
         "Pedernales"
     ],
@@ -63,11 +69,17 @@
     "name:swe_x_preferred":[
         "Pedernales"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1b\u0e40\u0e14\u0e23\u0e4c\u0e19\u0e32\u0e40\u0e25\u0e2a"
+    ],
     "name:unk_x_variant":[
         "Anse \u00e0 Pitre"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u062f\u0631\u0646\u0627\u0644\u06cc\u0633\u060c \u067e\u06cc\u062f\u0631\u0646\u0627\u0644\u06cc\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u06cc\u062f\u0631\u0646\u0627\u0644\u06cc\u0633"
     ],
     "name:war_x_preferred":[
         "Pedernales"
@@ -208,7 +220,7 @@
         }
     ],
     "wof:id":1141906125,
-    "wof:lastmodified":1561788453,
+    "wof:lastmodified":1563336980,
     "wof:name":"Pedernales",
     "wof:parent_id":1108721217,
     "wof:placetype":"locality",

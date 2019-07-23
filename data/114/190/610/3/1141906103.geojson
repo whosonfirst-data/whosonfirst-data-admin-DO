@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u099f\u09c1\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Cotu\u00ed"
+    ],
     "name:dan_x_preferred":[
         "Cotu\u00ed"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e15\u0e38\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e01\u0e15\u0e39\u0e2d\u0e35"
     ],
     "name:tur_x_preferred":[
         "Cotui"
@@ -244,7 +250,7 @@
         }
     ],
     "wof:id":1141906103,
-    "wof:lastmodified":1561788453,
+    "wof:lastmodified":1563336978,
     "wof:name":"Cotui",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

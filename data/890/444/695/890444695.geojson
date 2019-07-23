@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Villa Jaragua"
+    ],
     "name:eng_x_preferred":[
         "Villa Jaragua"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890444695,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1563336517,
     "wof:name":"Villa Jaragua",
     "wof:parent_id":890429195,
     "wof:placetype":"locality",

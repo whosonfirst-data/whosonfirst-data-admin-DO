@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Bahoruco"
     ],
+    "name:eng_x_variant":[
+        "Baoruco Province"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0626\u0648\u0631\u0648\u06a9\u0648"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc624\ub8e8\ucf54 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc624\ub8e8\ucf54\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Baoruko province"
@@ -278,7 +284,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788348,
+    "wof:lastmodified":1563335710,
     "wof:name":"Bahoruco",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

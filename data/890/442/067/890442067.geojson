@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Concepci\u00f3n de la Vega"
     ],
+    "name:eng_x_variant":[
+        "La Vega"
+    ],
     "name:epo_x_preferred":[
         "Concepci\u00f3n de la Vega"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:spa_x_preferred":[
         "Concepci\u00f3n de La Vega"
+    ],
+    "name:spa_x_variant":[
+        "La Vega"
     ],
     "name:swe_x_preferred":[
         "Concepci\u00f3n de La Vega"
@@ -271,7 +277,7 @@
         }
     ],
     "wof:id":890442067,
-    "wof:lastmodified":1561788414,
+    "wof:lastmodified":1563336559,
     "wof:name":"Concepci\u00f3n de La Vega",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

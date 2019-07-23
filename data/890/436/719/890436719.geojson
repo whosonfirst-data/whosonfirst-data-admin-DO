@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San V\u00edctor Abajo"
+    ],
     "name:eng_x_preferred":[
         "San Victor"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890436719,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336508,
     "wof:name":"San V\u00edctor Arriba",
     "wof:parent_id":890429241,
     "wof:placetype":"locality",

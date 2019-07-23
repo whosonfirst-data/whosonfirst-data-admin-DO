@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7401464.037979,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.930735,18.478688,-69.930735,18.478688",
     "geom:latitude":18.478688,
     "geom:longitude":-69.930735,
@@ -28,6 +28,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Ensanche La F\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Ensanche La F\u00e9"
+    ],
     "name:spa_x_colloquial":[
         "La Fe"
     ],
@@ -122,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1563335689,
     "wof:name":"Ensanche la Fe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

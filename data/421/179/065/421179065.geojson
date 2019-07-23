@@ -37,6 +37,9 @@
     "name:por_x_preferred":[
         "Jima Abajo"
     ],
+    "name:spa_x_preferred":[
+        "Jima Abajo"
+    ],
     "name:swe_x_preferred":[
         "Jima Abajo"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179065,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1563336486,
     "wof:name":"Jima Abajo",
     "wof:parent_id":1108721173,
     "wof:placetype":"locality",

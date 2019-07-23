@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fantino"
+    ],
     "name:eng_x_preferred":[
         "Fantino"
     ],
@@ -37,6 +40,9 @@
         "Fantino"
     ],
     "name:slv_x_preferred":[
+        "Fantino"
+    ],
+    "name:spa_x_preferred":[
         "Fantino"
     ],
     "name:srp_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890444765,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1563336514,
     "wof:name":"Fantino",
     "wof:parent_id":890429287,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Jarabacoa"
     ],
+    "name:ceb_x_preferred":[
+        "Jarabacoa"
+    ],
     "name:dan_x_preferred":[
         "Jarabacoa"
     ],
@@ -46,6 +49,9 @@
         "Jarabacoa"
     ],
     "name:nld_x_preferred":[
+        "Jarabacoa"
+    ],
+    "name:pol_x_preferred":[
         "Jarabacoa"
     ],
     "name:por_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890429527,
-    "wof:lastmodified":1561788412,
+    "wof:lastmodified":1563336541,
     "wof:name":"Jarabacoa",
     "wof:parent_id":890429269,
     "wof:placetype":"locality",

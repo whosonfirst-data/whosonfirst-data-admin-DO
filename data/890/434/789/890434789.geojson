@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Luper\u00f3n"
     ],
+    "name:ceb_x_preferred":[
+        "Luper\u00f3n"
+    ],
     "name:eng_x_preferred":[
         "Luper\u00f3n"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890434789,
-    "wof:lastmodified":1561788416,
+    "wof:lastmodified":1563336567,
     "wof:name":"Luper\u00f3n",
     "wof:parent_id":890429253,
     "wof:placetype":"locality",

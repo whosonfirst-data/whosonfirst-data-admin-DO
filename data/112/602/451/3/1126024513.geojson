@@ -19,7 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:ceb_x_preferred":[
+        "Pueblo Viejo"
+    ],
     "name:eng_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:fra_x_preferred":[
         "Pueblo Viejo"
     ],
     "name:ita_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1126024513,
-    "wof:lastmodified":1561788417,
+    "wof:lastmodified":1563336577,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":1108721231,
     "wof:placetype":"locality",

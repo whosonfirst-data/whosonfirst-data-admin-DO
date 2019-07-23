@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "El Seybo"
     ],
+    "name:eng_x_variant":[
+        "El Seibo Province"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644 \u0633\u06cc\u0628\u0648"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d8\uc138\uc774\ubcf4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d8\uc138\uc774\ubcf4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Elseibo province"
@@ -144,6 +150,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e25 \u0e44\u0e0b\u0e42\u0e1a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25\u0e40\u0e0b\u0e22\u0e4c\u0e42\u0e1a"
     ],
     "name:tur_x_preferred":[
         "El Seibo Province"
@@ -289,7 +298,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788348,
+    "wof:lastmodified":1563335706,
     "wof:name":"El Seybo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

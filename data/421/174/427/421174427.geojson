@@ -113,6 +113,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e34\u0e21\u0e32\u0e19\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e34\u0e21\u0e32\u0e19\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Jimani"
     ],
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421174427,
-    "wof:lastmodified":1561788404,
+    "wof:lastmodified":1563336472,
     "wof:name":"Jiman\u00ed",
     "wof:parent_id":890455317,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Casta\u00f1uelas"
+    ],
     "name:eng_x_preferred":[
         "Casta\u00f1uela"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:spa_x_preferred":[
         "Casta\u00f1uela"
+    ],
+    "name:spa_x_variant":[
+        "Casta\u00f1uelas"
     ],
     "name:swe_x_preferred":[
         "Casta\u00f1uelas"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890434811,
-    "wof:lastmodified":1561788415,
+    "wof:lastmodified":1563336561,
     "wof:name":"Casta\u00f1uelas",
     "wof:parent_id":1108721131,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Enriquillo"
+    ],
     "name:eng_x_preferred":[
         "Enriquillo"
     ],
@@ -31,6 +34,9 @@
         "Enriquillo"
     ],
     "name:por_x_preferred":[
+        "Enriquillo"
+    ],
+    "name:spa_x_preferred":[
         "Enriquillo"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890436783,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336506,
     "wof:name":"Enriquillo",
     "wof:parent_id":890429291,
     "wof:placetype":"locality",

@@ -70,11 +70,20 @@
     "name:spa_x_preferred":[
         "Salvale\u00f3n de Hig\u00fcey"
     ],
+    "name:spa_x_variant":[
+        "Hig\u00fcey"
+    ],
     "name:swe_x_preferred":[
         "Salvale\u00f3n de Hig\u00fcey"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e31\u0e25\u0e1a\u0e32\u0e40\u0e25\u0e2d\u0e2d\u0e19\u0e40\u0e14\u0e2d\u0e34\u0e40\u0e01\u0e27\u0e22\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "h\u00fci\u015flk\u00e7"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0433\u0443\u0435\u0439"
     ],
     "name:unk_x_variant":[
         "Hig\u00fcey"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125982923,
-    "wof:lastmodified":1561788417,
+    "wof:lastmodified":1563336581,
     "wof:name":"Salvale\u00f3n de Hig\u00fcey",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

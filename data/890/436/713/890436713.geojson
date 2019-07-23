@@ -30,6 +30,9 @@
     "name:por_x_preferred":[
         "Crist\u00f3bal"
     ],
+    "name:spa_x_preferred":[
+        "Crist\u00f3bal"
+    ],
     "name:unk_x_variant":[
         "San Crist\u00f3bal"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890436713,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1563336505,
     "wof:name":"Crist\u00f3bal",
     "wof:parent_id":1108721141,
     "wof:placetype":"locality",

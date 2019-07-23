@@ -30,6 +30,9 @@
     "name:unk_x_variant":[
         "Sabana de La Mar"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0627\u0646\u06c1 \u062f\u06d2 \u0644\u0627 \u0645\u0631"
+    ],
     "qs:name":"Sabana de La Mar",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890429219,
-    "wof:lastmodified":1536617380,
+    "wof:lastmodified":1563336535,
     "wof:name":"Sabana De La Mar",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

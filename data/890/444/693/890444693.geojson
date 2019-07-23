@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Villa Riva"
+    ],
     "name:eng_x_preferred":[
         "Villa Riva"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890444693,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1563336516,
     "wof:name":"Villa Riva",
     "wof:parent_id":890429191,
     "wof:placetype":"locality",

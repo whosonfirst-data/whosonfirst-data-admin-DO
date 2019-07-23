@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0441\u0442\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Hostos"
+    ],
     "name:eng_x_preferred":[
         "Hostos"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890444747,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1563336518,
     "wof:name":"Hostos",
     "wof:parent_id":1108721153,
     "wof:placetype":"locality",

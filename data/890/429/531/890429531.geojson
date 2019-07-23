@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Castillo"
+    ],
     "name:eng_x_preferred":[
         "Castillo"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890429531,
-    "wof:lastmodified":1561788412,
+    "wof:lastmodified":1563336544,
     "wof:name":"Castillo",
     "wof:parent_id":1108721135,
     "wof:placetype":"locality",

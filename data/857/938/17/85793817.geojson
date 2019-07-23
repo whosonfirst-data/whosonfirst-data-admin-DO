@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1076518.660191,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.899771,18.463318,-69.899771,18.463318",
     "geom:latitude":18.463318,
     "geom:longitude":-69.899771,
@@ -30,6 +30,12 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:ceb_x_preferred":[
+        "Villa Francisca"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Francisca"
+    ],
+    "name:nld_x_preferred":[
         "Villa Francisca"
     ],
     "name:spa_x_preferred":[
@@ -123,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379287,
+    "wof:lastmodified":1563335688,
     "wof:name":"Villa Francisca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

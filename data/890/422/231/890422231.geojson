@@ -15,6 +15,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "R\u00edo San Juan"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo San Juan"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890422231,
-    "wof:lastmodified":1561788407,
+    "wof:lastmodified":1563336497,
     "wof:name":"R\u00edo San Juan",
     "wof:parent_id":890436811,
     "wof:placetype":"locality",

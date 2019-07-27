@@ -25,6 +25,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Naranjos"
+    ],
     "name:und_x_variant":[
         "Naranjos",
         "Los Naranjos"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309959285,
-    "wof:lastmodified":1537619940,
+    "wof:lastmodified":1564188930,
     "wof:name":"Los Naranjos",
     "wof:parent_id":1108721149,
     "wof:placetype":"locality",

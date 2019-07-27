@@ -28,6 +28,36 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mella"
+    ],
+    "name:deu_x_preferred":[
+        "Mella"
+    ],
+    "name:fra_x_preferred":[
+        "Mella"
+    ],
+    "name:glg_x_preferred":[
+        "Mella"
+    ],
+    "name:ita_x_preferred":[
+        "Mella"
+    ],
+    "name:por_x_preferred":[
+        "Mella"
+    ],
+    "name:spa_x_preferred":[
+        "Mella"
+    ],
+    "name:srp_x_preferred":[
+        "Mella"
+    ],
+    "name:swe_x_preferred":[
+        "Mella"
+    ],
+    "name:vie_x_preferred":[
+        "Mella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1293271073,
-    "wof:lastmodified":1537095821,
+    "wof:lastmodified":1564188293,
     "wof:name":"Mella",
     "wof:parent_id":890429259,
     "wof:placetype":"locality",

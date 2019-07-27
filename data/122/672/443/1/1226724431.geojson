@@ -28,10 +28,22 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Cacaos"
+    ],
+    "name:por_x_preferred":[
+        "Los Cacaos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Cacaos"
+    ],
     "name:und_x_variant":[
         "Ramfis",
         "Villa Ramfis",
         "Los Cacaos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u5361\u8003\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1226724431,
-    "wof:lastmodified":1537619949,
+    "wof:lastmodified":1564189236,
     "wof:name":"Los Cacaos",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Angelito"
+    ],
+    "name:spa_x_preferred":[
+        "Angelito"
+    ],
+    "name:swe_x_preferred":[
+        "Angelito"
+    ],
     "name:und_x_variant":[
         "Los Angelitos",
         "Angelito"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243116397,
-    "wof:lastmodified":1537620085,
+    "wof:lastmodified":1564189122,
     "wof:name":"Angelito",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",

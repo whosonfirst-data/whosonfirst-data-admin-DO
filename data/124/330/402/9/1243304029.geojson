@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Demajagua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243304029,
-    "wof:lastmodified":1537010146,
+    "wof:lastmodified":1564188984,
     "wof:name":"La Demajagua",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Silencio"
+    ],
+    "name:spa_x_preferred":[
+        "El Silencio"
+    ],
+    "name:swe_x_preferred":[
+        "El Silencio"
+    ],
     "name:und_x_variant":[
         "Silencio",
         "El Silencio"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226000983,
-    "wof:lastmodified":1537620014,
+    "wof:lastmodified":1564189369,
     "wof:name":"El Silencio",
     "wof:parent_id":890420143,
     "wof:placetype":"locality",

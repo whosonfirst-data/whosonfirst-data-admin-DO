@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia San Rafael"
+    ],
     "name:und_x_variant":[
         "San Rafael",
         "Colonia San Rafael"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243604711,
-    "wof:lastmodified":1537620049,
+    "wof:lastmodified":1564189078,
     "wof:name":"Colonia San Rafael",
     "wof:parent_id":890438115,
     "wof:placetype":"locality",

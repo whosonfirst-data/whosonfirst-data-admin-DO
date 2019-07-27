@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maguey"
+    ],
+    "name:swe_x_preferred":[
+        "Maguey"
+    ],
     "name:und_x_variant":[
         "Bacui",
         "Maguey"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343918567,
-    "wof:lastmodified":1537619934,
+    "wof:lastmodified":1564188033,
     "wof:name":"Maguey",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

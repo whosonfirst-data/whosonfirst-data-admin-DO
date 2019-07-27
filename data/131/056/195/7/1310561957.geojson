@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La rabona"
+    ],
     "name:und_x_variant":[
         "Rabona",
         "La Rabona"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310561957,
-    "wof:lastmodified":1537619967,
+    "wof:lastmodified":1564188853,
     "wof:name":"La Rabona",
     "wof:parent_id":890429269,
     "wof:placetype":"locality",

@@ -29,10 +29,19 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Barrero"
+    ],
+    "name:spa_x_preferred":[
+        "El Barrero"
+    ],
     "name:und_x_variant":[
         "Las Barreras",
         "Los Barreros",
         "El Barrero"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u5df4\u96f7\u7f57"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226398549,
-    "wof:lastmodified":1537620040,
+    "wof:lastmodified":1564189364,
     "wof:name":"El Barrero",
     "wof:parent_id":890420143,
     "wof:placetype":"locality",

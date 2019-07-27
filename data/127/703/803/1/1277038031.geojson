@@ -28,6 +28,24 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0440\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Loran"
+    ],
+    "name:deu_x_preferred":[
+        "Loran"
+    ],
+    "name:fra_x_preferred":[
+        "Loran"
+    ],
+    "name:ita_x_preferred":[
+        "Loran"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "El Or\u00e1n",
         "Lor\u00e1n"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1277038031,
-    "wof:lastmodified":1537619952,
+    "wof:lastmodified":1564188410,
     "wof:name":"Loran",
     "wof:parent_id":890429253,
     "wof:placetype":"locality",

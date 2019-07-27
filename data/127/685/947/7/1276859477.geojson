@@ -28,6 +28,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Caya"
+    ],
+    "name:por_x_preferred":[
+        "La Caya"
+    ],
+    "name:spa_x_preferred":[
+        "La Caya"
+    ],
+    "name:swe_x_preferred":[
+        "La Caya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0627\u06cc\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276859477,
-    "wof:lastmodified":1537065561,
+    "wof:lastmodified":1564188425,
     "wof:name":"La Caya",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

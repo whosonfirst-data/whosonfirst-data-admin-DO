@@ -29,6 +29,33 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Constanza"
+    ],
+    "name:ceb_x_preferred":[
+        "Constanza"
+    ],
+    "name:deu_x_preferred":[
+        "Constanza"
+    ],
+    "name:eus_x_preferred":[
+        "Konstantza"
+    ],
+    "name:fin_x_preferred":[
+        "Constanza"
+    ],
+    "name:fra_x_preferred":[
+        "Constanza"
+    ],
+    "name:glg_x_preferred":[
+        "Constanza"
+    ],
+    "name:spa_x_preferred":[
+        "Constanza"
+    ],
+    "name:swe_x_preferred":[
+        "Constanza"
+    ],
     "name:und_x_variant":[
         "Constancia",
         "Constanza"
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1293647205,
-    "wof:lastmodified":1537620049,
+    "wof:lastmodified":1564188214,
     "wof:name":"Constanza",
     "wof:parent_id":1108721235,
     "wof:placetype":"locality",

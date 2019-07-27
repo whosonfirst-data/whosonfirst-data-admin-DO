@@ -24,6 +24,36 @@
     "mps:longitude":-69.551337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:fra_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:pol_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:por_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0435\u0440\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u7279\u96f7\u7d0d\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1108721195,
-    "wof:lastmodified":1536615588,
+    "wof:lastmodified":1564188734,
     "wof:name":"Las Terrenas",
     "wof:parent_id":85670653,
     "wof:placetype":"county",

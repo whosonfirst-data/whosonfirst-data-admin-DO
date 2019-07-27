@@ -25,6 +25,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Robles"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u0420\u043e\u0431\u043b\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Los Robles"
+    ],
     "name:und_x_variant":[
         "Roble",
         "Los Robles"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276559453,
-    "wof:lastmodified":1537619937,
+    "wof:lastmodified":1564188446,
     "wof:name":"Los Robles",
     "wof:parent_id":890429205,
     "wof:placetype":"locality",

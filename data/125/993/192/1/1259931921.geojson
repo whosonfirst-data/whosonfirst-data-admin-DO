@@ -28,6 +28,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Valiente"
+    ],
+    "name:deu_x_preferred":[
+        "Valiente"
+    ],
+    "name:fra_x_preferred":[
+        "Valiente"
+    ],
+    "name:ita_x_preferred":[
+        "Valiente"
+    ],
+    "name:swe_x_preferred":[
+        "Valiente"
+    ],
     "name:und_x_variant":[
         "Vertiente",
         "Valiente"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259931921,
-    "wof:lastmodified":1537619906,
+    "wof:lastmodified":1564189190,
     "wof:name":"Valiente",
     "wof:parent_id":1108721275,
     "wof:placetype":"locality",

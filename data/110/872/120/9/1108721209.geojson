@@ -24,6 +24,36 @@
     "mps:longitude":-71.444389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mella"
+    ],
+    "name:deu_x_preferred":[
+        "Mella"
+    ],
+    "name:fra_x_preferred":[
+        "Mella"
+    ],
+    "name:glg_x_preferred":[
+        "Mella"
+    ],
+    "name:ita_x_preferred":[
+        "Mella"
+    ],
+    "name:por_x_preferred":[
+        "Mella"
+    ],
+    "name:spa_x_preferred":[
+        "Mella"
+    ],
+    "name:srp_x_preferred":[
+        "Mella"
+    ],
+    "name:swe_x_preferred":[
+        "Mella"
+    ],
+    "name:vie_x_preferred":[
+        "Mella"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1108721209,
-    "wof:lastmodified":1536615588,
+    "wof:lastmodified":1564188730,
     "wof:name":"Mella",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

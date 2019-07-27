@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabana Abajo"
+    ],
     "name:und_x_variant":[
         "Sabana Grande",
         "Sabana Abajo"
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209673757,
-    "wof:lastmodified":1537619914,
+    "wof:lastmodified":1564188550,
     "wof:name":"Sabana Abajo",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

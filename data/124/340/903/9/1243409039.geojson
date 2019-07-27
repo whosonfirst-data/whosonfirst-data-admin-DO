@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Patilla"
+    ],
     "name:und_x_variant":[
         "Pastilla",
         "La Patilla"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243409039,
-    "wof:lastmodified":1537619969,
+    "wof:lastmodified":1564189046,
     "wof:name":"La Patilla",
     "wof:parent_id":890429239,
     "wof:placetype":"locality",

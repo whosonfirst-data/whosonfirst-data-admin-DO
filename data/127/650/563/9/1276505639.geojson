@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Remolino"
+    ],
+    "name:spa_x_preferred":[
+        "El Remolino"
+    ],
     "name:und_x_variant":[
         "Remolino",
         "El Remolino"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276505639,
-    "wof:lastmodified":1537620016,
+    "wof:lastmodified":1564188394,
     "wof:name":"El Remolino",
     "wof:parent_id":1108721181,
     "wof:placetype":"locality",

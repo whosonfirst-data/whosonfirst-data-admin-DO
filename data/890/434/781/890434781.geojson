@@ -15,6 +15,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salsipuedes"
+    ],
+    "name:spa_x_preferred":[
+        "Salsipuedes"
+    ],
+    "name:swe_x_preferred":[
+        "Salsipuedes"
+    ],
     "qs:name":"Salsipuedes",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":890434781,
-    "wof:lastmodified":1505343543,
+    "wof:lastmodified":1564188969,
     "wof:name":"Salsipuedes",
     "wof:parent_id":1108721251,
     "wof:placetype":"locality",

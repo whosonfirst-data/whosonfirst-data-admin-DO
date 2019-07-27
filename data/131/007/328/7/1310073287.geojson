@@ -28,8 +28,20 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pu\u00f1al"
+    ],
+    "name:por_x_preferred":[
+        "Pu\u00f1al"
+    ],
+    "name:spa_x_preferred":[
+        "Pu\u00f1al"
+    ],
     "name:und_x_variant":[
         "Pu\u00f1al"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5c3c\u4e9e\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1310073287,
-    "wof:lastmodified":1537619918,
+    "wof:lastmodified":1564188781,
     "wof:name":"Punal",
     "wof:parent_id":890429271,
     "wof:placetype":"locality",

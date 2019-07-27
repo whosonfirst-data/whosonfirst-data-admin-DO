@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Fria"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259693385,
-    "wof:lastmodified":1537050547,
+    "wof:lastmodified":1564189198,
     "wof:name":"Agua Fria",
     "wof:parent_id":1108721149,
     "wof:placetype":"locality",

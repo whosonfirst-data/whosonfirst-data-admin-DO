@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Camu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276835993,
-    "wof:lastmodified":1537096658,
+    "wof:lastmodified":1564188442,
     "wof:name":"Camu",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

@@ -27,6 +27,21 @@
     "mps:longitude":-70.86664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Imbert"
+    ],
+    "name:deu_x_preferred":[
+        "Imbert"
+    ],
+    "name:fra_x_preferred":[
+        "Imbert"
+    ],
+    "name:spa_x_preferred":[
+        "Imbert"
+    ],
+    "name:swe_x_preferred":[
+        "Imbert"
+    ],
     "qs:name":"Imbert",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":890429273,
-    "wof:lastmodified":1536617381,
+    "wof:lastmodified":1564188961,
     "wof:name":"Imbert",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

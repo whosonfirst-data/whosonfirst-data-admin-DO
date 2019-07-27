@@ -24,6 +24,18 @@
     "mps:longitude":-70.695436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Puerto Plata"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Plata"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Plata"
+    ],
+    "name:slk_x_preferred":[
+        "Puerto Plata"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1108721233,
-    "wof:lastmodified":1536615589,
+    "wof:lastmodified":1564188743,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

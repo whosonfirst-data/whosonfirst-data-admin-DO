@@ -29,6 +29,24 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cuaba"
+    ],
+    "name:ita_x_preferred":[
+        "Cuaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a1\u30d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0430\u0431\u0430"
+    ],
+    "name:nor_x_preferred":[
+        "Cuaba"
+    ],
+    "name:rus_x_preferred":[
+        "Cuaba"
+    ],
     "name:und_x_variant":[
         "Casa Viejo",
         "Cuaba"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209407437,
-    "wof:lastmodified":1537620046,
+    "wof:lastmodified":1564188515,
     "wof:name":"Cuaba",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

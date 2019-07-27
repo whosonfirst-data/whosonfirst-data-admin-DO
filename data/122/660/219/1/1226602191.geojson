@@ -29,6 +29,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Hato del Yaque"
+    ],
+    "name:spa_x_preferred":[
+        "Hato del Yaque"
+    ],
     "name:und_x_variant":[
         "Alto del Yaque",
         "Hato del Yaque Abajo",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1226602191,
-    "wof:lastmodified":1537620005,
+    "wof:lastmodified":1564189288,
     "wof:name":"Hato del Yaque",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

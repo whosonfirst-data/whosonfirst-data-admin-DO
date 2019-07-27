@@ -28,6 +28,27 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Fun Fun"
+    ],
+    "name:deu_x_preferred":[
+        "Fun Fun"
+    ],
+    "name:fin_x_preferred":[
+        "Fun Fun"
+    ],
+    "name:hun_x_preferred":[
+        "Fun Fun"
+    ],
+    "name:ita_x_preferred":[
+        "Fun Fun"
+    ],
+    "name:nld_x_preferred":[
+        "Fun Fun"
+    ],
+    "name:spa_x_preferred":[
+        "Fun Fun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1243324567,
-    "wof:lastmodified":1536980767,
+    "wof:lastmodified":1564189073,
     "wof:name":"Fun Fun",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

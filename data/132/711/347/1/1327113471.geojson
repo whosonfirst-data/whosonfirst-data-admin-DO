@@ -28,6 +28,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ponton"
+    ],
+    "name:fra_x_preferred":[
+        "Ponton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d5\u05df"
+    ],
+    "name:pol_x_preferred":[
+        "Ponton"
+    ],
+    "name:swe_x_preferred":[
+        "Ponton"
+    ],
     "name:und_x_variant":[
         "El Pont\u00f3n",
         "Pont\u00f3n"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1327113471,
-    "wof:lastmodified":1537619920,
+    "wof:lastmodified":1564188019,
     "wof:name":"Ponton",
     "wof:parent_id":890429237,
     "wof:placetype":"locality",

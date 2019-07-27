@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Mina"
+    ],
     "name:und_x_variant":[
         "Batey La Mina",
         "La Mina"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209964055,
-    "wof:lastmodified":1537619971,
+    "wof:lastmodified":1564188478,
     "wof:name":"La Mina",
     "wof:parent_id":890429243,
     "wof:placetype":"locality",

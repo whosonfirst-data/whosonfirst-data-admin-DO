@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pestana"
+    ],
+    "name:por_x_preferred":[
+        "Pestana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u0442\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Batey Pesta\u00f1a",
         "Pesta\u00f1a"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209699651,
-    "wof:lastmodified":1537619922,
+    "wof:lastmodified":1564188557,
     "wof:name":"Pestana",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

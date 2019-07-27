@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bejuco"
+    ],
     "name:und_x_variant":[
         "Guao",
         "Guaco"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360045883,
-    "wof:lastmodified":1537620009,
+    "wof:lastmodified":1564188899,
     "wof:name":"Guaco",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

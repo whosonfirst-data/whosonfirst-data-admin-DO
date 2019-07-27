@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gerardo"
+    ],
+    "name:pol_x_preferred":[
+        "Gerarda"
+    ],
+    "name:spa_x_preferred":[
+        "Gerardo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343570747,
-    "wof:lastmodified":1537081388,
+    "wof:lastmodified":1564188114,
     "wof:name":"Gerardo",
     "wof:parent_id":1108721197,
     "wof:placetype":"locality",

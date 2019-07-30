@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmarito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276549045,
-    "wof:lastmodified":1536986156,
+    "wof:lastmodified":1564188464,
     "wof:name":"Palmarito",
     "wof:parent_id":890429291,
     "wof:placetype":"locality",

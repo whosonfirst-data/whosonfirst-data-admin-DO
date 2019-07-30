@@ -28,6 +28,108 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648"
+    ],
+    "name:bre_x_preferred":[
+        "Nico"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u043a\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Nico"
+    ],
+    "name:ces_x_preferred":[
+        "Nico"
+    ],
+    "name:dan_x_preferred":[
+        "Nico"
+    ],
+    "name:deu_x_preferred":[
+        "Nico"
+    ],
+    "name:epo_x_preferred":[
+        "Nico"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Nico"
+    ],
+    "name:fra_x_preferred":[
+        "Nico"
+    ],
+    "name:glg_x_preferred":[
+        "Nico"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Nico"
+    ],
+    "name:hsb_x_preferred":[
+        "Nico"
+    ],
+    "name:hun_x_preferred":[
+        "Nico"
+    ],
+    "name:ita_x_preferred":[
+        "Nico"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ucf54"
+    ],
+    "name:lav_x_preferred":[
+        "Niko"
+    ],
+    "name:lit_x_preferred":[
+        "Christa P\u00e4ffgen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043a\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Nico"
+    ],
+    "name:nor_x_preferred":[
+        "Nico"
+    ],
+    "name:pol_x_preferred":[
+        "Nico"
+    ],
+    "name:por_x_preferred":[
+        "Nico"
+    ],
+    "name:ron_x_preferred":[
+        "Christa P\u00e4ffgen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Nico"
+    ],
+    "name:spa_x_preferred":[
+        "Nico"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "Nico"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +153,7 @@
         }
     ],
     "wof:id":1226830251,
-    "wof:lastmodified":1537087482,
+    "wof:lastmodified":1564189352,
     "wof:name":"Nico",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

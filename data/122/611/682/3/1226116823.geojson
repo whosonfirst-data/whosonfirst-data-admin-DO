@@ -28,8 +28,26 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Villa Clara"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Clara"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Clara"
+    ],
+    "name:por_x_preferred":[
+        "Villa Clara"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Clara"
+    ],
     "name:und_x_variant":[
         "Clara",
+        "Villa Clara"
+    ],
+    "name:vie_x_preferred":[
         "Villa Clara"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226116823,
-    "wof:lastmodified":1537619905,
+    "wof:lastmodified":1564189274,
     "wof:name":"Villa Clara",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

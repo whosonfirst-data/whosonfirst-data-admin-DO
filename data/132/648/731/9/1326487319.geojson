@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "El Poblado"
+    ],
+    "name:por_x_preferred":[
+        "El Poblado"
+    ],
+    "name:spa_x_preferred":[
+        "El Poblado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326487319,
-    "wof:lastmodified":1537046903,
+    "wof:lastmodified":1564187983,
     "wof:name":"El Poblado",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

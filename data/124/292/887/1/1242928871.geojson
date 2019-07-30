@@ -28,6 +28,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Licey al Medio"
+    ],
+    "name:ita_x_preferred":[
+        "Licey al Medio"
+    ],
+    "name:por_x_preferred":[
+        "Licey al Medio"
+    ],
+    "name:spa_x_preferred":[
+        "Licey al Medio"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u585e\u963f\u723e\u6885\u8fea\u5967"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1242928871,
-    "wof:lastmodified":1537052649,
+    "wof:lastmodified":1564189010,
     "wof:name":"Licey al Medio",
     "wof:parent_id":1108721285,
     "wof:placetype":"locality",

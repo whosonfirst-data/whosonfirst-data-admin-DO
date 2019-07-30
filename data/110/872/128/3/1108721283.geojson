@@ -24,6 +24,18 @@
     "mps:longitude":-69.685241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uccb4\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e1nchez"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e1nchez"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1108721283,
-    "wof:lastmodified":1536615590,
+    "wof:lastmodified":1564188738,
     "wof:name":"S\u00e1nchez",
     "wof:parent_id":85670653,
     "wof:placetype":"county",

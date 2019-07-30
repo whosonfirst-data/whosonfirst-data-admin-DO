@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Hoyo"
+    ],
+    "name:spa_x_preferred":[
+        "El Hoyo"
+    ],
     "name:und_x_variant":[
         "El Hoyos",
         "El Hoyo"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360238367,
-    "wof:lastmodified":1537620027,
+    "wof:lastmodified":1564188868,
     "wof:name":"El Hoyo",
     "wof:parent_id":1108721109,
     "wof:placetype":"locality",

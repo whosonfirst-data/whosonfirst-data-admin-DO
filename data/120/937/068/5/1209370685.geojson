@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "El Cuero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632713
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209370685,
-    "wof:lastmodified":1536289117,
+    "wof:lastmodified":1564188491,
     "wof:name":"El Cuero",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

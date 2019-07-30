@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Arroyito"
+    ],
+    "name:spa_x_preferred":[
+        "Arroyito"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0440\u043e\u0457\u0442\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242639995,
-    "wof:lastmodified":1536973646,
+    "wof:lastmodified":1564189114,
     "wof:name":"Arroyito",
     "wof:parent_id":890425729,
     "wof:placetype":"locality",

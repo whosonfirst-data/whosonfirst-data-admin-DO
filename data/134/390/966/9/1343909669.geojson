@@ -28,8 +28,17 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guerra"
+    ],
     "name:spa_x_preferred":[
         "San Antonio de Guerra"
+    ],
+    "name:swe_x_preferred":[
+        "Guerra"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u683c\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343909669,
-    "wof:lastmodified":1537620006,
+    "wof:lastmodified":1564188053,
     "wof:name":"Guerra",
     "wof:parent_id":1108721255,
     "wof:placetype":"locality",

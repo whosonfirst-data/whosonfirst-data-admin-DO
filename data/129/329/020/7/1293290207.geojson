@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Abajo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u0445\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293290207,
-    "wof:lastmodified":1537068462,
+    "wof:lastmodified":1564188295,
     "wof:name":"Abajo",
     "wof:parent_id":890429241,
     "wof:placetype":"locality",

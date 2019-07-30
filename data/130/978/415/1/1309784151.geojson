@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1309784151,
-    "wof:lastmodified":1536962208,
+    "wof:lastmodified":1564188918,
     "wof:name":"Rincon Grande",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pedro Brand"
+    ],
+    "name:por_x_preferred":[
+        "Pedro Brand"
+    ],
+    "name:spa_x_preferred":[
+        "Pedro Brand"
+    ],
+    "name:swe_x_preferred":[
+        "Pedro Brand"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u7f85\u5e03\u862d\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293727127,
-    "wof:lastmodified":1537504228,
+    "wof:lastmodified":1564188319,
     "wof:name":"Pedro Brand",
     "wof:parent_id":1108721219,
     "wof:placetype":"locality",

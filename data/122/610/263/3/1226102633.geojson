@@ -28,8 +28,20 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jina"
+    ],
+    "name:deu_x_preferred":[
+        "Jina"
+    ],
+    "name:ita_x_preferred":[
+        "Jina"
+    ],
     "name:und_x_variant":[
         "La Gina",
+        "Jina"
+    ],
+    "name:vie_x_preferred":[
         "Jina"
     ],
     "src:geom":"geonames",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226102633,
-    "wof:lastmodified":1537620000,
+    "wof:lastmodified":1564189244,
     "wof:name":"Jina",
     "wof:parent_id":890453401,
     "wof:placetype":"locality",

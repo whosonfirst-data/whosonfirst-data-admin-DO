@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manoguayabo"
+    ],
+    "name:spa_x_preferred":[
+        "Manoguayabo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326473483,
-    "wof:lastmodified":1537504230,
+    "wof:lastmodified":1564187970,
     "wof:name":"Manoguayabo",
     "wof:parent_id":1108721281,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Alejos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326799155,
-    "wof:lastmodified":1537093330,
+    "wof:lastmodified":1564187975,
     "wof:name":"Los Alejos",
     "wof:parent_id":890429267,
     "wof:placetype":"locality",

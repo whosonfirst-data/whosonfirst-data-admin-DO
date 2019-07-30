@@ -32,6 +32,9 @@
         "La Ci\u00e9nega",
         "La Ci\u00e9naga"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u06cc\u0646\u0627\u06af\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632713
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209158805,
-    "wof:lastmodified":1537619987,
+    "wof:lastmodified":1564188511,
     "wof:name":"La Cienaga",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

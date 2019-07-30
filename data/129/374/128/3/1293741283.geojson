@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bernabe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0431\u0435"
+    ],
     "name:und_x_variant":[
         "Bernabel",
         "Bernab\u00e9"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293741283,
-    "wof:lastmodified":1537620064,
+    "wof:lastmodified":1564188308,
     "wof:name":"Bernabe",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

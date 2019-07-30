@@ -28,6 +28,21 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Filipinas"
+    ],
+    "name:spa_x_preferred":[
+        "Filipinas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0438\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Filipinas"
+    ],
+    "name:tgl_x_preferred":[
+        "Filipinas"
+    ],
     "name:und_x_variant":[
         "Las Felipinas",
         "Filipinas"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226810263,
-    "wof:lastmodified":1537620010,
+    "wof:lastmodified":1564189239,
     "wof:name":"Filipinas",
     "wof:parent_id":890438115,
     "wof:placetype":"locality",

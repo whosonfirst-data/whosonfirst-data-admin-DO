@@ -28,6 +28,12 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trinitaria"
+    ],
+    "name:sco_x_preferred":[
+        "Trinitaria"
+    ],
     "name:und_x_variant":[
         "Colonia Trinitaria",
         "Trinitaria"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327432029,
-    "wof:lastmodified":1537619906,
+    "wof:lastmodified":1564188005,
     "wof:name":"Trinitaria",
     "wof:parent_id":1108721239,
     "wof:placetype":"locality",

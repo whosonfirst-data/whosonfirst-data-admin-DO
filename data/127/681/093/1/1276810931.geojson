@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Chaparral"
+    ],
     "name:und_x_variant":[
         "Chaparral",
         "El Chaparral"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276810931,
-    "wof:lastmodified":1537620035,
+    "wof:lastmodified":1564188332,
     "wof:name":"El Chaparral",
     "wof:parent_id":1108721279,
     "wof:placetype":"locality",

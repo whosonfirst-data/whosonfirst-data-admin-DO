@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Hato"
+    ],
+    "name:spa_x_preferred":[
+        "El Hato"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u6258"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326488731,
-    "wof:lastmodified":1537044977,
+    "wof:lastmodified":1564187983,
     "wof:name":"El Hato",
     "wof:parent_id":890429203,
     "wof:placetype":"locality",

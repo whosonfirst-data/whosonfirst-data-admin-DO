@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Isabelita"
+    ],
+    "name:spa_x_preferred":[
+        "Isabelita"
+    ],
+    "name:swe_x_preferred":[
+        "Isabelita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632713
@@ -37,7 +46,7 @@
         "gn:id":3504283
     },
     "wof:country":"DO",
-    "wof:geomhash":"c23e1ce54d0cfe71c0e7dd020e30d7ea",
+    "wof:geomhash":"a95bf6ff04cb3818b99f09fa0c2a87a4",
     "wof:hierarchy":[
         {
             "country_id":85632713,
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209175595,
-    "wof:lastmodified":1536295433,
+    "wof:lastmodified":1564188592,
     "wof:name":"Isabelita",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",
@@ -56,9 +65,9 @@
 },
   "bbox": [
     -69.13333,
-    18.866670000000006,
+    18.86667000000001,
     -69.13333,
-    18.866670000000006
+    18.86667000000001
 ],
   "geometry": {"coordinates":[-69.13333,18.86667000000001],"type":"Point"}
 }

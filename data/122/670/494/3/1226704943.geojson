@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palmarejo"
+    ],
+    "name:pol_x_preferred":[
+        "Palmarejo"
+    ],
+    "name:swe_x_preferred":[
+        "Palmarejo"
+    ],
     "name:und_x_variant":[
         "Palmerejo",
         "Palmarejo"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226704943,
-    "wof:lastmodified":1537619925,
+    "wof:lastmodified":1564189351,
     "wof:name":"Palmarejo",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

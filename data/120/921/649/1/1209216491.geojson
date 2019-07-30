@@ -28,6 +28,9 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Humedal La Vaca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632713
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209216491,
-    "wof:lastmodified":1536294114,
+    "wof:lastmodified":1564188591,
     "wof:name":"La Vaca",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

@@ -29,6 +29,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Botados"
+    ],
+    "name:por_x_preferred":[
+        "Los Botados"
+    ],
+    "name:swe_x_preferred":[
+        "Los Botados"
+    ],
     "name:und_x_variant":[
         "Botaos",
         "Los Botaos",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1243410409,
-    "wof:lastmodified":1537619950,
+    "wof:lastmodified":1564189027,
     "wof:name":"Los Botados",
     "wof:parent_id":890420143,
     "wof:placetype":"locality",

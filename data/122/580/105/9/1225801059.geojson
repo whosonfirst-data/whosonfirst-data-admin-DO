@@ -28,6 +28,36 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Contreras"
+    ],
+    "name:ceb_x_preferred":[
+        "Contreras"
+    ],
+    "name:deu_x_preferred":[
+        "Contreras"
+    ],
+    "name:fra_x_preferred":[
+        "Contreras"
+    ],
+    "name:glg_x_preferred":[
+        "Contreras"
+    ],
+    "name:nld_x_preferred":[
+        "Contreras"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0440\u0435\u0440\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Contreras"
+    ],
+    "name:swe_x_preferred":[
+        "Contreras"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0440\u0435\u0440\u0430\u0441"
+    ],
     "name:und_x_variant":[
         "Contrera",
         "Contreras"
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1225801059,
-    "wof:lastmodified":1537620048,
+    "wof:lastmodified":1564189319,
     "wof:name":"Contreras",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

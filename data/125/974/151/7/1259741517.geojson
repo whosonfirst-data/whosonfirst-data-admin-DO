@@ -28,6 +28,15 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guayabo Dulce"
+    ],
+    "name:ita_x_preferred":[
+        "Guayabo Dulce"
+    ],
+    "name:swe_x_preferred":[
+        "Guayabo Dulce"
+    ],
     "name:und_x_variant":[
         "El Guayabo",
         "Guayabo Dulce"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259741517,
-    "wof:lastmodified":1537620007,
+    "wof:lastmodified":1564189207,
     "wof:name":"Guayabo Dulce",
     "wof:parent_id":1108721121,
     "wof:placetype":"locality",

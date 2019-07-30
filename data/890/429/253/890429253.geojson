@@ -27,6 +27,15 @@
     "mps:longitude":-70.982291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Luper\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "Luper\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Luper\u00f3n"
+    ],
     "qs:name":"Luper\u00f3n",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":890429253,
-    "wof:lastmodified":1536617381,
+    "wof:lastmodified":1564188967,
     "wof:name":"Luper\u00f3n",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

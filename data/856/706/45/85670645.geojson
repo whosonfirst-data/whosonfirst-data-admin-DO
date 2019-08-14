@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MT"
+    ],
     "lbl:latitude":19.468428,
     "lbl:longitude":-69.984553,
     "meso:name_loc":"Mar\u00eda Trinidad S\u00e1nchez",
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85670645,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335699,
+    "wof:lastmodified":1565672982,
     "wof:name":"Mar\u00eda Trinidad S\u00e1nchez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

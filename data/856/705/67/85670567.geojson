@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":19.738792,
     "lbl:longitude":-71.497534,
     "meso:name_loc":"Monte Cristi",
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85670567,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335710,
+    "wof:lastmodified":1565672983,
     "wof:name":"Monte Cristi",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

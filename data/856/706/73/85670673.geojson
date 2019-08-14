@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":18.506159,
     "lbl:longitude":-68.962886,
     "meso:name_loc":"La Romana",
@@ -300,16 +303,13 @@
         }
     ],
     "wof:id":85670673,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335700,
+    "wof:lastmodified":1565672982,
     "wof:name":"La Romana",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

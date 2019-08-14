@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VE"
+    ],
     "lbl:latitude":19.042721,
     "lbl:longitude":-70.664532,
     "meso:name_loc":"La Vega",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85670615,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335709,
+    "wof:lastmodified":1565672983,
     "wof:name":"La Vega",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

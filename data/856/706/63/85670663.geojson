@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":18.797327,
     "lbl:longitude":-69.042576,
     "meso:name_loc":"El Seybo",
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85670663,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335706,
+    "wof:lastmodified":1565672982,
     "wof:name":"El Seybo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

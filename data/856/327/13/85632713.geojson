@@ -17,6 +17,9 @@
         "1-849"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "DO"
+    ],
     "lbl:latitude":19.105937,
     "lbl:longitude":-70.804224,
     "mps:latitude":19.105937,
@@ -995,7 +998,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335722,
+    "wof:lastmodified":1565672984,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

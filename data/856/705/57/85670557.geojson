@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SZ"
+    ],
     "lbl:latitude":19.023726,
     "lbl:longitude":-70.142927,
     "meso:name_loc":"Sanchez Ram\u00edrez",
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85670557,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335709,
+    "wof:lastmodified":1565672983,
     "wof:name":"Sanchez Ram\u00edrez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

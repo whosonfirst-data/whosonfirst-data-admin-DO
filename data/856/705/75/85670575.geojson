@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":19.402473,
     "lbl:longitude":-71.578501,
     "meso:name_loc":"Dajab\u00f3n",
@@ -231,16 +234,13 @@
         }
     ],
     "wof:id":85670575,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335711,
+    "wof:lastmodified":1565672983,
     "wof:name":"Dajab\u00f3n",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

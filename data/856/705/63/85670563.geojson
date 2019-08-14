@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":18.558367,
     "lbl:longitude":-69.476054,
     "meso:name_loc":"San Pedro De Macor\u00eds",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85670563,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561788350,
+    "wof:lastmodified":1565672984,
     "wof:name":"San Pedro De Macor\u00eds",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

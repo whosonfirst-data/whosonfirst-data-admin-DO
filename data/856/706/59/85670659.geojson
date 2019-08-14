@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
+    ],
     "lbl:latitude":18.48239,
     "lbl:longitude":-69.938277,
     "meso:name_loc":"Distrito Nacional",
@@ -205,16 +208,13 @@
         }
     ],
     "wof:id":85670659,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335696,
+    "wof:lastmodified":1565672981,
     "wof:name":"Distrito Nacional",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

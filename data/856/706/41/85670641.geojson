@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MP"
+    ],
     "lbl:latitude":18.864914,
     "lbl:longitude":-69.76975,
     "meso:name_loc":"Monte Plata",
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85670641,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335707,
+    "wof:lastmodified":1565672983,
     "wof:name":"Monte Plata",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

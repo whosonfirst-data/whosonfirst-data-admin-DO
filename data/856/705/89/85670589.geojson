@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":18.499113,
     "lbl:longitude":-71.350125,
     "meso:name_loc":"Bahoruco",
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85670589,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335710,
+    "wof:lastmodified":1565672983,
     "wof:name":"Bahoruco",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

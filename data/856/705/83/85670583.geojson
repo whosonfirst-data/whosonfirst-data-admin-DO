@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "lbl:latitude":19.451172,
     "lbl:longitude":-70.358439,
     "meso:name_loc":"Hermanas",
@@ -273,16 +276,13 @@
         }
     ],
     "wof:id":85670583,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335717,
+    "wof:lastmodified":1565672984,
     "wof:name":"Hermanas",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

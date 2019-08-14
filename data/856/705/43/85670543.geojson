@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SR"
+    ],
     "lbl:latitude":19.39936,
     "lbl:longitude":-71.344885,
     "meso:name_loc":"Santiago Rodr\u00edguez",
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85670543,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335713,
+    "wof:lastmodified":1565672983,
     "wof:name":"Santiago Rodr\u00edguez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

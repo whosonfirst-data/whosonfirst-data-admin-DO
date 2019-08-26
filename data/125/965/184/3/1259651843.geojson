@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.4432,18.59537,-69.4032,18.63537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ulloa",
         "Batey Ulloa"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259651843,
-    "wof:lastmodified":1537620066,
+    "wof:lastmodified":1566582494,
     "wof:name":"Batey Ulloa",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

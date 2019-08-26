@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.94104,19.27394,-70.90104,19.31394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Montones de Arriba",
         "Los Montones de Arriba",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259937501,
-    "wof:lastmodified":1537619941,
+    "wof:lastmodified":1566582526,
     "wof:name":"Los Montones Arriba",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

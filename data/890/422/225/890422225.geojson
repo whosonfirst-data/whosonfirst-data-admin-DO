@@ -11,10 +11,14 @@
     "geom:longitude":-70.52352,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2265,
+    "gn:population":2265,
     "iso:country":"DO",
+    "lbl:bbox":"-70.54352,18.25351,-70.50352,18.29351",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sabana Buey"
     ],
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3493601,
-        "qs:id":1045303,
+        "qs_pg:id":1045303,
         "wd:id":"Q7395869",
         "wk:page":"Sabana Buey"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890422225,
-    "wof:lastmodified":1563336497,
+    "wof:lastmodified":1566582320,
     "wof:name":"Sabana Buey",
     "wof:parent_id":1108721109,
     "wof:placetype":"locality",

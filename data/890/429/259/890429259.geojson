@@ -11,10 +11,12 @@
     "geom:longitude":-69.959897,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":14700,
+    "gn:population":14700,
     "iso:country":"DO",
     "lbl:latitude":19.577203,
     "lbl:longitude":-69.961735,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Mar\u00eda Trinidad S\u00e1nchez",
     "meso:gadm_adm2":"Cabrera",
     "meso:gadm_hasc2":"DO.MT.CA",
@@ -27,10 +29,11 @@
     "mps:longitude":-69.961735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:jpn_x_preferred":[
         "\u30ed\u30de\u30fb\u30c7\u30fb\u30ab\u30d6\u30ec\u30e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loma de Cabrera"
     ],
     "name:zho_x_preferred":[
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3499604,
         "hasc:id":"DO.MT.CA",
-        "qs:id":95761,
+        "qs_pg:id":95761,
         "wd:id":"Q1771467",
         "wk:page":"Loma de Cabrera"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890429259,
-    "wof:lastmodified":1563336537,
+    "wof:lastmodified":1566582342,
     "wof:name":"Cabrera",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.81784,19.67359,-70.77784,19.71359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hervedor",
         "Hervidor"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360160507,
-    "wof:lastmodified":1537620004,
+    "wof:lastmodified":1566582256,
     "wof:name":"Hervidor",
     "wof:parent_id":890429293,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.3947,
     "geom:longitude":-71.2029,
     "iso:country":"DO",
+    "lbl:bbox":"-71.2229,18.3747,-71.1829,18.4147",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tamayo"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3492520,
         "gp:id":76528,
-        "qs:id":1045294,
+        "qs_pg:id":1045294,
         "wd:id":"Q3980579",
         "wk:page":"Tamayo (Dominican Republic)"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421194257,
-    "wof:lastmodified":1561788402,
+    "wof:lastmodified":1566582306,
     "wof:name":"Tamayo",
     "wof:parent_id":890429205,
     "wof:placetype":"locality",

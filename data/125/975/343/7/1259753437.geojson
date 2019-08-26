@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.2142,19.72517,-71.1742,19.76517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Derramaderos",
         "Derrumbadero",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259753437,
-    "wof:lastmodified":1537620044,
+    "wof:lastmodified":1566582553,
     "wof:name":"Derramadero",
     "wof:parent_id":890429279,
     "wof:placetype":"locality",

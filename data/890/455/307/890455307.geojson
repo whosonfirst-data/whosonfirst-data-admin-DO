@@ -11,10 +11,12 @@
     "geom:longitude":-71.654123,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":9618,
+    "gn:population":9618,
     "iso:country":"DO",
     "lbl:latitude":19.647315,
     "lbl:longitude":-71.656136,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Monte Cristi",
     "meso:gadm_adm2":"Pepillo Salcedo",
     "meso:gadm_hasc2":"DO.MC.PS",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.656136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "qs:name":"Pepillo Salcedo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3495025,
         "hasc:id":"DO.MC.PS",
-        "qs:id":95739
+        "qs_pg:id":95739
     },
     "wof:country":"DO",
     "wof:created":1469052942,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890455307,
-    "wof:lastmodified":1536617389,
+    "wof:lastmodified":1566582323,
     "wof:name":"Pepillo Salcedo",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

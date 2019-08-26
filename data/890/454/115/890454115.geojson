@@ -11,10 +11,14 @@
     "geom:longitude":-71.05641,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":3887,
+    "gn:population":3887,
     "iso:country":"DO",
+    "lbl:bbox":"-71.07641,19.80288,-71.03641,19.84288",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Isabela"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Villa Isabela"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Isabela"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3491929,
-        "qs:id":1045280,
+        "qs_pg:id":1045280,
         "wd:id":"Q4012142",
         "wk:page":"Villa Isabela"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890454115,
-    "wof:lastmodified":1563336512,
+    "wof:lastmodified":1566582330,
     "wof:name":"Villa Isabela",
     "wof:parent_id":890429197,
     "wof:placetype":"locality",

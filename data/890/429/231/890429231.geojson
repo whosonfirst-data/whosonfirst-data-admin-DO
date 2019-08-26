@@ -11,10 +11,12 @@
     "geom:longitude":-71.456872,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":4153,
+    "gn:population":4153,
     "iso:country":"DO",
     "lbl:latitude":17.831567,
     "lbl:longitude":-71.442587,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Pedernales",
     "meso:gadm_adm2":"Pedernales",
     "meso:gadm_hasc2":"DO.PN.PE",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.442587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0641\u064a\u064a\u062f\u0648"
     ],
@@ -317,7 +320,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4320,
     "wof:belongsto":[
@@ -329,7 +332,7 @@
     "wof:concordances":{
         "gn:id":3495685,
         "hasc:id":"DO.PN.PE",
-        "qs:id":95744,
+        "qs_pg:id":95744,
         "wk:page":"Oviedo"
     },
     "wof:country":"DO",
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":890429231,
-    "wof:lastmodified":1564188966,
+    "wof:lastmodified":1566582349,
     "wof:name":"Oviedo",
     "wof:parent_id":85670605,
     "wof:placetype":"county",

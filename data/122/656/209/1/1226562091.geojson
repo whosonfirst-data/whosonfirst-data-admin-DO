@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.46711,19.44164,-70.42711,19.48164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Cumbre"
     ],
@@ -59,8 +63,7 @@
         "La Cumbre"
     ],
     "name:und_x_variant":[
-        "Cumbre Arriba",
-        "La Cumbre"
+        "Cumbre Arriba"
     ],
     "name:vie_x_preferred":[
         "La Cumbre"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1226562091,
-    "wof:lastmodified":1564189286,
+    "wof:lastmodified":1566582590,
     "wof:name":"La Cumbre",
     "wof:parent_id":890429241,
     "wof:placetype":"locality",

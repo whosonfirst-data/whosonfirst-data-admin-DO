@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.24732,19.78479,-71.20732,19.82479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tiburcio"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1309675169,
-    "wof:lastmodified":1564188934,
+    "wof:lastmodified":1566582291,
     "wof:name":"Tiburcio",
     "wof:parent_id":890429197,
     "wof:placetype":"locality",

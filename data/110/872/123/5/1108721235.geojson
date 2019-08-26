@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.539179,
     "lbl:longitude":-69.427369,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"San Pedro De Macor\u00eds",
     "meso:gadm_adm2":"Quisquella",
     "meso:gadm_hasc2":"DO.PM.QQ",
@@ -24,6 +26,7 @@
     "mps:longitude":-69.427369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Quisqueya"
     ],
@@ -46,7 +49,7 @@
         "Quisqueya"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108721235,
-    "wof:lastmodified":1564188743,
+    "wof:lastmodified":1566582164,
     "wof:name":"Quisqueya",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

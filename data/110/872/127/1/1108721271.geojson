@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.469676,
     "lbl:longitude":-70.712154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Santiago",
     "meso:gadm_adm2":"Sabana Iglesia",
     "meso:gadm_hasc2":"DO.ST.SI",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.712154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
@@ -502,7 +505,7 @@
         "ISantiago"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -524,7 +527,7 @@
         }
     ],
     "wof:id":1108721271,
-    "wof:lastmodified":1564188729,
+    "wof:lastmodified":1566582154,
     "wof:name":"Santiago",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

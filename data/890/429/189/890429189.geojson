@@ -11,10 +11,12 @@
     "geom:longitude":-70.390246,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":24856,
+    "gn:population":24856,
     "iso:country":"DO",
     "lbl:latitude":19.304746,
     "lbl:longitude":-70.390252,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Hermanas Mirabal",
     "meso:gadm_adm2":"Villa Tapia",
     "meso:gadm_hasc2":"DO.SC.VT",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.390252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Villa Tapia"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3491909,
         "hasc:id":"DO.SC.VT",
-        "qs:id":95703,
+        "qs_pg:id":95703,
         "wd:id":"Q1770889",
         "wk:page":"Villa Tapia"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429189,
-    "wof:lastmodified":1563336541,
+    "wof:lastmodified":1566582345,
     "wof:name":"Villa Tapia",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

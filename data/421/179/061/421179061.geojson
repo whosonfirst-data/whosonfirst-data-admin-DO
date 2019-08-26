@@ -10,8 +10,12 @@
     "geom:latitude":19.33915,
     "geom:longitude":-70.93819,
     "iso:country":"DO",
+    "lbl:bbox":"-70.95819,19.31915,-70.91819,19.35915",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9 de Las Matas"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "San Jos\u00e9 de Las Matas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jos\u00e9 de los Matas"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3493103,
         "gp:id":76354,
-        "qs:id":148532,
+        "qs_pg:id":148532,
         "wd:id":"Q3947426",
         "wk:page":"San Jos\u00e9 de las Matas"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421179061,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1566582317,
     "wof:name":"San Jos\u00e9 de Las Matas",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

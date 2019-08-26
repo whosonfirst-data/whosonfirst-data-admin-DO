@@ -11,10 +11,14 @@
     "geom:longitude":-70.29972,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":10024,
+    "gn:population":10024,
     "iso:country":"DO",
+    "lbl:bbox":"-70.31972,19.10148,-70.27972,19.14148",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Fantino"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Fantino"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Fantino"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3505778,
         "gp:id":72122,
-        "qs:id":1045365,
+        "qs_pg:id":1045365,
         "wd:id":"Q3739410",
         "wk:page":"Fantino"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890444765,
-    "wof:lastmodified":1563336514,
+    "wof:lastmodified":1566582332,
     "wof:name":"Fantino",
     "wof:parent_id":890429287,
     "wof:placetype":"locality",

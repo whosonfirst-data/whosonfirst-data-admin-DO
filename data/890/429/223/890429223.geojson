@@ -11,10 +11,12 @@
     "geom:longitude":-71.648404,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":4018,
+    "gn:population":4018,
     "iso:country":"DO",
     "lbl:latitude":18.598916,
     "lbl:longitude":-71.648419,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Independencia",
     "meso:gadm_adm2":"Postrer Rio",
     "meso:gadm_hasc2":"DO.IN.PR",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.648419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Postrer R\u00edo"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3494510,
         "hasc:id":"DO.IN.PR",
-        "qs:id":95736,
+        "qs_pg:id":95736,
         "wd:id":"Q3909478",
         "wk:page":"Postrer R\u00edo"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429223,
-    "wof:lastmodified":1563336545,
+    "wof:lastmodified":1566582348,
     "wof:name":"Postrer R\u00edo",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

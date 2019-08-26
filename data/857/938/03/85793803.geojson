@@ -9,14 +9,16 @@
     "geom:bbox":"-69.886163,18.472271,-69.886163,18.472271",
     "geom:latitude":18.472271,
     "geom:longitude":-69.886163,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.46721,
     "gn:longitude":-69.87516,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.891163,18.467271,-69.881163,18.477271",
     "lbl:latitude":18.472271,
     "lbl:longitude":-69.886163,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.459722,
     "mps:longitude":-69.880081,
     "mz:hierarchy_label":0,
@@ -60,10 +62,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0421\u0443\u0441\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Sans Couci",
-        "Sans Souci"
     ],
     "qs:gn_adm0_cc":"DO",
     "qs:gn_fcode":"PPLX",
@@ -112,8 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670659,
         102191575,
@@ -124,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3493007,
         "gp:id":76407,
-        "qs:id":1165069,
         "qs_pg:id":1165069
     },
     "wof:country":"DO",
@@ -143,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564188178,
+    "wof:lastmodified":1566581790,
     "wof:name":"Sans Souci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

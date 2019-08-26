@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.65044,18.82955,-71.61044,18.86955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Rafael del Llano",
         "San Rafael del Yano"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259764393,
-    "wof:lastmodified":1537619910,
+    "wof:lastmodified":1566582519,
     "wof:name":"San Rafael del Yano",
     "wof:parent_id":890420137,
     "wof:placetype":"locality",

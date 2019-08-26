@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.599712,
     "lbl:longitude":-70.8379,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Azua",
     "mps:latitude":18.5854,
     "mps:longitude":-70.839047,
@@ -159,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Azua"
     ],
     "name:urd_x_preferred":[
@@ -246,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"2,688",
     "statoids:area_mi":"1,038",
     "statoids:as_of_date":"2010-12-01",
@@ -273,7 +274,7 @@
         "gp:id":2345172,
         "hasc:id":"DO.AZ",
         "iso:id":"DO-02",
-        "qs:id":1285143,
+        "qs_pg:id":1285143,
         "unlc:id":"DO-02",
         "wd:id":"Q794239",
         "wk:page":"Azua Province"
@@ -294,11 +295,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672982,
+    "wof:lastmodified":1566581795,
     "wof:name":"Azua",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":214311,
     "wof:population_rank":10,

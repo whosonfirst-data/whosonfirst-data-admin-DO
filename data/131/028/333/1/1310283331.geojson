@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.58567,19.00879,-71.54567,19.04879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Brito"
     ],
@@ -56,8 +60,7 @@
         "Brito"
     ],
     "name:und_x_variant":[
-        "Los Britos",
-        "Brito"
+        "Los Britos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1310283331,
-    "wof:lastmodified":1564188826,
+    "wof:lastmodified":1566582217,
     "wof:name":"Brito",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

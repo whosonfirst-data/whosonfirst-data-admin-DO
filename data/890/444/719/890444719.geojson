@@ -11,8 +11,11 @@
     "geom:longitude":-70.52598,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":61834,
+    "gn:population":61834,
     "iso:country":"DO",
+    "lbl:bbox":"-70.54598,19.37352,-70.50598,19.41352",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -253,10 +256,12 @@
     "wof:concordances":{
         "gn:id":3496331,
         "gp:id":75306,
-        "qs:id":1045324,
-        "qs_pg:id":1323615,
+        "qs_pg:id":1045324,
         "wd:id":"Q1241374",
         "wk:page":"Moca"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1323615
     },
     "wof:country":"DO",
     "wof:created":1469052479,
@@ -271,7 +276,7 @@
         }
     ],
     "wof:id":890444719,
-    "wof:lastmodified":1563336528,
+    "wof:lastmodified":1566582338,
     "wof:name":"Moca",
     "wof:parent_id":890429241,
     "wof:placetype":"locality",

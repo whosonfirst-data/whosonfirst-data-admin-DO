@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.00659,19.64371,-69.96659,19.68371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Romedillos",
         "Los Romadillos"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243234655,
-    "wof:lastmodified":1537619937,
+    "wof:lastmodified":1566582412,
     "wof:name":"Los Romadillos",
     "wof:parent_id":890429259,
     "wof:placetype":"locality",

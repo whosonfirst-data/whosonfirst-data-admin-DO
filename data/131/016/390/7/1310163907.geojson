@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.21035,18.79786,-71.17035,18.83786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mogollon"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310163907,
-    "wof:lastmodified":1564188817,
+    "wof:lastmodified":1566582211,
     "wof:name":"Mogollon",
     "wof:parent_id":1108721267,
     "wof:placetype":"locality",

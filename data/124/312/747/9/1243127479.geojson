@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.98551,19.22858,-70.94551,19.26858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tierra Colorada"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243127479,
-    "wof:lastmodified":1564189038,
+    "wof:lastmodified":1566582415,
     "wof:name":"Tierra Colorada",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

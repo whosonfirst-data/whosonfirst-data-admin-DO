@@ -11,10 +11,14 @@
     "geom:longitude":-71.4754,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":1529,
+    "gn:population":1529,
     "iso:country":"DO",
+    "lbl:bbox":"-71.4954,19.41536,-71.4554,19.45536",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Pino"
     ],
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3506541,
-        "qs:id":1045376,
+        "qs_pg:id":1045376,
         "wd:id":"Q3720977",
         "wk:page":"El Pino"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890444773,
-    "wof:lastmodified":1563336529,
+    "wof:lastmodified":1566582338,
     "wof:name":"El Pino",
     "wof:parent_id":1108721145,
     "wof:placetype":"locality",

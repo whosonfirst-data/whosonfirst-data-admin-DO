@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.91249,19.72945,-70.87249,19.76945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Aguaj\u00ed",
         "Aguaqu\u00ed",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243043859,
-    "wof:lastmodified":1537620087,
+    "wof:lastmodified":1566582438,
     "wof:name":"Aguaji",
     "wof:parent_id":890429273,
     "wof:placetype":"locality",

@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.48264,18.40032,-69.44264,18.44032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Monte"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1309961767,
-    "wof:lastmodified":1564188908,
+    "wof:lastmodified":1566582272,
     "wof:name":"El Monte",
     "wof:parent_id":1108721163,
     "wof:placetype":"locality",

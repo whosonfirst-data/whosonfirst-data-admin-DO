@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.46188,18.94673,-70.42188,18.98673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293137711,
-    "wof:lastmodified":1536794506,
+    "wof:lastmodified":1566581845,
     "wof:name":"Los Bleos",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

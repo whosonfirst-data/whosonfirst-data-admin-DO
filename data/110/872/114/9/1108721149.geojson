@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.517506,
     "lbl:longitude":-70.648968,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Azua",
     "meso:gadm_adm2":"Estebania",
     "meso:gadm_hasc2":"DO.AZ.ES",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.648968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Esteban\u00eda"
     ],
@@ -46,7 +49,7 @@
         "\u57c3\u65af\u7279\u74e6\u5c3c\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108721149,
-    "wof:lastmodified":1564188747,
+    "wof:lastmodified":1566582166,
     "wof:name":"Esteban\u00eda",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

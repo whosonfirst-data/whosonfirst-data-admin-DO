@@ -11,10 +11,12 @@
     "geom:longitude":-70.214719,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":155511,
+    "gn:population":155511,
     "iso:country":"DO",
     "lbl:latitude":19.35351,
     "lbl:longitude":-70.214738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Duarte",
     "meso:gadm_adm2":"San Francisco de Macor\u00eds",
     "meso:gadm_hasc2":"DO.DU.SF",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.214738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u062f\u064a \u0645\u0627\u0643\u0648\u0631\u064a\u0633"
     ],
@@ -60,7 +63,7 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c3f\u0c38\u0c4d\u0c15\u0c4b \u0c21\u0c3f \u0c2e\u0c3e\u0c15\u0c4b\u0c30\u0c40\u0c38\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Francisco de Macor\u00eds"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":110.0,
     "wd:latitude":"19.3",
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3493147,
         "hasc:id":"DO.DU.SF",
-        "qs:id":95723,
+        "qs_pg:id":95723,
         "wd:id":"Q681999",
         "wk:page":"San Francisco de Macor\u00eds"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890429213,
-    "wof:lastmodified":1563336547,
+    "wof:lastmodified":1566582349,
     "wof:name":"San Francisco De Macor\u00eds",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

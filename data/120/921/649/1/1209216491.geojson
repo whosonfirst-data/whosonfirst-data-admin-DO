@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.30333,17.94667,-71.26333,17.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Humedal La Vaca"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209216491,
-    "wof:lastmodified":1564188591,
+    "wof:lastmodified":1566582066,
     "wof:name":"La Vaca",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

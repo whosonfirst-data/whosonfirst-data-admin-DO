@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.19624,18.16464,-71.15624,18.20464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gu\u00e1zara",
         "La Gu\u00e1sara",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259685901,
-    "wof:lastmodified":1537619980,
+    "wof:lastmodified":1566582521,
     "wof:name":"La Guazara",
     "wof:parent_id":1108721111,
     "wof:placetype":"locality",

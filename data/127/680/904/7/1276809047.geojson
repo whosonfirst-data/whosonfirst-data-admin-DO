@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.23667,18.34667,-70.19667,18.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Piamatia",
         "Pay Mat\u00edas"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276809047,
-    "wof:lastmodified":1537619923,
+    "wof:lastmodified":1566581914,
     "wof:name":"Pay Matias",
     "wof:parent_id":890429185,
     "wof:placetype":"locality",

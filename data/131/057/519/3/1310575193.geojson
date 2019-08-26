@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.97703,19.06454,-69.93703,19.10454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Ceiba"
     ],
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1310575193,
-    "wof:lastmodified":1564188844,
+    "wof:lastmodified":1566582228,
     "wof:name":"La Ceiba",
     "wof:parent_id":890420149,
     "wof:placetype":"locality",

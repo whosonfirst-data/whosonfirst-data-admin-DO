@@ -10,8 +10,12 @@
     "geom:latitude":18.67297,
     "geom:longitude":-70.17095,
     "iso:country":"DO",
+    "lbl:bbox":"-70.19095,18.65297,-70.15095,18.69297",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Altagracia"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3491952,
         "gp:id":76653,
-        "qs:id":567292,
+        "qs_pg:id":567292,
         "wd:id":"Q4011765"
     },
     "wof:country":"DO",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421193949,
-    "wof:lastmodified":1561788403,
+    "wof:lastmodified":1566582307,
     "wof:name":"Villa Altagracia",
     "wof:parent_id":890429199,
     "wof:placetype":"locality",

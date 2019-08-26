@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.41033,18.72296,-69.37033,18.76296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1192979649,
-    "wof:lastmodified":1536369398,
+    "wof:lastmodified":1566582099,
     "wof:name":"Oveja",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

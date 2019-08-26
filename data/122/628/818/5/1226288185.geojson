@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.62263,18.82214,-69.58263,18.86214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salto Grande"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1226288185,
-    "wof:lastmodified":1564189246,
+    "wof:lastmodified":1566582565,
     "wof:name":"Salto Grande",
     "wof:parent_id":1108721113,
     "wof:placetype":"locality",

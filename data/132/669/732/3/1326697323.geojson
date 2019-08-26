@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.41671,19.48813,-71.37671,19.52813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326697323,
-    "wof:lastmodified":1536745860,
+    "wof:lastmodified":1566581615,
     "wof:name":"Boca de los Rios",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

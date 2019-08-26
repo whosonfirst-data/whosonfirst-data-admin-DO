@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.98487,18.58916,-68.94487,18.62916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey 25",
         "Batey N\u00famero 25",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293178033,
-    "wof:lastmodified":1537620068,
+    "wof:lastmodified":1566581888,
     "wof:name":"Batey Numero Veinticinco",
     "wof:parent_id":890429281,
     "wof:placetype":"locality",

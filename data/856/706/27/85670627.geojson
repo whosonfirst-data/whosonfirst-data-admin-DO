@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.620235,
     "lbl:longitude":-70.495236,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"San Jos\u00e9 De Ocoa",
     "mps:latitude":18.61319,
     "mps:longitude":-70.495275,
@@ -33,7 +34,7 @@
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u062f\u064a \u0623\u0648\u0643\u0648\u0627"
     ],
     "name:ben_x_preferred":[
-        "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09cb\u09b8\u09c7 \u09a1\u09bf \u0993\u0995\u09cb\u09af\u09bc\u09be  \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+        "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09cb\u09b8\u09c7 \u09a1\u09bf \u0993\u0995\u09cb\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:ben_x_variant":[
         "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09a6\u09c7 \u0993\u0995\u09cb\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -131,7 +132,7 @@
         "San Jos\u00e9 de Ocoa"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b9c\u0bcb\u0bb8\u0bcd  \u0b9f\u0bbf  \u0b93\u0bb8\u0bcb\u0baf\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0b9c\u0bcb\u0bb8\u0bcd \u0b9f\u0bbf \u0b93\u0bb8\u0bcb\u0baf\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c1c\u0c4b\u0c38\u0c4d \u0c21\u0c3f \u0c13\u0c15\u0c4b\u0c35\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -147,9 +148,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u041e\u043a\u043e\u0430"
-    ],
-    "name:unk_x_variant":[
-        "San Jos\u00e9 de Ocoa"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0633\u06d2 \u062f\u06d2 \u0627\u0648\u06a9\u0648\u0627 \u0635\u0648\u0628\u06c1"
@@ -235,9 +233,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"853",
     "statoids:area_mi":"329",
     "statoids:as_of_date":"2010-12-01",
@@ -262,7 +260,7 @@
         "gp:id":28358195,
         "hasc:id":"DO.JO",
         "iso:id":"DO-31",
-        "qs:id":203842,
+        "qs_pg:id":203842,
         "unlc:id":"DO-31",
         "wd:id":"Q1424391"
     },
@@ -282,11 +280,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672982,
+    "wof:lastmodified":1566581794,
     "wof:name":"San Jos\u00e9 De Ocoa",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":59544,
     "wof:population_rank":8,

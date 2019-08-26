@@ -11,10 +11,12 @@
     "geom:longitude":-71.484996,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":17836,
+    "gn:population":17836,
     "iso:country":"DO",
     "lbl:latitude":19.592738,
     "lbl:longitude":-71.480688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Monte Cristi",
     "meso:gadm_adm2":"Las Matas de Santa Cruz",
     "meso:gadm_hasc2":"DO.MC.LM",
@@ -27,7 +29,8 @@
     "mps:longitude":-71.480688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":6.0,
+    "name:und_x_variant":[
         "Las Matas de Santa Cruz"
     ],
     "qs:name":"Las Matas de Santa Cruz",
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3500369,
         "hasc:id":"DO.MC.LM",
-        "qs:id":95764,
+        "qs_pg:id":95764,
         "wd:id":"Q3827245",
         "wk:page":"Las Matas de Santa Cruz"
     },
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890429263,
-    "wof:lastmodified":1536617381,
+    "wof:lastmodified":1566582352,
     "wof:name":"Las Matas De Santa Cruz",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

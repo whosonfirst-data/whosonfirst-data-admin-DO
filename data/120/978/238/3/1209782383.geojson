@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.93001,19.49997,-70.89001,19.53997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fi\u00f1ianga",
         "Fi\u00f1ianca"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209782383,
-    "wof:lastmodified":1537620010,
+    "wof:lastmodified":1566582019,
     "wof:name":"Finianca",
     "wof:parent_id":890429249,
     "wof:placetype":"locality",

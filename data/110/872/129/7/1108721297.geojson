@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.707094,
     "lbl:longitude":-70.58672,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Puerto Plata",
     "meso:gadm_adm2":"Montellano",
     "meso:gadm_hasc2":"DO.PP.VM",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.58672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ita_x_preferred":[
         "Villa Montellano"
     ],
@@ -37,7 +40,7 @@
         "\u8499\u7279\u5229\u4e9e\u8afe\u93ae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108721297,
-    "wof:lastmodified":1564188722,
+    "wof:lastmodified":1566582149,
     "wof:name":"Villa Montellano",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

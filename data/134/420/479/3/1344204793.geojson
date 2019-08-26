@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.07092,18.63031,-69.03092,18.67031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Albiz\u00fa"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344204793,
-    "wof:lastmodified":1537620079,
+    "wof:lastmodified":1566581770,
     "wof:name":"Batey Albizu",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

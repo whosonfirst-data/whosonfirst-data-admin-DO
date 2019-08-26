@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.092862,
     "lbl:longitude":-71.607036,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Pedernales",
     "meso:gadm_adm2":"Pedernales",
     "meso:gadm_hasc2":"DO.PN.PE",
@@ -24,6 +26,7 @@
     "mps:longitude":-71.607036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Pedernales"
     ],
@@ -58,7 +61,7 @@
         "Pedernales"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108721217,
-    "wof:lastmodified":1564188732,
+    "wof:lastmodified":1566582156,
     "wof:name":"Pedernales",
     "wof:parent_id":85670605,
     "wof:placetype":"county",

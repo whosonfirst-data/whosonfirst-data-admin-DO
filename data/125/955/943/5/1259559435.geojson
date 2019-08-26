@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.99575,19.68589,-70.95575,19.72589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259559435,
-    "wof:lastmodified":1536749422,
+    "wof:lastmodified":1566582504,
     "wof:name":"Las Alforjas",
     "wof:parent_id":890429257,
     "wof:placetype":"locality",

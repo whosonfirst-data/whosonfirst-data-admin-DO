@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.06416,18.74083,-69.02416,18.78083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alvarez"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1225895401,
-    "wof:lastmodified":1564189318,
+    "wof:lastmodified":1566582613,
     "wof:name":"Alvarez",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

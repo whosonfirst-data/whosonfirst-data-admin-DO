@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.8092,19.7137,-70.7692,19.7537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293746799,
-    "wof:lastmodified":1536910843,
+    "wof:lastmodified":1566581886,
     "wof:name":"Naranjo Chino",
     "wof:parent_id":890429273,
     "wof:placetype":"locality",

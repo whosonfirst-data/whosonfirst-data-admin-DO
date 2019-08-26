@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.73667,18.86333,-71.69667,18.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Lamederos",
         "Lamedero"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226530409,
-    "wof:lastmodified":1537619972,
+    "wof:lastmodified":1566582658,
     "wof:name":"Lamedero",
     "wof:parent_id":890453405,
     "wof:placetype":"locality",

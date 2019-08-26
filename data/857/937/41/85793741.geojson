@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8582930.04475,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.869448,18.479827,-69.869448,18.479827",
     "geom:latitude":18.479827,
     "geom:longitude":-69.869448,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.48333,
     "gn:longitude":-69.86667,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.874448,18.474827,-69.864448,18.484827",
     "lbl:latitude":18.479827,
     "lbl:longitude":-69.869448,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.483345,
     "mps:longitude":-69.867199,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Ensanche Ozama"
-    ],
-    "name:unk_x_variant":[
         "Ensanche Ozama"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670553,
         102191575,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3505934,
         "gp:id":71592,
-        "qs:id":286172,
         "qs_pg:id":286172
     },
     "wof:country":"DO",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379287,
+    "wof:lastmodified":1566581793,
     "wof:name":"Ensanche Ozama",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,11 @@
     "geom:longitude":-69.33685,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":11432,
+    "gn:population":11432,
     "iso:country":"DO",
+    "lbl:bbox":"-69.35685,19.18561,-69.31685,19.22561",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -129,9 +132,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0430\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Saman\u00e1"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0627\u0646\u0622"
@@ -255,9 +255,11 @@
     "wof:concordances":{
         "gn:id":3492997,
         "gp:id":76414,
-        "qs:id":1045286,
-        "qs_pg:id":1080027,
+        "qs_pg:id":1045286,
         "wd:id":"Q579950"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1080027
     },
     "wof:country":"DO",
     "wof:created":1469052479,
@@ -272,7 +274,7 @@
         }
     ],
     "wof:id":890444701,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1566582331,
     "wof:name":"Santa B\u00e1rbara de Saman\u00e1",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

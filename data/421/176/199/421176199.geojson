@@ -10,6 +10,9 @@
     "geom:latitude":18.76278,
     "geom:longitude":-69.25681,
     "iso:country":"DO",
+    "lbl:bbox":"-69.27681,18.74278,-69.23681,18.78278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -105,7 +108,7 @@
         "Hato Mayor del Rey"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bbe\u0b9f\u0bcb  \u0bae\u0bbe\u0baf\u0bcb\u0bb0\u0bcd  \u0b9f\u0bc7\u0bb2\u0bcd   \u0bb0\u0bc6\u0baf\u0bcd"
+        "\u0bb9\u0bbe\u0b9f\u0bcb \u0bae\u0bbe\u0baf\u0bcb\u0bb0\u0bcd \u0b9f\u0bc7\u0bb2\u0bcd  \u0bb0\u0bc6\u0baf\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c1f\u0c4b \u0c2e\u0c46\u0c2f\u0c30\u0c4d \u0c26\u0c46\u0c32\u0c4d \u0c30\u0c47"
@@ -118,9 +121,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0442\u043e-\u041c\u0430\u0439\u043e\u0440-\u0434\u0435\u043b\u044c-\u0420\u0435\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Hato Mayor"
     ],
     "name:urd_x_preferred":[
         "\u0622\u062a\u0648 \u0645\u0627\u0626\u06cc\u0648\u0631 \u062f\u06cc\u0644 \u0631\u0626\u06d2"
@@ -264,7 +264,7 @@
     "wof:concordances":{
         "gn:id":3504765,
         "gp:id":71885,
-        "qs:id":1045351,
+        "qs_pg:id":1045351,
         "wd:id":"Q2427660",
         "wk:page":"Hato Mayor del Rey"
     },
@@ -281,7 +281,7 @@
         }
     ],
     "wof:id":421176199,
-    "wof:lastmodified":1563336490,
+    "wof:lastmodified":1566582318,
     "wof:name":"Hato Mayor del Rey",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

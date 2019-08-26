@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.34836,18.57461,-69.30836,18.61461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Monte Coca",
         "Batey Monte Coco",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226389531,
-    "wof:lastmodified":1537620070,
+    "wof:lastmodified":1566582663,
     "wof:name":"Batey Monte Coca",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":19.28333,
     "geom:longitude":-69.33333,
     "iso:country":"DO",
+    "lbl:bbox":"-69.35333,19.26333,-69.31333,19.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Valle"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "El Valle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arroyo Seco"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3506032,
         "gp:id":71552,
-        "qs:id":216881,
+        "qs_pg:id":216881,
         "wd:id":"Q1770328"
     },
     "wof:country":"DO",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421201993,
-    "wof:lastmodified":1563336481,
+    "wof:lastmodified":1566582314,
     "wof:name":"El Valle",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

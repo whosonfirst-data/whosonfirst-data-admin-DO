@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.60558,18.71674,-68.56558,18.75674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Ceiba"
     ],
@@ -113,8 +117,7 @@
         "\u041b\u0430-\u0421\u0435\u0439\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "La Ceyba",
-        "La Ceiba"
+        "La Ceyba"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u06cc\u06cc\u0628\u0627"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1243438153,
-    "wof:lastmodified":1564189134,
+    "wof:lastmodified":1566582485,
     "wof:name":"La Ceiba",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

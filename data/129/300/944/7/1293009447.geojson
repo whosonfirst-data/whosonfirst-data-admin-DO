@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.24615,18.41483,-71.20615,18.45483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey 1",
         "Batey N\u00famero 1",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293009447,
-    "wof:lastmodified":1537620068,
+    "wof:lastmodified":1566581804,
     "wof:name":"Batey Numero Uno",
     "wof:parent_id":890429235,
     "wof:placetype":"locality",

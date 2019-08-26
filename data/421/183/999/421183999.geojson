@@ -10,8 +10,11 @@
     "geom:latitude":18.48333,
     "geom:longitude":-69.9,
     "iso:country":"DO",
+    "lbl:bbox":"-69.905,18.47833,-69.895,18.48833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0645\u0627\u0631\u064a\u0627"
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3491923,
         "gp:id":76677,
-        "qs:id":988302
+        "qs_pg:id":988302
     },
     "wof:country":"DO",
     "wof:created":1459009397,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421183999,
-    "wof:lastmodified":1564188954,
+    "wof:lastmodified":1566582315,
     "wof:name":"Villa Mar\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

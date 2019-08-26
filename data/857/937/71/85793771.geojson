@@ -9,14 +9,16 @@
     "geom:bbox":"-69.901517,18.499228,-69.901517,18.499228",
     "geom:latitude":18.499228,
     "geom:longitude":-69.901517,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.5,
     "gn:longitude":-69.9,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.906517,18.494228,-69.896517,18.504228",
     "lbl:latitude":18.499228,
     "lbl:longitude":-69.901517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.506928,
     "mps:longitude":-69.894348,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "La Caridad"
     ],
     "name:spa_x_preferred":[
-        "La Caridad"
-    ],
-    "name:unk_x_variant":[
         "La Caridad"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670659,
         102191575,
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3503282,
         "gp:id":72446,
-        "qs:id":958794,
         "qs_pg:id":958794
     },
     "wof:country":"DO",
@@ -120,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564188184,
+    "wof:lastmodified":1566581793,
     "wof:name":"La Caridad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

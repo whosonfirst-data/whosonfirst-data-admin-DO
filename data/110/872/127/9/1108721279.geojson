@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.607677,
     "lbl:longitude":-69.904041,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Santo Domingo",
     "meso:gadm_adm2":"Santo Domingo Norte",
     "meso:gadm_hasc2":"DO.SD.NO",
@@ -24,6 +26,7 @@
     "mps:longitude":-69.904041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ita_x_preferred":[
         "Santo Domingo Norte"
     ],
@@ -43,7 +46,7 @@
         "\u5317\u8056\u591a\u660e\u54e5"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108721279,
-    "wof:lastmodified":1564188726,
+    "wof:lastmodified":1566582153,
     "wof:name":"Santo Domingo Norte",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

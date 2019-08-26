@@ -10,8 +10,12 @@
     "geom:latitude":18.45174,
     "geom:longitude":-69.60914,
     "iso:country":"DO",
+    "lbl:bbox":"-69.62914,18.43174,-69.58914,18.47174",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Boca Chica"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3511336,
         "gp:id":69573,
-        "qs:id":148580,
+        "qs_pg:id":148580,
         "wd:id":"Q888935",
         "wk:page":"Boca Chica"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421179071,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1566582316,
     "wof:name":"Boca Chica",
     "wof:parent_id":1108721119,
     "wof:placetype":"locality",

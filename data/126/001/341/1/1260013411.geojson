@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.37432,18.76892,-70.33432,18.80892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ceibita",
         "La Ceibita"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260013411,
-    "wof:lastmodified":1537619989,
+    "wof:lastmodified":1566582132,
     "wof:name":"La Ceibita",
     "wof:parent_id":1108721227,
     "wof:placetype":"locality",

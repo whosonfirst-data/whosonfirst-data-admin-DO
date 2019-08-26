@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.45588,18.72832,-69.41588,18.76832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f\u064a\u0648"
     ],
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1310548391,
-    "wof:lastmodified":1564188776,
+    "wof:lastmodified":1566582185,
     "wof:name":"Rodeo",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

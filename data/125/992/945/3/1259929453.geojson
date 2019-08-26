@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.76569,18.85085,-69.72569,18.89085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Los Naranjos"
     ],
@@ -44,8 +48,7 @@
         "Los Naranjos"
     ],
     "name:und_x_variant":[
-        "Hato de Los Naranjos",
-        "Los Naranjos"
+        "Hato de Los Naranjos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1259929453,
-    "wof:lastmodified":1564189186,
+    "wof:lastmodified":1566582523,
     "wof:name":"Los Naranjos",
     "wof:parent_id":890429217,
     "wof:placetype":"locality",

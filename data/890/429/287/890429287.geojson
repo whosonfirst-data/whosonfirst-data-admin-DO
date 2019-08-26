@@ -11,10 +11,12 @@
     "geom:longitude":-70.302932,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":21989,
+    "gn:population":21989,
     "iso:country":"DO",
     "lbl:latitude":19.110254,
     "lbl:longitude":-70.302935,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Sanchez Ram\u00edrez",
     "meso:gadm_adm2":"Fantino",
     "meso:gadm_hasc2":"DO.SZ.FA",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.302935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Fantino"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3505779,
         "hasc:id":"DO.SZ.FA",
-        "qs:id":95781,
+        "qs_pg:id":95781,
         "wd:id":"Q3739410",
         "wk:page":"Fantino"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890429287,
-    "wof:lastmodified":1563336533,
+    "wof:lastmodified":1566582340,
     "wof:name":"Fantino",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

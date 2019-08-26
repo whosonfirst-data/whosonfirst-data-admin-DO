@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.32576,18.46645,-69.28576,18.50645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ortiz"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327391871,
-    "wof:lastmodified":1564187875,
+    "wof:lastmodified":1566581585,
     "wof:name":"Ortiz",
     "wof:parent_id":1108721269,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.30298,19.48198,-71.26298,19.52198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caimito",
         "El Caimito"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310360317,
-    "wof:lastmodified":1537620038,
+    "wof:lastmodified":1566582192,
     "wof:name":"El Caimito",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

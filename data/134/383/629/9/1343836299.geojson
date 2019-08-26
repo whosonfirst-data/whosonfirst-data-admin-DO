@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.56926,19.02417,-71.52926,19.06417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Boquerones"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343836299,
-    "wof:lastmodified":1564188087,
+    "wof:lastmodified":1566581729,
     "wof:name":"Los Boquerones",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

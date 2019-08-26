@@ -10,8 +10,12 @@
     "geom:latitude":18.42993,
     "geom:longitude":-68.6739,
     "iso:country":"DO",
+    "lbl:bbox":"-68.6939,18.40993,-68.6539,18.44993",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Rafael del Yuma"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "San Rafael del Yuma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuma"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3493022,
         "gp:id":76387,
-        "qs:id":193155,
+        "qs_pg:id":193155,
         "wd:id":"Q649483",
         "wk:page":"San Rafael del Yuma"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421199333,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1566582313,
     "wof:name":"San Rafael del Yuma",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

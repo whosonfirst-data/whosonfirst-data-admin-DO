@@ -9,15 +9,18 @@
     "geom:bbox":"-70.1978,18.4533,-70.1978,18.4533",
     "geom:latitude":18.4533,
     "geom:longitude":-70.1978,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13382,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
     "gn:population":13382,
     "iso:country":"DO",
+    "lbl:bbox":"-70.2178,18.4333,-70.1778,18.4733",
     "lbl:latitude":18.4533,
     "lbl:longitude":-70.1978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cambita Garabitos"
@@ -40,7 +43,7 @@
     "name:tur_x_preferred":[
         "Cambita Garabitos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cambita Garabitas"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":1045389,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125938697,
-    "wof:lastmodified":1564188969,
+    "wof:lastmodified":1566582361,
     "wof:name":"Cambita Garabitos",
     "wof:parent_id":1108721129,
     "wof:placetype":"locality",

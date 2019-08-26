@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.40701,19.33705,-70.36701,19.37705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310467433,
-    "wof:lastmodified":1536971539,
+    "wof:lastmodified":1566582175,
     "wof:name":"San Jose",
     "wof:parent_id":1108721251,
     "wof:placetype":"locality",

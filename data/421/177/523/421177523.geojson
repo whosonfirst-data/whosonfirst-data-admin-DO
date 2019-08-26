@@ -10,8 +10,12 @@
     "geom:latitude":18.71599,
     "geom:longitude":-71.69511,
     "iso:country":"DO",
+    "lbl:bbox":"-71.71511,18.69599,-71.67511,18.73599",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Hondo Valle"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3504466,
         "gp:id":71976,
-        "qs:id":1200694,
+        "qs_pg:id":1200694,
         "wd:id":"Q2430363",
         "wk:page":"Hondo Valle, El\u00edas Pi\u00f1a"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421177523,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1566582315,
     "wof:name":"Hondo Valle",
     "wof:parent_id":890429275,
     "wof:placetype":"locality",

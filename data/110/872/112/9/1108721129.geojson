@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.465454,
     "lbl:longitude":-70.21792,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"San Crist\u00f3bal",
     "meso:gadm_adm2":"Cambita Garabito",
     "meso:gadm_hasc2":"DO.CR.CG",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.21792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cambita Garabitos"
     ],
@@ -49,7 +52,7 @@
         "\u574e\u6bd4\u5854\u52a0\u62c9\u7dad\u6258\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108721129,
-    "wof:lastmodified":1564188739,
+    "wof:lastmodified":1566582161,
     "wof:name":"Cambita Garabitos",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

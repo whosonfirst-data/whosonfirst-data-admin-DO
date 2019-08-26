@@ -11,8 +11,11 @@
     "geom:longitude":-69.03886,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":23547,
+    "gn:population":23547,
     "iso:country":"DO",
+    "lbl:bbox":"-69.05886,18.74559,-69.01886,18.78559",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -57,9 +60,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437-\u0434\u0435\u043b\u044c-\u0421\u0435\u0439\u0431\u043e"
-    ],
-    "name:unk_x_variant":[
-        "El Seibo"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u0633\u0626\u06cc\u0628\u0648"
@@ -177,11 +177,11 @@
     "wof:concordances":{
         "gn:id":3492984,
         "gp:id":76422,
-        "qs:id":1045284,
+        "qs_pg:id":1045284,
         "wd:id":"Q2420339"
     },
     "wof:concordances_alt":{
-        "qs:id":1198208
+        "qs_pg:id":1198208
     },
     "wof:country":"DO",
     "wof:created":1469052478,
@@ -196,7 +196,7 @@
         }
     ],
     "wof:id":890444697,
-    "wof:lastmodified":1561788411,
+    "wof:lastmodified":1566582337,
     "wof:name":"Santa Cruz de El Seibo",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

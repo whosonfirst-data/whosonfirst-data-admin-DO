@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.71976,18.93938,-69.67976,18.97938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Seyba de la Pocilga",
         "Las Ceibas de las Pocilgas"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327183529,
-    "wof:lastmodified":1537619963,
+    "wof:lastmodified":1566581687,
     "wof:name":"Las Ceibas de las Pocilgas",
     "wof:parent_id":890429217,
     "wof:placetype":"locality",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5418788.003915,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.982957,18.497044,-69.982957,18.497044",
     "geom:latitude":18.497044,
     "geom:longitude":-69.982957,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.48409,
     "gn:longitude":-69.961,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.987957,18.492044,-69.977957,18.502044",
     "lbl:latitude":18.497044,
     "lbl:longitude":-69.982957,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.499848,
     "mps:longitude":-69.990421,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Gala"
     ],
     "name:spa_x_preferred":[
-        "Gal\u00e1"
-    ],
-    "name:unk_x_variant":[
         "Gal\u00e1"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -84,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670659,
         102191575,
@@ -95,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3505546,
         "gp:id":71687,
-        "qs:id":1116994,
         "qs_pg:id":1116994
     },
     "wof:country":"DO",
@@ -114,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379287,
+    "wof:lastmodified":1566581792,
     "wof:name":"Gal\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.43983,18.95475,-71.39983,18.99475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Cabuyas",
         "La Cabulla",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276395177,
-    "wof:lastmodified":1537619992,
+    "wof:lastmodified":1566581977,
     "wof:name":"La Cabuya",
     "wof:parent_id":890429267,
     "wof:placetype":"locality",

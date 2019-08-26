@@ -12,8 +12,10 @@
     "gn:latitude":18.49613,
     "gn:longitude":-69.93637,
     "iso:country":"DO",
+    "lbl:bbox":"-69.954573,18.488454,-69.944573,18.498454",
     "lbl:latitude":18.493454,
     "lbl:longitude":-69.949573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.50534,
     "mps:longitude":-69.956165,
     "mz:hierarchy_label":0,
@@ -35,10 +37,6 @@
         "La Cuesta de Arroyo Hondo"
     ],
     "name:swe_x_preferred":[
-        "Arroyo Hondo"
-    ],
-    "name:unk_x_variant":[
-        "La Cuesta de Arroyo Hondo",
         "Arroyo Hondo"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":57,
     "wof:belongsto":[
         85670659,
@@ -80,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3512407,
         "gp:id":69081,
-        "qs:id":1146102
+        "qs_pg:id":1146102
     },
     "wof:country":"DO",
     "wof:geomhash":"b283a14be8982ea0e65c3b52848802ca",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564188180,
+    "wof:lastmodified":1566581791,
     "wof:name":"Arroyo Hondo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":-71.16612,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2116,
+    "gn:population":2116,
     "iso:country":"DO",
+    "lbl:bbox":"-71.18612,18.24766,-71.14612,18.28766",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pescader\u00eda"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3494979,
         "gp:id":12512612,
-        "qs:id":1045317,
+        "qs_pg:id":1045317,
         "wd:id":"Q7171336",
         "wk:page":"Pescader\u00eda"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890422241,
-    "wof:lastmodified":1563336495,
+    "wof:lastmodified":1566582320,
     "wof:name":"Pescader\u00eda",
     "wof:parent_id":1108721155,
     "wof:placetype":"locality",

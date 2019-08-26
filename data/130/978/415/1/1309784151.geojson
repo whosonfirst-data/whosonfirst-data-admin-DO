@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.65513,19.05085,-71.61513,19.09085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Rinc\u00f3n Grande"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309784151,
-    "wof:lastmodified":1564188918,
+    "wof:lastmodified":1566582279,
     "wof:name":"Rincon Grande",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

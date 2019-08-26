@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.15954,18.8852,-70.11954,18.9252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jagua Mocha",
         "La Jagua Mocha"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309879789,
-    "wof:lastmodified":1537619978,
+    "wof:lastmodified":1566582295,
     "wof:name":"La Jagua Mocha",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

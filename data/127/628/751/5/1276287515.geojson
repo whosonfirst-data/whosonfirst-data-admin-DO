@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.51668,18.94786,-71.47668,18.98786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Carrera"
     ],
@@ -73,8 +77,7 @@
     "name:und_x_variant":[
         "Carrera de Yegua",
         "Carrera Yegua",
-        "Carrerade Yegua",
-        "Carrera"
+        "Carrerade Yegua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1276287515,
-    "wof:lastmodified":1564188341,
+    "wof:lastmodified":1566581907,
     "wof:name":"Carrera",
     "wof:parent_id":890429267,
     "wof:placetype":"locality",

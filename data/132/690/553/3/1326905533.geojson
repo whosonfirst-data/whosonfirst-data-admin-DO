@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.38667,19.41333,-70.34667,19.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Trabucos",
         "Los Tabucos"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326905533,
-    "wof:lastmodified":1537619936,
+    "wof:lastmodified":1566581665,
     "wof:name":"Los Tabucos",
     "wof:parent_id":1108721251,
     "wof:placetype":"locality",

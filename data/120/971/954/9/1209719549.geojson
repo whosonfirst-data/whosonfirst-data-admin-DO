@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.61423,18.49291,-70.57423,18.53291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209719549,
-    "wof:lastmodified":1536387005,
+    "wof:lastmodified":1566582022,
     "wof:name":"Los Quemados",
     "wof:parent_id":1108721149,
     "wof:placetype":"locality",

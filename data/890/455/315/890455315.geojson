@@ -11,10 +11,12 @@
     "geom:longitude":-71.746657,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":7455,
+    "gn:population":7455,
     "iso:country":"DO",
     "lbl:latitude":18.608252,
     "lbl:longitude":-71.752031,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Independencia",
     "meso:gadm_adm2":"La Descubierta",
     "meso:gadm_hasc2":"DO.IN.LD",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.752031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "La Descubierta"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3502787,
         "hasc:id":"DO.IN.LD",
-        "qs:id":95770,
+        "qs_pg:id":95770,
         "wd:id":"Q3820813",
         "wk:page":"La Descubierta"
     },
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890455315,
-    "wof:lastmodified":1563336503,
+    "wof:lastmodified":1566582324,
     "wof:name":"La Descubierta",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

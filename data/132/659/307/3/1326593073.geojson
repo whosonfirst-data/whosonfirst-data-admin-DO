@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.77,19.78,-70.73,19.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Las Tejas"
     ],
@@ -36,8 +40,7 @@
         "Las Tejas"
     ],
     "name:und_x_variant":[
-        "Tejas",
-        "Las Tejas"
+        "Tejas"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0679\u06cc\u062c\u0627\u0633"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326593073,
-    "wof:lastmodified":1564187925,
+    "wof:lastmodified":1566581623,
     "wof:name":"Las Tejas",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.39936,
     "lbl:longitude":-71.344885,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Santiago Rodr\u00edguez",
     "mps:latitude":19.406919,
     "mps:longitude":-71.331992,
@@ -159,9 +160,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0420\u043e\u0434\u0440\u0456\u0433\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Santiago Rodr\u00edguez"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u06cc\u0627\u063a\u0648 \u0631\u0648\u0631\u06cc\u063a\u06cc\u0632 \u0635\u0648\u0628\u06c1"
     ],
@@ -246,9 +244,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"1,152",
     "statoids:area_mi":"445",
     "statoids:as_of_date":"2010-12-01",
@@ -274,7 +272,7 @@
         "gp:id":2345194,
         "hasc:id":"DO.SR",
         "iso:id":"DO-26",
-        "qs:id":229372,
+        "qs_pg:id":229372,
         "unlc:id":"DO-26",
         "wd:id":"Q2021942",
         "wk:page":"Santiago Rodr\u00edguez Province"
@@ -295,11 +293,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672983,
+    "wof:lastmodified":1566581800,
     "wof:name":"Santiago Rodr\u00edguez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":57476,
     "wof:population_rank":8,

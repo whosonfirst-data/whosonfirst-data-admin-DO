@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.35333,19.63,-70.31333,19.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ven\u00fa Abajo",
         "Veragua",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293584669,
-    "wof:lastmodified":1537619905,
+    "wof:lastmodified":1566581859,
     "wof:name":"Veragua Abajo",
     "wof:parent_id":890429285,
     "wof:placetype":"locality",

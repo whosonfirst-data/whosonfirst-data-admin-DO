@@ -10,8 +10,12 @@
     "geom:latitude":19.30084,
     "geom:longitude":-70.42199,
     "iso:country":"DO",
+    "lbl:bbox":"-70.44199,19.28084,-70.40199,19.32084",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Tapia"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3491908,
         "gp:id":76685,
-        "qs:id":251367,
+        "qs_pg:id":251367,
         "wd:id":"Q1770889",
         "wk:page":"Villa Tapia"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421204899,
-    "wof:lastmodified":1561788404,
+    "wof:lastmodified":1566582308,
     "wof:name":"Villa Tapia",
     "wof:parent_id":890429189,
     "wof:placetype":"locality",

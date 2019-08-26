@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.63667,18.86333,-71.59667,18.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Molinos"
     ],
@@ -51,8 +55,7 @@
         "Los Molinos"
     ],
     "name:und_x_variant":[
-        "Molina",
-        "Los Molinos"
+        "Molina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1276300705,
-    "wof:lastmodified":1564188452,
+    "wof:lastmodified":1566581976,
     "wof:name":"Los Molinos",
     "wof:parent_id":890429267,
     "wof:placetype":"locality",

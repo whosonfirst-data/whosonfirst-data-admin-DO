@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.09036,19.74194,-71.05036,19.78194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Caoba",
         "Los Caobos",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243530319,
-    "wof:lastmodified":1537619963,
+    "wof:lastmodified":1566582373,
     "wof:name":"Las Caobas",
     "wof:parent_id":890429257,
     "wof:placetype":"locality",

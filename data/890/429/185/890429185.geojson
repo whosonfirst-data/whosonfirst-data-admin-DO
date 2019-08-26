@@ -11,10 +11,12 @@
     "geom:longitude":-70.19721,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":42324,
+    "gn:population":42324,
     "iso:country":"DO",
     "lbl:latitude":18.341973,
     "lbl:longitude":-70.196005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"San Crist\u00f3bal",
     "meso:gadm_adm2":"San Gregorio de Yaguate",
     "meso:gadm_hasc2":"DO.CR.SG",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.196005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Yaguate"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":285,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3491808,
         "hasc:id":"DO.CR.SG",
-        "qs:id":95701,
+        "qs_pg:id":95701,
         "wd:id":"Q4022373",
         "wk:page":"Yaguate"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429185,
-    "wof:lastmodified":1563336555,
+    "wof:lastmodified":1566582353,
     "wof:name":"Yaguate",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

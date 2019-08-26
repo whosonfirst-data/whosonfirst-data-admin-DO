@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.08255,18.9268,-69.04255,18.9668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00edo Piedras",
         "R\u00edo Piedra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276708031,
-    "wof:lastmodified":1537619914,
+    "wof:lastmodified":1566581967,
     "wof:name":"Rio Piedra",
     "wof:parent_id":890429243,
     "wof:placetype":"locality",

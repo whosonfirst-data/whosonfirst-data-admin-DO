@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.473478,
     "lbl:longitude":-69.63975,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Santo Domingo",
     "meso:gadm_adm2":"Boca Chica",
     "meso:gadm_hasc2":"DO.SD.BC",
@@ -24,6 +26,7 @@
     "mps:longitude":-69.63975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Boca Chica"
     ],
@@ -61,7 +64,7 @@
         "\u535a\u5361\u5947\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108721119,
-    "wof:lastmodified":1564188723,
+    "wof:lastmodified":1566582151,
     "wof:name":"Boca Chica",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

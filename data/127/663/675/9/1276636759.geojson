@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.71772,19.07991,-71.67772,19.11991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Los Patios"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1276636759,
-    "wof:lastmodified":1564188449,
+    "wof:lastmodified":1566581974,
     "wof:name":"Los Patios",
     "wof:parent_id":1108721221,
     "wof:placetype":"locality",

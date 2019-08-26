@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.92,19.13,-69.88,19.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laguna El Junco"
     ],
@@ -45,8 +49,7 @@
         "Laguna El Junco"
     ],
     "name:und_x_variant":[
-        "Junco",
-        "El Junco"
+        "Junco"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226140685,
-    "wof:lastmodified":1564189331,
+    "wof:lastmodified":1566582625,
     "wof:name":"El Junco",
     "wof:parent_id":890429191,
     "wof:placetype":"locality",

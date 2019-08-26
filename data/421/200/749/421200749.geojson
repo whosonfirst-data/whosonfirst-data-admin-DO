@@ -10,8 +10,12 @@
     "geom:latitude":19.69841,
     "geom:longitude":-71.74513,
     "iso:country":"DO",
+    "lbl:bbox":"-71.76513,19.67841,-71.72513,19.71841",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pepillo Salcedo"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Pepillo Salcedo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manzanillo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3495024,
         "gp:id":75715,
-        "qs:id":894254,
+        "qs_pg:id":894254,
         "wd:id":"Q3899368",
         "wk:page":"Pepillo Salcedo, Dominican Republic"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421200749,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1566582314,
     "wof:name":"Pepillo Salcedo",
     "wof:parent_id":890455307,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.37018,18.47927,-69.33018,18.51927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632713
@@ -37,7 +41,7 @@
         "gn:id":3509131
     },
     "wof:country":"DO",
-    "wof:geomhash":"b224b2b272320f3c6aaf5ee8b6c98de6",
+    "wof:geomhash":"5035a2958d539b9de307e877614a82ea",
     "wof:hierarchy":[
         {
             "country_id":85632713,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209372733,
-    "wof:lastmodified":1536289052,
+    "wof:lastmodified":1566582000,
     "wof:name":"Cruce Quisqueya",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     -69.35018000000001,
-    18.499270000000006,
+    18.49927000000001,
     -69.35018000000001,
-    18.499270000000006
+    18.49927000000001
 ],
   "geometry": {"coordinates":[-69.35018000000001,18.49927000000001],"type":"Point"}
 }

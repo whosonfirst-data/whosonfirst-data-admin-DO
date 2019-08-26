@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.80141,19.54384,-70.76141,19.58384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Castillo"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1327189557,
-    "wof:lastmodified":1564188027,
+    "wof:lastmodified":1566581687,
     "wof:name":"El Castillo",
     "wof:parent_id":1108721289,
     "wof:placetype":"locality",

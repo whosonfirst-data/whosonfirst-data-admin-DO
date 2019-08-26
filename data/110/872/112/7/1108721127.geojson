@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.198324,
     "lbl:longitude":-71.247762,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Barahona",
     "meso:gadm_adm2":"Cabral",
     "meso:gadm_hasc2":"DO.BH.CA",
@@ -24,6 +26,7 @@
     "mps:longitude":-71.247762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Cabral"
     ],
@@ -73,7 +76,7 @@
         "\u041a\u0430\u0431\u0440\u0430\u043b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108721127,
-    "wof:lastmodified":1564188740,
+    "wof:lastmodified":1566582161,
     "wof:name":"Cabral",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

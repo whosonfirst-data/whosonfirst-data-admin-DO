@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.142424,
     "lbl:longitude":-71.214269,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Barahona",
     "mps:latitude":18.156566,
     "mps:longitude":-71.213551,
@@ -157,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distrito de Barahona"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"1,647",
     "statoids:area_mi":"636",
     "statoids:as_of_date":"2010-12-01",
@@ -271,7 +272,7 @@
         "gp:id":2345174,
         "hasc:id":"DO.BH",
         "iso:id":"DO-04",
-        "qs:id":219541,
+        "qs_pg:id":219541,
         "unlc:id":"DO-04",
         "wd:id":"Q1137551",
         "wk:page":"Barahona Province"
@@ -292,11 +293,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672983,
+    "wof:lastmodified":1566581800,
     "wof:name":"Barahona",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":187105,
     "wof:population_rank":9,

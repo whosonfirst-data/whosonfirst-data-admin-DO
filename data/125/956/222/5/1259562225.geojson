@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.01243,19.48657,-69.97243,19.52657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Copeyitos",
         "Cupeyito",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259562225,
-    "wof:lastmodified":1537620048,
+    "wof:lastmodified":1566582532,
     "wof:name":"Copeyito",
     "wof:parent_id":890436811,
     "wof:placetype":"locality",

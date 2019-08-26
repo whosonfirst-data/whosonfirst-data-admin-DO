@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.60918,19.5334,-71.56918,19.5734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lajas"
     ],
@@ -47,8 +51,7 @@
         "Lajas"
     ],
     "name:und_x_variant":[
-        "Las Lajas",
-        "Lajas"
+        "Las Lajas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209815749,
-    "wof:lastmodified":1564188604,
+    "wof:lastmodified":1566582073,
     "wof:name":"Lajas",
     "wof:parent_id":1108721211,
     "wof:placetype":"locality",

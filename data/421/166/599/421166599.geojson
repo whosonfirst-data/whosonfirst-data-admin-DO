@@ -10,8 +10,11 @@
     "geom:latitude":18.5,
     "geom:longitude":-69.9,
     "iso:country":"DO",
+    "lbl:bbox":"-69.905,18.495,-69.895,18.505",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ensanche Luper\u00f3n"
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3505935,
         "gp:id":71591,
-        "qs:id":267787,
+        "qs_pg:id":267787,
         "wd:id":"Q5379909",
         "wk:page":"Ensanche Luper\u00f3n"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421166599,
-    "wof:lastmodified":1563336467,
+    "wof:lastmodified":1566582306,
     "wof:name":"Ensanche Luper\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

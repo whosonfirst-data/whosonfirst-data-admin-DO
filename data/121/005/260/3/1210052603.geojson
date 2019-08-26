@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.48267,18.86925,-70.44267,18.90925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Josesito",
         "Joselito",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1210052603,
-    "wof:lastmodified":1537619999,
+    "wof:lastmodified":1566582076,
     "wof:name":"Josecito",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

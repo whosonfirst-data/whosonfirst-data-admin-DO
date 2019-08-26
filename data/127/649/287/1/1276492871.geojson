@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.36221,18.65436,-69.32221,18.69436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Soriano",
         "Los Sorianos"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276492871,
-    "wof:lastmodified":1537619937,
+    "wof:lastmodified":1566581958,
     "wof:name":"Los Sorianos",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

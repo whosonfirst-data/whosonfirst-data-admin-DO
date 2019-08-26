@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.12,18.64667,-69.08,18.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paragueybano",
         "Barag\u00fceybano",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327095857,
-    "wof:lastmodified":1537620080,
+    "wof:lastmodified":1566581597,
     "wof:name":"Barangueeybano",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

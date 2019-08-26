@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.97931,19.65093,-69.93931,19.69093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abreu",
         "Playa del Nav\u00edo",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259657457,
-    "wof:lastmodified":1537619920,
+    "wof:lastmodified":1566582494,
     "wof:name":"Playa de Navio",
     "wof:parent_id":890429259,
     "wof:placetype":"locality",

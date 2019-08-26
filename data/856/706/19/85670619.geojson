@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.894319,
     "lbl:longitude":-70.432633,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Monse\u00f1or Nouel",
     "mps:latitude":18.875374,
     "mps:longitude":-70.421169,
@@ -140,7 +141,7 @@
         "Monse\u00f1or Nouel"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc1\u0ba9\u0bcd\u0b9a\u0bc6\u0ba9\u0bcb\u0bb0\u0bcd \u0ba8\u0bcb\u0baf\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0b9a\u0bc6\u0ba9\u0bcb\u0bb0\u0bcd \u0ba8\u0bcb\u0baf\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c28\u0c4d\u0c38\u0c46\u0c28\u0c30\u0c4d \u0c28\u0c4b\u0c2f\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -159,9 +160,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u043e\u043d\u0441\u0435\u043d\u044c\u043e\u0440-\u041d\u043e\u0432\u0435\u043b\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Provincia de Monse\u00f1or Nouel"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0633\u06cc\u0646\u06cc\u0648\u0631 \u0646\u0648\u0648\u06cc\u0626\u0644 \u0635\u0648\u0628\u06c1"
@@ -247,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"992",
     "statoids:area_mi":"383",
     "statoids:as_of_date":"2010-12-01",
@@ -275,7 +273,7 @@
         "gp:id":2345199,
         "hasc:id":"DO.MN",
         "iso:id":"DO-28",
-        "qs:id":318427,
+        "qs_pg:id":318427,
         "unlc:id":"DO-28",
         "wd:id":"Q1295496",
         "wk:page":"Monse\u00f1or Nouel Province"
@@ -296,11 +294,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672982,
+    "wof:lastmodified":1566581795,
     "wof:name":"Monse\u00f1or Nouel",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":165224,
     "wof:population_rank":9,

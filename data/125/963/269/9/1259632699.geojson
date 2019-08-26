@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.02588,18.80264,-69.98588,18.84264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Blanca"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259632699,
-    "wof:lastmodified":1564189147,
+    "wof:lastmodified":1566582497,
     "wof:name":"La Blanca",
     "wof:parent_id":890429183,
     "wof:placetype":"locality",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14525714.35137,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.837571,18.470121,-69.837571,18.470121",
     "geom:latitude":18.470121,
     "geom:longitude":-69.837571,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.46667,
     "gn:longitude":-69.85,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.842571,18.465121,-69.832571,18.475121",
     "lbl:latitude":18.470121,
     "lbl:longitude":-69.837571,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.466315,
     "mps:longitude":-69.831865,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Los Mameyes"
-    ],
-    "name:unk_x_variant":[
         "Los Mameyes"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670553,
         102191575,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3498146,
         "gp:id":74685,
-        "qs:id":1157495,
         "qs_pg:id":1157495
     },
     "wof:country":"DO",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1566581792,
     "wof:name":"Los Mameyes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

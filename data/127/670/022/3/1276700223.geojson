@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.45904,18.59173,-70.41904,18.63173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La S\u00e1bana"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276700223,
-    "wof:lastmodified":1564188435,
+    "wof:lastmodified":1566581967,
     "wof:name":"La Sabana",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",

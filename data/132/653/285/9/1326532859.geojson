@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.35333,18.54667,-71.31333,18.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326532859,
-    "wof:lastmodified":1536982409,
+    "wof:lastmodified":1566581672,
     "wof:name":"La Plena",
     "wof:parent_id":1108721157,
     "wof:placetype":"locality",

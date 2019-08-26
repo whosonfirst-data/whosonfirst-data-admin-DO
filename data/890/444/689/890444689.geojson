@@ -11,10 +11,14 @@
     "geom:longitude":-71.03916,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":3016,
+    "gn:population":3016,
     "iso:country":"DO",
+    "lbl:bbox":"-71.05916,18.6386,-71.01916,18.6786",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u0430\u0440\u043f\u0430\u043d\u0434\u043e"
     ],
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3491914,
-        "qs:id":1045277,
+        "qs_pg:id":1045277,
         "wd:id":"Q7930938",
         "wk:page":"Villarpando"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890444689,
-    "wof:lastmodified":1563336515,
+    "wof:lastmodified":1566582332,
     "wof:name":"Villarpando",
     "wof:parent_id":1108721197,
     "wof:placetype":"locality",

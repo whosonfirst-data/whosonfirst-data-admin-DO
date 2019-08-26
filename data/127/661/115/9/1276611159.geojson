@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.17841,19.32172,-71.13841,19.36172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ca\u00f1ada Bonita",
         "Cana Bonita"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276611159,
-    "wof:lastmodified":1537620059,
+    "wof:lastmodified":1566581938,
     "wof:name":"Cana Bonita",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

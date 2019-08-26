@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.18667,18.89667,-70.14667,18.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Lagunas"
     ],
@@ -42,8 +46,7 @@
         "Las Lagunas"
     ],
     "name:und_x_variant":[
-        "La Laguna",
-        "Las Lagunas"
+        "La Laguna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1277150935,
-    "wof:lastmodified":1564188402,
+    "wof:lastmodified":1566581946,
     "wof:name":"Las Lagunas",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

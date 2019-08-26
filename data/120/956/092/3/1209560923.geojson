@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.67427,18.78728,-69.63427,18.82728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Sosas",
         "Los Sosa"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209560923,
-    "wof:lastmodified":1537619937,
+    "wof:lastmodified":1566582045,
     "wof:name":"Los Sosa",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

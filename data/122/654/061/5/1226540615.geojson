@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.56378,19.43891,-71.52378,19.47891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vallecito"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226540615,
-    "wof:lastmodified":1564189368,
+    "wof:lastmodified":1566582659,
     "wof:name":"Vallecito",
     "wof:parent_id":1108721215,
     "wof:placetype":"locality",

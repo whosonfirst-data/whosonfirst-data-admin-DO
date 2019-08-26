@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.58805,
     "lbl:longitude":-71.054835,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Valverde",
     "mps:latitude":19.582227,
     "mps:longitude":-71.047549,
@@ -152,7 +153,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0412\u0430\u043b\u044c\u0432\u0435\u0440\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Valverde"
     ],
     "name:urd_x_preferred":[
@@ -239,9 +240,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"809",
     "statoids:area_mi":"312",
     "statoids:as_of_date":"2010-12-01",
@@ -266,7 +267,7 @@
         "gp:id":2345195,
         "hasc:id":"DO.VA",
         "iso:id":"DO-27",
-        "qs:id":219544,
+        "qs_pg:id":219544,
         "unlc:id":"DO-27",
         "wd:id":"Q1774848",
         "wk:page":"Valverde Province"
@@ -287,11 +288,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672983,
+    "wof:lastmodified":1566581799,
     "wof:name":"Valverde",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":163030,
     "wof:population_rank":9,

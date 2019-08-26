@@ -11,10 +11,14 @@
     "geom:longitude":-69.6137,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":11365,
+    "gn:population":11365,
     "iso:country":"DO",
+    "lbl:bbox":"-69.6337,19.2081,-69.5937,19.2481",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "S\u00e1nchez"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3493198,
         "gp:id":76400,
-        "qs:id":148533,
+        "qs_pg:id":148533,
         "wd:id":"Q516965",
         "wk:page":"S\u00e1nchez"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890434779,
-    "wof:lastmodified":1563336564,
+    "wof:lastmodified":1566582358,
     "wof:name":"S\u00e1nchez",
     "wof:parent_id":1108721283,
     "wof:placetype":"locality",

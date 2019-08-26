@@ -10,8 +10,12 @@
     "geom:latitude":18.62035,
     "geom:longitude":-69.49581,
     "iso:country":"DO",
+    "lbl:bbox":"-69.51581,18.60035,-69.47581,18.64035",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Los Llanos"
@@ -45,9 +49,6 @@
     ],
     "name:swe_x_preferred":[
         "Los Llanos"
-    ],
-    "name:unk_x_variant":[
-        "San Jos\u00e9 de Los Llanos"
     ],
     "name:zho_min_nan_x_preferred":[
         "San Jos\u00e9 de los Llanos"
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3498191,
         "gp:id":74664,
-        "qs:id":1200710,
+        "qs_pg:id":1200710,
         "wd:id":"Q3947425",
         "wk:page":"San Jos\u00e9 de los Llanos"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421193077,
-    "wof:lastmodified":1561788403,
+    "wof:lastmodified":1566582307,
     "wof:name":"Los Llanos",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

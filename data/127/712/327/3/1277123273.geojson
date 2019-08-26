@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.62787,19.21017,-70.58787,19.25017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277123273,
-    "wof:lastmodified":1536709559,
+    "wof:lastmodified":1566581947,
     "wof:name":"Monte Llano",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

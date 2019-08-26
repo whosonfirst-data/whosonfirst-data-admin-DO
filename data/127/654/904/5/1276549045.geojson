@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.23667,17.91333,-71.19667,17.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palmarito"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276549045,
-    "wof:lastmodified":1564188464,
+    "wof:lastmodified":1566581983,
     "wof:name":"Palmarito",
     "wof:parent_id":890429291,
     "wof:placetype":"locality",

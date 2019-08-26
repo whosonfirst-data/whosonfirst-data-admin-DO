@@ -11,10 +11,12 @@
     "geom:longitude":-70.613761,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":28651,
+    "gn:population":28651,
     "iso:country":"DO",
     "lbl:latitude":19.427774,
     "lbl:longitude":-70.615832,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Santiago",
     "meso:gadm_adm2":"Licey al Medio",
     "meso:gadm_hasc2":"DO.ST.LM",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.615832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Licey al Medio"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Licey al Medio"
     ],
-    "name:unk_x_variant":[
-        "Licey al Medio"
-    ],
     "name:zho_x_preferred":[
         "\u5229\u585e\u963f\u723e\u6885\u8fea\u5967"
     ],
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":157,
     "wof:belongsto":[
@@ -83,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3499750,
         "hasc:id":"DO.ST.LM",
-        "qs:id":95762,
+        "qs_pg:id":95762,
         "wd:id":"Q3831982",
         "wk:page":"Licey al Medio"
     },
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":890429261,
-    "wof:lastmodified":1563336537,
+    "wof:lastmodified":1566582342,
     "wof:name":"Licey Al Medio",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

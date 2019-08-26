@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.83682,18.49728,-68.79682,18.53728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey Cuy\u00e1",
         "El Cay\u00e1",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343841721,
-    "wof:lastmodified":1537620033,
+    "wof:lastmodified":1566581732,
     "wof:name":"El Coya",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

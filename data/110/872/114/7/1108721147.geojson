@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.747717,
     "lbl:longitude":-69.06989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"El Seibo",
     "meso:gadm_adm2":"Santa Cruz del Seybo",
     "meso:gadm_hasc2":"DO.SE.SC",
@@ -24,8 +26,9 @@
     "mps:longitude":-69.06989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108721147,
-    "wof:lastmodified":1536615587,
+    "wof:lastmodified":1566582166,
     "wof:name":"El Seibo",
     "wof:parent_id":85670663,
     "wof:placetype":"county",

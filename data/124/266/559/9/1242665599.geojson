@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.69511,18.83375,-71.65511,18.87375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Isidro Mart\u00edn",
         "Isidro Mart\u00ednez"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242665599,
-    "wof:lastmodified":1537620002,
+    "wof:lastmodified":1566582396,
     "wof:name":"Isidro Martinez",
     "wof:parent_id":890453405,
     "wof:placetype":"locality",

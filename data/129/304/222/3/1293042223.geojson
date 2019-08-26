@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.26954,18.75869,-70.22954,18.79869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "El Puertu"
     ],
@@ -47,8 +51,7 @@
         "El Puerto"
     ],
     "name:und_x_variant":[
-        "El Puente",
-        "El Puerto"
+        "El Puente"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293042223,
-    "wof:lastmodified":1564188266,
+    "wof:lastmodified":1566581856,
     "wof:name":"El Puerto",
     "wof:parent_id":890429199,
     "wof:placetype":"locality",

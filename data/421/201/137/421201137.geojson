@@ -10,8 +10,11 @@
     "geom:latitude":18.5,
     "geom:longitude":-69.91667,
     "iso:country":"DO",
+    "lbl:bbox":"-69.92167,18.495,-69.91167,18.505",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"DO",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":72290,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670659,
         102191575,
         85632713,
-        1108721273,
-        85670659
+        1108721273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3503617,
         "gp:id":72290,
-        "qs:id":210102
+        "qs_pg:id":210102
     },
     "wof:country":"DO",
     "wof:created":1459010058,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421201137,
-    "wof:lastmodified":1531858791,
+    "wof:lastmodified":1566582314,
     "wof:name":"La Barquita de Santa Cruz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

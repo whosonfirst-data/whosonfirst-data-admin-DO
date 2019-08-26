@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.17953,18.57536,-70.13953,18.61536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Steekmuggies"
     ],
@@ -447,7 +451,7 @@
         }
     ],
     "wof:id":1310346701,
-    "wof:lastmodified":1564188849,
+    "wof:lastmodified":1566582230,
     "wof:name":"Mosquito",
     "wof:parent_id":890429199,
     "wof:placetype":"locality",

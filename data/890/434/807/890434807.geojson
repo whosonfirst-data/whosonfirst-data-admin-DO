@@ -11,10 +11,14 @@
     "geom:longitude":-70.48342,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2526,
+    "gn:population":2526,
     "iso:country":"DO",
+    "lbl:bbox":"-70.50342,19.32413,-70.46342,19.36413",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cayetano Germos\u00e9n"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Cayetano Germos\u00e9n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gayetano Germosen"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3509989,
         "gp:id":75306,
-        "qs:id":148575,
+        "qs_pg:id":148575,
         "wd:id":"Q3664033",
         "wk:page":"Cayetano Germos\u00e9n"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890434807,
-    "wof:lastmodified":1563336566,
+    "wof:lastmodified":1566582359,
     "wof:name":"Cayetano Germos\u00e9n",
     "wof:parent_id":1108721137,
     "wof:placetype":"locality",

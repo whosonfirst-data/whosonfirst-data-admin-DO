@@ -11,10 +11,14 @@
     "geom:longitude":-71.16145,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":3038,
+    "gn:population":3038,
     "iso:country":"DO",
+    "lbl:bbox":"-71.18145,18.29173,-71.14145,18.33173",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Jaquimeyes"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Jaquimeyes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Jaquimelles"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3504160,
         "gp:id":71301,
-        "qs:id":148559,
+        "qs_pg:id":148559,
         "wd:id":"Q3807300",
         "wk:page":"Jaquimeyes"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890416383,
-    "wof:lastmodified":1563336556,
+    "wof:lastmodified":1566582353,
     "wof:name":"Jaquimeyes",
     "wof:parent_id":1108721171,
     "wof:placetype":"locality",

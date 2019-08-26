@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.66538,19.29649,-70.62538,19.33649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mamey"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243313571,
-    "wof:lastmodified":1564188979,
+    "wof:lastmodified":1566582370,
     "wof:name":"Mamey",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

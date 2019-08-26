@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.71383,18.85808,-70.67383,18.89808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gajo de la Paila",
         "El Gajo de la Paila"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293834047,
-    "wof:lastmodified":1537620031,
+    "wof:lastmodified":1566581831,
     "wof:name":"El Gajo de la Paila",
     "wof:parent_id":890453401,
     "wof:placetype":"locality",

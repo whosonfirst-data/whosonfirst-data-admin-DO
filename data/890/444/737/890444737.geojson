@@ -11,10 +11,14 @@
     "geom:longitude":-71.6,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":6679,
+    "gn:population":6679,
     "iso:country":"DO",
+    "lbl:bbox":"-71.62,19.41333,-71.58,19.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Loma de Cabrera"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Loma de Cabrera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Loma de Cabrera"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3499602,
-        "qs:id":1045343,
+        "qs_pg:id":1045343,
         "wd:id":"Q1771467",
         "wk:page":"Loma de Cabrera"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890444737,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1566582331,
     "wof:name":"Loma de Cabrera",
     "wof:parent_id":1108721199,
     "wof:placetype":"locality",

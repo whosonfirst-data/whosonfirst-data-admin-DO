@@ -11,10 +11,12 @@
     "geom:longitude":-71.207575,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":13580,
+    "gn:population":13580,
     "iso:country":"DO",
     "lbl:latitude":18.022778,
     "lbl:longitude":-71.206607,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Barahona",
     "meso:gadm_adm2":"Paraiso",
     "meso:gadm_hasc2":"DO.BH.PA",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.206607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3495273,
         "hasc:id":"DO.BH.PA",
-        "qs:id":95742,
+        "qs_pg:id":95742,
         "wk:page":"Para\u00edso"
     },
     "wof:country":"DO",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890429225,
-    "wof:lastmodified":1564188965,
+    "wof:lastmodified":1566582349,
     "wof:name":"Para\u00edso",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

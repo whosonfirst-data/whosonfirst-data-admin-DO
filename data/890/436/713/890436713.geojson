@@ -11,10 +11,14 @@
     "geom:longitude":-71.29298,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2735,
+    "gn:population":2735,
     "iso:country":"DO",
+    "lbl:bbox":"-71.31298,18.27405,-71.27298,18.31405",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Crist\u00f3bal"
     ],
@@ -33,7 +37,7 @@
     "name:spa_x_preferred":[
         "Crist\u00f3bal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Crist\u00f3bal"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3509191,
-        "qs:id":1045387,
+        "qs_pg:id":1045387,
         "wd:id":"Q963497",
         "wk:page":"Crist\u00f3bal"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890436713,
-    "wof:lastmodified":1563336505,
+    "wof:lastmodified":1566582326,
     "wof:name":"Crist\u00f3bal",
     "wof:parent_id":1108721141,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.09473,18.79191,-69.05473,18.83191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Pablo"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1209576887,
-    "wof:lastmodified":1564188534,
+    "wof:lastmodified":1566582029,
     "wof:name":"San Pablo",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

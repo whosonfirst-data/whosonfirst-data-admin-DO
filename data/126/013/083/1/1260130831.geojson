@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.17028,18.61909,-69.13028,18.65909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sabana de Soco",
         "Sabanas del Soco"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260130831,
-    "wof:lastmodified":1537619912,
+    "wof:lastmodified":1566582119,
     "wof:name":"Sabanas del Soco",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

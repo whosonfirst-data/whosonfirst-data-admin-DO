@@ -11,10 +11,14 @@
     "geom:longitude":-71.28723,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2121,
+    "gn:population":2121,
     "iso:country":"DO",
+    "lbl:bbox":"-71.30723,18.05873,-71.26723,18.09873",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Polo"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3494584,
         "gp:id":75821,
-        "qs:id":1045314,
+        "qs_pg:id":1045314,
         "wd:id":"Q1770610",
         "wk:page":"Polo"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890422235,
-    "wof:lastmodified":1563336494,
+    "wof:lastmodified":1566582319,
     "wof:name":"Polo",
     "wof:parent_id":1108721229,
     "wof:placetype":"locality",

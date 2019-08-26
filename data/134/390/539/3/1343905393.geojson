@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.06308,18.70147,-69.02308,18.74147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Sabaneta"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1343905393,
-    "wof:lastmodified":1564188053,
+    "wof:lastmodified":1566581708,
     "wof:name":"Sabaneta",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

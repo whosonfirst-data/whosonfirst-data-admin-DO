@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.519057,
     "lbl:longitude":-70.046565,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Santo Domingo",
     "meso:gadm_adm2":"Los Alcarrizos",
     "meso:gadm_hasc2":"DO.SD.LA",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.046565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Los Alcarrizos"
     ],
@@ -61,7 +64,7 @@
         "\u6d1b\u65af\u963f\u723e\u5361\u91cc\u7d22\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108721201,
-    "wof:lastmodified":1564188731,
+    "wof:lastmodified":1566582155,
     "wof:name":"Los Alcarrizos",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

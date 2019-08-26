@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.31818,18.39333,-70.27818,18.43333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226690661,
-    "wof:lastmodified":1536795143,
+    "wof:lastmodified":1566582590,
     "wof:name":"Palo Bonito",
     "wof:parent_id":1108721109,
     "wof:placetype":"locality",

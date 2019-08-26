@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.07183,18.65022,-69.03183,18.69022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guazabal",
         "Batey Guazabal"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243119593,
-    "wof:lastmodified":1537620074,
+    "wof:lastmodified":1566582476,
     "wof:name":"Batey Guazabal",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

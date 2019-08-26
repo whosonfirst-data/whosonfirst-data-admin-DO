@@ -10,8 +10,12 @@
     "geom:latitude":18.73172,
     "geom:longitude":-70.93916,
     "iso:country":"DO",
+    "lbl:bbox":"-70.95916,18.71172,-70.91916,18.75172",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Padre Las Casas"
@@ -58,7 +62,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0430\u0434\u0440\u0435 \u041b\u043e\u0441 \u041a\u0430\u0441\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Padre Las Casas"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3495664,
         "gp:id":75489,
-        "qs:id":1045332,
+        "qs_pg:id":1045332,
         "wd:id":"Q966782",
         "wk:page":"Padre Las Casas, Chile"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421176197,
-    "wof:lastmodified":1561788406,
+    "wof:lastmodified":1566582318,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":890429227,
     "wof:placetype":"locality",

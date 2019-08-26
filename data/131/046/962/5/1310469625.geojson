@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.71927,19.44433,-70.67927,19.48433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644\u0625\u064a\u062c\u0627\u064a\u062f\u0648"
     ],
@@ -129,8 +133,7 @@
     ],
     "name:und_x_variant":[
         "El Ingenio",
-        "El Egido",
-        "El Ejido"
+        "El Egido"
     ],
     "name:uzb_x_preferred":[
         "El Ejido"
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1310469625,
-    "wof:lastmodified":1564188756,
+    "wof:lastmodified":1566582172,
     "wof:name":"El Ejido",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

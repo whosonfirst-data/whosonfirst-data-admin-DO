@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.09173,19.27253,-71.05173,19.31253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292968511,
-    "wof:lastmodified":1537036716,
+    "wof:lastmodified":1566581869,
     "wof:name":"Marilope",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

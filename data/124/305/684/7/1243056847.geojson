@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.83704,18.45917,-68.79704,18.49917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey La Ceja",
         "Batey Las Cejas"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243056847,
-    "wof:lastmodified":1537620071,
+    "wof:lastmodified":1566582449,
     "wof:name":"Batey Las Cejas",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

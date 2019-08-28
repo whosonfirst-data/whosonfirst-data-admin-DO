@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.30405,18.36595,-70.26405,18.40595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maizal",
         "El Maizal"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226598599,
-    "wof:lastmodified":1537620024,
+    "wof:lastmodified":1566582598,
     "wof:name":"El Maizal",
     "wof:parent_id":890429185,
     "wof:placetype":"locality",

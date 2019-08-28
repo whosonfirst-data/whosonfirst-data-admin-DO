@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.45476,19.31052,-70.41476,19.35052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "El Hato"
     ],
@@ -35,8 +39,7 @@
         "El Hato"
     ],
     "name:und_x_variant":[
-        "Hato Viejo",
-        "El Hato"
+        "Hato Viejo"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u963f\u6258"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343527063,
-    "wof:lastmodified":1564188046,
+    "wof:lastmodified":1566581702,
     "wof:name":"El Hato",
     "wof:parent_id":890429189,
     "wof:placetype":"locality",

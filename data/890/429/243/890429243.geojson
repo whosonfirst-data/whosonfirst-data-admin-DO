@@ -11,10 +11,12 @@
     "geom:longitude":-68.987091,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":20530,
+    "gn:population":20530,
     "iso:country":"DO",
     "lbl:latitude":18.966022,
     "lbl:longitude":-68.95638,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"El Seibo",
     "meso:gadm_adm2":"Miches",
     "meso:gadm_hasc2":"DO.SE.MI",
@@ -27,6 +29,7 @@
     "mps:longitude":-68.95638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Miches"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":439,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3496397,
         "hasc:id":"DO.SE.MI",
-        "qs:id":95753,
+        "qs_pg:id":95753,
         "wd:id":"Q1770668",
         "wk:page":"Miches"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429243,
-    "wof:lastmodified":1563336535,
+    "wof:lastmodified":1566582341,
     "wof:name":"Miches",
     "wof:parent_id":85670663,
     "wof:placetype":"county",

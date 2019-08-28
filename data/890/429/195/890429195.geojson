@@ -11,10 +11,12 @@
     "geom:longitude":-71.504189,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":11308,
+    "gn:population":11308,
     "iso:country":"DO",
     "lbl:latitude":18.532947,
     "lbl:longitude":-71.491102,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Baoruco",
     "meso:gadm_adm2":"Villa Jaragua",
     "meso:gadm_hasc2":"DO.BR.VJ",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.491102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Villa Jaragua"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Villa Jaragua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jaragua"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3491928,
         "hasc:id":"DO.BR.VJ",
-        "qs:id":95705,
+        "qs_pg:id":95705,
         "wd:id":"Q4012143",
         "wk:page":"Villa Jaragua"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429195,
-    "wof:lastmodified":1563336532,
+    "wof:lastmodified":1566582339,
     "wof:name":"Villa Jaragua",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

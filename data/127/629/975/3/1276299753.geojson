@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.9092,19.49534,-70.8692,19.53534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Capilla"
     ],
@@ -63,8 +67,7 @@
     ],
     "name:und_x_variant":[
         "Cepillo",
-        "Capilla",
-        "La Capilla"
+        "Capilla"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0627\u067e\u06cc\u0644\u0627"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1276299753,
-    "wof:lastmodified":1564188369,
+    "wof:lastmodified":1566581923,
     "wof:name":"La Capilla",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

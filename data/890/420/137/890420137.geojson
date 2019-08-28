@@ -11,10 +11,12 @@
     "geom:longitude":-71.669325,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":8066,
+    "gn:population":8066,
     "iso:country":"DO",
     "lbl:latitude":18.78603,
     "lbl:longitude":-71.679722,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"El\u00edas Pi\u00f1a",
     "meso:gadm_adm2":"El Llano",
     "meso:gadm_hasc2":"DO.EP.EL",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.679722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "El Llano"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3507124,
         "hasc:id":"DO.EP.EL",
-        "qs:id":95786,
+        "qs_pg:id":95786,
         "wk:page":"El Llano"
     },
     "wof:country":"DO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890420137,
-    "wof:lastmodified":1564188967,
+    "wof:lastmodified":1566582354,
     "wof:name":"El Llano",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

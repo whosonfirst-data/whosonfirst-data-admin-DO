@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.51725,18.3899,-69.47725,18.4299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agua Hedionda"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310470187,
-    "wof:lastmodified":1564188770,
+    "wof:lastmodified":1566582181,
     "wof:name":"Agua Hedionda",
     "wof:parent_id":1108721163,
     "wof:placetype":"locality",

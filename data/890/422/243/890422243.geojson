@@ -11,10 +11,14 @@
     "geom:longitude":-70.77029,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":7236,
+    "gn:population":7236,
     "iso:country":"DO",
+    "lbl:bbox":"-70.79029,18.56164,-70.75029,18.60164",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peralta"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Peralta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pinar de Peralta"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3495020,
-        "qs:id":1045318,
+        "qs_pg:id":1045318,
         "wd:id":"Q3899640",
         "wk:page":"Peralta"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890422243,
-    "wof:lastmodified":1563336492,
+    "wof:lastmodified":1566582319,
     "wof:name":"Peralta",
     "wof:parent_id":890455305,
     "wof:placetype":"locality",

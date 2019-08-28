@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.9872,18.71412,-68.9472,18.75412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Lucia"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1309853287,
-    "wof:lastmodified":1564188922,
+    "wof:lastmodified":1566582283,
     "wof:name":"Santa Lucia",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

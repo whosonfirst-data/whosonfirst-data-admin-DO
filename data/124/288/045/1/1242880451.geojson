@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.6192,19.48314,-71.5792,19.52314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Piedra Blanca"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1242880451,
-    "wof:lastmodified":1564189001,
+    "wof:lastmodified":1566582388,
     "wof:name":"Piedra Blanca",
     "wof:parent_id":1108721199,
     "wof:placetype":"locality",

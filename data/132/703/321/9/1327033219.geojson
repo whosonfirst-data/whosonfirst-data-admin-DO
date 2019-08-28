@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.24101,18.36698,-71.20101,18.40698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Monserrate"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1327033219,
-    "wof:lastmodified":1564187962,
+    "wof:lastmodified":1566581647,
     "wof:name":"Monserrate",
     "wof:parent_id":890429205,
     "wof:placetype":"locality",

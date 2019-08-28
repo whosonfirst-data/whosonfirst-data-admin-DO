@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.90937,19.31346,-70.86937,19.35346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cerro Gordo"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1243129663,
-    "wof:lastmodified":1564189039,
+    "wof:lastmodified":1566582416,
     "wof:name":"Cerro Gordo",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

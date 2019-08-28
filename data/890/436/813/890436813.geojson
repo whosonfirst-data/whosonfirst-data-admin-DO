@@ -11,10 +11,14 @@
     "geom:longitude":-70.368,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":599,
+    "gn:population":599,
     "iso:country":"DO",
+    "lbl:bbox":"-70.388,19.2345,-70.348,19.2745",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cenov\u00ed"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Cenov\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoyo Viejo"
     ],
     "qs:name":"Cenov\u00ed",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3509921,
         "gp:id":76685,
-        "qs:id":95797,
+        "qs_pg:id":95797,
         "wd:id":"Q5058894",
         "wk:page":"Cenov\u00ed"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890436813,
-    "wof:lastmodified":1563336507,
+    "wof:lastmodified":1566582327,
     "wof:name":"Cenov\u00ed",
     "wof:parent_id":890429189,
     "wof:placetype":"locality",

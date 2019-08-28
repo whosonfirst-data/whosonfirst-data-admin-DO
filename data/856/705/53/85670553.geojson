@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.604127,
     "lbl:longitude":-69.907123,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Santo Domingo",
     "mps:latitude":18.603139,
     "mps:longitude":-69.909922,
@@ -146,7 +147,7 @@
         "Santo Domingo"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0ba8\u0bcd\u0ba4\u0bcb  \u0b9f\u0bca\u0bae\u0bbf\u0b99\u0bcd\u0b95\u0bcb  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0ba8\u0bcd\u0ba4\u0bcb \u0b9f\u0bca\u0bae\u0bbf\u0b99\u0bcd\u0b95\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c02\u0c1f\u0c4b \u0c21\u0c3e\u0c2e\u0c3f\u0c02\u0c17\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -247,9 +248,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"1,302",
     "statoids:area_mi":"503",
     "statoids:as_of_date":"2010-12-01",
@@ -274,7 +275,7 @@
         "gp:id":28358196,
         "hasc:id":"DO.SD",
         "iso:id":"DO-32",
-        "qs:id":210730,
+        "qs_pg:id":210730,
         "unlc:id":"DO-32",
         "wd:id":"Q1352536",
         "wk:page":"Santo Domingo Province"
@@ -295,11 +296,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672983,
+    "wof:lastmodified":1566581800,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2374370,
     "wof:population_rank":12,

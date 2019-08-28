@@ -11,10 +11,12 @@
     "geom:longitude":-71.697906,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":10536,
+    "gn:population":10536,
     "iso:country":"DO",
     "lbl:latitude":18.711432,
     "lbl:longitude":-71.699405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"El\u00edas Pi\u00f1a",
     "meso:gadm_adm2":"Hondo Valle",
     "meso:gadm_hasc2":"DO.EP.HV",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.699405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hondo Valle"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3504468,
         "hasc:id":"DO.EP.HV",
-        "qs:id":95775
+        "qs_pg:id":95775
     },
     "wof:country":"DO",
     "wof:created":1469051805,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890429275,
-    "wof:lastmodified":1564188962,
+    "wof:lastmodified":1566582341,
     "wof:name":"Hondo Valle",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

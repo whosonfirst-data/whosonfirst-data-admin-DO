@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.65321,19.54245,-70.61321,19.58245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Llano"
     ],
@@ -44,8 +48,7 @@
         "El Llano"
     ],
     "name:und_x_variant":[
-        "Villa General Benito",
-        "El Llano"
+        "Villa General Benito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1260352259,
-    "wof:lastmodified":1564188713,
+    "wof:lastmodified":1566582143,
     "wof:name":"El Llano",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

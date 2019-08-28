@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.98328,18.56763,-68.94328,18.60763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey El-80",
         "El Ochenta"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242861449,
-    "wof:lastmodified":1537620021,
+    "wof:lastmodified":1566582388,
     "wof:name":"El Ochenta",
     "wof:parent_id":890429281,
     "wof:placetype":"locality",

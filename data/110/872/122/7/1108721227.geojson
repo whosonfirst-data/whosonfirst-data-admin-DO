@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.81309,
     "lbl:longitude":-70.347455,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Monse\u00f1or Nouel",
     "meso:gadm_adm2":"Bonao",
     "meso:gadm_hasc2":"DO.MN.BO",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.347455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Piedra Blanca"
     ],
@@ -43,7 +46,7 @@
         "\u5f7c\u5fb7\u62c9\u5e03\u862d\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108721227,
-    "wof:lastmodified":1564188747,
+    "wof:lastmodified":1566582165,
     "wof:name":"Piedra Blanca",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":-71.14847,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":4853,
+    "gn:population":4853,
     "iso:country":"DO",
+    "lbl:bbox":"-71.16847,19.59169,-71.12847,19.63169",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Jaibar"
     ],
     "qs:name":"Jaib\u00f3n",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3504193,
         "gp:id":75066,
-        "qs:id":1045353
+        "qs_pg:id":1045353
     },
     "wof:country":"DO",
     "wof:created":1469052480,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444741,
-    "wof:lastmodified":1505343600,
+    "wof:lastmodified":1566582334,
     "wof:name":"Jaib\u00f3n",
     "wof:parent_id":890429249,
     "wof:placetype":"locality",

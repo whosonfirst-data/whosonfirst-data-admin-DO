@@ -10,8 +10,12 @@
     "geom:latitude":18.57053,
     "geom:longitude":-71.72967,
     "iso:country":"DO",
+    "lbl:bbox":"-71.74967,18.55053,-71.70967,18.59053",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Descubierta"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "La Descubierta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Descubierta"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3502786,
         "gp:id":72683,
-        "qs:id":844319,
+        "qs_pg:id":844319,
         "wd:id":"Q3820813",
         "wk:page":"La Descubierta"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421193999,
-    "wof:lastmodified":1561788403,
+    "wof:lastmodified":1566582307,
     "wof:name":"La Descubierta",
     "wof:parent_id":890455315,
     "wof:placetype":"locality",

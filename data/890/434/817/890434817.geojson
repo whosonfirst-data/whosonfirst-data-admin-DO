@@ -11,10 +11,14 @@
     "geom:longitude":-69.63616,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":21055,
+    "gn:population":21055,
     "iso:country":"DO",
+    "lbl:bbox":"-69.65616,18.73639,-69.61616,18.77639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Bayaguana"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Bayaguana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan de Bayaguana"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3511626,
         "gp:id":69513,
-        "qs:id":148581,
+        "qs_pg:id":148581,
         "wd:id":"Q1770505",
         "wk:page":"Bayaguana"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890434817,
-    "wof:lastmodified":1563336561,
+    "wof:lastmodified":1566582357,
     "wof:name":"Bayaguana",
     "wof:parent_id":1108721113,
     "wof:placetype":"locality",

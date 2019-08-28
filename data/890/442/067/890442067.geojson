@@ -11,8 +11,11 @@
     "geom:longitude":-70.52956,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":102426,
+    "gn:population":102426,
     "iso:country":"DO",
+    "lbl:bbox":"-70.54956,19.20207,-70.50956,19.24207",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -139,9 +142,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d-\u0434\u0435-\u043b\u0430-\u0412\u0435\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Vega"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0648\u06cc\u063a\u0627"
     ],
@@ -261,7 +261,7 @@
     "wof:concordances":{
         "gn:id":3509382,
         "gp:id":70145,
-        "qs:id":274380,
+        "qs_pg:id":274380,
         "wd:id":"Q538953"
     },
     "wof:country":"DO",
@@ -277,7 +277,7 @@
         }
     ],
     "wof:id":890442067,
-    "wof:lastmodified":1563336559,
+    "wof:lastmodified":1566582356,
     "wof:name":"Concepci\u00f3n de La Vega",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

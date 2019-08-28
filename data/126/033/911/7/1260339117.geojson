@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.45089,18.97669,-69.41089,19.01669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Viejo"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1260339117,
-    "wof:lastmodified":1564188719,
+    "wof:lastmodified":1566582147,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":890429219,
     "wof:placetype":"locality",

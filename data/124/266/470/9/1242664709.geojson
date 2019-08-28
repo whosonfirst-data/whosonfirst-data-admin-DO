@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.98531,18.62027,-68.94531,18.66027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Peligro",
         "Batey Peligro"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242664709,
-    "wof:lastmodified":1537620067,
+    "wof:lastmodified":1566582397,
     "wof:name":"Batey Peligro",
     "wof:parent_id":890429281,
     "wof:placetype":"locality",

@@ -11,10 +11,12 @@
     "geom:longitude":-71.720435,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":25211,
+    "gn:population":25211,
     "iso:country":"DO",
     "lbl:latitude":18.940951,
     "lbl:longitude":-71.718349,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"El\u00edas Pi\u00f1a",
     "meso:gadm_adm2":"Comendador",
     "meso:gadm_hasc2":"DO.EP.CO",
@@ -27,6 +29,7 @@
     "mps:longitude":-71.718349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Comendador"
     ],
@@ -36,7 +39,7 @@
     "name:spa_x_preferred":[
         "Comendador"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El\u00edas Pi\u00f1a"
     ],
     "qs:name":"Comendador",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3509387,
         "hasc:id":"DO.EP.CO",
-        "qs:id":95795,
+        "qs_pg:id":95795,
         "wk:page":"Comendador"
     },
     "wof:country":"DO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890453405,
-    "wof:lastmodified":1564188959,
+    "wof:lastmodified":1566582331,
     "wof:name":"Comendador",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

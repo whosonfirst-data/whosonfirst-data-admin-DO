@@ -11,8 +11,11 @@
     "geom:longitude":-70.6884,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":146000,
+    "gn:population":146000,
     "iso:country":"DO",
+    "lbl:bbox":"-70.7084,19.77344,-70.6684,19.81344",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -137,7 +140,7 @@
         "San Felipe de Puerto Plata"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb  \u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bbe"
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb \u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c35\u0c47\u0c30\u0c4d\u0c1f\u0c4b \u0c2a\u0c4d\u0c32\u0c3e\u0c1f\u0c3e"
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0435\u043b\u0456\u043f\u0435-\u0434\u0435-\u041f\u0443\u0435\u0440\u0442\u043e-\u041f\u043b\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port Plata"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3493175,
         "gp:id":76321,
-        "qs:id":1045289,
+        "qs_pg:id":1045289,
         "wd:id":"Q988413",
         "wk:page":"Puerto Plata"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":890438783,
-    "wof:lastmodified":1563336509,
+    "wof:lastmodified":1566582328,
     "wof:name":"Puerto Plata",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

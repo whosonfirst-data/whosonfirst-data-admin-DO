@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.98875,19.1873,-70.94875,19.2273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0627 \u063a\u0631\u0627\u0646\u062f\u064a"
     ],
@@ -77,8 +81,7 @@
         "Mata Grande"
     ],
     "name:und_x_variant":[
-        "Meta Grande",
-        "Mata Grande"
+        "Meta Grande"
     ],
     "name:vie_x_preferred":[
         "Mata Grande"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1309773849,
-    "wof:lastmodified":1564188913,
+    "wof:lastmodified":1566582275,
     "wof:name":"Mata Grande",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

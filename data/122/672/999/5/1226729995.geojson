@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.07455,18.42059,-69.03455,18.46059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cumayasa Kil\u00f3metros 10",
         "Cumayasa Kil\u00f3metros Diez"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226729995,
-    "wof:lastmodified":1537620045,
+    "wof:lastmodified":1566582557,
     "wof:name":"Cumayasa Kilometros Diez",
     "wof:parent_id":1108721291,
     "wof:placetype":"locality",

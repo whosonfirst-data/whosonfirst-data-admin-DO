@@ -11,10 +11,14 @@
     "geom:longitude":-68.97867,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":6224,
+    "gn:population":6224,
     "iso:country":"DO",
+    "lbl:bbox":"-68.99867,18.56793,-68.95867,18.60793",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guaymate"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Guaymate"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guaimate"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3504951,
         "gp:id":71812,
-        "qs:id":1045357,
+        "qs_pg:id":1045357,
         "wd:id":"Q628537",
         "wk:page":"Guaymate"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890444751,
-    "wof:lastmodified":1563336523,
+    "wof:lastmodified":1566582336,
     "wof:name":"Guaymate",
     "wof:parent_id":890429281,
     "wof:placetype":"locality",

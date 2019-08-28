@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.97707,19.22737,-70.93707,19.26737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carrizal"
     ],
@@ -56,8 +60,7 @@
         "Carrizal"
     ],
     "name:und_x_variant":[
-        "El Carrizal",
-        "Carrizal"
+        "El Carrizal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1260357119,
-    "wof:lastmodified":1564188714,
+    "wof:lastmodified":1566582144,
     "wof:name":"Carrizal",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

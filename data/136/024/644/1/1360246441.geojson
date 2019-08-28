@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.22686,18.62075,-69.18686,18.66075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Para\u00edso N\u00famero 2",
         "Batey Paraiso Dos",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360246441,
-    "wof:lastmodified":1537620068,
+    "wof:lastmodified":1566582236,
     "wof:name":"Batey Paraiso Numero Dos",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

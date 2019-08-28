@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.34689,19.51836,-71.30689,19.55836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zamba"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226399207,
-    "wof:lastmodified":1564189364,
+    "wof:lastmodified":1566582656,
     "wof:name":"Zamba",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

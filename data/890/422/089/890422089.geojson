@@ -11,10 +11,14 @@
     "geom:longitude":-71.12084,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":1005,
+    "gn:population":1005,
     "iso:country":"DO",
+    "lbl:bbox":"-71.14084,19.67981,-71.10084,19.71981",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Caya"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3503256,
         "gp:id":75066,
-        "qs:id":148546,
+        "qs_pg:id":148546,
         "wd:id":"Q6461598",
         "wk:page":"La Caya"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890422089,
-    "wof:lastmodified":1563336495,
+    "wof:lastmodified":1566582319,
     "wof:name":"La Caya",
     "wof:parent_id":890455313,
     "wof:placetype":"locality",

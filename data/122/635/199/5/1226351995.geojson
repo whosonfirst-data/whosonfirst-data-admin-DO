@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.82368,18.37288,-70.78368,18.41288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Sinasal",
         "Sinasal"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226351995,
-    "wof:lastmodified":1537619908,
+    "wof:lastmodified":1566582597,
     "wof:name":"Sinasal",
     "wof:parent_id":1108721231,
     "wof:placetype":"locality",

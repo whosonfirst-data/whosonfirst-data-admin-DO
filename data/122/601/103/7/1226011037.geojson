@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.84015,19.67602,-70.80015,19.71602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Media Luna",
         "La Media Luna"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226011037,
-    "wof:lastmodified":1537619972,
+    "wof:lastmodified":1566582656,
     "wof:name":"La Media Luna",
     "wof:parent_id":890429293,
     "wof:placetype":"locality",

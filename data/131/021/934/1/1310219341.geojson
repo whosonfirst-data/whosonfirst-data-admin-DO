@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.96395,18.77996,-70.92395,18.81996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310219341,
-    "wof:lastmodified":1536831219,
+    "wof:lastmodified":1566582221,
     "wof:name":"El Cajuil",
     "wof:parent_id":890429227,
     "wof:placetype":"locality",

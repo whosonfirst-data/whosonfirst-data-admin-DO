@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.2381,18.73535,-70.1981,18.77535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rancho Yagua",
         "Rancho de Yagua"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277022513,
-    "wof:lastmodified":1537619916,
+    "wof:lastmodified":1566581948,
     "wof:name":"Rancho de Yagua",
     "wof:parent_id":890429199,
     "wof:placetype":"locality",

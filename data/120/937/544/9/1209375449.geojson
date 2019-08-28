@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.74827,19.12059,-70.70827,19.16059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jumunuc\u00fa",
         "Jumunuco"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209375449,
-    "wof:lastmodified":1537619997,
+    "wof:lastmodified":1566582000,
     "wof:name":"Jumunuco",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

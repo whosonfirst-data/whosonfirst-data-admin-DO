@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.335549,
     "lbl:longitude":-71.303487,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Independencia",
     "meso:gadm_adm2":"Cristobal",
     "meso:gadm_hasc2":"DO.IN.CR",
@@ -24,6 +26,7 @@
     "mps:longitude":-71.303487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Crist\u00f3bal"
     ],
@@ -55,7 +58,7 @@
         "Crist\u00f3bal"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108721141,
-    "wof:lastmodified":1564188748,
+    "wof:lastmodified":1566582167,
     "wof:name":"Crist\u00f3bal",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.89038,18.88938,-68.85038,18.92938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293451117,
-    "wof:lastmodified":1536838637,
+    "wof:lastmodified":1566581879,
     "wof:name":"Brazo Chiquito",
     "wof:parent_id":890429243,
     "wof:placetype":"locality",

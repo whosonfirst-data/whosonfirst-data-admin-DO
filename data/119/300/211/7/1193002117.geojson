@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.75027,18.46895,-68.71027,18.50895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey 412",
         "Batey Cuatrocientos y Doce"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193002117,
-    "wof:lastmodified":1537620075,
+    "wof:lastmodified":1566582078,
     "wof:name":"Batey Cuatrocientos y Doce",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

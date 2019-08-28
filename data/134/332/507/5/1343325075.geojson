@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.59153,19.67421,-70.55153,19.71421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343325075,
-    "wof:lastmodified":1536942359,
+    "wof:lastmodified":1566581752,
     "wof:name":"La Piedra",
     "wof:parent_id":1108721297,
     "wof:placetype":"locality",

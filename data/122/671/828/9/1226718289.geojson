@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.25791,18.62314,-69.21791,18.66314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arroyo Seco"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1226718289,
-    "wof:lastmodified":1564189337,
+    "wof:lastmodified":1566582630,
     "wof:name":"Arroyo Seco",
     "wof:parent_id":1108721139,
     "wof:placetype":"locality",

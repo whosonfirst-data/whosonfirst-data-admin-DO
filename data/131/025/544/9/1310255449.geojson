@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.34283,18.76239,-69.30283,18.80239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Gibraltar"
     ],
@@ -446,8 +450,7 @@
         "\u0413\u0456\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Jibr\u00e1lta",
-        "Gibraltar"
+        "Jibr\u00e1lta"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"
@@ -514,7 +517,7 @@
         }
     ],
     "wof:id":1310255449,
-    "wof:lastmodified":1564188765,
+    "wof:lastmodified":1566582178,
     "wof:name":"Gibraltar",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

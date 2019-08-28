@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.12993,19.26759,-70.08993,19.30759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Verada",
         "La Vereda"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209512983,
-    "wof:lastmodified":1537619955,
+    "wof:lastmodified":1566582047,
     "wof:name":"La Vereda",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

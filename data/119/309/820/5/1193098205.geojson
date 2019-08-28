@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.43667,19.01333,-69.39667,19.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193098205,
-    "wof:lastmodified":1536364495,
+    "wof:lastmodified":1566582079,
     "wof:name":"Arroyo Piedra",
     "wof:parent_id":890429219,
     "wof:placetype":"locality",

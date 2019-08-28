@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.89052,18.44301,-68.85052,18.48301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gato",
         "Santa Cruz de Gato"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260379985,
-    "wof:lastmodified":1537619909,
+    "wof:lastmodified":1566582131,
     "wof:name":"Santa Cruz de Gato",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

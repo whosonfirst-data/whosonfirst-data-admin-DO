@@ -11,10 +11,14 @@
     "geom:longitude":-71.401,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2671,
+    "gn:population":2671,
     "iso:country":"DO",
+    "lbl:bbox":"-71.421,17.78136,-71.381,17.82136",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Oviedo"
     ],
@@ -69,7 +73,7 @@
     "name:swe_x_preferred":[
         "Oviedo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trujin"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3495684,
         "gp:id":75487,
-        "qs:id":1045333,
+        "qs_pg:id":1045333,
         "wd:id":"Q1770802",
         "wk:page":"Oviedo"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890444729,
-    "wof:lastmodified":1563336532,
+    "wof:lastmodified":1566582339,
     "wof:name":"Oviedo",
     "wof:parent_id":890429231,
     "wof:placetype":"locality",

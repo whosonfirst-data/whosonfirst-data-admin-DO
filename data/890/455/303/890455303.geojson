@@ -11,10 +11,12 @@
     "geom:longitude":-70.132066,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":18192,
+    "gn:population":18192,
     "iso:country":"DO",
     "lbl:latitude":19.194385,
     "lbl:longitude":-70.144415,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Duarte",
     "meso:gadm_adm2":"Pimentel",
     "meso:gadm_hasc2":"DO.DU.PI",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.144415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Pimentel"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3494769,
         "hasc:id":"DO.DU.PI",
-        "qs:id":95737,
+        "qs_pg:id":95737,
         "wk:page":"Pimentel"
     },
     "wof:country":"DO",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890455303,
-    "wof:lastmodified":1564188957,
+    "wof:lastmodified":1566582324,
     "wof:name":"Pimentel",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

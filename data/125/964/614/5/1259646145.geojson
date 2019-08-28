@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.42,19.49667,-70.38,19.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Partido"
     ],
@@ -45,8 +49,7 @@
         "Partido"
     ],
     "name:und_x_variant":[
-        "El Partido",
-        "Partido"
+        "El Partido"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1259646145,
-    "wof:lastmodified":1564189150,
+    "wof:lastmodified":1566582500,
     "wof:name":"Partido",
     "wof:parent_id":1108721251,
     "wof:placetype":"locality",

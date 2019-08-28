@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.13667,18.81333,-69.09667,18.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "La Tala"
     ],
@@ -87,8 +91,7 @@
         "\u041b\u0430-\u0422\u0430\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "La Tola",
-        "La Tala"
+        "La Tola"
     ],
     "name:vie_x_preferred":[
         "La Tala"
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1360036319,
-    "wof:lastmodified":1564188896,
+    "wof:lastmodified":1566582262,
     "wof:name":"La Tala",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

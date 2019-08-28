@@ -12,6 +12,7 @@
     "iso:country":"DO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen La Romana"
     ],
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":102544035,
-    "wof:lastmodified":1563335538,
+    "wof:lastmodified":1566581689,
     "wof:name":"La Romana Airport",
     "wof:parent_id":85632713,
     "wof:placetype":"campus",

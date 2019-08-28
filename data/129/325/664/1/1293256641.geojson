@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.22361,19.06944,-70.18361,19.10944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Pozo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293256641,
-    "wof:lastmodified":1564188254,
+    "wof:lastmodified":1566581849,
     "wof:name":"El Pozo",
     "wof:parent_id":1108721181,
     "wof:placetype":"locality",

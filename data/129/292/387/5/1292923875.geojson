@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.77362,18.21133,-68.73362,18.25133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292923875,
-    "wof:lastmodified":1536602361,
+    "wof:lastmodified":1566581823,
     "wof:name":"Palma Seca",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

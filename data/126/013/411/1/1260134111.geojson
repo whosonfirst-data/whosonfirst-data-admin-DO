@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.2271,18.32544,-70.1871,18.36544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Mercedes"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1260134111,
-    "wof:lastmodified":1564188681,
+    "wof:lastmodified":1566582120,
     "wof:name":"Las Mercedes",
     "wof:parent_id":890429185,
     "wof:placetype":"locality",

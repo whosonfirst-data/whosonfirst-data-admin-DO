@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.273337,
     "lbl:longitude":-70.905485,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Santiago",
     "mps:latitude":19.269976,
     "mps:longitude":-70.926707,
@@ -153,7 +154,7 @@
         "Santiago"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bcb  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c02\u0c1f\u0c3f\u0c2f\u0c3e\u0c3e\u0c17\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -172,9 +173,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Provincia de Santiago"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u06cc\u0627\u063a\u0648 \u0635\u0648\u0628\u06c1"
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"2,809",
     "statoids:area_mi":"1,084",
     "statoids:as_of_date":"2010-12-01",
@@ -290,7 +288,7 @@
         "gp:id":2345193,
         "hasc:id":"DO.ST",
         "iso:id":"DO-25",
-        "qs:id":219543,
+        "qs_pg:id":219543,
         "wd:id":"Q1772983",
         "wk:page":"Santiago Province (Dominican Republic)"
     },
@@ -310,11 +308,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672984,
+    "wof:lastmodified":1566581800,
     "wof:name":"Santiago",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":963422,
     "wof:population_rank":11,

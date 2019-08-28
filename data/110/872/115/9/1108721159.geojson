@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.700081,
     "lbl:longitude":-70.921959,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Puerto Plata",
     "meso:gadm_adm2":"Guananico",
     "meso:gadm_hasc2":"DO.PP.GU",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.921959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Guananico"
     ],
@@ -46,7 +49,7 @@
         "\u74dc\u7d0d\u5c3c\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108721159,
-    "wof:lastmodified":1564188741,
+    "wof:lastmodified":1566582162,
     "wof:name":"Guananico",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.02709,19.80952,-70.98709,19.84952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Belloso",
         "Los Bellosos"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293356633,
-    "wof:lastmodified":1537619950,
+    "wof:lastmodified":1566581858,
     "wof:name":"Los Bellosos",
     "wof:parent_id":890429253,
     "wof:placetype":"locality",

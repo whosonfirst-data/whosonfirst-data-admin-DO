@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.70813,18.72459,-69.66813,18.76459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agua Prieta",
         "Aguas Prietas"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243599783,
-    "wof:lastmodified":1537620087,
+    "wof:lastmodified":1566582432,
     "wof:name":"Aguas Prietas",
     "wof:parent_id":1108721113,
     "wof:placetype":"locality",

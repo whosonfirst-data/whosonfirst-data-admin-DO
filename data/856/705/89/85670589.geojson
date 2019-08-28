@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.499113,
     "lbl:longitude":-71.350125,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Bahoruco",
     "mps:latitude":18.506199,
     "mps:longitude":-71.335092,
@@ -132,7 +133,7 @@
         "Baoruco"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0b92\u0bb0\u0bc1\u0b95\u0bcb  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0b92\u0bb0\u0bc1\u0b95\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c35\u0c4b\u0c30\u0c41\u0c15\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -149,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0411\u0430\u043e\u0440\u0443\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Bahoruco"
     ],
     "name:urd_x_preferred":[
@@ -236,9 +237,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"1,244",
     "statoids:area_mi":"480",
     "statoids:as_of_date":"2010-12-01",
@@ -264,7 +265,7 @@
         "gp:id":2345173,
         "hasc:id":"DO.BR",
         "iso:id":"DO-03",
-        "qs:id":1108052,
+        "qs_pg:id":1108052,
         "unlc:id":"DO-03",
         "wd:id":"Q807079"
     },
@@ -284,11 +285,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672983,
+    "wof:lastmodified":1566581798,
     "wof:name":"Bahoruco",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":97313,
     "wof:population_rank":8,

@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.27,18.93,-70.23,18.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hatillo"
     ],
@@ -51,8 +55,7 @@
         "Hatillo"
     ],
     "name:und_x_variant":[
-        "El Hatillo",
-        "Hatillo"
+        "El Hatillo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1225809633,
-    "wof:lastmodified":1564189320,
+    "wof:lastmodified":1566582615,
     "wof:name":"Hatillo",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

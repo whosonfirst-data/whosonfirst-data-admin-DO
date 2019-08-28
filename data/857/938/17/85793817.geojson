@@ -9,15 +9,16 @@
     "geom:bbox":"-69.899771,18.463318,-69.899771,18.463318",
     "geom:latitude":18.463318,
     "geom:longitude":-69.899771,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.46667,
     "gn:longitude":-69.9,
-    "gn:population":50185,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.904771,18.458318,-69.894771,18.468318",
     "lbl:latitude":18.463318,
     "lbl:longitude":-69.899771,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.458732,
     "mps:longitude":-69.897134,
     "mz:hierarchy_label":0,
@@ -42,9 +43,6 @@
         "Villa Francisca"
     ],
     "name:swe_x_preferred":[
-        "Villa Francisca"
-    ],
-    "name:unk_x_variant":[
         "Villa Francisca"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -94,10 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":35,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85670659,
         102191575,
@@ -108,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3491941,
         "gp:id":76664,
-        "qs:id":211064,
         "qs_pg:id":211064,
         "wd:id":"Q7930325",
         "wk:page":"Villa Francisca"
@@ -129,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563335688,
+    "wof:lastmodified":1566581790,
     "wof:name":"Villa Francisca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

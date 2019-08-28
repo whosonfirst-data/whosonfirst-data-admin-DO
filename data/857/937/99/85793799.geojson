@@ -9,15 +9,16 @@
     "geom:bbox":"-69.903603,18.482407,-69.903603,18.482407",
     "geom:latitude":18.482407,
     "geom:longitude":-69.903603,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.48333,
     "gn:longitude":-69.9,
-    "gn:population":13456,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.908603,18.477407,-69.898603,18.487407",
     "lbl:latitude":18.482407,
     "lbl:longitude":-69.903603,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.484723,
     "mps:longitude":-69.905467,
     "mz:hierarchy_label":0,
@@ -46,9 +47,6 @@
         "S Carlos"
     ],
     "name:swe_x_preferred":[
-        "San Carlos"
-    ],
-    "name:unk_x_variant":[
         "San Carlos"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -98,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":40,
     "wof:belongsto":[
@@ -111,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3493202,
         "gp:id":76313,
-        "qs:id":1165068,
         "qs_pg:id":1165068,
         "wd:id":"Q6118516",
         "wk:page":"San Carlos, Distrito Nacional"
@@ -132,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563335694,
+    "wof:lastmodified":1566581792,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.03578,18.65863,-69.99578,18.69863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243131865,
-    "wof:lastmodified":1536762522,
+    "wof:lastmodified":1566582423,
     "wof:name":"Los Lanos",
     "wof:parent_id":890429183,
     "wof:placetype":"locality",

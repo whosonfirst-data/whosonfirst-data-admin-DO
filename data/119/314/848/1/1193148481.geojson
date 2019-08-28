@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.17058,18.05127,-71.13058,18.09127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guayuyo",
         "Guayuyales",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193148481,
-    "wof:lastmodified":1537620007,
+    "wof:lastmodified":1566582091,
     "wof:name":"Guayuyal",
     "wof:parent_id":1108721179,
     "wof:placetype":"locality",

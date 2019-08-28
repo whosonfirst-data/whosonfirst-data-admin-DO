@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.283052,
     "lbl:longitude":-70.221326,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Duarte",
     "mps:latitude":19.276328,
     "mps:longitude":-70.225595,
@@ -132,7 +133,7 @@
         "Duarte"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc1\u0baf\u0bb0\u0bcd\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bc1\u0baf\u0bb0\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c41\u0c35\u0c3e\u0c30\u0c4d\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -152,7 +153,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0414\u0443\u0430\u0440\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Pacificador"
     ],
     "name:urd_x_preferred":[
@@ -239,9 +240,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"1,640",
     "statoids:area_mi":"633",
     "statoids:as_of_date":"2010-12-01",
@@ -266,7 +267,7 @@
         "gp:id":2345177,
         "hasc:id":"DO.DU",
         "iso:id":"DO-06",
-        "qs:id":235580,
+        "qs_pg:id":235580,
         "unlc:id":"DO-06",
         "wd:id":"Q1262745",
         "wk:page":"Duarte Province"
@@ -287,11 +288,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672982,
+    "wof:lastmodified":1566581794,
     "wof:name":"Duarte",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":289574,
     "wof:population_rank":10,

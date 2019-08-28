@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.42287,18.90016,-70.38287,18.94016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u0995\u09cb\u09b2"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1326766515,
-    "wof:lastmodified":1564187964,
+    "wof:lastmodified":1566581647,
     "wof:name":"Caracol",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

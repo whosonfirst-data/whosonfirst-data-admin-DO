@@ -11,10 +11,14 @@
     "geom:longitude":-70.03557,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":5445,
+    "gn:population":5445,
     "iso:country":"DO",
+    "lbl:bbox":"-70.05557,18.79509,-70.01557,18.83509",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0441\u043f\u0435\u0440\u0430\u043b\u0432\u0438\u043b\u043e"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Esperalvillo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peraldillo"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3505861,
         "gp:id":76728,
-        "qs:id":1045369,
+        "qs_pg:id":1045369,
         "wd:id":"Q3733090",
         "wk:page":"Peralvillo"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890436781,
-    "wof:lastmodified":1563336507,
+    "wof:lastmodified":1566582327,
     "wof:name":"Esperalvillo",
     "wof:parent_id":1108721225,
     "wof:placetype":"locality",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":32861622.45666,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.692353,19.448761,-70.692353,19.448761",
     "geom:latitude":19.448761,
     "geom:longitude":-70.692353,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":19.44172,
     "gn:longitude":-70.69832,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-70.697353,19.443761,-70.687353,19.453761",
     "lbl:latitude":19.448761,
     "lbl:longitude":-70.692353,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.440442,
     "mps:longitude":-70.692355,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
         "Ercilia Pep\u00edn",
-        "Nibaje"
-    ],
-    "name:unk_x_variant":[
         "Nibaje"
     ],
     "qs:gn_fcode":"PPLX",
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670537,
         102191575,
@@ -91,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3495845,
         "gp:id":75444,
-        "qs:id":1163834,
         "qs_pg:id":1163834
     },
     "wof:country":"DO",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379289,
+    "wof:lastmodified":1566581793,
     "wof:name":"Nibaje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

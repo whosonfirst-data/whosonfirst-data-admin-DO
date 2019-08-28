@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.78066,19.66683,-70.74066,19.70683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259845691,
-    "wof:lastmodified":1536832679,
+    "wof:lastmodified":1566582508,
     "wof:name":"Los Casajos",
     "wof:parent_id":890429293,
     "wof:placetype":"locality",

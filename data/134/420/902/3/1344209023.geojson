@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.97541,18.51881,-69.93541,18.55881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Rafaelita",
         "La Rafaela"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344209023,
-    "wof:lastmodified":1537619967,
+    "wof:lastmodified":1566581771,
     "wof:name":"La Rafaela",
     "wof:parent_id":1108721279,
     "wof:placetype":"locality",

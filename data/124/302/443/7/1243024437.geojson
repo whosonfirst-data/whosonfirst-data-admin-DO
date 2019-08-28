@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.33261,19.10474,-71.29261,19.14474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243024437,
-    "wof:lastmodified":1536917538,
+    "wof:lastmodified":1566582452,
     "wof:name":"La Guama",
     "wof:parent_id":1108721267,
     "wof:placetype":"locality",

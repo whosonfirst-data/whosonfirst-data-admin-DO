@@ -11,10 +11,14 @@
     "geom:longitude":-70.81905,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":1229,
+    "gn:population":1229,
     "iso:country":"DO",
+    "lbl:bbox":"-70.83905,19.1999,-70.79905,19.2399",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Juncalito Abajo"
     ],
@@ -33,9 +37,6 @@
     "name:swe_x_preferred":[
         "Juncalito Abajo"
     ],
-    "name:unk_x_variant":[
-        "Juncalito"
-    ],
     "qs:name":"Juncalito Abajo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -50,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3503782,
-        "qs:id":148548,
+        "qs_pg:id":148548,
         "wd:id":"Q5637332"
     },
     "wof:country":"DO",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":890422093,
-    "wof:lastmodified":1563336498,
+    "wof:lastmodified":1566582321,
     "wof:name":"Juncalito Abajo",
     "wof:parent_id":890429271,
     "wof:placetype":"locality",

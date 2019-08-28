@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.8821,19.56867,-70.8421,19.60867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Atravezada",
         "La Atravesada"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293739289,
-    "wof:lastmodified":1537619996,
+    "wof:lastmodified":1566581882,
     "wof:name":"La Atravesada",
     "wof:parent_id":1108721117,
     "wof:placetype":"locality",

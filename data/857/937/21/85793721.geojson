@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2680413.015269,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.842834,18.51347,-69.842834,18.51347",
     "geom:latitude":18.51347,
     "geom:longitude":-69.842834,
     "iso:country":"DO",
+    "lbl:bbox":"-69.847834,18.50847,-69.837834,18.51847",
     "lbl:latitude":18.51347,
     "lbl:longitude":-69.842834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.515307,
     "mps:longitude":-69.840396,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "San Sebasti\u00e1n de Buenavista"
     ],
-    "name:unk_x_variant":[
-        "El Seis"
-    ],
     "qs:gn_adm0_cc":"DO",
     "qs:gn_id":0,
     "qs:gn_local":7874116,
@@ -84,12 +83,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670553,
         102191575,
         85632713,
-        1108721275,
-        85670553
+        1108721275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861411,
+    "wof:lastmodified":1566581791,
     "wof:name":"El Seis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

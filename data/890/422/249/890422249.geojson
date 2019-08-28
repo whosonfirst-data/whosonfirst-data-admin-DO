@@ -11,10 +11,14 @@
     "geom:longitude":-69.0476,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":9273,
+    "gn:population":9273,
     "iso:country":"DO",
+    "lbl:bbox":"-69.0676,18.96364,-69.0276,19.00364",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miches"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Miches"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Jovero"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3496396,
         "gp:id":75288,
-        "qs:id":1045337,
+        "qs_pg:id":1045337,
         "wd:id":"Q1770668",
         "wk:page":"Miches"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890422249,
-    "wof:lastmodified":1563336496,
+    "wof:lastmodified":1566582320,
     "wof:name":"Miches",
     "wof:parent_id":890429243,
     "wof:placetype":"locality",

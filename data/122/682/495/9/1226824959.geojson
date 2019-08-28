@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.01607,19.73296,-70.97607,19.77296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Verraco"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Los Verracos",
-        "Los Berracos",
-        "Verraco"
+        "Los Berracos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226824959,
-    "wof:lastmodified":1564189334,
+    "wof:lastmodified":1566582628,
     "wof:name":"Verraco",
     "wof:parent_id":890429257,
     "wof:placetype":"locality",

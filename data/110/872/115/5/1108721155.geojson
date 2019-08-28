@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.264531,
     "lbl:longitude":-71.155581,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Barahona",
     "meso:gadm_adm2":"Fundaci\u00f3n",
     "meso:gadm_hasc2":"DO.BH.FU",
@@ -24,6 +26,7 @@
     "mps:longitude":-71.155581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Fundaci\u00f3n"
     ],
@@ -79,7 +82,7 @@
         "\u8c50\u9054\u897f\u7fc1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108721155,
-    "wof:lastmodified":1564188742,
+    "wof:lastmodified":1566582163,
     "wof:name":"Fundaci\u00f3n",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

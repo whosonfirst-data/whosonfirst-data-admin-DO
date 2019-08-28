@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.76757,19.14063,-69.72757,19.18063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Los Cacaos"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209028805,
-    "wof:lastmodified":1564188564,
+    "wof:lastmodified":1566582050,
     "wof:name":"Los Cacaos",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

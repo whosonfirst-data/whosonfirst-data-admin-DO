@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.40333,18.43,-70.36333,18.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Tayota",
         "Tayota",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326874927,
-    "wof:lastmodified":1537619907,
+    "wof:lastmodified":1566581613,
     "wof:name":"Tallota",
     "wof:parent_id":1108721109,
     "wof:placetype":"locality",

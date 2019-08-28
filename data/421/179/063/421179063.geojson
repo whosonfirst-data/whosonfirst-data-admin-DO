@@ -10,8 +10,12 @@
     "geom:latitude":18.87402,
     "geom:longitude":-71.2383,
     "iso:country":"DO",
+    "lbl:bbox":"-71.2583,18.85402,-71.2183,18.89402",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Juan de Herrera"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3503900,
         "gp:id":72178,
-        "qs:id":148551,
+        "qs_pg:id":148551,
         "wd:id":"Q3810939",
         "wk:page":"Juan de Herrera, Dominican Republic"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421179063,
-    "wof:lastmodified":1561788405,
+    "wof:lastmodified":1566582316,
     "wof:name":"Juan de Herrera",
     "wof:parent_id":1108721175,
     "wof:placetype":"locality",

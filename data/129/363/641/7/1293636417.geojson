@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.43207,18.7672,-69.39207,18.8072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293636417,
-    "wof:lastmodified":1537066681,
+    "wof:lastmodified":1566581818,
     "wof:name":"Capote Adentro",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

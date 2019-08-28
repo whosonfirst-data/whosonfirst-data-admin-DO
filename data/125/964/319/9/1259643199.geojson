@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.9987,18.77535,-69.9587,18.81535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Antonio",
         "Batey Antonc\u00ed",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259643199,
-    "wof:lastmodified":1537620085,
+    "wof:lastmodified":1566582501,
     "wof:name":"Antonci",
     "wof:parent_id":890429183,
     "wof:placetype":"locality",

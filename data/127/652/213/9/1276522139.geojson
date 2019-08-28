@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.47191,19.25895,-69.43191,19.29895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276522139,
-    "wof:lastmodified":1537022086,
+    "wof:lastmodified":1566581973,
     "wof:name":"Arroyo Surdio",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

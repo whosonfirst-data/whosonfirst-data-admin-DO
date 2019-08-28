@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.63066,18.47914,-68.59066,18.51914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Abahaca",
         "La Albahaca",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243437965,
-    "wof:lastmodified":1537619965,
+    "wof:lastmodified":1566582485,
     "wof:name":"Las Albahacas",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

@@ -11,10 +11,12 @@
     "geom:longitude":-69.883337,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":18343,
+    "gn:population":18343,
     "iso:country":"DO",
     "lbl:latitude":19.155213,
     "lbl:longitude":-69.89454,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Duarte",
     "meso:gadm_adm2":"Villa Rivas",
     "meso:gadm_hasc2":"DO.DU.VR",
@@ -27,6 +29,7 @@
     "mps:longitude":-69.89454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Villa Riva"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3491917,
         "hasc:id":"DO.DU.VR",
-        "qs:id":95704,
+        "qs_pg:id":95704,
         "wd:id":"Q949768",
         "wk:page":"Villa Riva"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429191,
-    "wof:lastmodified":1563336543,
+    "wof:lastmodified":1566582345,
     "wof:name":"Villa Riva",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

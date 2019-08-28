@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.70196,19.28805,-71.66196,19.32805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neyta Abajo",
         "Neita Abajo"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276800577,
-    "wof:lastmodified":1537619927,
+    "wof:lastmodified":1566581915,
     "wof:name":"Neita Abajo",
     "wof:parent_id":1108721239,
     "wof:placetype":"locality",

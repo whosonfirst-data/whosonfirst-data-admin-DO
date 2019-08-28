@@ -11,10 +11,14 @@
     "geom:longitude":-69.85918,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2897,
+    "gn:population":2897,
     "iso:country":"DO",
+    "lbl:bbox":"-69.87918,19.16732,-69.83918,19.20732",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Arenoso"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Arenoso"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Majagual"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3512573,
         "gp:id":76682,
-        "qs:id":148587,
+        "qs_pg:id":148587,
         "wd:id":"Q3622180",
         "wk:page":"Arenoso"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890435905,
-    "wof:lastmodified":1563336570,
+    "wof:lastmodified":1566582360,
     "wof:name":"Arenoso",
     "wof:parent_id":890429191,
     "wof:placetype":"locality",

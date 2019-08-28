@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.95333,19.38,-70.91333,19.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eugenio Pardomo",
         "Eugenio Perdomo"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293940839,
-    "wof:lastmodified":1537620011,
+    "wof:lastmodified":1566581862,
     "wof:name":"Eugenio Perdomo",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

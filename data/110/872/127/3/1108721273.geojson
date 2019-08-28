@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.48239,
     "lbl:longitude":-69.938277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Distrito Nacional",
     "meso:gadm_adm2":"Distrito Nacional",
     "meso:gadm_hasc2":"DO.NC.DN",
@@ -24,8 +26,9 @@
     "mps:longitude":-69.938277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108721273,
-    "wof:lastmodified":1536615590,
+    "wof:lastmodified":1566582154,
     "wof:name":"Santo Domingo De Guzm\u00e1n",
     "wof:parent_id":85670659,
     "wof:placetype":"county",

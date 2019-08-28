@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.1763,18.35451,-70.1363,18.39451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "San-\u0130sidro"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1259732221,
-    "wof:lastmodified":1564189206,
+    "wof:lastmodified":1566582539,
     "wof:name":"San Isidro",
     "wof:parent_id":1108721257,
     "wof:placetype":"locality",

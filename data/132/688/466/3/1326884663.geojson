@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.93205,19.59099,-70.89205,19.63099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Barrero"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326884663,
-    "wof:lastmodified":1564187897,
+    "wof:lastmodified":1566581606,
     "wof:name":"Barrero",
     "wof:parent_id":890429289,
     "wof:placetype":"locality",

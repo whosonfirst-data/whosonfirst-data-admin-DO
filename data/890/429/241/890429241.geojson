@@ -11,10 +11,12 @@
     "geom:longitude":-70.503838,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":135253,
+    "gn:population":135253,
     "iso:country":"DO",
     "lbl:latitude":19.441466,
     "lbl:longitude":-70.505341,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Espaillat",
     "meso:gadm_adm2":"Moca",
     "meso:gadm_hasc2":"DO.ES.MO",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.505341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Moca"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3496332,
         "hasc:id":"DO.ES.MO",
-        "qs:id":95752,
+        "qs_pg:id":95752,
         "wk:page":"Moca"
     },
     "wof:country":"DO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890429241,
-    "wof:lastmodified":1564188964,
+    "wof:lastmodified":1566582347,
     "wof:name":"Moca",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

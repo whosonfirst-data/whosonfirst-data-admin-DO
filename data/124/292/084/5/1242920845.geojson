@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.10895,18.74476,-69.06895,18.78476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242920845,
-    "wof:lastmodified":1537063552,
+    "wof:lastmodified":1566582395,
     "wof:name":"Mato Baco",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

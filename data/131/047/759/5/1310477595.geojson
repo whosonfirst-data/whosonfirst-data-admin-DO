@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.53623,19.66843,-70.49623,19.70843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Colorada"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1310477595,
-    "wof:lastmodified":1564188769,
+    "wof:lastmodified":1566582181,
     "wof:name":"La Colorada",
     "wof:parent_id":890429207,
     "wof:placetype":"locality",

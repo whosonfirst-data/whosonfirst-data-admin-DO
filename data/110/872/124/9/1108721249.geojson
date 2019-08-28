@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.415573,
     "lbl:longitude":-70.886606,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Azua",
     "meso:gadm_adm2":"Sabana Yegua",
     "meso:gadm_hasc2":"DO.AZ.SY",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.886606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ita_x_preferred":[
         "Sabana Yegua"
     ],
@@ -40,7 +43,7 @@
         "\u85a9\u74e6\u7d0d\u8036\u74dc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108721249,
-    "wof:lastmodified":1564188743,
+    "wof:lastmodified":1566582164,
     "wof:name":"Sabana Yegua",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

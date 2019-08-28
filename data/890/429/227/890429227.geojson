@@ -11,10 +11,12 @@
     "geom:longitude":-70.91122,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":22527,
+    "gn:population":22527,
     "iso:country":"DO",
     "lbl:latitude":18.812566,
     "lbl:longitude":-70.897591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Azua",
     "meso:gadm_adm2":"Padre Las Casas",
     "meso:gadm_hasc2":"DO.AZ.PL",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.897591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eus_x_preferred":[
         "Padre Las Casas"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":211,
     "wof:belongsto":[
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3495665,
         "hasc:id":"DO.AZ.PL",
-        "qs:id":95743,
+        "qs_pg:id":95743,
         "wk:page":"Padre Las Casas, Chile"
     },
     "wof:country":"DO",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890429227,
-    "wof:lastmodified":1564188960,
+    "wof:lastmodified":1566582339,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

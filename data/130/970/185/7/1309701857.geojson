@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.81268,18.61065,-71.77268,18.65065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Granada"
     ],
@@ -345,7 +349,7 @@
         }
     ],
     "wof:id":1309701857,
-    "wof:lastmodified":1564188917,
+    "wof:lastmodified":1566582278,
     "wof:name":"Granada",
     "wof:parent_id":890455315,
     "wof:placetype":"locality",

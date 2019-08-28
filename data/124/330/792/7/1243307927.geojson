@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.47202,18.59577,-70.43202,18.63577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nizao"
     ],
@@ -44,8 +48,7 @@
         "Nizao"
     ],
     "name:und_x_variant":[
-        "Nizao Arriba",
-        "Nizao"
+        "Nizao Arriba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1243307927,
-    "wof:lastmodified":1564188984,
+    "wof:lastmodified":1566582374,
     "wof:name":"Nizao",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",

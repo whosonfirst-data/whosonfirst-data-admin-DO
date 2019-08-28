@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.03873,18.81697,-69.99873,18.85697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bernardino"
     ],
@@ -47,8 +51,7 @@
         "Bernardino"
     ],
     "name:und_x_variant":[
-        "Benaldino",
-        "Bernardino"
+        "Benaldino"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1327493031,
-    "wof:lastmodified":1564187945,
+    "wof:lastmodified":1566581637,
     "wof:name":"Bernardino",
     "wof:parent_id":1108721225,
     "wof:placetype":"locality",

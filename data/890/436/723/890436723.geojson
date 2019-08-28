@@ -11,10 +11,14 @@
     "geom:longitude":-68.609,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":1991,
+    "gn:population":1991,
     "iso:country":"DO",
+    "lbl:bbox":"-68.629,18.35825,-68.589,18.39825",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Boca del Yuma"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Boca de Yuma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuma"
     ],
     "qs:name":"Boca de Yuma",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3511277,
         "gp:id":69608,
-        "qs:id":1045392,
+        "qs_pg:id":1045392,
         "wd:id":"Q4936128",
         "wk:page":"Boca de Yuma"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890436723,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1566582326,
     "wof:name":"Boca de Yuma",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

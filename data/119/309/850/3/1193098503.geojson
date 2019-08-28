@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.22,18.84667,-69.18,18.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Loma"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1193098503,
-    "wof:lastmodified":1564188615,
+    "wof:lastmodified":1566582079,
     "wof:name":"La Loma",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.50268,18.62464,-69.46268,18.66464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Marcos"
     ],
@@ -98,8 +102,7 @@
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "San Marcos de Le\u00f3n",
-        "San Marcos"
+        "San Marcos de Le\u00f3n"
     ],
     "name:vol_x_preferred":[
         "San Marcos"
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1327092431,
-    "wof:lastmodified":1564187885,
+    "wof:lastmodified":1566581594,
     "wof:name":"San Marcos",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

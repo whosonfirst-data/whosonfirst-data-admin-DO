@@ -11,8 +11,11 @@
     "geom:longitude":-69.78399,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":15532,
+    "gn:population":15532,
     "iso:country":"DO",
+    "lbl:bbox":"-69.80399,18.787,-69.76399,18.827",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435-\u041f\u043b\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Antonio de Monte Plata"
     ],
     "name:urd_x_preferred":[
@@ -250,7 +253,7 @@
     "wof:concordances":{
         "gn:id":3496134,
         "gp:id":75381,
-        "qs:id":1045323,
+        "qs_pg:id":1045323,
         "wd:id":"Q634487",
         "wk:page":"Monte Plata"
     },
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":890444717,
-    "wof:lastmodified":1563336529,
+    "wof:lastmodified":1566582338,
     "wof:name":"Monte Plata",
     "wof:parent_id":1108721213,
     "wof:placetype":"locality",

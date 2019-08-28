@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.94468,19.77583,-70.90468,19.81583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boca de Caonao",
         "La Boca de Caonao"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209290379,
-    "wof:lastmodified":1537619995,
+    "wof:lastmodified":1566582053,
     "wof:name":"La Boca de Caonao",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

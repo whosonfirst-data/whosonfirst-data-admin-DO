@@ -11,10 +11,14 @@
     "geom:longitude":-71.18147,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":2511,
+    "gn:population":2511,
     "iso:country":"DO",
+    "lbl:bbox":"-71.20147,18.26668,-71.16147,18.30668",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fundaci\u00f3n"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3505612,
         "gp:id":71301,
-        "qs:id":1045364,
+        "qs_pg:id":1045364,
         "wd:id":"Q3754387",
         "wk:page":"Fundaci\u00f3n"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890444761,
-    "wof:lastmodified":1563336525,
+    "wof:lastmodified":1566582336,
     "wof:name":"Fundaci\u00f3n",
     "wof:parent_id":1108721155,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.47039,19.28604,-70.43039,19.32604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maguey"
     ],
@@ -35,8 +39,7 @@
         "Maguey"
     ],
     "name:und_x_variant":[
-        "Bacui",
-        "Maguey"
+        "Bacui"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343918567,
-    "wof:lastmodified":1564188033,
+    "wof:lastmodified":1566581693,
     "wof:name":"Maguey",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.57282,19.01159,-71.53282,19.05159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326718563,
-    "wof:lastmodified":1536715823,
+    "wof:lastmodified":1566581650,
     "wof:name":"Sabana Mula",
     "wof:parent_id":1108721125,
     "wof:placetype":"locality",

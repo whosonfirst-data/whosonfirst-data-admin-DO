@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.12447,18.34363,-70.08447,18.38363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Agua"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1242828493,
-    "wof:lastmodified":1564189099,
+    "wof:lastmodified":1566582462,
     "wof:name":"Agua",
     "wof:parent_id":1108721261,
     "wof:placetype":"locality",

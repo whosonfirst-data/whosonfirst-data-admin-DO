@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.27817,18.49473,-69.23817,18.53473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Americano",
         "Americana",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343619553,
-    "wof:lastmodified":1537619996,
+    "wof:lastmodified":1566581743,
     "wof:name":"La Americana",
     "wof:parent_id":1108721269,
     "wof:placetype":"locality",

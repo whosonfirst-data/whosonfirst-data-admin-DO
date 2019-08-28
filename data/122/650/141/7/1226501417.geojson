@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.22994,18.85933,-70.18994,18.89933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quebradita",
         "La Quebradilla",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226501417,
-    "wof:lastmodified":1537619967,
+    "wof:lastmodified":1566582607,
     "wof:name":"La Quebradita",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

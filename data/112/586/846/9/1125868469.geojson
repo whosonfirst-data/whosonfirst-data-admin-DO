@@ -9,17 +9,20 @@
     "geom:bbox":"-70.31193,19.53406,-70.31193,19.53406",
     "geom:latitude":19.53406,
     "geom:longitude":-70.31193,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":365,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
     "gn:population":365,
     "iso:country":"DO",
+    "lbl:bbox":"-70.33193,19.51406,-70.29193,19.55406",
     "lbl:latitude":19.53406,
     "lbl:longitude":-70.31193,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blanco"
     ],
     "qs_pg:aaroncc":"DO",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":95807,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125868469,
-    "wof:lastmodified":1509397149,
+    "wof:lastmodified":1566582364,
     "wof:name":"Blanco Abajo",
     "wof:parent_id":890425729,
     "wof:placetype":"locality",

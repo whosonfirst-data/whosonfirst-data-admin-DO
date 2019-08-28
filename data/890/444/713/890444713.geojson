@@ -11,10 +11,14 @@
     "geom:longitude":-69.79331,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":16834,
+    "gn:population":16834,
     "iso:country":"DO",
+    "lbl:bbox":"-69.81331,18.92498,-69.77331,18.96498",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Sabana Grande de Boy\u00e1"
     ],
@@ -39,7 +43,7 @@
     "name:spa_x_preferred":[
         "Sabana Grande de Boy\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Sabana Grande de Boy\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3493482,
-        "qs:id":1045301,
+        "qs_pg:id":1045301,
         "wd:id":"Q3944200",
         "wk:page":"Sabana Grande de Boy\u00e1"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890444713,
-    "wof:lastmodified":1561788409,
+    "wof:lastmodified":1566582333,
     "wof:name":"Sabana Grande de Boy\u00e1",
     "wof:parent_id":890429217,
     "wof:placetype":"locality",

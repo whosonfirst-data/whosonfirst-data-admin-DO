@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.1494,19.36292,-71.1094,19.40292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293741285,
-    "wof:lastmodified":1536919060,
+    "wof:lastmodified":1566581886,
     "wof:name":"Magua al Medio",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

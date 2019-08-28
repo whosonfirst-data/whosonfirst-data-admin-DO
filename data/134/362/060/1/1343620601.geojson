@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.00795,18.93886,-69.96795,18.97886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palmar"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343620601,
-    "wof:lastmodified":1564188039,
+    "wof:lastmodified":1566581697,
     "wof:name":"Palmar",
     "wof:parent_id":890420149,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.28262,18.66153,-69.24262,18.70153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Algarrobos"
     ],
@@ -41,8 +45,7 @@
         "Los Algarrobos"
     ],
     "name:und_x_variant":[
-        "Algarrobo",
-        "Los Algarrobos"
+        "Algarrobo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327480775,
-    "wof:lastmodified":1564187951,
+    "wof:lastmodified":1566581640,
     "wof:name":"Los Algarrobos",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",

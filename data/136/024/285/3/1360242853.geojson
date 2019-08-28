@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.49537,18.42972,-69.45537,18.46972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "El Rubio"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1360242853,
-    "wof:lastmodified":1564188864,
+    "wof:lastmodified":1566582237,
     "wof:name":"El Rubio",
     "wof:parent_id":1108721163,
     "wof:placetype":"locality",

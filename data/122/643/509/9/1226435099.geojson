@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.24108,19.32375,-70.20108,19.36375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naranja Dulce",
         "Naranjo Dulce"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226435099,
-    "wof:lastmodified":1537619927,
+    "wof:lastmodified":1566582561,
     "wof:name":"Naranjo Dulce",
     "wof:parent_id":890429213,
     "wof:placetype":"locality",

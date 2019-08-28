@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.75373,19.27111,-70.71373,19.31111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mateo"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1343915437,
-    "wof:lastmodified":1564188034,
+    "wof:lastmodified":1566581693,
     "wof:name":"Mateo",
     "wof:parent_id":1108721245,
     "wof:placetype":"locality",

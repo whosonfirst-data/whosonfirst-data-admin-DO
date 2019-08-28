@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.398903,
     "lbl:longitude":-70.53265,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Azua",
     "meso:gadm_adm2":"Las Charcas",
     "meso:gadm_hasc2":"DO.AZ.LC",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.53265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Las Charcas"
     ],
@@ -49,7 +52,7 @@
         "\u62c9\u65af\u67e5\u723e\u5361\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108721189,
-    "wof:lastmodified":1564188724,
+    "wof:lastmodified":1566582152,
     "wof:name":"Las Charcas",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

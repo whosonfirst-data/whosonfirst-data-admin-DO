@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.37518,18.73577,-70.33518,18.77577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Los Cacaos"
     ],
@@ -38,8 +42,7 @@
         "Los Cacaos"
     ],
     "name:und_x_variant":[
-        "El Cacao",
-        "Los Cacaos"
+        "El Cacao"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u5361\u8003\u65af"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327262597,
-    "wof:lastmodified":1564188005,
+    "wof:lastmodified":1566581673,
     "wof:name":"Los Cacaos",
     "wof:parent_id":1108721227,
     "wof:placetype":"locality",

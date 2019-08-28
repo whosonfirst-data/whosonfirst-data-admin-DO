@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.92317,19.63424,-70.88317,19.67424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Cabirmar",
         "La Cabirma"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243148041,
-    "wof:lastmodified":1537619993,
+    "wof:lastmodified":1566582425,
     "wof:name":"La Cabirma",
     "wof:parent_id":1108721159,
     "wof:placetype":"locality",

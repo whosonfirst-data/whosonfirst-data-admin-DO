@@ -11,10 +11,12 @@
     "geom:longitude":-70.783663,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":11543,
+    "gn:population":11543,
     "iso:country":"DO",
     "lbl:latitude":18.601822,
     "lbl:longitude":-70.782628,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Azua",
     "meso:gadm_adm2":"Peralta",
     "meso:gadm_hasc2":"DO.AZ.PR",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.782628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Peralta"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3495021,
         "hasc:id":"DO.AZ.PR",
-        "qs:id":95738,
+        "qs_pg:id":95738,
         "wk:page":"Peralta"
     },
     "wof:country":"DO",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890455305,
-    "wof:lastmodified":1564188957,
+    "wof:lastmodified":1566582325,
     "wof:name":"Peralta",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

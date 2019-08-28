@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.92,19.09667,-70.88,19.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259350603,
-    "wof:lastmodified":1537047682,
+    "wof:lastmodified":1566582525,
     "wof:name":"Los Limones",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

@@ -11,10 +11,12 @@
     "geom:longitude":-71.495375,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":37366,
+    "gn:population":37366,
     "iso:country":"DO",
     "lbl:latitude":18.91516,
     "lbl:longitude":-71.53245,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"San Juan",
     "meso:gadm_adm2":"Las Matas de Farfan",
     "meso:gadm_hasc2":"DO.JU.LM",
@@ -27,7 +29,8 @@
     "mps:longitude":-71.53245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":6.0,
+    "name:und_x_variant":[
         "Las Matas de Farf\u00e1n"
     ],
     "qs:name":"Las Matas de Farf\u00e1n",
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3500371,
         "hasc:id":"DO.JU.LM",
-        "qs:id":95765,
+        "qs_pg:id":95765,
         "wd:id":"Q3827246",
         "wk:page":"Las Matas de Farf\u00e1n"
     },
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890429267,
-    "wof:lastmodified":1536617381,
+    "wof:lastmodified":1566582344,
     "wof:name":"Las Matas De Farf\u00e1n",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

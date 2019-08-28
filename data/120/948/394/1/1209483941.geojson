@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.53827,18.68375,-71.49827,18.72375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guayabal"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1209483941,
-    "wof:lastmodified":1564188500,
+    "wof:lastmodified":1566582007,
     "wof:name":"Guayabal",
     "wof:parent_id":85632713,
     "wof:placetype":"locality",

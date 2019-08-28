@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.13548,19.28173,-71.09548,19.32173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293644603,
-    "wof:lastmodified":1537055498,
+    "wof:lastmodified":1566581820,
     "wof:name":"Sillon del Palacio",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

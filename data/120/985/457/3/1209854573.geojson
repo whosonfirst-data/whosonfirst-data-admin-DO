@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.66824,18.43523,-69.62824,18.47523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Botados"
     ],
@@ -38,8 +42,7 @@
         "Los Botados"
     ],
     "name:und_x_variant":[
-        "Los Botaos",
-        "Los Botados"
+        "Los Botaos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209854573,
-    "wof:lastmodified":1564188523,
+    "wof:lastmodified":1566582023,
     "wof:name":"Los Botados",
     "wof:parent_id":1108721119,
     "wof:placetype":"locality",

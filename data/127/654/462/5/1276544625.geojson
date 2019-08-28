@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.24669,19.13742,-70.20669,19.17742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Palmilla",
         "La Pamilla",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276544625,
-    "wof:lastmodified":1564188464,
+    "wof:lastmodified":1566581983,
     "wof:name":"La Palmilla",
     "wof:parent_id":1108721191,
     "wof:placetype":"locality",

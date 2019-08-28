@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.12591,
     "lbl:longitude":-70.37698,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"La Vega",
     "meso:gadm_adm2":"Jima Abajo",
     "meso:gadm_hasc2":"DO.VE.JA",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.37698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Jima Abajo"
     ],
@@ -43,7 +46,7 @@
         "\u5e0c\u99ac\u963f\u74e6\u970d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108721173,
-    "wof:lastmodified":1564188739,
+    "wof:lastmodified":1566582161,
     "wof:name":"Jima Abajo",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

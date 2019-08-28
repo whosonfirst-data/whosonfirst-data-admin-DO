@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.29452,18.84242,-69.25452,18.88242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225796117,
-    "wof:lastmodified":1537082238,
+    "wof:lastmodified":1566582672,
     "wof:name":"Los Macos",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

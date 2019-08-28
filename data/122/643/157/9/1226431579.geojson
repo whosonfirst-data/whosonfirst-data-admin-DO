@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.81623,18.69323,-68.77623,18.73323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Estancia"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226431579,
-    "wof:lastmodified":1564189239,
+    "wof:lastmodified":1566582560,
     "wof:name":"La Estancia",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

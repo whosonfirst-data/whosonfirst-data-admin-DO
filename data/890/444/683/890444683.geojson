@@ -11,10 +11,14 @@
     "geom:longitude":-70.02508,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":11595,
+    "gn:population":11595,
     "iso:country":"DO",
+    "lbl:bbox":"-70.04508,18.75014,-70.00508,18.79014",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Yamas\u00e1"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Yamas\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Yamas\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3491796,
         "gp:id":76728,
-        "qs:id":1045274,
+        "qs_pg:id":1045274,
         "wd:id":"Q4022462",
         "wk:page":"Yamas\u00e1"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890444683,
-    "wof:lastmodified":1563336526,
+    "wof:lastmodified":1566582337,
     "wof:name":"Yamas\u00e1",
     "wof:parent_id":890429183,
     "wof:placetype":"locality",

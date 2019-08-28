@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.58246,19.10439,-70.54246,19.14439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Faro"
     ],
@@ -38,8 +42,7 @@
         "El Faro"
     ],
     "name:und_x_variant":[
-        "Alfaro",
-        "El Faro"
+        "Alfaro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293252841,
-    "wof:lastmodified":1564188253,
+    "wof:lastmodified":1566581849,
     "wof:name":"El Faro",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

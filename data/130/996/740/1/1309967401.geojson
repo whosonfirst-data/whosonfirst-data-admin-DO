@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-68.90448,18.9409,-68.86448,18.9809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Cedro"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1309967401,
-    "wof:lastmodified":1564188906,
+    "wof:lastmodified":1566582270,
     "wof:name":"El Cedro",
     "wof:parent_id":890429243,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.959493,
     "lbl:longitude":-71.016023,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"San Juan",
     "meso:gadm_adm2":"Bohechio",
     "meso:gadm_hasc2":"DO.JU.BO",
@@ -24,6 +26,7 @@
     "mps:longitude":-71.016023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bohech\u00edo"
     ],
@@ -43,7 +46,7 @@
         "\u535a\u57c3\u5947\u5967"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108721121,
-    "wof:lastmodified":1564188740,
+    "wof:lastmodified":1566582162,
     "wof:name":"Bohech\u00edo",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

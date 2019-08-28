@@ -9,15 +9,18 @@
     "geom:bbox":"-71.63561,18.54374,-71.63561,18.54374",
     "geom:latitude":18.54374,
     "geom:longitude":-71.63561,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3078,
+    "gn:country":"DO",
+    "gn:fcode":"PPL",
     "gn:population":3078,
     "iso:country":"DO",
+    "lbl:bbox":"-71.65561,18.52374,-71.61561,18.56374",
     "lbl:latitude":18.54374,
     "lbl:longitude":-71.63561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Postrer R\u00edo"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Postrer R\u00edo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Postrer R\u00edos"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":1045313,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126024517,
-    "wof:lastmodified":1563336577,
+    "wof:lastmodified":1566582363,
     "wof:name":"Postrer R\u00edo",
     "wof:parent_id":890429223,
     "wof:placetype":"locality",

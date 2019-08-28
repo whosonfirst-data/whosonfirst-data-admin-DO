@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.66868,19.12823,-70.62868,19.16823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "La Mata"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1260126493,
-    "wof:lastmodified":1564188676,
+    "wof:lastmodified":1566582118,
     "wof:name":"La Mata",
     "wof:parent_id":890429269,
     "wof:placetype":"locality",

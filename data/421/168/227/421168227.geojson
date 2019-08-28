@@ -10,8 +10,12 @@
     "geom:latitude":19.36966,
     "geom:longitude":-71.06964,
     "iso:country":"DO",
+    "lbl:bbox":"-71.08964,19.34966,-71.04964,19.38966",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "El Rubio"
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":3506241,
         "gp:id":71469,
-        "qs:id":1045372
+        "qs_pg:id":1045372
     },
     "wof:country":"DO",
     "wof:created":1459008758,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":421168227,
-    "wof:lastmodified":1564188950,
+    "wof:lastmodified":1566582306,
     "wof:name":"El Rubio",
     "wof:parent_id":890455301,
     "wof:placetype":"locality",

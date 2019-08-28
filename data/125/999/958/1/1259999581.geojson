@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.25849,19.59365,-70.21849,19.63365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259999581,
-    "wof:lastmodified":1536609316,
+    "wof:lastmodified":1566582503,
     "wof:name":"La Jagua",
     "wof:parent_id":890429285,
     "wof:placetype":"locality",

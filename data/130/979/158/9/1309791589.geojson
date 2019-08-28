@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.33115,19.53558,-70.29115,19.57558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309791589,
-    "wof:lastmodified":1536951746,
+    "wof:lastmodified":1566582278,
     "wof:name":"La Colonia",
     "wof:parent_id":890425729,
     "wof:placetype":"locality",

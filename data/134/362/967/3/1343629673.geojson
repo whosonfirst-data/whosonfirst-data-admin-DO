@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.5815,18.49175,-69.5415,18.53175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey La Mula",
         "Cayacoa",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343629673,
-    "wof:lastmodified":1537619971,
+    "wof:lastmodified":1566581696,
     "wof:name":"La Mula",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

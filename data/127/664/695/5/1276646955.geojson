@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.27,19.54667,-70.23,19.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Algarrobo"
     ],
@@ -69,8 +73,7 @@
         "Algarrobo"
     ],
     "name:und_x_variant":[
-        "El Algarroba",
-        "Algarrobo"
+        "El Algarroba"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u52a0\u7f57\u6c83"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1276646955,
-    "wof:lastmodified":1564188447,
+    "wof:lastmodified":1566581973,
     "wof:name":"Algarrobo",
     "wof:parent_id":890429285,
     "wof:placetype":"locality",

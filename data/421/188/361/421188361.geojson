@@ -10,8 +10,11 @@
     "geom:latitude":18.48333,
     "geom:longitude":-69.88333,
     "iso:country":"DO",
+    "lbl:bbox":"-69.88833,18.47833,-69.87833,18.48833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Calero"
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3510695,
         "gp:id":69762,
-        "qs:id":22826
+        "qs_pg:id":22826
     },
     "wof:country":"DO",
     "wof:created":1459009543,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421188361,
-    "wof:lastmodified":1564188951,
+    "wof:lastmodified":1566582311,
     "wof:name":"Calero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

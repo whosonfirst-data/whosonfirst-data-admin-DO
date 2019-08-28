@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.30333,19.18,-69.26333,19.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gratin\u00ed",
         "Los Gratinices"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309676821,
-    "wof:lastmodified":1537619944,
+    "wof:lastmodified":1566582291,
     "wof:name":"Los Gratinices",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

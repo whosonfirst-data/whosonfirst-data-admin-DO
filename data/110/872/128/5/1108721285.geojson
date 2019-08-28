@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.498335,
     "lbl:longitude":-70.605856,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Santiago",
     "meso:gadm_adm2":"Tamboril",
     "meso:gadm_hasc2":"DO.ST.TA",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.605856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tamboril"
     ],
@@ -40,7 +43,7 @@
         "Tamboril"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108721285,
-    "wof:lastmodified":1564188738,
+    "wof:lastmodified":1566582160,
     "wof:name":"Tamboril",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

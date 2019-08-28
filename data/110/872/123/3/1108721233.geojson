@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.727045,
     "lbl:longitude":-70.695436,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Puerto Plata",
     "meso:gadm_adm2":"San Felipe de Puerto Plata",
     "meso:gadm_hasc2":"DO.PP.SF",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.695436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Puerto Plata"
     ],
@@ -37,7 +40,7 @@
         "Puerto Plata"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108721233,
-    "wof:lastmodified":1564188743,
+    "wof:lastmodified":1566582163,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

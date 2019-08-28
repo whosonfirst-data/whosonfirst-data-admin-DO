@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10135737.615328,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.91735,18.460943,-69.91735,18.460943",
     "geom:latitude":18.460943,
     "geom:longitude":-69.91735,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.4625,
     "gn:longitude":-69.8997,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.92235,18.455943,-69.91235,18.465943",
     "lbl:latitude":18.460943,
     "lbl:longitude":-69.91735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.449795,
     "mps:longitude":-69.914849,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     "name:spa_x_preferred":[
         "Guibia",
         "Jos\u00e9 Francisco Pe\u00f1a G\u00f3mez"
-    ],
-    "name:unk_x_variant":[
-        "Guibia"
     ],
     "qs:gn_adm0_cc":"DO",
     "qs:gn_fcode":"PPLX",
@@ -91,8 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670659,
         102191575,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3504891,
         "gp:id":71825,
-        "qs:id":1163265,
         "qs_pg:id":1163265
     },
     "wof:country":"DO",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379287,
+    "wof:lastmodified":1566581793,
     "wof:name":"Guibia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

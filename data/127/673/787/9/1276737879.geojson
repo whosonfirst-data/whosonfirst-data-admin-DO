@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.37,19.28,-70.33,19.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Ana Arriba"
     ],
@@ -36,8 +40,7 @@
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d0\u10dc\u10d0-\u10d0\u10e0\u10d8\u10d1\u10d0"
     ],
     "name:und_x_variant":[
-        "Santa Ana",
-        "Santa Ana Arriba"
+        "Santa Ana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276737879,
-    "wof:lastmodified":1564188357,
+    "wof:lastmodified":1566581917,
     "wof:name":"Santa Ana Arriba",
     "wof:parent_id":890429189,
     "wof:placetype":"locality",

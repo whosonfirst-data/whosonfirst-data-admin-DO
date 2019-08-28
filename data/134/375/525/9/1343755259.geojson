@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.13667,19.56333,-70.09667,19.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tierra Blanca"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343755259,
-    "wof:lastmodified":1564188169,
+    "wof:lastmodified":1566581783,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":890429285,
     "wof:placetype":"locality",

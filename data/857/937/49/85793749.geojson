@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1326262.529237,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.926833,18.457012,-69.926833,18.457012",
     "geom:latitude":18.457012,
     "geom:longitude":-69.926833,
     "gn:latitude":18.45,
     "gn:longitude":-69.93333,
     "iso:country":"DO",
+    "lbl:bbox":"-69.931833,18.452012,-69.921833,18.462012",
     "lbl:latitude":18.457012,
     "lbl:longitude":-69.926833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.459396,
     "mps:longitude":-69.928688,
     "mz:hierarchy_label":0,
@@ -40,10 +42,6 @@
     "name:spa_x_variant":[
         "Ferand",
         "Ferrano"
-    ],
-    "name:unk_x_variant":[
-        "Ferand",
-        "Ferrand"
     ],
     "qs:gn_adm0_cc":"DO",
     "qs:gn_fcode":"PPLX",
@@ -72,19 +70,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
+        85670659,
         102191575,
         85632713,
-        1108721273,
-        85670659
+        1108721273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3505752,
         "gp:id":71651,
-        "qs:id":232879
+        "qs_pg:id":232879
     },
     "wof:country":"DO",
     "wof:geomhash":"35b8451957a74fd0c4e242aae27496aa",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861415,
+    "wof:lastmodified":1566581793,
     "wof:name":"Ferrand",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

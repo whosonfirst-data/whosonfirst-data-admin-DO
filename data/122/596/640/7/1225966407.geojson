@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.36776,19.18914,-70.32776,19.22914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cacer\u00eda",
         "Caser\u00edas",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225966407,
-    "wof:lastmodified":1537620047,
+    "wof:lastmodified":1566582622,
     "wof:name":"Cruce de Cenovi",
     "wof:parent_id":890429213,
     "wof:placetype":"locality",

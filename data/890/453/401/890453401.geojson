@@ -11,10 +11,12 @@
     "geom:longitude":-70.674787,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":43606,
+    "gn:population":43606,
     "iso:country":"DO",
     "lbl:latitude":18.884294,
     "lbl:longitude":-70.692391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"La Vega",
     "meso:gadm_adm2":"Constanza",
     "meso:gadm_hasc2":"DO.VE.CO",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.692391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Constanza"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3509366,
         "hasc:id":"DO.VE.CO",
-        "qs:id":95794,
+        "qs_pg:id":95794,
         "wk:page":"Constanza"
     },
     "wof:country":"DO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890453401,
-    "wof:lastmodified":1564188958,
+    "wof:lastmodified":1566582330,
     "wof:name":"Constanza",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

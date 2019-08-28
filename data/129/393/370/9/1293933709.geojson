@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.62607,19.09011,-70.58607,19.13011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Los Corrales"
     ],
@@ -95,8 +99,7 @@
         "\u041b\u043e\u0441-\u041a\u043e\u0440\u0440\u0430\u043b\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Corrales",
-        "Los Corrales"
+        "Corrales"
     ],
     "name:uzb_x_preferred":[
         "Los Corrales"
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1293933709,
-    "wof:lastmodified":1564188275,
+    "wof:lastmodified":1566581861,
     "wof:name":"Los Corrales",
     "wof:parent_id":890429269,
     "wof:placetype":"locality",

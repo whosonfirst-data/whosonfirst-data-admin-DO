@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.17141,18.46016,-69.13141,18.50016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batey Badega Azul",
         "Bodega Azul"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310557375,
-    "wof:lastmodified":1537620062,
+    "wof:lastmodified":1566582194,
     "wof:name":"Bodega Azul",
     "wof:parent_id":890429221,
     "wof:placetype":"locality",

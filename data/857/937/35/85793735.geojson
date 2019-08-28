@@ -9,14 +9,16 @@
     "geom:bbox":"-69.930735,18.478688,-69.930735,18.478688",
     "geom:latitude":18.478688,
     "geom:longitude":-69.930735,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.49494,
     "gn:longitude":-69.90715,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.935735,18.473688,-69.925735,18.483688",
     "lbl:latitude":18.478688,
     "lbl:longitude":-69.930735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.482744,
     "mps:longitude":-69.92974,
     "mz:hierarchy_label":0,
@@ -42,10 +44,6 @@
         "Ensanche La F\u00e9"
     ],
     "name:spa_x_variant":[
-        "La F\u00e9"
-    ],
-    "name:unk_x_variant":[
-        "Ensanche la Fe",
         "La F\u00e9"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -95,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":35,
     "wof:belongsto":[
         85670659,
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3505939,
         "gp:id":71587,
-        "qs:id":217125,
         "qs_pg:id":217125,
         "wd:id":"Q5379907",
         "wk:page":"Ensanche La F\u00e9"
@@ -128,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563335689,
+    "wof:lastmodified":1566581791,
     "wof:name":"Ensanche la Fe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.51776,18.99242,-71.47776,19.03242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Los Aposentos"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327402529,
-    "wof:lastmodified":1564187943,
+    "wof:lastmodified":1566581635,
     "wof:name":"Los Aposentos",
     "wof:parent_id":890429267,
     "wof:placetype":"locality",

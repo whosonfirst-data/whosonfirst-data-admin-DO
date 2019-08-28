@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.49021,19.58821,-71.45021,19.62821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lucio"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310474973,
-    "wof:lastmodified":1564188769,
+    "wof:lastmodified":1566582181,
     "wof:name":"Lucio",
     "wof:parent_id":890429263,
     "wof:placetype":"locality",

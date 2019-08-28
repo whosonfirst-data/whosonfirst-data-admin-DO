@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.04364,18.92064,-70.00364,18.96064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Llanada"
     ],
@@ -59,8 +63,7 @@
         "La Llanada"
     ],
     "name:und_x_variant":[
-        "La Llan\u00e1",
-        "La Llanada"
+        "La Llan\u00e1"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0644\u0627\u0646\u0627\u0688\u0627"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1343831933,
-    "wof:lastmodified":1564188087,
+    "wof:lastmodified":1566581729,
     "wof:name":"La Llanada",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

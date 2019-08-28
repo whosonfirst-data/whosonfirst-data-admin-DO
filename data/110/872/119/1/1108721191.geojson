@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":19.197804,
     "lbl:longitude":-70.228051,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Duarte",
     "meso:gadm_adm2":"Las Guaranas",
     "meso:gadm_hasc2":"DO.DU.LG",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.228051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Las Gu\u00e1ranas"
     ],
@@ -46,7 +49,7 @@
         "\u62c9\u65af\u74dc\u62c9\u7d0d\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108721191,
-    "wof:lastmodified":1564188734,
+    "wof:lastmodified":1566582157,
     "wof:name":"Las Gu\u00e1ranas",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

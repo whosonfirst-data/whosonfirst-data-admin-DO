@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.85333,18.44667,-69.81333,18.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Bartolo"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293640867,
-    "wof:lastmodified":1564188211,
+    "wof:lastmodified":1566581820,
     "wof:name":"San Bartolo",
     "wof:parent_id":1108721275,
     "wof:placetype":"locality",

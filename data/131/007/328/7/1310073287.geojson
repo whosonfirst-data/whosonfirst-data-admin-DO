@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.64739,19.36564,-70.60739,19.40564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Pu\u00f1al"
     ],
@@ -35,9 +39,6 @@
         "Pu\u00f1al"
     ],
     "name:spa_x_preferred":[
-        "Pu\u00f1al"
-    ],
-    "name:und_x_variant":[
         "Pu\u00f1al"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1310073287,
-    "wof:lastmodified":1564188781,
+    "wof:lastmodified":1566582189,
     "wof:name":"Punal",
     "wof:parent_id":890429271,
     "wof:placetype":"locality",

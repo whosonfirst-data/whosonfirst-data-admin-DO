@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.48239,
     "lbl:longitude":-69.938277,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Distrito Nacional",
     "mps:latitude":18.47566,
     "mps:longitude":-69.949889,
@@ -167,9 +168,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"91",
     "statoids:area_mi":"35",
     "statoids:as_of_date":"2010-12-01",
@@ -194,7 +195,7 @@
         "gp:id":2345176,
         "hasc:id":"DO.NC",
         "iso:id":"DO-01",
-        "qs:id":1083821,
+        "qs_pg:id":1083821,
         "wd:id":"Q2499228",
         "wk:page":"Distrito Nacional"
     },
@@ -214,11 +215,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672981,
+    "wof:lastmodified":1566581793,
     "wof:name":"Distrito Nacional",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":965040,
     "wof:population_rank":11,

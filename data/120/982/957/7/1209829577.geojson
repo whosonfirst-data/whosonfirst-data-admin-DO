@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.90333,18.71333,-70.86333,18.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ca\u00f1ada de Difuntos",
         "Ca\u00f1ada Difunto",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209829577,
-    "wof:lastmodified":1537620058,
+    "wof:lastmodified":1566582024,
     "wof:name":"Canada Difunta",
     "wof:parent_id":890429227,
     "wof:placetype":"locality",

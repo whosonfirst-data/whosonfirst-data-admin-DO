@@ -11,10 +11,14 @@
     "geom:longitude":-70.37985,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":11675,
+    "gn:population":11675,
     "iso:country":"DO",
+    "lbl:bbox":"-70.39985,19.38552,-70.35985,19.42552",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Salsipuedes"
     ],
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3493271,
-        "qs:id":148534
+        "qs_pg:id":148534
     },
     "wof:country":"DO",
     "wof:created":1469052040,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890434781,
-    "wof:lastmodified":1564188969,
+    "wof:lastmodified":1566582359,
     "wof:name":"Salsipuedes",
     "wof:parent_id":1108721251,
     "wof:placetype":"locality",

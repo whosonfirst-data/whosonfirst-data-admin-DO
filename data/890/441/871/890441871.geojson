@@ -11,10 +11,14 @@
     "geom:longitude":-69.9,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":1990,
+    "gn:population":1990,
     "iso:country":"DO",
+    "lbl:bbox":"-69.92,19.48,-69.88,19.52",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Arroyo Salado"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Arroyo Salado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paso del R\u00edo"
     ],
     "qs:name":"Arroyo Salado",
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3512332,
-        "qs:id":148586,
+        "qs_pg:id":148586,
         "wd:id":"Q4796250",
         "wk:page":"Arroyo Salado"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890441871,
-    "wof:lastmodified":1563336499,
+    "wof:lastmodified":1566582322,
     "wof:name":"Arroyo Salado",
     "wof:parent_id":890429259,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.61289,19.47464,-70.57289,19.51464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maizal"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309773871,
-    "wof:lastmodified":1564188913,
+    "wof:lastmodified":1566582276,
     "wof:name":"Maizal",
     "wof:parent_id":1108721285,
     "wof:placetype":"locality",

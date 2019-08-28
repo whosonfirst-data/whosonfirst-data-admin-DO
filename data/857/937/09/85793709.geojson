@@ -13,8 +13,10 @@
     "gn:longitude":-69.9454,
     "gn:population":175683,
     "iso:country":"DO",
+    "lbl:bbox":"-69.942428,18.459247,-69.932428,18.469247",
     "lbl:latitude":18.464247,
     "lbl:longitude":-69.937428,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.463317,
     "mps:longitude":-69.937117,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Bella Vista"
     ],
     "name:swe_x_preferred":[
-        "Bella Vista"
-    ],
-    "name:unk_x_variant":[
         "Bella Vista"
     ],
     "qs:gn_adm0_cc":"DO",
@@ -71,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -84,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3511550,
         "gp:id":69536,
-        "qs:id":1148670,
+        "qs_pg:id":1148670,
         "wd:id":"Q4883376",
         "wk:page":"Bella Vista, Distrito Nacional"
     },
@@ -104,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563335691,
+    "wof:lastmodified":1566581792,
     "wof:name":"Bella Vista",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

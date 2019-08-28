@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.338653,
     "lbl:longitude":-70.375582,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Peravia",
     "mps:latitude":18.344168,
     "mps:longitude":-70.372743,
@@ -129,7 +130,7 @@
         "Peravia"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0bb1\u0bb5\u0bbf\u0baf\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bc6\u0bb1\u0bb5\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c30\u0c3e\u0c35\u0c3f\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -149,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0432\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Ban\u00ed"
     ],
     "name:urd_x_preferred":[
@@ -236,9 +237,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-01",
+    "src:population_date":"2010-12-01",
     "statoids:area_km":"785",
     "statoids:area_mi":"303",
     "statoids:as_of_date":"2010-12-01",
@@ -263,7 +264,7 @@
         "gp:id":2345186,
         "hasc:id":"DO.PV",
         "iso:id":"DO-17",
-        "qs:id":1083822,
+        "qs_pg:id":1083822,
         "unlc:id":"DO-17",
         "wd:id":"Q1331932",
         "wk:page":"Peravia Province"
@@ -284,11 +285,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565672983,
+    "wof:lastmodified":1566581797,
     "wof:name":"Peravia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":184344,
     "wof:population_rank":9,

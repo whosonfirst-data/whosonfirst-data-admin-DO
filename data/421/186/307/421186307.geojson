@@ -10,8 +10,11 @@
     "geom:latitude":18.5,
     "geom:longitude":-69.93333,
     "iso:country":"DO",
+    "lbl:bbox":"-69.93833,18.495,-69.92833,18.505",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cristo Rey"
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3509183,
         "gp:id":70205,
-        "qs:id":1063397,
+        "qs_pg:id":1063397,
         "wd:id":"Q5186441",
         "wk:page":"Cristo Rey, Distrito Nacional"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421186307,
-    "wof:lastmodified":1563336476,
+    "wof:lastmodified":1566582311,
     "wof:name":"Cristo Rey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

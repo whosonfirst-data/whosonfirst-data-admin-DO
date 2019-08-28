@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-71.02275,19.88657,-70.98275,19.92657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Culebra",
         "La Culebra"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309982033,
-    "wof:lastmodified":1537619984,
+    "wof:lastmodified":1566582268,
     "wof:name":"La Culebra",
     "wof:parent_id":890429253,
     "wof:placetype":"locality",

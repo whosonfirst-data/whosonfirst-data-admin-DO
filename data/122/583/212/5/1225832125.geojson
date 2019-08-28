@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-69.06484,18.37723,-69.02484,18.41723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Uvita",
         "Las Uvitas"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225832125,
-    "wof:lastmodified":1537619956,
+    "wof:lastmodified":1566582675,
     "wof:name":"Las Uvitas",
     "wof:parent_id":1108721291,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
+    "lbl:bbox":"-70.55735,19.25097,-70.51735,19.29097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Piralejo",
         "Pinalejo",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310251337,
-    "wof:lastmodified":1537619921,
+    "wof:lastmodified":1566582177,
     "wof:name":"Pilarejo",
     "wof:parent_id":1108721185,
     "wof:placetype":"locality",

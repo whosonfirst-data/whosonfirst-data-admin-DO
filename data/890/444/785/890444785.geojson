@@ -11,8 +11,11 @@
     "geom:longitude":-70.40923,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":73269,
+    "gn:population":73269,
     "iso:country":"DO",
+    "lbl:bbox":"-70.42923,18.91687,-70.38923,18.95687",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043d\u0430\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monse\u00f1or Nouel"
     ],
     "name:urd_x_preferred":[
@@ -251,10 +254,12 @@
     "wof:concordances":{
         "gn:id":3511233,
         "gp:id":69635,
-        "qs:id":1045388,
         "qs_pg:id":238285,
         "wd:id":"Q2306136",
         "wk:page":"Bonao"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045388
     },
     "wof:country":"DO",
     "wof:created":1469052481,
@@ -269,7 +274,7 @@
         }
     ],
     "wof:id":890444785,
-    "wof:lastmodified":1563336518,
+    "wof:lastmodified":1566582333,
     "wof:name":"Bonao",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

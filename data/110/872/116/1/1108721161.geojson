@@ -12,6 +12,8 @@
     "iso:country":"DO",
     "lbl:latitude":18.714695,
     "lbl:longitude":-70.772975,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Azua",
     "meso:gadm_adm2":"Guayabal",
     "meso:gadm_hasc2":"DO.AZ.GU",
@@ -24,6 +26,7 @@
     "mps:longitude":-70.772975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Guayabal"
     ],
@@ -52,7 +55,7 @@
         "Guayabal"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108721161,
-    "wof:lastmodified":1564188723,
+    "wof:lastmodified":1566582150,
     "wof:name":"Guayabal",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

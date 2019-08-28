@@ -11,8 +11,11 @@
     "geom:longitude":-71.70278,
     "gn:country":"DO",
     "gn:fcode":"PPLA",
-    "gn:pop":12070,
+    "gn:population":12070,
     "iso:country":"DO",
+    "lbl:bbox":"-71.72278,18.8575,-71.68278,18.8975",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0435\u043d\u0434\u0430\u0434\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comendado"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +262,7 @@
     "wof:concordances":{
         "gn:id":3509386,
         "gp:id":70143,
-        "qs:id":148572,
+        "qs_pg:id":148572,
         "wd:id":"Q617647",
         "wk:page":"Comendador"
     },
@@ -276,7 +279,7 @@
         }
     ],
     "wof:id":890429529,
-    "wof:lastmodified":1563336542,
+    "wof:lastmodified":1566582345,
     "wof:name":"Comendador",
     "wof:parent_id":890453405,
     "wof:placetype":"locality",

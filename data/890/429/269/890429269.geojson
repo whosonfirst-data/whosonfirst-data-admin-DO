@@ -11,10 +11,12 @@
     "geom:longitude":-70.721168,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":58528,
+    "gn:population":58528,
     "iso:country":"DO",
     "lbl:latitude":19.084969,
     "lbl:longitude":-70.706486,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"La Vega",
     "meso:gadm_adm2":"Jarabacoa",
     "meso:gadm_hasc2":"DO.VE.JB",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.706486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Jarabacoa"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":821,
     "wof:belongsto":[
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3504159,
         "hasc:id":"DO.VE.JB",
-        "qs:id":95772,
+        "qs_pg:id":95772,
         "wd:id":"Q990182",
         "wk:page":"Jarabacoa"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890429269,
-    "wof:lastmodified":1563336540,
+    "wof:lastmodified":1566582344,
     "wof:name":"Jarabacoa",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

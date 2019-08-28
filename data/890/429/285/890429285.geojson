@@ -11,10 +11,12 @@
     "geom:longitude":-70.268298,
     "gn:country":"DO",
     "gn:fcode":"ADM2",
-    "gn:pop":19741,
+    "gn:population":19741,
     "iso:country":"DO",
     "lbl:latitude":19.589966,
     "lbl:longitude":-70.257198,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Espaillat",
     "meso:gadm_adm2":"Gaspar Hern\u00e1ndez",
     "meso:gadm_hasc2":"DO.ES.GH",
@@ -27,6 +29,7 @@
     "mps:longitude":-70.257198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gaspar Hern\u00e1ndez"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":378,
     "wof:belongsto":[
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3505489,
         "hasc:id":"DO.ES.GH",
-        "qs:id":95780,
+        "qs_pg:id":95780,
         "wd:id":"Q3758618",
         "wk:page":"Gaspar Hern\u00e1ndez"
     },
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890429285,
-    "wof:lastmodified":1563336546,
+    "wof:lastmodified":1566582348,
     "wof:name":"Gaspar Hern\u00e1ndez",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

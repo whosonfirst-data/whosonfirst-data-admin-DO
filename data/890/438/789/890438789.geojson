@@ -11,10 +11,14 @@
     "geom:longitude":-70.61104,
     "gn:country":"DO",
     "gn:fcode":"PPL",
-    "gn:pop":23304,
+    "gn:population":23304,
     "iso:country":"DO",
+    "lbl:bbox":"-70.63104,19.46538,-70.59104,19.50538",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tambor\u00edl"
     ],
@@ -39,7 +43,7 @@
     "name:spa_x_preferred":[
         "Tamboril"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pe\u00f1a"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3492517,
         "gp:id":73992,
-        "qs:id":1045293,
+        "qs_pg:id":1045293,
         "wd:id":"Q3980588",
         "wk:page":"Tamboril"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890438789,
-    "wof:lastmodified":1561788408,
+    "wof:lastmodified":1566582329,
     "wof:name":"Tamboril",
     "wof:parent_id":1108721285,
     "wof:placetype":"locality",

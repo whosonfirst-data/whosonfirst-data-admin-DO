@@ -9,14 +9,16 @@
     "geom:bbox":"-69.916534,18.527794,-69.916534,18.527794",
     "geom:latitude":18.527794,
     "geom:longitude":-69.916534,
-    "gn:gn_country":"DO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DO",
+    "gn:fcode":"PPLX",
     "gn:latitude":18.54911,
     "gn:longitude":-69.90167,
+    "gn:population":0,
     "iso:country":"DO",
+    "lbl:bbox":"-69.921534,18.522794,-69.911534,18.532794",
     "lbl:latitude":18.527794,
     "lbl:longitude":-69.916534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.528143,
     "mps:longitude":-69.914271,
     "mz:hierarchy_label":0,
@@ -164,10 +166,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Santa Cruz",
-        "Santa Cruz de Villa Mella"
-    ],
     "name:vie_x_preferred":[
         "Santa Cruz"
     ],
@@ -227,7 +225,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670553,
         102191575,
@@ -238,7 +236,6 @@
     "wof:concordances":{
         "gn:id":3492987,
         "gp:id":76420,
-        "qs:id":1001523,
         "qs_pg:id":1001523
     },
     "wof:country":"DO",
@@ -257,7 +254,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564188179,
+    "wof:lastmodified":1566581791,
     "wof:name":"Santa Cruz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

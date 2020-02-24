@@ -94,6 +94,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48f6058ff844d975192468e2c237252c",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890455305,
-    "wof:lastmodified":1566582325,
+    "wof:lastmodified":1582347721,
     "wof:name":"Peralta",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

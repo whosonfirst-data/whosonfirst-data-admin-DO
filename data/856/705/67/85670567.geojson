@@ -285,6 +285,9 @@
         "wd:id":"Q592624"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9fe9192c1c98a98d5437bae1a5dc5a43",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581798,
+    "wof:lastmodified":1582347712,
     "wof:name":"Monte Cristi",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

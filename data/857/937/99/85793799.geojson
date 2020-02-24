@@ -114,6 +114,9 @@
         "wk:page":"San Carlos, Distrito Nacional"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e41da7833389ebb28e468e78860515f",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581792,
+    "wof:lastmodified":1582347710,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

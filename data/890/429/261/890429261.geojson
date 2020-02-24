@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051804,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3af718d186ca8fb1b85f47abe5eed4e1",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890429261,
-    "wof:lastmodified":1566582342,
+    "wof:lastmodified":1582347722,
     "wof:name":"Licey Al Medio",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

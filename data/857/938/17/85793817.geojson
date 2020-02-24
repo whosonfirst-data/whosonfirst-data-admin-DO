@@ -110,6 +110,9 @@
         "wk:page":"Villa Francisca"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ff19d6b82353a8a30f5ffc48e3d539c",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581790,
+    "wof:lastmodified":1582347709,
     "wof:name":"Villa Francisca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

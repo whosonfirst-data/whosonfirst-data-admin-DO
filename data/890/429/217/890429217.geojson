@@ -62,6 +62,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051801,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3320399e764a15df6aff6298d346680",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890429217,
-    "wof:lastmodified":1566582341,
+    "wof:lastmodified":1582347721,
     "wof:name":"Sabana Grande De Boy\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

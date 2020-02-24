@@ -94,6 +94,9 @@
         "qs_pg:id":1157495
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5d94c336a3aa4de165311c5225c4d87",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581792,
+    "wof:lastmodified":1582347710,
     "wof:name":"Los Mameyes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

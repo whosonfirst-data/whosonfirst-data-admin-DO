@@ -81,6 +81,9 @@
         "qs_pg:id":1146102
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b283a14be8982ea0e65c3b52848802ca",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581791,
+    "wof:lastmodified":1582347710,
     "wof:name":"Arroyo Hondo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

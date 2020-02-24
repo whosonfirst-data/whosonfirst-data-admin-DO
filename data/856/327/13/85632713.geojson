@@ -977,6 +977,11 @@
     },
     "wof:country":"DO",
     "wof:country_alpha3":"DOM",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"2e2bf49c4db19df64007303025b74003",
     "wof:hierarchy":[
         {
@@ -991,7 +996,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581802,
+    "wof:lastmodified":1582347713,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9079369ca5f2985552b1d441013029f",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429195,
-    "wof:lastmodified":1566582339,
+    "wof:lastmodified":1582347721,
     "wof:name":"Villa Jaragua",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

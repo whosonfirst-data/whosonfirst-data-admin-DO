@@ -71,6 +71,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051801,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d33f0500af48df2349d4f8f545a42dc5",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890429221,
-    "wof:lastmodified":1566582340,
+    "wof:lastmodified":1582347721,
     "wof:name":"Ram\u00f3n Santana",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

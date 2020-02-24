@@ -279,6 +279,9 @@
         "wk:page":"Monse\u00f1or Nouel Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"687f54da1590b3030980fb91d5d77b19",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581795,
+    "wof:lastmodified":1582347711,
     "wof:name":"Monse\u00f1or Nouel",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

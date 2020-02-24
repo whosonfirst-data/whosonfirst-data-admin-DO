@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9c7f47e6877a78f2846133b0075e879",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890429233,
-    "wof:lastmodified":1566582345,
+    "wof:lastmodified":1582347722,
     "wof:name":"Nizao",
     "wof:parent_id":85670623,
     "wof:placetype":"county",

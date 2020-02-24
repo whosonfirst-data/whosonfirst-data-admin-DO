@@ -281,6 +281,9 @@
         "wk:page":"Santo Domingo Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc405817bcfde74bfc7981904d13d32b",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581800,
+    "wof:lastmodified":1582347712,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

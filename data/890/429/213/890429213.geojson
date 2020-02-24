@@ -99,6 +99,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051801,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f355da2c15bd4b7174ca54395dbb9d32",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890429213,
-    "wof:lastmodified":1566582349,
+    "wof:lastmodified":1582347723,
     "wof:name":"San Francisco De Macor\u00eds",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

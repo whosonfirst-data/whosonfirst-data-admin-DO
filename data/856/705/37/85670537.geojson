@@ -293,6 +293,9 @@
         "wk:page":"Santiago Province (Dominican Republic)"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26128af9cd7513919535ef4bf546a0e8",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581800,
+    "wof:lastmodified":1582347712,
     "wof:name":"Santiago",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

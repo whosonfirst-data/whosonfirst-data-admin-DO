@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051320,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"570c65e6f6d4eb41e849c57045801184",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890420149,
-    "wof:lastmodified":1566582355,
+    "wof:lastmodified":1582347723,
     "wof:name":"Cevicos",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

@@ -82,6 +82,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052852,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76af01d7d10e4dd25219f177a1bee2d4",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890453401,
-    "wof:lastmodified":1566582330,
+    "wof:lastmodified":1582347721,
     "wof:name":"Constanza",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

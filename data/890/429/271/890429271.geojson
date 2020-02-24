@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dcfb85c16bb0ff41925e62475a13d219",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429271,
-    "wof:lastmodified":1566582349,
+    "wof:lastmodified":1582347723,
     "wof:name":"J\u00e1nico",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

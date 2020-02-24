@@ -70,6 +70,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"059b87a34356ac95ab1a56ad98f4ec14",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890429273,
-    "wof:lastmodified":1566582340,
+    "wof:lastmodified":1582347721,
     "wof:name":"Imbert",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

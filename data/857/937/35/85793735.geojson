@@ -110,6 +110,9 @@
         "wk:page":"Ensanche La F\u00e9"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aba8aa8701659d192ec6cb1bebff4786",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581791,
+    "wof:lastmodified":1582347710,
     "wof:name":"Ensanche la Fe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051801,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3cefe5a506cb96ae12bd7bf43dca1bad",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429223,
-    "wof:lastmodified":1566582348,
+    "wof:lastmodified":1582347722,
     "wof:name":"Postrer R\u00edo",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

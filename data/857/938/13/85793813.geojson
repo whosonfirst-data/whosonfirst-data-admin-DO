@@ -74,6 +74,9 @@
         "qs:id":1117080
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a29a700df28751a2153f9e4fd613e48b",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347709,
     "wof:name":"Timbeque",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

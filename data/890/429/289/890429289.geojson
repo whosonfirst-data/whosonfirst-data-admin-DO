@@ -115,6 +115,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38348a801cbca21702493eb2816fce05",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890429289,
-    "wof:lastmodified":1566582340,
+    "wof:lastmodified":1582347721,
     "wof:name":"Esperanza",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

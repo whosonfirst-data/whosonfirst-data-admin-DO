@@ -265,6 +265,9 @@
         "wk:page":"Hermanas Mirabal Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7227773148b30fe204614dab1b70ff2f",
     "wof:hierarchy":[
         {
@@ -280,7 +283,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581801,
+    "wof:lastmodified":1582347713,
     "wof:name":"Hermanas",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

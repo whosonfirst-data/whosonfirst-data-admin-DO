@@ -95,6 +95,9 @@
         "gp:id":71492
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfe9e3fa5043d0424702d7207ddba459",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581791,
+    "wof:lastmodified":1582347710,
     "wof:name":"El Seis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

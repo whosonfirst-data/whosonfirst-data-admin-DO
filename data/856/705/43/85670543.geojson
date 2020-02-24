@@ -278,6 +278,9 @@
         "wk:page":"Santiago Rodr\u00edguez Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b0313197283742c4f14b6362450ce79",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581800,
+    "wof:lastmodified":1582347712,
     "wof:name":"Santiago Rodr\u00edguez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

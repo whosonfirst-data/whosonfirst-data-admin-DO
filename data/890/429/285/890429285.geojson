@@ -92,6 +92,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c756c4f942e8084c3d306c7a05014e48",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890429285,
-    "wof:lastmodified":1566582348,
+    "wof:lastmodified":1582347722,
     "wof:name":"Gaspar Hern\u00e1ndez",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

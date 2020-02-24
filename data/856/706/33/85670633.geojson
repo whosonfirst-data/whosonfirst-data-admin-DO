@@ -273,6 +273,9 @@
         "wk:page":"Duarte Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78a42baf6c2f0a18c8f8437625dd4feb",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581794,
+    "wof:lastmodified":1582347710,
     "wof:name":"Duarte",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

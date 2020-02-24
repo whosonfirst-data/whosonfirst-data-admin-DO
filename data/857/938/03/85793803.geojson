@@ -124,6 +124,9 @@
         "qs_pg:id":1165069
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"121870d3b3bec47ab0a47481541581c5",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581790,
+    "wof:lastmodified":1582347709,
     "wof:name":"Sans Souci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

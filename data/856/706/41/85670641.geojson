@@ -273,6 +273,9 @@
         "wk:page":"Monte Plata Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"901287c50256507af560956c4b39b286",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581797,
+    "wof:lastmodified":1582347711,
     "wof:name":"Monte Plata",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

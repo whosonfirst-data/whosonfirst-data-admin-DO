@@ -647,6 +647,9 @@
         "qs_pg:id":901101
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b92affbe3111ad939275dc1d900d8d6c",
     "wof:hierarchy":[
         {
@@ -662,7 +665,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581792,
+    "wof:lastmodified":1582347710,
     "wof:name":"Honduras",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -267,6 +267,9 @@
         "wk:page":"Independencia Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1599d77ab1c55870eeda75eb45e22a08",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581801,
+    "wof:lastmodified":1582347712,
     "wof:name":"Independencia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

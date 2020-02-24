@@ -278,6 +278,9 @@
         "wk:page":"Hato Mayor Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e61135efdd9c2df79976a4d75ddc8298",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581795,
+    "wof:lastmodified":1582347711,
     "wof:name":"Hato Mayor",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

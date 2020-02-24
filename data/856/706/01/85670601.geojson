@@ -285,6 +285,9 @@
         "wd:id":"Q1137545"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bc4c012389b17c318da623204866d09d",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581796,
+    "wof:lastmodified":1582347711,
     "wof:name":"La Estrelleta",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -83,6 +83,9 @@
         "wk:page":"La Esperilla"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24994bad750449a538348b0ef2992070",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581792,
+    "wof:lastmodified":1582347710,
     "wof:name":"La Esperilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

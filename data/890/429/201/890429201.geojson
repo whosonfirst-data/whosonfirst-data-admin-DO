@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f57eb03bd5cdd65fc0fa780caae72a42",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890429201,
-    "wof:lastmodified":1566582352,
+    "wof:lastmodified":1582347723,
     "wof:name":"Vicente Noble",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

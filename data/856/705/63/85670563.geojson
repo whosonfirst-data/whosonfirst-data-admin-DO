@@ -286,6 +286,9 @@
         "wd:id":"Q1366119"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3073e425839491fd8eb8003c561a1951",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581801,
+    "wof:lastmodified":1582347713,
     "wof:name":"San Pedro De Macor\u00eds",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

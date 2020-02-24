@@ -139,6 +139,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051806,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0379fdeb82dfa98128320be97c2c231",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890429293,
-    "wof:lastmodified":1566582344,
+    "wof:lastmodified":1582347722,
     "wof:name":"Altamira",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

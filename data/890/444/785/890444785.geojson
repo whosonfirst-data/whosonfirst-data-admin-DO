@@ -263,6 +263,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052481,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65ccfb9db7d40170724d457abf37c1f1",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         }
     ],
     "wof:id":890444785,
-    "wof:lastmodified":1566582333,
+    "wof:lastmodified":1582347721,
     "wof:name":"Bonao",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

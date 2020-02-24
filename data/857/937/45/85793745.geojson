@@ -74,6 +74,9 @@
         "qs:id":1163186
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59c718310cca4205a28227147dc5a161",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347710,
     "wof:name":"Ensanche Piantini",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051319,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd18d10675590b0d56e86f807941a7cf",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890420141,
-    "wof:lastmodified":1566582355,
+    "wof:lastmodified":1582347723,
     "wof:name":"El Factor",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

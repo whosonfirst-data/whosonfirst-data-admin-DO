@@ -104,6 +104,9 @@
         "qs_pg:id":1163265
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"188ff7e2d1adfadabf0f44e6d1528cc7",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"Guibia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

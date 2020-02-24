@@ -53,6 +53,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2a47804ceb822a83bf20318e35c57dce",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890455307,
-    "wof:lastmodified":1566582323,
+    "wof:lastmodified":1582347720,
     "wof:name":"Pepillo Salcedo",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

@@ -73,6 +73,9 @@
         "gp:id":75399
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d48f45543e5f3d049c3e340121b58274",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581791,
+    "wof:lastmodified":1582347710,
     "wof:name":"Mosquiter\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

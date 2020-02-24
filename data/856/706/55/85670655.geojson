@@ -293,6 +293,9 @@
         "wk:page":"San Crist\u00f3bal Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2a334db55b24664dcff510a08d115d2e",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581796,
+    "wof:lastmodified":1582347711,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

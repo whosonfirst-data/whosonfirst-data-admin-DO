@@ -329,6 +329,9 @@
     },
     "wof:country":"DO",
     "wof:created":1459009130,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6612048233ad04a4c119384399f31d2e",
     "wof:hierarchy":[
         {
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":421177029,
-    "wof:lastmodified":1566582315,
+    "wof:lastmodified":1582347720,
     "wof:name":"Santiago de los Caballeros",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e99d32b984ddcafedcfa2605c467bd85",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429239,
-    "wof:lastmodified":1566582351,
+    "wof:lastmodified":1582347723,
     "wof:name":"Monci\u00f3n",
     "wof:parent_id":85670543,
     "wof:placetype":"county",

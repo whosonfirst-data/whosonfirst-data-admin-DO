@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f039fa6b12abc8385a9b500ad5a0658a",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429199,
-    "wof:lastmodified":1566582347,
+    "wof:lastmodified":1582347722,
     "wof:name":"Villa Altagracia",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

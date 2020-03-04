@@ -104,6 +104,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c2ba99a670d4a3962bd922de1d88c82",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890429207,
-    "wof:lastmodified":1566582350,
+    "wof:lastmodified":1582347723,
     "wof:name":"Sos\u00faa",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

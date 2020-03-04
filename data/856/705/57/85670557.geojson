@@ -274,6 +274,9 @@
         "wd:id":"Q1836903"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec38dc9dec00ae9b8602e00fc5962eda",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581798,
+    "wof:lastmodified":1582347712,
     "wof:name":"Sanchez Ram\u00edrez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

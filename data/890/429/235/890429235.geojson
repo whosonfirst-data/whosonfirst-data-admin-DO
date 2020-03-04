@@ -176,6 +176,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"616d3019653be500704346c05e40cbc6",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890429235,
-    "wof:lastmodified":1566582343,
+    "wof:lastmodified":1582347722,
     "wof:name":"Neiba",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

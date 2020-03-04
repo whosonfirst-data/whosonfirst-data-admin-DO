@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59fc13c84adb38f44c6e2d4680f77cd4",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429191,
-    "wof:lastmodified":1566582345,
+    "wof:lastmodified":1582347722,
     "wof:name":"Villa Riva",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

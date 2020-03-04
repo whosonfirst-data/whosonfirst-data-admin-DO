@@ -102,6 +102,9 @@
         "qs:id":1151739
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c3a14c8a8260fa0c210f6a909ecc452",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347710,
     "wof:name":"La Far\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

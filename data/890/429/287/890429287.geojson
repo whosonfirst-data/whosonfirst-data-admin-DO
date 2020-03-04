@@ -95,6 +95,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d422223081347a488ff2217f248d925",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890429287,
-    "wof:lastmodified":1566582340,
+    "wof:lastmodified":1582347721,
     "wof:name":"Fantino",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

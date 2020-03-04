@@ -183,6 +183,9 @@
     },
     "wof:country":"DO",
     "wof:created":1459009904,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"227ac62a0299da9c832607c12d67b87d",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":421197155,
-    "wof:lastmodified":1566582313,
+    "wof:lastmodified":1582347720,
     "wof:name":"Cotu\u00ed",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",

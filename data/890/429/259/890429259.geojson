@@ -65,6 +65,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051804,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa060e8e4e537accd1e5e492799888b5",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890429259,
-    "wof:lastmodified":1566582342,
+    "wof:lastmodified":1582347722,
     "wof:name":"Cabrera",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

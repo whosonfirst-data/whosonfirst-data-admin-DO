@@ -74,6 +74,9 @@
         "qs:id":965532
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c1c86f59b687017a76fe1052e6b59c2",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347710,
     "wof:name":"Ensanche Los Minas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

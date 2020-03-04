@@ -297,6 +297,9 @@
         "wk:page":"San Juan Province (Dominican Republic)"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc798deae7f80e08d92da610a5a8dcbb",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581802,
+    "wof:lastmodified":1582347713,
     "wof:name":"San Juan",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

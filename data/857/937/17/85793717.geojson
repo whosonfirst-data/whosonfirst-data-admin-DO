@@ -94,6 +94,9 @@
         "qs_pg:id":232523
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3453463ab9a2f6cc3f14a6a1b5f3797",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581791,
+    "wof:lastmodified":1582347710,
     "wof:name":"El Algodonal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

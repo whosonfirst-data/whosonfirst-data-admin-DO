@@ -82,6 +82,9 @@
         "qs:id":1082597
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c5506676546b52b912a91efbe223590",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347709,
     "wof:name":"Villas Agr\u00edcolas N\u00famero Dos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

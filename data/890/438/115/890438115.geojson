@@ -79,6 +79,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052181,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7d23a7b5e4be59ef556fc35a5e93101",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890438115,
-    "wof:lastmodified":1566582329,
+    "wof:lastmodified":1582347721,
     "wof:name":"El Valle",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

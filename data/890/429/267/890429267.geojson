@@ -59,6 +59,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f5947a430a4690583f2dc20fb9d1ce3",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890429267,
-    "wof:lastmodified":1566582344,
+    "wof:lastmodified":1582347722,
     "wof:name":"Las Matas De Farf\u00e1n",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

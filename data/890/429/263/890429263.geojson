@@ -59,6 +59,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051804,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"555f6c7d0782097d50adee78f17e193c",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890429263,
-    "wof:lastmodified":1566582352,
+    "wof:lastmodified":1582347723,
     "wof:name":"Las Matas De Santa Cruz",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

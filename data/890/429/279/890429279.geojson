@@ -92,6 +92,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afbd8abc177a65b24a5246ec180b27c6",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890429279,
-    "wof:lastmodified":1566582347,
+    "wof:lastmodified":1582347722,
     "wof:name":"Guayub\u00edn",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

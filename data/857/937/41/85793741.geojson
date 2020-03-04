@@ -94,6 +94,9 @@
         "qs_pg:id":286172
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d11831187bdbaaf480d622beac0b2e2",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"Ensanche Ozama",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

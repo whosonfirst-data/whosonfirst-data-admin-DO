@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051803,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8eb9384a3fa1c51faac652c39ef815b1",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429243,
-    "wof:lastmodified":1566582341,
+    "wof:lastmodified":1582347721,
     "wof:name":"Miches",
     "wof:parent_id":85670663,
     "wof:placetype":"county",

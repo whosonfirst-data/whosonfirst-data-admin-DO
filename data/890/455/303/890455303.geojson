@@ -91,6 +91,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34aeaeca9711d25aa828e7090b35e8a3",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890455303,
-    "wof:lastmodified":1566582324,
+    "wof:lastmodified":1582347720,
     "wof:name":"Pimentel",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

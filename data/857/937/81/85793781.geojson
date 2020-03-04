@@ -94,6 +94,9 @@
         "qs_pg:id":1152117
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b840805492decaf2108cc3d882a12e68",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581792,
+    "wof:lastmodified":1582347710,
     "wof:name":"La Fuente",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

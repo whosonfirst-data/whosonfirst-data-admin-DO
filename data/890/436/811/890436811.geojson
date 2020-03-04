@@ -79,6 +79,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052127,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38a058dae059a30a5b539a5d5fcee0a4",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890436811,
-    "wof:lastmodified":1566582326,
+    "wof:lastmodified":1582347721,
     "wof:name":"R\u00edo San Juan",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

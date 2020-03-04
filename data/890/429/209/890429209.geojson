@@ -423,6 +423,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051801,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"5d4bfed221e5868c53591c84494275e6",
     "wof:hierarchy":[
         {
@@ -434,7 +437,7 @@
         }
     ],
     "wof:id":890429209,
-    "wof:lastmodified":1566582350,
+    "wof:lastmodified":1582347723,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108721273,
     "wof:placetype":"locality",

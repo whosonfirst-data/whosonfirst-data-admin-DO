@@ -295,6 +295,9 @@
         "wd:id":"Q1140742"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"731128b571e3c295f949c0091f3c09c0",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581795,
+    "wof:lastmodified":1582347711,
     "wof:name":"La Romana",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

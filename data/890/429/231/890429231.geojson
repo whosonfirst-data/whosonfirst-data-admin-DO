@@ -337,6 +337,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9968eebd2a54af526058fbce77abd25",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":890429231,
-    "wof:lastmodified":1566582349,
+    "wof:lastmodified":1582347723,
     "wof:name":"Oviedo",
     "wof:parent_id":85670605,
     "wof:placetype":"county",

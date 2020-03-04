@@ -56,6 +56,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c13652a065e7039e86395dba293ca99",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890455301,
-    "wof:lastmodified":1566582324,
+    "wof:lastmodified":1582347720,
     "wof:name":"San Jos\u00e9 De Las Matas",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

@@ -67,6 +67,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052852,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8054032c6b82e88b78e7c836d7c33667",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890453405,
-    "wof:lastmodified":1566582331,
+    "wof:lastmodified":1582347721,
     "wof:name":"Comendador",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

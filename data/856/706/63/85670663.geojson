@@ -284,6 +284,9 @@
         "wk:page":"El Seibo Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ddc867297dee0882df8a26f430af2159",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581796,
+    "wof:lastmodified":1582347711,
     "wof:name":"El Seybo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

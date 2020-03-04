@@ -283,6 +283,9 @@
         "wk:page":"Saman\u00e1 Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"accb1f843fd2852b1c680194c29738b8",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581795,
+    "wof:lastmodified":1582347711,
     "wof:name":"Saman\u00e1",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

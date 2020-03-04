@@ -265,6 +265,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052479,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76762953afb585e28adeb7b1c09b4e4e",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         }
     ],
     "wof:id":890444719,
-    "wof:lastmodified":1566582338,
+    "wof:lastmodified":1582347721,
     "wof:name":"Moca",
     "wof:parent_id":890429241,
     "wof:placetype":"locality",

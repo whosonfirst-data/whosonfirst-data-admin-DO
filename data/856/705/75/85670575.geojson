@@ -226,6 +226,9 @@
         "wk:page":"Dajab\u00f3n Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da8bf6a4adcebab0b3b0185f99a380af",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581799,
+    "wof:lastmodified":1582347712,
     "wof:name":"Dajab\u00f3n",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

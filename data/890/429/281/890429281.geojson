@@ -92,6 +92,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e47e344c8c262176b1235caa2d09eec",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890429281,
-    "wof:lastmodified":1566582342,
+    "wof:lastmodified":1582347722,
     "wof:name":"Guaymate",
     "wof:parent_id":85670673,
     "wof:placetype":"county",

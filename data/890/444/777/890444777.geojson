@@ -244,6 +244,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052481,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"538c062e62b06b90ffbcde5977d959fe",
     "wof:hierarchy":[
         {
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":890444777,
-    "wof:lastmodified":1566582334,
+    "wof:lastmodified":1582347721,
     "wof:name":"El Guayabal",
     "wof:parent_id":1108721161,
     "wof:placetype":"locality",

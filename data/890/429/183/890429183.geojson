@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051799,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"768705c567d26b59950a1ac26deb08ac",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429183,
-    "wof:lastmodified":1566582352,
+    "wof:lastmodified":1582347723,
     "wof:name":"Yamas\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051799,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af0df127a3b7285770477c81d2f050fb",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429185,
-    "wof:lastmodified":1566582353,
+    "wof:lastmodified":1582347723,
     "wof:name":"Yaguate",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

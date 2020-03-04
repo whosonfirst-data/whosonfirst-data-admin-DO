@@ -83,6 +83,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af0dc619989fe4a4ddeba37c930bfa29",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890455299,
-    "wof:lastmodified":1566582325,
+    "wof:lastmodified":1582347721,
     "wof:name":"San Rafael Del Yuma",
     "wof:parent_id":85670669,
     "wof:placetype":"county",

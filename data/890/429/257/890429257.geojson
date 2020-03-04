@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051804,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f72f3c0520f7cdba2e98f0675706dd91",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890429257,
-    "wof:lastmodified":1566582342,
+    "wof:lastmodified":1582347722,
     "wof:name":"Los Hidalgos",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

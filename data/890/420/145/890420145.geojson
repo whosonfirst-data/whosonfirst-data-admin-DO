@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051319,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8e7260211a3a7cf9bbe89382cdf2b70",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890420145,
-    "wof:lastmodified":1566582354,
+    "wof:lastmodified":1582347723,
     "wof:name":"Duverg\u00e9",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

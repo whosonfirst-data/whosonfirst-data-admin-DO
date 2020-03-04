@@ -278,6 +278,9 @@
         "wk:page":"Pedernales Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c961b9077ec2afdc5db44b9cf85dcf33",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581794,
+    "wof:lastmodified":1582347711,
     "wof:name":"Pedernales",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

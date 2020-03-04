@@ -103,6 +103,9 @@
         "qs_pg:id":958794
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1803fe064cfa7763a7f930039986ef9",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"La Caridad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

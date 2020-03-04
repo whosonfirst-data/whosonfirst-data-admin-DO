@@ -65,6 +65,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051803,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e4b760cca0714718f9b9d762d0c6852",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890429251,
-    "wof:lastmodified":1566582344,
+    "wof:lastmodified":1582347722,
     "wof:name":"Maim\u00f3n",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

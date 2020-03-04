@@ -74,6 +74,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2393d0ec65e3d80f13faf7890c66b02",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890429275,
-    "wof:lastmodified":1566582341,
+    "wof:lastmodified":1582347722,
     "wof:name":"Hondo Valle",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

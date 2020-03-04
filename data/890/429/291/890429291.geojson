@@ -95,6 +95,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051806,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd48a8799fbb499344ed5b17f5de0e5f",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890429291,
-    "wof:lastmodified":1566582351,
+    "wof:lastmodified":1582347723,
     "wof:name":"Enriquillo",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

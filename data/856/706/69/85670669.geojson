@@ -273,6 +273,9 @@
         "wk:page":"La Altagracia Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68c093a24f3881e4e7fe5f2181d00d3b",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"La Altagracia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

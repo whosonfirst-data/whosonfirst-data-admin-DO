@@ -110,6 +110,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac446cc005830a06cf938e551f658fab",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890429269,
-    "wof:lastmodified":1566582344,
+    "wof:lastmodified":1582347722,
     "wof:name":"Jarabacoa",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

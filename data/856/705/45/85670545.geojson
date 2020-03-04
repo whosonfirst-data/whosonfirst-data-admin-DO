@@ -273,6 +273,9 @@
         "wk:page":"Valverde Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"018af3ada08e48df5118c47e6dd5a358",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581799,
+    "wof:lastmodified":1582347712,
     "wof:name":"Valverde",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -101,6 +101,9 @@
         "qs_pg:id":494644
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b3a2325f034328ba292f0521d91c483",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581791,
+    "wof:lastmodified":1582347709,
     "wof:name":"Villas Agr\u00edcolas N\u00famero Uno",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

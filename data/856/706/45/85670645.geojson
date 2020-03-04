@@ -277,6 +277,9 @@
         "wd:id":"Q1949656"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"406d3cdb15962c22361680e3ea7cb046",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581794,
+    "wof:lastmodified":1582347711,
     "wof:name":"Mar\u00eda Trinidad S\u00e1nchez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

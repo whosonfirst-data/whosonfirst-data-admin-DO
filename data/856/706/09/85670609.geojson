@@ -280,6 +280,9 @@
         "wk:page":"Azua Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6027157d669e9260e809b0621421a805",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581795,
+    "wof:lastmodified":1582347711,
     "wof:name":"Azua",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

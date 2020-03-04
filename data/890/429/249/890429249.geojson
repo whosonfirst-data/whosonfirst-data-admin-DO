@@ -56,6 +56,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051803,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"40ffb82ac631bc5484380317ac56f922",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890429249,
-    "wof:lastmodified":1566582348,
+    "wof:lastmodified":1582347722,
     "wof:name":"Mao",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

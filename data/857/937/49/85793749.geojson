@@ -85,6 +85,9 @@
         "qs_pg:id":232879
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35b8451957a74fd0c4e242aae27496aa",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"Ferrand",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

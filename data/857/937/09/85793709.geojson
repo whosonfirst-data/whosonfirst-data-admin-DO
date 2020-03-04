@@ -88,6 +88,9 @@
         "wk:page":"Bella Vista, Distrito Nacional"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9a68ae7934275d32bc2f08ca1c86f823",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581792,
+    "wof:lastmodified":1582347710,
     "wof:name":"Bella Vista",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

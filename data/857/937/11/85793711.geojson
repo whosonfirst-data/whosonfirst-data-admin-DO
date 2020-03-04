@@ -85,6 +85,9 @@
         "wk:page":"Ciudad Nueva"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"124f317a7f4d85a73e1843be1d5b74cb",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347710,
     "wof:name":"Ciudad Nueva",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

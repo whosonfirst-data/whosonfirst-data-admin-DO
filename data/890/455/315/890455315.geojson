@@ -92,6 +92,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae496796881f96d9a00639b753d401c5",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890455315,
-    "wof:lastmodified":1566582324,
+    "wof:lastmodified":1582347720,
     "wof:name":"La Descubierta",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

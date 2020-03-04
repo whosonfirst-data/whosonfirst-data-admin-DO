@@ -74,6 +74,9 @@
         "qs:id":1152141
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d83af539716b6849f0d97561fd4bd0d",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347710,
     "wof:name":"La Primavera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

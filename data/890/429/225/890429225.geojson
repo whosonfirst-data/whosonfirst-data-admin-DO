@@ -106,6 +106,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051801,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3499ddf5b946fe6cb9b70f03dad23f00",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890429225,
-    "wof:lastmodified":1566582349,
+    "wof:lastmodified":1582347723,
     "wof:name":"Para\u00edso",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

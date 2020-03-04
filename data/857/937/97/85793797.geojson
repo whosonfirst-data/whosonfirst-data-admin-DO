@@ -93,6 +93,9 @@
         "qs_pg:id":1163834
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"468f1fd9145a1bcd770f420d6671c7f6",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"Nibaje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

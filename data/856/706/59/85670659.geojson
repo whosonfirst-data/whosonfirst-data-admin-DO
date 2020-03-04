@@ -200,6 +200,9 @@
         "wk:page":"Distrito Nacional"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52196bc2a877c7f7f20967c6fdf3d705",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581793,
+    "wof:lastmodified":1582347710,
     "wof:name":"Distrito Nacional",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

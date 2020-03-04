@@ -287,6 +287,9 @@
         "wk:page":"Puerto Plata province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8d74bc2d580c77a6cdf420a1e381549",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581801,
+    "wof:lastmodified":1582347713,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

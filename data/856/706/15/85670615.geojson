@@ -286,6 +286,9 @@
         "wk:page":"La Vega Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e545e03cb0d8c9b6aec894beec825c6b",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581797,
+    "wof:lastmodified":1582347712,
     "wof:name":"La Vega",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -85,6 +85,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d6760ee3f679212e217616a990ba473",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890429205,
-    "wof:lastmodified":1566582345,
+    "wof:lastmodified":1582347722,
     "wof:name":"Tamayo",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

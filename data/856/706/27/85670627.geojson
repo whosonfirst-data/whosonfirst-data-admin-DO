@@ -265,6 +265,9 @@
         "wd:id":"Q1424391"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bacb3c92dbdaee87172e6746bab9517",
     "wof:hierarchy":[
         {
@@ -280,7 +283,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581794,
+    "wof:lastmodified":1582347711,
     "wof:name":"San Jos\u00e9 De Ocoa",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

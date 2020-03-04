@@ -268,6 +268,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051819,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"41775babde6b05a5def57b4cbe0d948a",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":890429529,
-    "wof:lastmodified":1566582345,
+    "wof:lastmodified":1582347722,
     "wof:name":"Comendador",
     "wof:parent_id":890453405,
     "wof:placetype":"locality",

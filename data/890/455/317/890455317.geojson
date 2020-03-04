@@ -176,6 +176,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04cd20377a13f2ea7aa175aad0c8e6bc",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890455317,
-    "wof:lastmodified":1566582325,
+    "wof:lastmodified":1582347721,
     "wof:name":"Jiman\u00ed",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

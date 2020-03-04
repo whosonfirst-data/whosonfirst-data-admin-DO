@@ -97,6 +97,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c36273c6f9a0c3ca82df12025aede1a",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890429227,
-    "wof:lastmodified":1566582339,
+    "wof:lastmodified":1582347721,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

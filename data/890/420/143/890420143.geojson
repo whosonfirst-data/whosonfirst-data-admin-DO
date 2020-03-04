@@ -89,6 +89,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051319,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4424d66f9810312b5486b7f6a6074495",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890420143,
-    "wof:lastmodified":1566582354,
+    "wof:lastmodified":1582347723,
     "wof:name":"El Cercado",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

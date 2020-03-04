@@ -267,6 +267,9 @@
         "wk:page":"Espaillat Province"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"793e2faad0219cedf6ccc5f345d9625b",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566581799,
+    "wof:lastmodified":1582347712,
     "wof:name":"Espaillat",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

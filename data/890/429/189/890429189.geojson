@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051799,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d311a6e312fb600853ddfca6a34560be",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429189,
-    "wof:lastmodified":1566582345,
+    "wof:lastmodified":1582347722,
     "wof:name":"Villa Tapia",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

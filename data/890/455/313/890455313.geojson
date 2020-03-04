@@ -86,6 +86,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469052942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2a99d206c83af7c534b223b5f6e3c386",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890455313,
-    "wof:lastmodified":1566582324,
+    "wof:lastmodified":1582347720,
     "wof:name":"Laguna Salada",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

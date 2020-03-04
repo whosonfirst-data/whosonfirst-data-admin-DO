@@ -76,6 +76,9 @@
         "wd:id":"Q5529031"
     },
     "wof:country":"DO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e483a13323b66d3087cb674e6abe4097",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379288,
+    "wof:lastmodified":1582347709,
     "wof:name":"Gascue",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

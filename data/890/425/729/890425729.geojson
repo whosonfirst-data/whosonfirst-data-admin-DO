@@ -296,6 +296,9 @@
     },
     "wof:country":"DO",
     "wof:created":1469051601,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b855a6d3a1bffd33338b4d6a1ea89ec",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":890425729,
-    "wof:lastmodified":1566582321,
+    "wof:lastmodified":1582347720,
     "wof:name":"Tenares",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

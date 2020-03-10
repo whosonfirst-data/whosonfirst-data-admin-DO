@@ -953,9 +953,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Dominican_Republic",
-        "digitalenvoy:country_code":[
-            214
-        ],
+        "digitalenvoy:country_code":214,
         "fb:id":"en.dominican_republic",
         "fifa:id":"DOM",
         "fips:code":"DR",
@@ -999,7 +997,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529122,
+    "wof:lastmodified":1583797326,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

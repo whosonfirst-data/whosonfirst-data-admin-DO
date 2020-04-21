@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.146281,
-    "geom:area_square_m":48505396291.811981,
+    "geom:area_square_m":48505395679.931831,
     "geom:bbox":"-72.007414,17.467028,-68.325417,19.933805",
     "geom:latitude":18.894233,
     "geom:longitude":-70.495588,
@@ -54,6 +54,9 @@
     ],
     "name:arg_x_preferred":[
         "Republica Dominicana"
+    ],
+    "name:ary_x_preferred":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646"
     ],
     "name:arz_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646"
@@ -163,6 +166,12 @@
     "name:dan_x_variant":[
         "Den Dominikanske Republik"
     ],
+    "name:deu_at_x_preferred":[
+        "Dominikanische Republik"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Dominikanische Republik"
+    ],
     "name:deu_x_preferred":[
         "Dominikanische Republik"
     ],
@@ -187,6 +196,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03bf\u03bc\u03b9\u03bd\u03b9\u03ba\u03b1\u03bd\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Dominican Republic"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Dominican Republic"
     ],
     "name:eng_x_historical":[
         "Spanish Haiti"
@@ -260,6 +275,9 @@
     ],
     "name:gag_x_preferred":[
         "Dominikan Respublikas\u0131"
+    ],
+    "name:gcr_x_preferred":[
+        "R\u00e9piblik dominikenn"
     ],
     "name:gla_x_preferred":[
         "Poblachd Dhoiminicia"
@@ -613,6 +631,9 @@
         "Republika Dominikany",
         "Republika Dominika\u0144ska"
     ],
+    "name:por_br_x_preferred":[
+        "Rep\u00fablica Dominicana"
+    ],
     "name:por_x_preferred":[
         "Rep\u00fablica Dominicana"
     ],
@@ -696,6 +717,15 @@
     "name:sqi_x_variant":[
         "Republika Dominikan\u00eb"
     ],
+    "name:srd_x_preferred":[
+        "Rep\u00f9blica Dominicana"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Dominikanska Republika"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
@@ -716,6 +746,9 @@
     ],
     "name:szl_x_preferred":[
         "D\u016fmi\u0144ikana"
+    ],
+    "name:szy_x_preferred":[
+        "Dominican republic"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bca\u0bae\u0bbf\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0ba9\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1"
@@ -738,6 +771,9 @@
     "name:tgk_x_preferred":[
         "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0430"
     ],
+    "name:tgk_x_variant":[
+        "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Republikang Dominikano"
     ],
@@ -755,6 +791,9 @@
     ],
     "name:tur_x_preferred":[
         "Dominik Cumhuriyeti"
+    ],
+    "name:udm_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:uig_x_preferred":[
         "\u062f\u0648\u0645\u0649\u0646\u0649\u0643\u0627\u0646 \u062c\u06c7\u0645\u06be\u06c7\u0631\u0649\u064a\u06d5\u062a\u0649"
@@ -831,8 +870,26 @@
     "name:zha_x_preferred":[
         "Dominica Gunghozgoz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u591a\u7c73\u5c3c\u52a0"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u591a\u660e\u5c3c\u52a0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Dominic Ki\u014dng-h\u00f4-kok"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u591a\u660e\u5c3c\u52a0"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u591a\u7c73\u5c3c\u52a0"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u591a\u7c73\u5c3c\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u591a\u660e\u5c3c\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u591a\u660e\u5c3c\u52a0"
@@ -997,7 +1054,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583797326,
+    "wof:lastmodified":1587428916,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

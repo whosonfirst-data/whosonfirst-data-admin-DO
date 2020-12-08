@@ -431,7 +431,9 @@
         85670659
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632713,
+    "wof:capital_of":[
+        85632713
+    ],
     "wof:concordances":{
         "gn:id":3492908,
         "gp:id":76456,
@@ -461,7 +463,7 @@
         }
     ],
     "wof:id":890429209,
-    "wof:lastmodified":1587428916,
+    "wof:lastmodified":1607390874,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108721273,
     "wof:placetype":"locality",

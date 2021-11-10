@@ -47,6 +47,9 @@
     "name:hat_x_preferred":[
         "Artemisa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05de\u05d9\u05e1\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Artemisa"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1326786295,
-    "wof:lastmodified":1566581653,
+    "wof:lastmodified":1636501556,
     "wof:name":"Artemisa",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

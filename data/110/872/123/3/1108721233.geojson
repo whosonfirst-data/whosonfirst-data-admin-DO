@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Puerto Plata"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05e4\u05dc\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Puerto Plata"
+    ],
     "name:nld_x_preferred":[
         "Puerto Plata"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108721233,
-    "wof:lastmodified":1628266705,
+    "wof:lastmodified":1636501581,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

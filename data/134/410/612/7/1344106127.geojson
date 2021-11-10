@@ -66,9 +66,15 @@
         "Cuanza"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041a\u0432\u0430\u043d\u0437\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u041a\u0432\u0430\u043d\u0437\u0430"
     ],
     "name:swe_x_preferred":[
+        "Cuanza"
+    ],
+    "name:tur_x_preferred":[
         "Cuanza"
     ],
     "name:ukr_x_preferred":[
@@ -76,6 +82,18 @@
     ],
     "name:und_x_variant":[
         "Cuance"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0627\u0646\u0632\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Cuanza"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e7f\u8428\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5ee3\u85a9\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +107,7 @@
         "gn:id":3509094
     },
     "wof:country":"DO",
-    "wof:geomhash":"eb6c3af80a1817a7b5c443a16a02b20a",
+    "wof:geomhash":"24c23e343fdb02610b5e022cbaeefd77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +118,7 @@
         }
     ],
     "wof:id":1344106127,
-    "wof:lastmodified":1566581766,
+    "wof:lastmodified":1636501559,
     "wof:name":"Cuanza",
     "wof:parent_id":890429183,
     "wof:placetype":"locality",
@@ -110,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.13821999999999,
+    -70.13822,
     18.84461,
-    -70.13821999999999,
+    -70.13822,
     18.84461
 ],
-  "geometry": {"coordinates":[-70.13821999999999,18.84461],"type":"Point"}
+  "geometry": {"coordinates":[-70.13822,18.84461],"type":"Point"}
 }

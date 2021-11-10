@@ -87,9 +87,18 @@
         "Rodeo"
     ],
     "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d3\u05d0\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e8\u05d5\u05d3\u05d9\u05d0\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u0921\u093f\u092f\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Rodeo"
+    ],
+    "name:hun_x_preferred":[
         "Rodeo"
     ],
     "name:ind_x_preferred":[
@@ -146,8 +155,17 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0434\u0435\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0688\u06cc\u0648"
+    ],
     "name:vie_x_preferred":[
         "Rodeo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u5fb7\u5965"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u5730\u5967"
     ],
     "name:zho_x_preferred":[
         "\u725b\u4ed4\u7af6\u6280"
@@ -164,7 +182,7 @@
         "gn:id":3493711
     },
     "wof:country":"DO",
-    "wof:geomhash":"0f2e322c0f79e41aafcea1e418a3cfa8",
+    "wof:geomhash":"e411ca675f8c6d60bc9e3ab13d2fadf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +193,7 @@
         }
     ],
     "wof:id":1310548391,
-    "wof:lastmodified":1566582185,
+    "wof:lastmodified":1636501583,
     "wof:name":"Rodeo",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",
@@ -185,10 +203,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.43588000000001,
+    -69.43588,
     18.74832,
-    -69.43588000000001,
+    -69.43588,
     18.74832
 ],
-  "geometry": {"coordinates":[-69.43588000000001,18.74832],"type":"Point"}
+  "geometry": {"coordinates":[-69.43588,18.74832],"type":"Point"}
 }

@@ -30,8 +30,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0626\u0648"
+    ],
     "name:fra_x_preferred":[
         "Santa Cruz de Mao"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Mao"
     ],
     "name:und_x_variant":[
         "Valverde"
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":890429249,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1636501591,
     "wof:name":"Mao",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

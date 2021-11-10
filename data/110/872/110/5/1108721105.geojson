@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Azua de Compostela"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Azua"
+    ],
     "name:ita_x_preferred":[
         "Azua"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108721105,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1636501581,
     "wof:name":"Azua",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

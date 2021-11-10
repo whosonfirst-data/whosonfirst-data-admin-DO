@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d0\u05dc\u05d8\u05d0\u05d2\u05e8\u05d0\u05e1\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "La Altagracia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309671773,
-    "wof:lastmodified":1566582291,
+    "wof:lastmodified":1636501587,
     "wof:name":"La Altagracia",
     "wof:parent_id":1108721113,
     "wof:placetype":"locality",

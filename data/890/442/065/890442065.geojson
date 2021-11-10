@@ -46,8 +46,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a93"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0913"
+    ],
+    "name:hun_x_preferred":[
+        "Mao"
     ],
     "name:ind_x_preferred":[
         "Mao"
@@ -259,7 +265,7 @@
         }
     ],
     "wof:id":890442065,
-    "wof:lastmodified":1566582356,
+    "wof:lastmodified":1636501591,
     "wof:name":"Mao",
     "wof:parent_id":890429249,
     "wof:placetype":"locality",

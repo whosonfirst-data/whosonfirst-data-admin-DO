@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Hato Mayor del Rey"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d8\u05d5 \u05de\u05d0\u05d9\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Hato Mayor"
+    ],
     "name:nld_x_preferred":[
         "Hato Mayor"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108721165,
-    "wof:lastmodified":1628266655,
+    "wof:lastmodified":1636501579,
     "wof:name":"Hato Mayor",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

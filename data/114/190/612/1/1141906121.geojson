@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.4167014955,19.3830030235,-70.4167014955,19.3830030235",
+    "geom:bbox":"-70.416701,19.383003,-70.416701,19.383003",
     "geom:latitude":19.383003,
     "geom:longitude":-70.416701,
     "iso:country":"DO",
@@ -53,6 +53,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab2\u0acd\u0ab8\u0ac7\u0aa1\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05e1\u05d3\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0932\u094d\u0938\u0947\u0921\u094b"
@@ -255,7 +258,7 @@
     },
     "wof:country":"DO",
     "wof:created":1499130543,
-    "wof:geomhash":"8da75b6c1f8d3fbb2898f97c41c3acdb",
+    "wof:geomhash":"0c6210822181573190a29b1769b120a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":1141906121,
-    "wof:lastmodified":1566582677,
+    "wof:lastmodified":1636501603,
     "wof:name":"Salcedo",
     "wof:parent_id":1108721251,
     "wof:placetype":"locality",
@@ -276,10 +279,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.41670149547224,
-    19.38300302346818,
-    -70.41670149547224,
-    19.38300302346818
+    -70.416701,
+    19.383003,
+    -70.416701,
+    19.383003
 ],
-  "geometry": {"coordinates":[-70.41670149547224,19.38300302346818],"type":"Point"}
+  "geometry": {"coordinates":[-70.416701,19.383003],"type":"Point"}
 }

@@ -52,8 +52,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7 \u0aaa\u0acd\u0ab2\u0abe\u0a9f\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8 \u05e8\u05d5\u05d6\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0902\u091f\u0947 \u092a\u094d\u0932\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Monte Plata"
     ],
     "name:ind_x_preferred":[
         "Monte Plata"
@@ -270,7 +276,7 @@
         }
     ],
     "wof:id":890444717,
-    "wof:lastmodified":1566582338,
+    "wof:lastmodified":1636501589,
     "wof:name":"Monte Plata",
     "wof:parent_id":1108721213,
     "wof:placetype":"locality",

@@ -52,8 +52,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0aa8\u0abe\u0a93"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e0\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0928\u093e\u0913"
+    ],
+    "name:hun_x_preferred":[
+        "Bonao"
     ],
     "name:ind_x_preferred":[
         "Bonao"
@@ -277,7 +283,7 @@
         }
     ],
     "wof:id":890444785,
-    "wof:lastmodified":1582347721,
+    "wof:lastmodified":1636501589,
     "wof:name":"Bonao",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

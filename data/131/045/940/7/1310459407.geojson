@@ -153,6 +153,9 @@
         "\u0421\u0435\u0431\u0443"
     ],
     "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0628\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u06cc\u0628\u0648"
     ],
     "name:vie_x_preferred":[
@@ -166,6 +169,12 @@
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05e2\u05d1\u05d5"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5bbf\u52a1\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5bbf\u9727"
     ],
     "name:zho_x_preferred":[
         "\u5bbf\u9727\u7701"
@@ -182,7 +191,7 @@
         "gn:id":3509971
     },
     "wof:country":"DO",
-    "wof:geomhash":"15d7e4b2b134c757b53c2cf12f7b5996",
+    "wof:geomhash":"694be0028a8142f703826ac640468a68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -193,7 +202,7 @@
         }
     ],
     "wof:id":1310459407,
-    "wof:lastmodified":1566582206,
+    "wof:lastmodified":1636501584,
     "wof:name":"Cebu",
     "wof:parent_id":890429271,
     "wof:placetype":"locality",
@@ -203,10 +212,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.83209000000002,
+    -70.83209,
     19.35232,
-    -70.83209000000002,
+    -70.83209,
     19.35232
 ],
-  "geometry": {"coordinates":[-70.83209000000002,19.35232],"type":"Point"}
+  "geometry": {"coordinates":[-70.83208999999999,19.35232],"type":"Point"}
 }

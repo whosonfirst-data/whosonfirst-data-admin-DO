@@ -49,8 +49,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0aac\u0abe\u0aa8\u0ac7\u0a9f\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05e0\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u092c\u0928\u0940\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sabaneta"
     ],
     "name:ind_x_preferred":[
         "Sabaneta"
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":890451705,
-    "wof:lastmodified":1566582356,
+    "wof:lastmodified":1636501591,
     "wof:name":"Sabaneta",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

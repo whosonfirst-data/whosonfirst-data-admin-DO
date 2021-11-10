@@ -129,6 +129,9 @@
         "Manga"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d2\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05e0\u05d2\u05d4"
     ],
     "name:hin_x_preferred":[
@@ -330,7 +333,7 @@
         "gn:id":3496931
     },
     "wof:country":"DO",
-    "wof:geomhash":"0021031aa08fa5b9d9838147ec0e46e3",
+    "wof:geomhash":"2312699c7381370e0ac5f48fb7e9c3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":1193237957,
-    "wof:lastmodified":1566582089,
+    "wof:lastmodified":1636501577,
     "wof:name":"Manga",
     "wof:parent_id":1108721213,
     "wof:placetype":"locality",
@@ -351,10 +354,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.95416999999999,
+    -69.95417,
     18.82251,
-    -69.95416999999999,
+    -69.95417,
     18.82251
 ],
-  "geometry": {"coordinates":[-69.95416999999999,18.82251],"type":"Point"}
+  "geometry": {"coordinates":[-69.95417,18.82251],"type":"Point"}
 }

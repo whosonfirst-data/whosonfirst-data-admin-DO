@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.7409975515,18.0379980114,-71.7409975515,18.0379980114",
+    "geom:bbox":"-71.740998,18.037998,-71.740998,18.037998",
     "geom:latitude":18.037998,
     "geom:longitude":-71.740998,
     "gn:country":"DO",
@@ -24,11 +24,17 @@
     "name:ara_x_preferred":[
         "\u0628\u062f\u0631\u0646\u0627\u0644\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09a6\u09c7\u09b0\u09a8\u09be\u09b2\u09c7\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Pedernales"
     ],
     "name:deu_x_preferred":[
         "Pedernales"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bd\u03c4\u03b5\u03c1\u03bd\u03ac\u03bb\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pedernales"
@@ -39,8 +45,17 @@
     "name:fra_x_preferred":[
         "Pedernales"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05e8\u05e0\u05d0\u05dc\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u0921\u0930\u094d\u0928\u0947\u0932\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Pedernales"
+    ],
+    "name:ind_x_preferred":[
+        "Pedernales"
     ],
     "name:ita_x_preferred":[
         "Pedernales"
@@ -75,6 +90,12 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e40\u0e14\u0e23\u0e4c\u0e19\u0e32\u0e40\u0e25\u0e2a"
     ],
+    "name:tur_x_preferred":[
+        "Pedernales"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0435\u0440\u043d\u0430\u043b\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Anse \u00e0 Pitre"
     ],
@@ -83,6 +104,9 @@
     ],
     "name:urd_x_variant":[
         "\u067e\u06cc\u062f\u0631\u0646\u0627\u0644\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Pedernales"
     ],
     "name:war_x_preferred":[
         "Pedernales"
@@ -212,7 +236,7 @@
     },
     "wof:country":"DO",
     "wof:created":1499130544,
-    "wof:geomhash":"3f3b6ce5e9a16c1dcfba1c193a41266d",
+    "wof:geomhash":"bb36579481fa0cde94fa7fb8bc4cd421",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -223,7 +247,7 @@
         }
     ],
     "wof:id":1141906125,
-    "wof:lastmodified":1566582677,
+    "wof:lastmodified":1636501603,
     "wof:name":"Pedernales",
     "wof:parent_id":1108721217,
     "wof:placetype":"locality",
@@ -237,10 +261,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.7409975514858,
-    18.0379980113741,
-    -71.7409975514858,
-    18.0379980113741
+    -71.740998,
+    18.037998,
+    -71.740998,
+    18.037998
 ],
-  "geometry": {"coordinates":[-71.7409975514858,18.0379980113741],"type":"Point"}
+  "geometry": {"coordinates":[-71.740998,18.037998],"type":"Point"}
 }

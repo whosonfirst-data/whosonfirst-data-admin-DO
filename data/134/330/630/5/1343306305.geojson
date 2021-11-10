@@ -87,6 +87,9 @@
         "\u0413\u043e\u043b\u0443\u0431\u043a\u0430"
     ],
     "name:vie_x_preferred":[
+        "La Paloma"
+    ],
+    "name:vie_x_variant":[
         "C\u00e1nh bu\u1ed3m xa x\u01b0a"
     ],
     "src:geom":"geonames",
@@ -101,7 +104,7 @@
         "gn:id":3501406
     },
     "wof:country":"DO",
-    "wof:geomhash":"de34a232f5f6e547dc5b23fa4f38dd9b",
+    "wof:geomhash":"63c0a356369abc24fab8c06e73e92600",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1343306305,
-    "wof:lastmodified":1566581701,
+    "wof:lastmodified":1636501558,
     "wof:name":"La Paloma",
     "wof:parent_id":1108721265,
     "wof:placetype":"locality",
@@ -122,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.40035999999998,
+    -70.40036,
     18.55535,
-    -70.40035999999998,
+    -70.40036,
     18.55535
 ],
-  "geometry": {"coordinates":[-70.40035999999998,18.55535],"type":"Point"}
+  "geometry": {"coordinates":[-70.40036000000001,18.55535],"type":"Point"}
 }

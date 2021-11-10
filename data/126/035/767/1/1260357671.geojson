@@ -90,6 +90,9 @@
         "Batey Paloma"
     ],
     "name:vie_x_preferred":[
+        "La Paloma"
+    ],
+    "name:vie_x_variant":[
         "C\u00e1nh bu\u1ed3m xa x\u01b0a"
     ],
     "src:geom":"geonames",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1260357671,
-    "wof:lastmodified":1566582143,
+    "wof:lastmodified":1636501579,
     "wof:name":"La Paloma",
     "wof:parent_id":890429255,
     "wof:placetype":"locality",

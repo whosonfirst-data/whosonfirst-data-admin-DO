@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Las Tunas"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05d8\u05d5\u05e0\u05d0\u05e1"
+    ],
     "name:nld_x_preferred":[
         "Las Tunas"
     ],
@@ -74,7 +77,7 @@
         "gn:id":3500210
     },
     "wof:country":"DO",
-    "wof:geomhash":"45e4566ad98d810dff1922b0b6243cfa",
+    "wof:geomhash":"57089ae8ef5d1ac38d88a3a63d860977",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1309673135,
-    "wof:lastmodified":1566582291,
+    "wof:lastmodified":1636501587,
     "wof:name":"Las Tunas",
     "wof:parent_id":1108721165,
     "wof:placetype":"locality",
@@ -95,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.34666999999999,
+    -69.34667,
     18.72166,
-    -69.34666999999999,
+    -69.34667,
     18.72166
 ],
-  "geometry": {"coordinates":[-69.34666999999999,18.72166],"type":"Point"}
+  "geometry": {"coordinates":[-69.34667,18.72166],"type":"Point"}
 }

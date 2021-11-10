@@ -76,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u092a\u094d\u0932\u093e\u091f\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Puerto Plata"
+    ],
     "name:ind_x_preferred":[
         "Puerto Plata"
     ],
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":890438783,
-    "wof:lastmodified":1566582328,
+    "wof:lastmodified":1636501589,
     "wof:name":"Puerto Plata",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

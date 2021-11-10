@@ -49,8 +49,14 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0a87\u0aac\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d9\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u0940\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Neiba"
     ],
     "name:ind_x_preferred":[
         "Neiba"
@@ -264,7 +270,7 @@
         }
     ],
     "wof:id":890444715,
-    "wof:lastmodified":1566582334,
+    "wof:lastmodified":1636501589,
     "wof:name":"Neiba",
     "wof:parent_id":890429235,
     "wof:placetype":"locality",

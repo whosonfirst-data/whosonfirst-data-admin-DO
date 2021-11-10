@@ -102,6 +102,9 @@
         "San Miguel"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0420\u0438\u043e-\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c"
     ],
     "name:sco_x_preferred":[
@@ -117,9 +120,15 @@
         "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b"
     ],
     "name:swe_x_preferred":[
+        "R\u00edo San Miguel"
+    ],
+    "name:swe_x_variant":[
         "San Miguel"
     ],
     "name:tgl_x_preferred":[
+        "San Miguel"
+    ],
+    "name:tur_x_preferred":[
         "San Miguel"
     ],
     "name:ukr_x_preferred":[
@@ -128,8 +137,20 @@
     "name:und_x_variant":[
         "Batey San Miguel"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng San Miguel"
+    ],
     "name:war_x_preferred":[
         "San Miguel"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u7c73\u683c\u5c14\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -143,7 +164,7 @@
         "gn:id":3493049
     },
     "wof:country":"DO",
-    "wof:geomhash":"69bd4ef9bbde3e8e724f7523159c214c",
+    "wof:geomhash":"2613c6a6bd881bbd58c3e83ba04a9b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +175,7 @@
         }
     ],
     "wof:id":1310552383,
-    "wof:lastmodified":1566582196,
+    "wof:lastmodified":1636501583,
     "wof:name":"San Miguel",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",
@@ -164,10 +185,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.16443000000001,
+    -69.16443,
     18.71171,
-    -69.16443000000001,
+    -69.16443,
     18.71171
 ],
-  "geometry": {"coordinates":[-69.16443000000001,18.71171],"type":"Point"}
+  "geometry": {"coordinates":[-69.16443,18.71171],"type":"Point"}
 }

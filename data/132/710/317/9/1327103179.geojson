@@ -48,6 +48,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09aa\u09be\u09b2\u09ae\u09be"
+    ],
     "name:bre_x_preferred":[
         "La Palma"
     ],
@@ -98,6 +101,12 @@
     ],
     "name:glg_x_preferred":[
         "La Palma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e4\u05dc\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u0932\u094d\u092e\u093e"
     ],
     "name:hun_x_preferred":[
         "La Palma"
@@ -175,6 +184,9 @@
         "Las Palmas",
         "Las Yayas"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627"
+    ],
     "name:vie_x_preferred":[
         "La Palma"
     ],
@@ -196,7 +208,7 @@
         "gn:id":3501470
     },
     "wof:country":"DO",
-    "wof:geomhash":"85ad011856b5de60bef2e9b1e0331fba",
+    "wof:geomhash":"027146f53e26a471cb16f7396f5db0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -207,7 +219,7 @@
         }
     ],
     "wof:id":1327103179,
-    "wof:lastmodified":1566581679,
+    "wof:lastmodified":1636501557,
     "wof:name":"La Palma",
     "wof:parent_id":1108721267,
     "wof:placetype":"locality",
@@ -217,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.23333000000002,
+    -71.23333,
     18.76667,
-    -71.23333000000002,
+    -71.23333,
     18.76667
 ],
-  "geometry": {"coordinates":[-71.23333000000002,18.76667],"type":"Point"}
+  "geometry": {"coordinates":[-71.23333,18.76667],"type":"Point"}
 }

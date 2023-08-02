@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Villa Tapia"
+    ],
     "name:ceb_x_preferred":[
         "Villa Tapia"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:ita_x_preferred":[
         "Villa Tapia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30bf\u30d4\u30a2"
     ],
     "name:nan_x_preferred":[
         "Villa Tapia"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421204899,
-    "wof:lastmodified":1566582308,
+    "wof:lastmodified":1690875427,
     "wof:name":"Villa Tapia",
     "wof:parent_id":890429189,
     "wof:placetype":"locality",

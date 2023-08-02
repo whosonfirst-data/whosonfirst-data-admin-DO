@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0644\u0633\u064a\u0628\u0648"
     ],
+    "name:ast_x_preferred":[
+        "El Seibo"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u09b8\u09bf\u09ac\u09cb \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "El Seibo"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith El Seibo"
     ],
     "name:dan_x_preferred":[
         "El Seibo Province"
@@ -51,6 +60,9 @@
     "name:eng_x_variant":[
         "El Seibo Province"
     ],
+    "name:eus_x_preferred":[
+        "El Seibo probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644 \u0633\u06cc\u0628\u0648"
     ],
@@ -58,6 +70,9 @@
         "El Seibo"
     ],
     "name:fra_x_preferred":[
+        "El Seibo"
+    ],
+    "name:frr_x_preferred":[
         "El Seibo"
     ],
     "name:guj_x_preferred":[
@@ -182,8 +197,14 @@
     "name:war_x_preferred":[
         "El Seibo"
     ],
+    "name:wuu_x_preferred":[
+        "\u8d5b\u5821\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u8cfd\u5821\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u5c14\u585e\u6c83\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -308,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501562,
+    "wof:lastmodified":1690875417,
     "wof:name":"El Seybo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -33,8 +33,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u064a\u0631\u0645\u0627\u0646\u0627\u0633 \u0645\u064a\u0631\u0627\u0628\u0627\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Hermanas Mirabal"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09ae\u09be\u09a8\u09be\u09b8 \u09ae\u09bf\u09b0\u09be\u09ac\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Hermanas Mirabal"
     ],
     "name:dan_x_preferred":[
         "Hermanas Mirabal Province"
@@ -55,6 +61,9 @@
         "Hermanas Mirabalin l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
+        "Hermanas Mirabal"
+    ],
+    "name:frr_x_preferred":[
         "Hermanas Mirabal"
     ],
     "name:guj_x_preferred":[
@@ -165,8 +174,14 @@
     "name:war_x_preferred":[
         "Hermanas Mirabal"
     ],
+    "name:wuu_x_preferred":[
+        "\u7c73\u62c9\u74e6\u5c14\u59d0\u59b9\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u7c73\u62c9\u8c9d\u59d0\u59b9\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u7c73\u62c9\u74e6\u5c14\u59d0\u59b9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -289,7 +304,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501565,
+    "wof:lastmodified":1690875422,
     "wof:name":"Hermanas",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

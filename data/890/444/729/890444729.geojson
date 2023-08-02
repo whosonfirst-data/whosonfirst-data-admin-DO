@@ -52,6 +52,9 @@
     "name:ita_x_preferred":[
         "Oviedo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d3\u30a8\u30c9"
+    ],
     "name:lat_x_preferred":[
         "Oviedo"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890444729,
-    "wof:lastmodified":1566582339,
+    "wof:lastmodified":1690875453,
     "wof:name":"Oviedo",
     "wof:parent_id":890429231,
     "wof:placetype":"locality",

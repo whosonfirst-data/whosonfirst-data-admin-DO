@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Jamao Al Norte"
+    ],
     "name:ceb_x_preferred":[
         "Jamao al Norte"
     ],
     "name:eng_x_preferred":[
         "Jamao al Norte"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0645\u0627\u0626\u0648 \u0627\u0644 \u0646\u0648\u0631\u062a\u0647"
     ],
     "name:fra_x_preferred":[
         "Jamao al Norte"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125869115,
-    "wof:lastmodified":1566582364,
+    "wof:lastmodified":1690875472,
     "wof:name":"Jamao al Norte",
     "wof:parent_id":1108721167,
     "wof:placetype":"locality",

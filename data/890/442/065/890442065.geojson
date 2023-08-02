@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Mao"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0993"
+    ],
+    "name:ceb_x_preferred":[
+        "Mao"
     ],
     "name:dan_x_preferred":[
         "Mao"
@@ -265,7 +274,7 @@
         }
     ],
     "wof:id":890442065,
-    "wof:lastmodified":1636501591,
+    "wof:lastmodified":1690875464,
     "wof:name":"Mao",
     "wof:parent_id":890429249,
     "wof:placetype":"locality",

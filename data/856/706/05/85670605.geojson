@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u062f\u0631\u0646\u0627\u0644\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Pedernales"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09a1\u09c7\u09b0\u09cd\u09a8\u09be\u09b2\u09bf\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Pedernales"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Pedernales"
     ],
     "name:dan_x_preferred":[
         "Pedernales Province"
@@ -51,6 +60,9 @@
     "name:eng_x_variant":[
         "Pedernales Province"
     ],
+    "name:eus_x_preferred":[
+        "Pedernales probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u062f\u0631\u0646\u0627\u0644\u0633"
     ],
@@ -58,6 +70,9 @@
         "Pedernalesin l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
+        "Pedernales"
+    ],
+    "name:frr_x_preferred":[
         "Pedernales"
     ],
     "name:guj_x_preferred":[
@@ -172,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Pedernales"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f69\u5fb7\u7eb3\u83b1\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u5fb7\u7d0d\u840a\u65af\u7701"
@@ -299,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501562,
+    "wof:lastmodified":1690875415,
     "wof:name":"Pedernales",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

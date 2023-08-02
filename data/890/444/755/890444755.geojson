@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Guatapanal"
     ],
+    "name:spa_x_preferred":[
+        "Guatapanal"
+    ],
     "name:swe_x_preferred":[
         "Guatapanal"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890444755,
-    "wof:lastmodified":1566582331,
+    "wof:lastmodified":1690875445,
     "wof:name":"Guatapanal",
     "wof:parent_id":890429249,
     "wof:placetype":"locality",

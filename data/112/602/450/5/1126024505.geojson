@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u0627 \u0643\u0627\u0646\u0627"
+    ],
     "name:cat_x_preferred":[
         "Punta Cana"
     ],
     "name:ceb_x_preferred":[
+        "Punta Cana"
+    ],
+    "name:ces_x_preferred":[
         "Punta Cana"
     ],
     "name:deu_x_preferred":[
@@ -35,6 +41,9 @@
         "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b1 \u039a\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Punta Cana"
+    ],
+    "name:eus_x_preferred":[
         "Punta Cana"
     ],
     "name:fas_x_preferred":[
@@ -49,11 +58,20 @@
     "name:hrv_x_preferred":[
         "Punta Cana"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0576\u057f\u0561 \u053f\u0561\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Punta Cana"
+    ],
     "name:ita_x_preferred":[
         "Punta Cana"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30f3\u30bf\u30ab\u30ca"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d7\u30f3\u30bf\u30fb\u30ab\u30ca"
     ],
     "name:kor_x_preferred":[
         "\ud47c\ud0c0\uce74\ub098"
@@ -66,6 +84,9 @@
     ],
     "name:nob_x_preferred":[
         "Punta Cana"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u041a\u0430\u043d\u00e6"
     ],
     "name:pol_x_preferred":[
         "Punta Cana"
@@ -82,6 +103,9 @@
     "name:rus_x_variant":[
         "\u041f\u0443\u043d\u0442\u0430 \u041a\u0430\u043d\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Punta Cana"
+    ],
     "name:spa_x_preferred":[
         "Punta Cana"
     ],
@@ -90,6 +114,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430-\u041a\u0430\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u062a\u0627 \u06a9\u0627\u0646\u0627"
     ],
     "name:zho_x_preferred":[
         "\u84ec\u5854\u5361\u7d0d"
@@ -133,7 +160,7 @@
         }
     ],
     "wof:id":1126024505,
-    "wof:lastmodified":1566582363,
+    "wof:lastmodified":1690875471,
     "wof:name":"Punta Cana",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:nld_x_preferred":[
         "Maim\u00f3n"
     ],
+    "name:spa_x_preferred":[
+        "Maim\u00f3n"
+    ],
     "qs:name":"Maim\u00f3n",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890429251,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1690875456,
     "wof:name":"Maim\u00f3n",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

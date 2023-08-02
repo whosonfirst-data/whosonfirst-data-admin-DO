@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "El Pino"
+    ],
     "name:ceb_x_preferred":[
         "El Pino"
     ],
     "name:eng_x_preferred":[
         "El Pino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u067e\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "El Pino"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890444773,
-    "wof:lastmodified":1566582338,
+    "wof:lastmodified":1690875453,
     "wof:name":"El Pino",
     "wof:parent_id":1108721145,
     "wof:placetype":"locality",

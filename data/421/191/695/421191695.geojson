@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
     "name:ceb_x_preferred":[
         "La Ci\u00e9naga"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421191695,
-    "wof:lastmodified":1566582313,
+    "wof:lastmodified":1690875431,
     "wof:name":"La Ci\u00e9naga",
     "wof:parent_id":1108721179,
     "wof:placetype":"locality",

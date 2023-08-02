@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Matanzas"
+    ],
     "name:eng_x_preferred":[
         "Matanzas"
     ],
@@ -32,6 +35,9 @@
         "Matanzas"
     ],
     "name:spa_x_preferred":[
+        "Matanzas"
+    ],
+    "name:swe_x_preferred":[
         "Matanzas"
     ],
     "name:und_x_variant":[
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890434785,
-    "wof:lastmodified":1566582358,
+    "wof:lastmodified":1690875465,
     "wof:name":"Matanzas",
     "wof:parent_id":1108721109,
     "wof:placetype":"locality",

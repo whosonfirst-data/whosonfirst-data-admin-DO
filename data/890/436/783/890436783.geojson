@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Enriquillo"
+    ],
     "name:ceb_x_preferred":[
         "Enriquillo"
     ],
     "name:eng_x_preferred":[
         "Enriquillo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0631\u06cc\u06a9\u06cc\u0648"
     ],
     "name:ita_x_preferred":[
         "Enriquillo"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890436783,
-    "wof:lastmodified":1566582326,
+    "wof:lastmodified":1690875442,
     "wof:name":"Enriquillo",
     "wof:parent_id":890429291,
     "wof:placetype":"locality",

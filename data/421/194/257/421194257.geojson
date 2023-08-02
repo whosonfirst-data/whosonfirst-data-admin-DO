@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tamayo"
+    ],
     "name:ceb_x_preferred":[
+        "Tamayo"
+    ],
+    "name:deu_x_preferred":[
         "Tamayo"
     ],
     "name:eng_x_preferred":[
@@ -28,6 +34,9 @@
     ],
     "name:ita_x_preferred":[
         "Tamayo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30de\u30e8"
     ],
     "name:nan_x_preferred":[
         "Tamayo"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421194257,
-    "wof:lastmodified":1566582306,
+    "wof:lastmodified":1690875426,
     "wof:name":"Tamayo",
     "wof:parent_id":890429205,
     "wof:placetype":"locality",

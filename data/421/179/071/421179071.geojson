@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0627 \u062a\u0634\u064a\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Boca Chica"
+    ],
     "name:ceb_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:ces_x_preferred":[
         "Boca Chica"
     ],
     "name:deu_x_preferred":[
@@ -25,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Boca Chica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627 \u0686\u06cc\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Boca Chica"
@@ -41,6 +53,9 @@
     "name:nld_x_preferred":[
         "Boca Chica"
     ],
+    "name:nob_x_preferred":[
+        "Boca Chica"
+    ],
     "name:pol_x_preferred":[
         "Boca Chica"
     ],
@@ -53,6 +68,9 @@
     "name:rus_x_variant":[
         "\u0411\u043e\u043a\u0430 \u0427\u0438\u043a\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Boca Chica"
+    ],
     "name:spa_x_preferred":[
         "Boca Chica"
     ],
@@ -61,6 +79,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043a\u0430-\u0427\u0438\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Boca Chica"
     ],
     "name:zho_min_nan_x_preferred":[
         "Boca Chica"
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":421179071,
-    "wof:lastmodified":1566582316,
+    "wof:lastmodified":1690875433,
     "wof:name":"Boca Chica",
     "wof:parent_id":1108721119,
     "wof:placetype":"locality",

@@ -26,8 +26,14 @@
     "name:eng_x_preferred":[
         "Gazcue"
     ],
+    "name:fra_x_preferred":[
+        "Gazcue"
+    ],
     "name:spa_x_preferred":[
         "Gascue"
+    ],
+    "name:spa_x_variant":[
+        "Gazcue"
     ],
     "qs_pg:aaroncc":"DO",
     "qs_pg:gn_country":"DO",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1126088877,
-    "wof:lastmodified":1566582365,
+    "wof:lastmodified":1690875472,
     "wof:name":"Gascue",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

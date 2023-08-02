@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Cabarete"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0562\u0561\u0580\u0565\u057f\u0565"
+    ],
     "name:ita_x_preferred":[
         "Cabarete"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125868457,
-    "wof:lastmodified":1566582363,
+    "wof:lastmodified":1690875471,
     "wof:name":"Cabarete",
     "wof:parent_id":890429207,
     "wof:placetype":"locality",

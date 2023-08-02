@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Postrer R\u00edo"
+    ],
     "name:ceb_x_preferred":[
         "Postrer R\u00edo"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Postrer R\u00edo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30b9\u30c8\u30ec\u30eb\u30fb\u30ea\u30aa"
     ],
     "name:nan_x_preferred":[
         "Postrer R\u00edo"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1126024517,
-    "wof:lastmodified":1566582363,
+    "wof:lastmodified":1690875470,
     "wof:name":"Postrer R\u00edo",
     "wof:parent_id":890429223,
     "wof:placetype":"locality",

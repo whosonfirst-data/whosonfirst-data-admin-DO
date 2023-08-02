@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u0627\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Bonao"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09a8\u09be\u0993"
+    ],
+    "name:cat_x_preferred":[
+        "Bonao"
     ],
     "name:ceb_x_preferred":[
         "Bonao"
@@ -283,7 +289,7 @@
         }
     ],
     "wof:id":890444785,
-    "wof:lastmodified":1636501589,
+    "wof:lastmodified":1690875448,
     "wof:name":"Bonao",
     "wof:parent_id":1108721123,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a \u0628\u0644\u0627\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Monte Plata"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09c7 \u09aa\u09cd\u09b2\u09be\u099f\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Monte Plata"
     ],
     "name:ceb_x_preferred":[
         "Monte Plata"
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":890444717,
-    "wof:lastmodified":1636501589,
+    "wof:lastmodified":1690875452,
     "wof:name":"Monte Plata",
     "wof:parent_id":1108721213,
     "wof:placetype":"locality",

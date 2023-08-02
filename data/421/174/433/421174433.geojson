@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cabral"
+    ],
     "name:cat_x_preferred":[
         "Cabral"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Cabral"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0628\u0631\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Cabral"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421174433,
-    "wof:lastmodified":1566582309,
+    "wof:lastmodified":1690875429,
     "wof:name":"Cabral",
     "wof:parent_id":1108721127,
     "wof:placetype":"locality",

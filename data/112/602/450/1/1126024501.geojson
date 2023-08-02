@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ram\u00f3n Santana"
+    ],
     "name:ceb_x_preferred":[
+        "Ram\u00f3n Santana"
+    ],
+    "name:deu_x_preferred":[
         "Ram\u00f3n Santana"
     ],
     "name:eng_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1126024501,
-    "wof:lastmodified":1566582363,
+    "wof:lastmodified":1690875471,
     "wof:name":"Ram\u00f3n Santana",
     "wof:parent_id":890429221,
     "wof:placetype":"locality",

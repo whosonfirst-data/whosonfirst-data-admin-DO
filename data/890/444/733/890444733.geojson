@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Nizao"
+    ],
+    "name:cat_x_preferred":[
+        "Nizao"
+    ],
     "name:ceb_x_preferred":[
         "Nizao"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:por_x_preferred":[
         "Nizao"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0437\u0430\u043e"
     ],
     "name:spa_x_preferred":[
         "Nizao"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890444733,
-    "wof:lastmodified":1566582335,
+    "wof:lastmodified":1690875449,
     "wof:name":"Nizao",
     "wof:parent_id":890429233,
     "wof:placetype":"locality",

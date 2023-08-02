@@ -30,7 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ast_x_preferred":[
+        "Yamas\u00e1"
+    ],
     "name:ceb_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:deu_x_preferred":[
         "Yamas\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -46,6 +52,9 @@
         "\u30e4\u30de\u30b5"
     ],
     "name:nan_x_preferred":[
+        "Yamas\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Yamas\u00e1"
     ],
     "name:por_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890429183,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1690875461,
     "wof:name":"Yamas\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

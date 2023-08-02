@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "R\u00edo San Juan"
+    ],
     "name:ceb_x_preferred":[
         "R\u00edo San Juan"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890422231,
-    "wof:lastmodified":1566582320,
+    "wof:lastmodified":1690875438,
     "wof:name":"R\u00edo San Juan",
     "wof:parent_id":890436811,
     "wof:placetype":"locality",

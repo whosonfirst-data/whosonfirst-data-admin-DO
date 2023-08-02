@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ast_x_preferred":[
+        "Villa Tapia"
+    ],
     "name:ceb_x_preferred":[
         "Villa Tapia"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:ita_x_preferred":[
         "Villa Tapia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30bf\u30d4\u30a2"
     ],
     "name:nan_x_preferred":[
         "Villa Tapia"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890429189,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1690875457,
     "wof:name":"Villa Tapia",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

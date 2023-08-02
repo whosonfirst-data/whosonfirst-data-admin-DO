@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:cat_x_preferred":[
+        "Bayaguana"
+    ],
     "name:ceb_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:deu_x_preferred":[
         "Bayaguana"
     ],
     "name:eng_x_preferred":[
         "Bayaguana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u06af\u0648\u0627\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Bayaguana"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":890434817,
-    "wof:lastmodified":1566582357,
+    "wof:lastmodified":1690875465,
     "wof:name":"Bayaguana",
     "wof:parent_id":1108721113,
     "wof:placetype":"locality",

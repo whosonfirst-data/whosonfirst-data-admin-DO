@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Los Hidalgos"
+    ],
     "name:ceb_x_preferred":[
         "Los Hidalgos"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125938505,
-    "wof:lastmodified":1566582361,
+    "wof:lastmodified":1690875469,
     "wof:name":"Los Hidalgos",
     "wof:parent_id":890429257,
     "wof:placetype":"locality",

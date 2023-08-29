@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Descubierta"
+    ],
+    "name:cat_x_preferred":[
+        "La Descubierta"
+    ],
     "name:ceb_x_preferred":[
         "La Descubierta"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:ita_x_preferred":[
         "La Descubierta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30c7\u30b9\u30af\u30d3\u30a8\u30eb\u30bf"
     ],
     "name:nan_x_preferred":[
         "La Descubierta"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421193999,
-    "wof:lastmodified":1566582307,
+    "wof:lastmodified":1690875426,
     "wof:name":"La Descubierta",
     "wof:parent_id":890455315,
     "wof:placetype":"locality",

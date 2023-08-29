@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Sabana Grande Palenque"
+    ],
     "name:deu_x_preferred":[
         "Sabana Grande de Palenque"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890444711,
-    "wof:lastmodified":1566582339,
+    "wof:lastmodified":1690875453,
     "wof:name":"Sabana Grande de Palenque",
     "wof:parent_id":1108721243,
     "wof:placetype":"locality",

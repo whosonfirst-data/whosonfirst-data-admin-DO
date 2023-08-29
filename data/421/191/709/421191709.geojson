@@ -29,6 +29,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30f3\u30ac\u30fc\u30cb\u30e7\u5cac"
     ],
+    "name:spa_x_preferred":[
+        "Cape Enga\u00f1o"
+    ],
     "qs:gn_country":"DO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3510893,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421191709,
-    "wof:lastmodified":1566582312,
+    "wof:lastmodified":1690875430,
     "wof:name":"Cabo Engano",
     "wof:parent_id":890429277,
     "wof:placetype":"locality",

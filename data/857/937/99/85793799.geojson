@@ -36,6 +36,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8"
     ],
+    "name:cat_x_preferred":[
+        "San Carlos"
+    ],
     "name:ceb_x_preferred":[
         "San Carlos"
     ],
@@ -183,7 +186,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636501561,
+    "wof:lastmodified":1690875413,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

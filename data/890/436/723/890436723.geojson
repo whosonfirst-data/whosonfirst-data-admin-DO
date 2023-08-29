@@ -40,6 +40,9 @@
     "name:und_x_variant":[
         "Yuma"
     ],
+    "name:zho_x_preferred":[
+        "\u535a\u5361\u5fb7\u5c24\u99ac"
+    ],
     "qs:name":"Boca de Yuma",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890436723,
-    "wof:lastmodified":1566582326,
+    "wof:lastmodified":1690875442,
     "wof:name":"Boca de Yuma",
     "wof:parent_id":890455299,
     "wof:placetype":"locality",

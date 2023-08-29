@@ -36,11 +36,20 @@
     "name:arg_x_preferred":[
         "La Romana"
     ],
+    "name:ast_x_preferred":[
+        "La Romana"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09b0\u09cb\u09ae\u09be\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "La Romana"
+    ],
     "name:ceb_x_preferred":[
         "La Romana"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith La Romana"
     ],
     "name:dan_x_preferred":[
         "La Romana Province"
@@ -57,6 +66,9 @@
     "name:eng_x_variant":[
         "La Romana Province"
     ],
+    "name:eus_x_preferred":[
+        "La Romana probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0627 \u0631\u0648\u0645\u0627\u0646\u0627"
     ],
@@ -67,6 +79,9 @@
         "La Romanan l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
+        "La Romana"
+    ],
+    "name:frr_x_preferred":[
         "La Romana"
     ],
     "name:glg_x_preferred":[
@@ -190,11 +205,15 @@
     "name:war_x_preferred":[
         "La Romana"
     ],
+    "name:wuu_x_preferred":[
+        "\u7f57\u9a6c\u7eb3\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u7f85\u99ac\u7d0d"
     ],
     "name:zho_x_variant":[
-        "\u7f85\u99ac\u7d0d\u7701"
+        "\u7f85\u99ac\u7d0d\u7701",
+        "\u62c9\u7f57\u9a6c\u7eb3\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -319,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501562,
+    "wof:lastmodified":1690875415,
     "wof:name":"La Romana",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

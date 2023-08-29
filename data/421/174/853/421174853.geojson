@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Juan Dolio"
     ],
+    "name:ces_x_preferred":[
+        "Juan Dolio"
+    ],
     "name:deu_x_preferred":[
         "Juan Dolio"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05d0\u05df \u05d3\u05d5\u05dc\u05d9\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30f3\u30fb\u30c9\u30ea\u30aa"
     ],
     "name:nld_x_preferred":[
         "Juan Dolio"
@@ -45,6 +51,9 @@
         "Juan Dolio"
     ],
     "name:swe_x_preferred":[
+        "Juan Dolio"
+    ],
+    "name:vie_x_preferred":[
         "Juan Dolio"
     ],
     "qs:gn_country":"DO",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421174853,
-    "wof:lastmodified":1566582309,
+    "wof:lastmodified":1690875428,
     "wof:name":"Juan Dolio",
     "wof:parent_id":1108721163,
     "wof:placetype":"locality",

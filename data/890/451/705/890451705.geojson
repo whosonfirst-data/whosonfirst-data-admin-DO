@@ -142,6 +142,9 @@
     "name:zho_x_preferred":[
         "\u8056\u74e6\u5167\u5854"
     ],
+    "name:zho_x_variant":[
+        "\u5723\u4f0a\u683c\u7eb3\u897f\u5965-\u5fb7\u8428\u74e6\u5185\u5854"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
     "ne:ADM0_A3":"DOM",
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":890451705,
-    "wof:lastmodified":1636501591,
+    "wof:lastmodified":1690875464,
     "wof:name":"Sabaneta",
     "wof:parent_id":1108721263,
     "wof:placetype":"locality",

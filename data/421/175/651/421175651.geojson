@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Duverg\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Duverg\u00e9"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ita_x_preferred":[
         "Duverg\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30d9\u30eb\u30d8"
     ],
     "name:nan_x_preferred":[
         "Duverg\u00e9"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421175651,
-    "wof:lastmodified":1566582311,
+    "wof:lastmodified":1690875430,
     "wof:name":"Duverg\u00e9",
     "wof:parent_id":890420145,
     "wof:placetype":"locality",

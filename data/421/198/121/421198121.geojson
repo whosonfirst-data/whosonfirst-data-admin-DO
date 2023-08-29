@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Quisqueya"
+    ],
     "name:ceb_x_preferred":[
         "Quisqueya"
     ],
@@ -30,6 +33,9 @@
         "Quisqueya"
     ],
     "name:nld_x_preferred":[
+        "Quisqueya"
+    ],
+    "name:pol_x_preferred":[
         "Quisqueya"
     ],
     "name:por_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421198121,
-    "wof:lastmodified":1566582311,
+    "wof:lastmodified":1690875430,
     "wof:name":"Quisqueya",
     "wof:parent_id":1108721235,
     "wof:placetype":"locality",

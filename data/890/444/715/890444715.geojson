@@ -22,14 +22,23 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0628\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Neiba"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0987\u09ac\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Neiba"
     ],
     "name:ceb_x_preferred":[
         "Neiba"
     ],
     "name:dan_x_preferred":[
         "Neyba"
+    ],
+    "name:deu_x_preferred":[
+        "Neiba"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b9\u03bc\u03c0\u03b1"
@@ -270,7 +279,7 @@
         }
     ],
     "wof:id":890444715,
-    "wof:lastmodified":1636501589,
+    "wof:lastmodified":1690875448,
     "wof:name":"Neiba",
     "wof:parent_id":890429235,
     "wof:placetype":"locality",

@@ -33,14 +33,26 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "San Juan"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:ben_x_variant":[
         "\u09b8\u09be\u09a8 \u09b9\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "San Juan"
+    ],
     "name:ceb_x_preferred":[
         "Provincia de San Juan"
+    ],
+    "name:ces_x_preferred":[
+        "Provincie San Juan"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith San Juan"
     ],
     "name:dan_x_preferred":[
         "San Juan Province"
@@ -60,6 +72,9 @@
     "name:epo_x_preferred":[
         "Sankta Johao"
     ],
+    "name:eus_x_preferred":[
+        "San Juan probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u062e\u0648\u0627\u0646\u060c \u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
     ],
@@ -70,6 +85,9 @@
         "San Juanin l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
+        "San Juan"
+    ],
+    "name:frr_x_preferred":[
         "San Juan"
     ],
     "name:guj_x_preferred":[
@@ -324,7 +342,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501565,
+    "wof:lastmodified":1690875422,
     "wof:name":"San Juan",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

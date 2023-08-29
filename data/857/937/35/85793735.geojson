@@ -30,8 +30,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Ensanche La F\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Ensanche La F\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Ensanche la Fe"
     ],
     "name:nld_x_preferred":[
         "Ensanche La F\u00e9"
@@ -128,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582347710,
+    "wof:lastmodified":1690875413,
     "wof:name":"Ensanche la Fe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

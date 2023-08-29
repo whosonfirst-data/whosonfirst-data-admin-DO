@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Licey al Medio"
+    ],
     "name:ceb_x_preferred":[
         "Licey al Medio"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202749,
-    "wof:lastmodified":1566582308,
+    "wof:lastmodified":1690875427,
     "wof:name":"Licey al Medio",
     "wof:parent_id":890429261,
     "wof:placetype":"locality",

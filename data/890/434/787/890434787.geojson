@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Majagual"
     ],
+    "name:spa_x_preferred":[
+        "Majagual"
+    ],
     "name:swe_x_preferred":[
         "Majagual"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890434787,
-    "wof:lastmodified":1566582360,
+    "wof:lastmodified":1690875467,
     "wof:name":"Majagual",
     "wof:parent_id":890429217,
     "wof:placetype":"locality",

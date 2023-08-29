@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol La Romana"
+    ],
     "name:deu_x_preferred":[
         "Flughafen La Romana"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043b\u043e \u0440\u0443\u043c\u043e\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041b\u0430-\u0420\u043e\u043c\u0430\u043d\u0430"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u99ac\u7d0d(\u591a\u660e\u5c3c\u52a0)"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":102544035,
-    "wof:lastmodified":1631750550,
+    "wof:lastmodified":1690875412,
     "wof:name":"La Romana Airport",
     "wof:parent_id":85632713,
     "wof:placetype":"campus",

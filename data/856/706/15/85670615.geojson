@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "La Vega"
     ],
+    "name:cym_x_preferred":[
+        "Talaith La Vega"
+    ],
     "name:dan_x_preferred":[
         "La Vega Province"
     ],
@@ -57,6 +60,9 @@
     "name:eng_x_variant":[
         "La Vega Province"
     ],
+    "name:eus_x_preferred":[
+        "La Vega probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627 \u0648\u06af\u0627"
     ],
@@ -64,6 +70,9 @@
         "La Vegan provinssi"
     ],
     "name:fra_x_preferred":[
+        "La Vega"
+    ],
+    "name:frr_x_preferred":[
         "La Vega"
     ],
     "name:guj_x_preferred":[
@@ -154,6 +163,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe  \u0bb5\u0bc7\u0b95\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb2\u0bbe \u0bb5\u0bc7\u0b95\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c35\u0c47\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -184,8 +196,14 @@
     "name:war_x_preferred":[
         "La Vega"
     ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u7ef4\u52a0\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u7dad\u52a0\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u8d1d\u52a0\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -310,7 +328,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501563,
+    "wof:lastmodified":1690875418,
     "wof:name":"La Vega",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Maizal"
     ],
+    "name:spa_x_preferred":[
+        "Maizal"
+    ],
     "name:swe_x_preferred":[
         "Maizal"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421174227,
-    "wof:lastmodified":1566582309,
+    "wof:lastmodified":1690875427,
     "wof:name":"Maizal",
     "wof:parent_id":890429289,
     "wof:placetype":"locality",

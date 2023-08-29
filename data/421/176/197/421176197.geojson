@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Padre Las Casas"
+    ],
     "name:ceb_x_preferred":[
         "Padre Las Casas"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0434\u0440\u0435 \u041b\u043e\u0441 \u041a\u0430\u0441\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Padre Las Casas"
     ],
     "name:und_x_variant":[
         "Villa de Padre Las Casas"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421176197,
-    "wof:lastmodified":1566582318,
+    "wof:lastmodified":1690875435,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":890429227,
     "wof:placetype":"locality",

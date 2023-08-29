@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Los R\u00edos"
+    ],
     "name:ceb_x_preferred":[
         "Los R\u00edos"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ita_x_preferred":[
         "Los R\u00edos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b9\u30fb\u30ea\u30aa\u30b9"
     ],
     "name:nan_x_preferred":[
         "Los R\u00edos"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890444735,
-    "wof:lastmodified":1566582336,
+    "wof:lastmodified":1690875450,
     "wof:name":"Los R\u00edos",
     "wof:parent_id":1108721207,
     "wof:placetype":"locality",

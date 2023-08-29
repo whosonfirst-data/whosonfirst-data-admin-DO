@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09c2\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09aa\u09cd\u09b2\u09be\u099f\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Puerto Plata"
+    ],
     "name:ceb_x_preferred":[
         "Puerto Plata"
     ],
@@ -136,6 +139,9 @@
     "name:spa_x_preferred":[
         "San Felipe de Puerto Plata"
     ],
+    "name:spa_x_variant":[
+        "Puerto Plata"
+    ],
     "name:swe_x_preferred":[
         "Puerto Plata"
     ],
@@ -144,6 +150,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb \u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb  \u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c35\u0c47\u0c30\u0c4d\u0c1f\u0c4b \u0c2a\u0c4d\u0c32\u0c3e\u0c1f\u0c3e"
@@ -177,6 +186,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u6590\u5229-\u9280\u6e2f"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u62c9\u5854\u6e2f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
@@ -303,7 +315,7 @@
         }
     ],
     "wof:id":890438783,
-    "wof:lastmodified":1636501589,
+    "wof:lastmodified":1690875444,
     "wof:name":"Puerto Plata",
     "wof:parent_id":1108721233,
     "wof:placetype":"locality",

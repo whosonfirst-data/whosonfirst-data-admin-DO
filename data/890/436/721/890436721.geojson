@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Mella"
+    ],
     "name:ceb_x_preferred":[
         "Mella"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ita_x_preferred":[
         "Mella"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30b8\u30e3"
     ],
     "name:nan_x_preferred":[
         "Mella"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890436721,
-    "wof:lastmodified":1566582327,
+    "wof:lastmodified":1690875443,
     "wof:name":"Mella",
     "wof:parent_id":1108721209,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-68.4499668799,18.7170086863,-68.4499668799,18.7170086863",
+    "geom:bbox":"-68.449967,18.717009,-68.449967,18.717009",
     "geom:latitude":18.717009,
     "geom:longitude":-68.449967,
     "iso:country":"DO",
@@ -47,6 +47,12 @@
     ],
     "name:spa_x_preferred":[
         "B\u00e1varo"
+    ],
+    "name:vie_x_preferred":[
+        "Bavaro"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u74e6\u8afe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Dominican Republic",
@@ -153,7 +159,7 @@
     },
     "wof:country":"DO",
     "wof:created":1499130769,
-    "wof:geomhash":"8b6e1ead2d4007d85deccd30ab665186",
+    "wof:geomhash":"b758f9a27259698c3467a0af823847aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1141907775,
-    "wof:lastmodified":1566582676,
+    "wof:lastmodified":1690875475,
     "wof:name":"Bavaro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -173,10 +179,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.44996687994359,
-    18.71700868628932,
-    -68.44996687994359,
-    18.71700868628932
+    -68.449967,
+    18.717009,
+    -68.449967,
+    18.717009
 ],
-  "geometry": {"coordinates":[-68.44996687994359,18.71700868628932],"type":"Point"}
+  "geometry": {"coordinates":[-68.449967,18.717009],"type":"Point"}
 }

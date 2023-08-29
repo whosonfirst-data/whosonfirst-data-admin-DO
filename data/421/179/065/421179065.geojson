@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jima Abajo"
+    ],
     "name:ceb_x_preferred":[
         "Jima Abajo"
     ],
     "name:eng_x_preferred":[
         "Jima Abajo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u06cc\u0645\u0627 \u0622\u0628\u0627\u062e\u0648"
     ],
     "name:fra_x_preferred":[
         "Jima Abajo"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421179065,
-    "wof:lastmodified":1566582316,
+    "wof:lastmodified":1690875434,
     "wof:name":"Jima Abajo",
     "wof:parent_id":1108721173,
     "wof:placetype":"locality",

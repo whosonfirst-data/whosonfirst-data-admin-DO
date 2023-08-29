@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "San V\u00edctor Abajo"
     ],
+    "name:ceb_x_variant":[
+        "San V\u00edctor"
+    ],
     "name:eng_x_preferred":[
         "San Victor"
     ],
@@ -37,8 +40,14 @@
     "name:por_x_preferred":[
         "San V\u00edctor"
     ],
+    "name:spa_x_preferred":[
+        "San V\u00edctor"
+    ],
     "name:swe_x_preferred":[
         "San V\u00edctor Abajo"
+    ],
+    "name:swe_x_variant":[
+        "San V\u00edctor"
     ],
     "name:zho_x_preferred":[
         "\u8056\u7dad\u514b\u591a"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":890436719,
-    "wof:lastmodified":1566582327,
+    "wof:lastmodified":1690875443,
     "wof:name":"San V\u00edctor Arriba",
     "wof:parent_id":890429241,
     "wof:placetype":"locality",

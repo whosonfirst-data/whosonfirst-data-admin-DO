@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Cevicos"
+    ],
     "name:ceb_x_preferred":[
         "Cevicos"
     ],
     "name:eng_x_preferred":[
         "Cevicos"
+    ],
+    "name:eng_x_variant":[
+        "Cevicos. Alcalde"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0648\u06cc\u06a9\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "Cevicos"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890434803,
-    "wof:lastmodified":1566582357,
+    "wof:lastmodified":1690875465,
     "wof:name":"Cevicos",
     "wof:parent_id":890420149,
     "wof:placetype":"locality",

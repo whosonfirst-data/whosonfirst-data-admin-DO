@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Imbert"
+    ],
     "name:ceb_x_preferred":[
         "Imbert"
     ],
     "name:eng_x_preferred":[
         "Imbert"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0645\u0628\u0631\u062a"
     ],
     "name:fra_x_preferred":[
         "Imbert"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890444743,
-    "wof:lastmodified":1566582337,
+    "wof:lastmodified":1690875451,
     "wof:name":"Imbert",
     "wof:parent_id":890429273,
     "wof:placetype":"locality",

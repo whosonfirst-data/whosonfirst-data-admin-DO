@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Pizarrete"
     ],
+    "name:spa_x_preferred":[
+        "Pizarrete"
+    ],
     "name:swe_x_preferred":[
         "Pizarrete"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890422237,
-    "wof:lastmodified":1566582321,
+    "wof:lastmodified":1690875438,
     "wof:name":"Pizarrete",
     "wof:parent_id":890429233,
     "wof:placetype":"locality",

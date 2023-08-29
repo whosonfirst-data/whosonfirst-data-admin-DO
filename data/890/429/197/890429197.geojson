@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ast_x_preferred":[
+        "Villa Isabela"
+    ],
     "name:ceb_x_preferred":[
         "Villa Isabela"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890429197,
-    "wof:lastmodified":1627522036,
+    "wof:lastmodified":1690875458,
     "wof:name":"Villa Isabela",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

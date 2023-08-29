@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Baitoa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a\u0648\u0622"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30a4\u30c8\u30a2"
     ],
@@ -35,6 +38,9 @@
         "Baitoa"
     ],
     "name:por_x_preferred":[
+        "Baitoa"
+    ],
+    "name:spa_x_preferred":[
         "Baitoa"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890441869,
-    "wof:lastmodified":1566582321,
+    "wof:lastmodified":1690875439,
     "wof:name":"Baitoa",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",

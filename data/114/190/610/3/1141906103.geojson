@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.1520026048,19.0590030636,-70.1520026048,19.0590030636",
+    "geom:bbox":"-70.152003,19.059003,-70.152003,19.059003",
     "geom:latitude":19.059003,
     "geom:longitude":-70.152003,
     "iso:country":"DO",
@@ -21,13 +21,28 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0648\u064a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u062a\u0648\u064a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Cotu\u00ed"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u099f\u09c1\u0987"
+    ],
+    "name:cat_x_preferred":[
+        "Cotu\u00ed"
     ],
     "name:ceb_x_preferred":[
         "Cotu\u00ed"
     ],
+    "name:ces_x_preferred":[
+        "Cotu\u00ed"
+    ],
     "name:dan_x_preferred":[
+        "Cotu\u00ed"
+    ],
+    "name:deu_x_preferred":[
         "Cotu\u00ed"
     ],
     "name:ell_x_preferred":[
@@ -243,7 +258,7 @@
     },
     "wof:country":"DO",
     "wof:created":1499130540,
-    "wof:geomhash":"f53885cd0edf046671246df4ba7fcff4",
+    "wof:geomhash":"9bac7097a28bc876028f8bcba9b93cea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -254,7 +269,7 @@
         }
     ],
     "wof:id":1141906103,
-    "wof:lastmodified":1566582676,
+    "wof:lastmodified":1690875474,
     "wof:name":"Cotui",
     "wof:parent_id":890420147,
     "wof:placetype":"locality",
@@ -264,10 +279,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.15200260483857,
-    19.05900306355755,
-    -70.15200260483857,
-    19.05900306355755
+    -70.152003,
+    19.059003,
+    -70.152003,
+    19.059003
 ],
-  "geometry": {"coordinates":[-70.15200260483857,19.05900306355755],"type":"Point"}
+  "geometry": {"coordinates":[-70.15200299999999,19.059003],"type":"Point"}
 }

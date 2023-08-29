@@ -33,11 +33,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0625\u0644\u064a\u0627\u0633 \u0628\u064a\u0646\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "El\u00edas Pi\u00f1a"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09b2\u09bf\u09af\u09bc\u09be\u09b8 \u09aa\u09bf\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "El\u00edas Pi\u00f1a"
+    ],
     "name:ceb_x_preferred":[
         "Provincia de El\u00edas Pi\u00f1a"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith El\u00edas Pi\u00f1a"
     ],
     "name:dan_x_preferred":[
         "El\u00edas Pi\u00f1a Province"
@@ -64,6 +73,9 @@
         "El\u00edas Pi\u00f1a"
     ],
     "name:fra_x_preferred":[
+        "El\u00edas Pi\u00f1a"
+    ],
+    "name:frr_x_preferred":[
         "El\u00edas Pi\u00f1a"
     ],
     "name:guj_x_preferred":[
@@ -183,6 +195,9 @@
     "name:war_x_preferred":[
         "El\u00edas Pi\u00f1a"
     ],
+    "name:wuu_x_preferred":[
+        "\u827e\u5229\u65af\u76ae\u4e9a\u7701"
+    ],
     "name:zho_cn_x_preferred":[
         "\u62c9\u57c3\u65af\u7279\u96f7\u83b1\u5854"
     ],
@@ -191,6 +206,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u5229\u65af\u76ae\u4e9e\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u5229\u4e9a\u65af\u00b7\u76ae\u5c3c\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -312,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501562,
+    "wof:lastmodified":1690875417,
     "wof:name":"La Estrelleta",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

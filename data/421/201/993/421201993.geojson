@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Valle"
+    ],
     "name:ceb_x_preferred":[
         "El Valle"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "El Valle"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0648\u0627\u0644\u0647"
     ],
     "name:fra_x_preferred":[
         "El Valle"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421201993,
-    "wof:lastmodified":1566582314,
+    "wof:lastmodified":1690875432,
     "wof:name":"El Valle",
     "wof:parent_id":1108721253,
     "wof:placetype":"locality",

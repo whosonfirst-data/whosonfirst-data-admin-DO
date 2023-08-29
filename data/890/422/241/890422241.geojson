@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Pescader\u00eda"
     ],
+    "name:spa_x_preferred":[
+        "Pescader\u00eda"
+    ],
     "name:swe_x_preferred":[
         "Pescader\u00eda"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890422241,
-    "wof:lastmodified":1566582320,
+    "wof:lastmodified":1690875437,
     "wof:name":"Pescader\u00eda",
     "wof:parent_id":1108721155,
     "wof:placetype":"locality",

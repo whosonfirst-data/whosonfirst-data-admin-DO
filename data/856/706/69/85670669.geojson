@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0627 \u0623\u0644\u062a\u0627\u063a\u0631\u0627\u0633\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "La Altagracia"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u0986\u09b2\u09cd\u099f\u09cd\u09b0\u09be\u0997\u09be\u09b0\u09cd\u09b8\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de La Altagracia"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith La Altagracia"
     ],
     "name:dan_x_preferred":[
         "La Altagracia"
@@ -54,6 +60,9 @@
     "name:eng_x_variant":[
         "La Altagracia Province"
     ],
+    "name:eus_x_preferred":[
+        "La Altagracia probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627 \u0622\u0644\u062a\u0627\u06af\u0631\u0627\u0633\u06cc\u0627"
     ],
@@ -61,6 +70,9 @@
         "La Altagracian provinssi"
     ],
     "name:fra_x_preferred":[
+        "La Altagracia"
+    ],
+    "name:frr_x_preferred":[
         "La Altagracia"
     ],
     "name:guj_x_preferred":[
@@ -77,6 +89,9 @@
     ],
     "name:hun_x_preferred":[
         "La Altagracia"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u0531\u056c\u057f\u0561\u0563\u0580\u0561\u057d\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Provinsi La Altagracia"
@@ -171,8 +186,14 @@
     "name:war_x_preferred":[
         "La Altagracia"
     ],
+    "name:wuu_x_preferred":[
+        "\u5723\u6bcd\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u6bcd\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u963f\u5c14\u5854\u683c\u62c9\u897f\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DOM",
@@ -297,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636501561,
+    "wof:lastmodified":1690875414,
     "wof:name":"La Altagracia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

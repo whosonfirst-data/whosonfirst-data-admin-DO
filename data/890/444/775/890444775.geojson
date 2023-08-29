@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "El Llano"
+    ],
+    "name:ceb_x_preferred":[
+        "El Llano"
+    ],
     "name:eng_x_preferred":[
         "El Llano"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0644\u0627\u0646\u0648"
+    ],
     "name:ita_x_preferred":[
         "El Llano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30b8\u30e3\u30ce"
     ],
     "name:nan_x_preferred":[
         "El Llano"
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":890444775,
-    "wof:lastmodified":1566582337,
+    "wof:lastmodified":1690875452,
     "wof:name":"El Llano",
     "wof:parent_id":890420137,
     "wof:placetype":"locality",

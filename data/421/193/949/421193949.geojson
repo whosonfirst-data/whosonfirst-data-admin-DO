@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Villa Altagracia"
+    ],
     "name:ceb_x_preferred":[
         "Villa Altagracia"
     ],
@@ -26,6 +29,12 @@
     "name:eng_x_preferred":[
         "Villa Altagracia"
     ],
+    "name:fra_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:gle_x_preferred":[
+        "Villa Altagracia"
+    ],
     "name:ita_x_preferred":[
         "Villa Altagracia"
     ],
@@ -33,6 +42,9 @@
         "\u30d3\u30fc\u30b8\u30e3\u30fb\u30a2\u30eb\u30bf\u30b0\u30e9\u30b7\u30a2"
     ],
     "name:nan_x_preferred":[
+        "Villa Altagracia"
+    ],
+    "name:pol_x_preferred":[
         "Villa Altagracia"
     ],
     "name:por_x_preferred":[
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421193949,
-    "wof:lastmodified":1566582307,
+    "wof:lastmodified":1690875427,
     "wof:name":"Villa Altagracia",
     "wof:parent_id":890429199,
     "wof:placetype":"locality",

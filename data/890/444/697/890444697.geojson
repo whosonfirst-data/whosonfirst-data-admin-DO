@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Santa Cruz del Seibo"
+    ],
     "name:eng_x_preferred":[
         "Santa Cruz del Seibo"
     ],
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":890444697,
-    "wof:lastmodified":1566582337,
+    "wof:lastmodified":1690875451,
     "wof:name":"Santa Cruz de El Seibo",
     "wof:parent_id":1108721147,
     "wof:placetype":"locality",

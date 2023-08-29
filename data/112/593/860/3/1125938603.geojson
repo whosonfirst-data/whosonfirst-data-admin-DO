@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Galv\u00e1n"
+    ],
     "name:ceb_x_preferred":[
         "Galv\u00e1n"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "Galv\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30eb\u30d0\u30f3"
     ],
     "name:nan_x_preferred":[
         "Galv\u00e1n"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125938603,
-    "wof:lastmodified":1566582361,
+    "wof:lastmodified":1690875469,
     "wof:name":"Galv\u00e1n",
     "wof:parent_id":1108721157,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pimentel"
+    ],
     "name:ceb_x_preferred":[
         "Pimentel"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421169221,
-    "wof:lastmodified":1636501588,
+    "wof:lastmodified":1690875427,
     "wof:name":"Pimentel",
     "wof:parent_id":890455303,
     "wof:placetype":"locality",

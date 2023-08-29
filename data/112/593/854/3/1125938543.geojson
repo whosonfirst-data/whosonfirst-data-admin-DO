@@ -22,7 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Las Salinas"
+    ],
+    "name:cat_x_preferred":[
+        "Las Salinas"
+    ],
     "name:ceb_x_preferred":[
+        "Las Salinas"
+    ],
+    "name:deu_x_preferred":[
         "Las Salinas"
     ],
     "name:eng_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125938543,
-    "wof:lastmodified":1566582362,
+    "wof:lastmodified":1690875470,
     "wof:name":"Las Salinas",
     "wof:parent_id":1108721193,
     "wof:placetype":"locality",

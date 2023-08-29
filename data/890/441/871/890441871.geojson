@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Arroyo Salado"
     ],
+    "name:spa_x_preferred":[
+        "Arroyo Salado"
+    ],
     "name:swe_x_preferred":[
         "Arroyo Salado"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890441871,
-    "wof:lastmodified":1566582322,
+    "wof:lastmodified":1690875439,
     "wof:name":"Arroyo Salado",
     "wof:parent_id":890429259,
     "wof:placetype":"locality",

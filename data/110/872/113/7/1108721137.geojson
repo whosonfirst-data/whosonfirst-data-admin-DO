@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001404,
-    "geom:area_square_m":16380221.892367,
+    "geom:area_square_m":16380209.030735,
     "geom:bbox":"-70.495812,19.307325,-70.452262,19.375823",
     "geom:latitude":19.343155,
     "geom:longitude":-70.474763,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Cayetano Germos\u00e9n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.343151,
     "lbl:longitude":-70.474433,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Cayetano Germos\u00e9n"
+    ],
+    "name:eng_x_preferred":[
         "Cayetano Germos\u00e9n"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133630,
-    "wof:geomhash":"849511cd19066e9e406989c1516e2535",
+    "wof:geomhash":"f5a7578741c6ad93955c676136274cfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721137,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Cayetano Germos\u00e9n",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

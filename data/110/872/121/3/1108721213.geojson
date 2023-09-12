@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054312,
-    "geom:area_square_m":635817232.099416,
+    "geom:area_square_m":635817289.445956,
     "geom:bbox":"-69.99387,18.579806,-69.715,18.945",
     "geom:latitude":18.78149,
     "geom:longitude":-69.836224,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Monte Plata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.78368,
     "lbl:longitude":-69.826707,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03cc\u03bd\u03c4\u03b5 \u03a0\u03bb\u03ac\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Plata"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0647 \u067e\u0644\u0627\u062a\u0627"
@@ -91,7 +100,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133682,
-    "wof:geomhash":"34946372e8c83f8e5010dd3218509d5e",
+    "wof:geomhash":"f53544b5d4c627201ff09659b6e965a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1108721213,
-    "wof:lastmodified":1636501581,
+    "wof:lastmodified":1694498107,
     "wof:name":"Monte Plata",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

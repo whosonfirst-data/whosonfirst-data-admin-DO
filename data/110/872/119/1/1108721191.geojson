@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007801,
-    "geom:area_square_m":91094364.359555,
+    "geom:area_square_m":91094444.665196,
     "geom:bbox":"-70.280022,19.145168,-70.165,19.256244",
     "geom:latitude":19.201465,
     "geom:longitude":-70.223395,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Las Gu\u00e1ranas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.197804,
     "lbl:longitude":-70.228051,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Las Gu\u00e1ranas"
+    ],
+    "name:eng_x_preferred":[
         "Las Gu\u00e1ranas"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133667,
-    "wof:geomhash":"93763b3dcafc8db274615ba6029e6e0b",
+    "wof:geomhash":"a63252317bc61dee8eb66d4c596fe7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721191,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Las Gu\u00e1ranas",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

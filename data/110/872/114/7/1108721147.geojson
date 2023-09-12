@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116094,
-    "geom:area_square_m":1359150899.495973,
+    "geom:area_square_m":1359151081.983677,
     "geom:bbox":"-69.325648,18.52473,-68.805893,18.955",
     "geom:latitude":18.774068,
     "geom:longitude":-69.065943,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "El Seibo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.747717,
     "lbl:longitude":-69.06989,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u03a3\u03ad\u03ca\u03bc\u03c0\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "El Seibo"
     ],
     "name:fra_x_preferred":[
         "El Seibo"
@@ -70,7 +79,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133639,
-    "wof:geomhash":"0c0928843af8ce3fd58d2d38a0075e0d",
+    "wof:geomhash":"b513868a2392dcf6dcb72f8664215ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108721147,
-    "wof:lastmodified":1636501582,
+    "wof:lastmodified":1694498108,
     "wof:name":"El Seibo",
     "wof:parent_id":85670663,
     "wof:placetype":"county",

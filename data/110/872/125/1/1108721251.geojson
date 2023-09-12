@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015421,
-    "geom:area_square_m":179810015.477194,
+    "geom:area_square_m":179810035.906154,
     "geom:bbox":"-70.459947,19.335,-70.33588,19.555309",
     "geom:latitude":19.437704,
     "geom:longitude":-70.400061,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Salcedo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.446463,
     "lbl:longitude":-70.389725,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Salcedo"
     ],
     "name:deu_x_preferred":[
+        "Salcedo"
+    ],
+    "name:eng_x_preferred":[
         "Salcedo"
     ],
     "name:eus_x_preferred":[
@@ -94,7 +103,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133712,
-    "wof:geomhash":"ffda46e56c7686276afeef5d2763bf13",
+    "wof:geomhash":"86e059f1faf462c026006ba2447bdf37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1108721251,
-    "wof:lastmodified":1636501581,
+    "wof:lastmodified":1694498108,
     "wof:name":"Salcedo",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

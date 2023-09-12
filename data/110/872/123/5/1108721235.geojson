@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012825,
-    "geom:area_square_m":150357948.785395,
+    "geom:area_square_m":150357948.78538,
     "geom:bbox":"-69.5007835203,18.4755923301,-69.3360001892,18.6112448699",
     "geom:latitude":18.538981,
     "geom:longitude":-69.420516,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Quisqueya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.539179,
     "lbl:longitude":-69.427369,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Quisqueya"
     ],
     "name:deu_x_preferred":[
+        "Quisqueya"
+    ],
+    "name:eng_x_preferred":[
         "Quisqueya"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133703,
-    "wof:geomhash":"f55f32c95a5a47d08d98d3e37009ebe1",
+    "wof:geomhash":"6cae7deb9098cf6648b4c64ca986e9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721235,
-    "wof:lastmodified":1566582164,
+    "wof:lastmodified":1694497828,
     "wof:name":"Quisqueya",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

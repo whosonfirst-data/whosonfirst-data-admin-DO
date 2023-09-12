@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007142,
-    "geom:area_square_m":83553215.312392,
+    "geom:area_square_m":83553153.688739,
     "geom:bbox":"-70.355,18.825,-70.225686,18.946693",
     "geom:latitude":18.89363,
     "geom:longitude":-70.280093,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":17957,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Maim\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.900308,
     "lbl:longitude":-70.275696,
     "lbl:max_zoom":10.0,
@@ -74,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6722cebe08383b305f74a5b80bc20e8b",
+    "wof:geomhash":"696f4b60a7027e0b8bc1bfc1cab6e20e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890429251,
-    "wof:lastmodified":1690875456,
+    "wof:lastmodified":1694498048,
     "wof:name":"Maim\u00f3n",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

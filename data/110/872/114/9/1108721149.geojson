@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018965,
-    "geom:area_square_m":222344128.905224,
+    "geom:area_square_m":222344323.751251,
     "geom:bbox":"-70.736433,18.419607,-70.505,18.672936",
     "geom:latitude":18.535884,
     "geom:longitude":-70.650726,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Esteban\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.517506,
     "lbl:longitude":-70.648968,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Esteban\u00eda"
+    ],
+    "name:eng_x_preferred":[
         "Esteban\u00eda"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133641,
-    "wof:geomhash":"a81ae26ca0be3f71a3c5a81ce54debd3",
+    "wof:geomhash":"a37a3da73223e5b07f6b37a5f44e4471",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721149,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Esteban\u00eda",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

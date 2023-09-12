@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05503,
-    "geom:area_square_m":644428452.540683,
+    "geom:area_square_m":644427943.79221,
     "geom:bbox":"-69.455997,18.525,-69.205182,18.886627",
     "geom:latitude":18.72928,
     "geom:longitude":-69.333558,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Hato Mayor Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.734918,
     "lbl:longitude":-69.323457,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Hato Mayor"
+    ],
+    "name:eng_x_preferred":[
         "Hato Mayor"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133651,
-    "wof:geomhash":"b56b7ee0efd5eb97fbb3b48961e43e12",
+    "wof:geomhash":"e77147f9aa23b16d19aa96462f388955",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721165,
-    "wof:lastmodified":1636501579,
+    "wof:lastmodified":1694498107,
     "wof:name":"Hato Mayor",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

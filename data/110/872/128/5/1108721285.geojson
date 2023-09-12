@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006034,
-    "geom:area_square_m":70337027.364304,
+    "geom:area_square_m":70336912.437142,
     "geom:bbox":"-70.644969,19.435,-70.545,19.545689",
     "geom:latitude":19.499108,
     "geom:longitude":-70.597525,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Tamboril Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.498335,
     "lbl:longitude":-70.605856,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Tamboril"
+    ],
+    "name:eng_x_preferred":[
         "Tamboril"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133731,
-    "wof:geomhash":"c31f5cf5104e98437aa6b82f5ed06870",
+    "wof:geomhash":"c7080d7097bbd3f1d9d37d9d4485d483",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721285,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694498076,
     "wof:name":"Tamboril",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

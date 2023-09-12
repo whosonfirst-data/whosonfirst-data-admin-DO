@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040105,
-    "geom:area_square_m":468162548.790813,
+    "geom:area_square_m":468162900.214857,
     "geom:bbox":"-70.914799,19.095,-70.585359,19.433483",
     "geom:latitude":19.256467,
     "geom:longitude":-70.776778,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":15988,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "J\u00e1nico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.243848,
     "lbl:longitude":-70.78335,
     "lbl:max_zoom":10.0,
@@ -95,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bd15899582d262a85d1fcb3e2ad6b03",
+    "wof:geomhash":"649c6e4927022bd2b704a47193a3f65a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890429271,
-    "wof:lastmodified":1690875459,
+    "wof:lastmodified":1694497897,
     "wof:name":"J\u00e1nico",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

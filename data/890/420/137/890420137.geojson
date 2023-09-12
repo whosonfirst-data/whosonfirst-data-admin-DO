@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00848,
-    "geom:area_square_m":99253935.272812,
+    "geom:area_square_m":99253935.272792,
     "geom:bbox":"-71.7300018835,18.743918688,-71.6156554788,18.8840509802",
     "geom:latitude":18.805145,
     "geom:longitude":-71.669325,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":8066,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "El Llano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.78603,
     "lbl:longitude":-71.679722,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "El Llano"
     ],
     "name:deu_x_preferred":[
+        "El Llano"
+    ],
+    "name:eng_x_preferred":[
         "El Llano"
     ],
     "name:fra_x_preferred":[
@@ -76,7 +85,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7412dc33e15fffc43cca9528eded1b56",
+    "wof:geomhash":"d027eaf3a6c718489285c2e6cb9b4b95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890420137,
-    "wof:lastmodified":1582347723,
+    "wof:lastmodified":1694497896,
     "wof:name":"El Llano",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

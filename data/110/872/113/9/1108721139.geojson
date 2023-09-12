@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011091,
-    "geom:area_square_m":129989211.889039,
+    "geom:area_square_m":129989249.510202,
     "geom:bbox":"-69.345,18.524046,-69.175782,18.665",
     "geom:latitude":18.58481,
     "geom:longitude":-69.257071,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Consuelo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.585752,
     "lbl:longitude":-69.255789,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Consuelo"
     ],
     "name:deu_x_preferred":[
+        "Consuelo"
+    ],
+    "name:eng_x_preferred":[
         "Consuelo"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133632,
-    "wof:geomhash":"e6b0f2c31b54329aaf588333e43c7826",
+    "wof:geomhash":"4e1d0c8bf29d187d33515b4fda99df8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721139,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Consuelo",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

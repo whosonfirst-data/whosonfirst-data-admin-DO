@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057913,
-    "geom:area_square_m":677337287.808481,
+    "geom:area_square_m":677337456.415901,
     "geom:bbox":"-70.583996,18.756076,-70.305,19.130757",
     "geom:latitude":18.939501,
     "geom:longitude":-70.457319,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Bonao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.929622,
     "lbl:longitude":-70.459323,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Bonao"
     ],
     "name:deu_x_preferred":[
+        "Bonao"
+    ],
+    "name:eng_x_preferred":[
         "Bonao"
     ],
     "name:fas_x_preferred":[
@@ -91,7 +100,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133622,
-    "wof:geomhash":"7149bf3f5b3af58b6deedceeadbaee48",
+    "wof:geomhash":"c3ed636d77f25eca93bc131e58fe40b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1108721123,
-    "wof:lastmodified":1636501581,
+    "wof:lastmodified":1694498107,
     "wof:name":"Bonao",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

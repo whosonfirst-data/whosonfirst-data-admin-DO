@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017781,
-    "geom:area_square_m":208958554.017657,
+    "geom:area_square_m":208958554.017661,
     "geom:bbox":"-71.426659075,18.034751401,-71.1979208931,18.205",
     "geom:latitude":18.121378,
     "geom:longitude":-71.318198,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Polo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.116048,
     "lbl:longitude":-71.310413,
     "lbl:max_zoom":10.0,
@@ -64,6 +70,9 @@
         "Polo"
     ],
     "name:deu_x_preferred":[
+        "Polo"
+    ],
+    "name:eng_x_preferred":[
         "Polo"
     ],
     "name:epo_x_preferred":[
@@ -235,7 +244,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133699,
-    "wof:geomhash":"fb16f758ff669710d6d4353655948fe1",
+    "wof:geomhash":"cd25dc50ad272646477ccf3795bd8387",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -245,7 +254,7 @@
         }
     ],
     "wof:id":1108721229,
-    "wof:lastmodified":1566582165,
+    "wof:lastmodified":1694497828,
     "wof:name":"Polo",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

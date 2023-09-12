@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03428,
-    "geom:area_square_m":400951089.974709,
+    "geom:area_square_m":400951406.6067,
     "geom:bbox":"-71.125,18.756911,-70.891753,19.066938",
     "geom:latitude":18.932755,
     "geom:longitude":-71.014265,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Bohech\u00edo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.959493,
     "lbl:longitude":-71.016023,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Bohech\u00edo"
+    ],
+    "name:eng_x_preferred":[
         "Bohech\u00edo"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133621,
-    "wof:geomhash":"302b6a4dcb463dd0f97d586c6dfdce6b",
+    "wof:geomhash":"57d0fa5be302fa6611f813cd879cf873",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721121,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Bohech\u00edo",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

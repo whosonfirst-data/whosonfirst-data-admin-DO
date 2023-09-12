@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012427,
-    "geom:area_square_m":145127928.90825,
+    "geom:area_square_m":145127966.970867,
     "geom:bbox":"-69.88451,19.144554,-69.668238,19.23577",
     "geom:latitude":19.191341,
     "geom:longitude":-69.768952,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Arenoso Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.189386,
     "lbl:longitude":-69.747325,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Arenoso"
+    ],
+    "name:eng_x_preferred":[
         "Arenoso"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133612,
-    "wof:geomhash":"d93e3ec4208fcdcd4a779c945300a6e6",
+    "wof:geomhash":"884114c3d1c56eeb3f86f85dcff3a328",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721103,
-    "wof:lastmodified":1627522033,
+    "wof:lastmodified":1694498047,
     "wof:name":"Arenoso",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

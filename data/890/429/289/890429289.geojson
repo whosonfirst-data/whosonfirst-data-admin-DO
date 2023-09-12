@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018846,
-    "geom:area_square_m":219496874.535065,
+    "geom:area_square_m":219496823.951762,
     "geom:bbox":"-71.055,19.544892,-70.876425,19.711959",
     "geom:latitude":19.624063,
     "geom:longitude":-70.971678,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":47785,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Esperanza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.62379,
     "lbl:longitude":-70.97891,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Esperanza"
     ],
     "name:deu_x_preferred":[
+        "Esperanza"
+    ],
+    "name:eng_x_preferred":[
         "Esperanza"
     ],
     "name:epo_x_preferred":[
@@ -136,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff27f2890366982d0a5cef187bc47a23",
+    "wof:geomhash":"99dd3f47f43ea6df56630cfa6d40d213",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":890429289,
-    "wof:lastmodified":1636501590,
+    "wof:lastmodified":1694498108,
     "wof:name":"Esperanza",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

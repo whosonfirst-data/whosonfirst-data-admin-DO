@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019908,
-    "geom:area_square_m":233013045.502952,
+    "geom:area_square_m":233013045.502933,
     "geom:bbox":"-70.4208687736,18.715,-70.2454785836,18.9167939237",
     "geom:latitude":18.811791,
     "geom:longitude":-70.34022,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Piedra Blanca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.81309,
     "lbl:longitude":-70.347455,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Piedra Blanca"
+    ],
+    "name:eng_x_preferred":[
         "Piedra Blanca"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133698,
-    "wof:geomhash":"f8841ff8fb08ec614e9ce652ba6171db",
+    "wof:geomhash":"33c947649087d6f7c41350873afff504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721227,
-    "wof:lastmodified":1566582165,
+    "wof:lastmodified":1694497828,
     "wof:name":"Piedra Blanca",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

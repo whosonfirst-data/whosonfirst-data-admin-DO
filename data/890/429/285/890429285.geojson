@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032216,
-    "geom:area_square_m":375280174.939257,
+    "geom:area_square_m":375280583.904508,
     "geom:bbox":"-70.409294,19.515257,-70.084928,19.704338",
     "geom:latitude":19.596234,
     "geom:longitude":-70.268298,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":19741,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Gaspar Hern\u00e1ndez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.589966,
     "lbl:longitude":-70.257198,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"91a4d022ff71aa73befdc914a95dd6ae",
+    "wof:geomhash":"ed0c4acd7146f59bff3d39964fad6bea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429285,
-    "wof:lastmodified":1690875459,
+    "wof:lastmodified":1694497896,
     "wof:name":"Gaspar Hern\u00e1ndez",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

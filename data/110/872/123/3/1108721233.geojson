@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043559,
-    "geom:area_square_m":507037215.57155,
+    "geom:area_square_m":507036841.935059,
     "geom:bbox":"-70.885,19.515,-70.509322,19.908667",
     "geom:latitude":19.715243,
     "geom:longitude":-70.69263,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Plata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.727045,
     "lbl:longitude":-70.695436,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Puerto Plata"
+    ],
+    "name:eng_x_preferred":[
         "Puerto Plata"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133702,
-    "wof:geomhash":"2dedf8f81aa597ba50350fc323ef3356",
+    "wof:geomhash":"79e01a337f076a26d85e64bda92c92d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721233,
-    "wof:lastmodified":1636501581,
+    "wof:lastmodified":1694498108,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035844,
-    "geom:area_square_m":418414725.421767,
+    "geom:area_square_m":418415050.353733,
     "geom:bbox":"-69.489948,19.179611,-69.150475,19.365417",
     "geom:latitude":19.257754,
     "geom:longitude":-69.329293,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Saman\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.246356,
     "lbl:longitude":-69.289437,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Saman\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Santa B\u00e1rbara de Saman\u00e1"
     ],
@@ -43,7 +52,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133713,
-    "wof:geomhash":"ac6ef77a1b3fa5fa728a38f12fa41f58",
+    "wof:geomhash":"1c46d716e05281e0611bb2bbe09b12aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108721253,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694498075,
     "wof:name":"Saman\u00e1",
     "wof:parent_id":85670653,
     "wof:placetype":"county",

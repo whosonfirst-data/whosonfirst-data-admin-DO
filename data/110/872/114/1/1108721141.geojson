@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01354,
-    "geom:area_square_m":158926351.671451,
+    "geom:area_square_m":158926351.671366,
     "geom:bbox":"-71.3647974175,18.263133473,-71.2115304581,18.4169990129",
     "geom:latitude":18.338784,
     "geom:longitude":-71.298262,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Crist\u00f3bal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.335549,
     "lbl:longitude":-71.303487,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Crist\u00f3bal"
     ],
     "name:deu_x_preferred":[
+        "Crist\u00f3bal"
+    ],
+    "name:eng_x_preferred":[
         "Crist\u00f3bal"
     ],
     "name:fra_x_preferred":[
@@ -70,7 +79,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133634,
-    "wof:geomhash":"0501531137dc8422cfdd520e3ce7c7ee",
+    "wof:geomhash":"61c6e5c7401476c5f1052f27c05750d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108721141,
-    "wof:lastmodified":1566582167,
+    "wof:lastmodified":1694497828,
     "wof:name":"Crist\u00f3bal",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

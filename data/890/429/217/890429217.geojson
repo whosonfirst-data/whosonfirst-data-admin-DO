@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045507,
-    "geom:area_square_m":532092882.098665,
+    "geom:area_square_m":532092861.93664,
     "geom:bbox":"-69.930843,18.844945,-69.624442,19.100953",
     "geom:latitude":18.986229,
     "geom:longitude":-69.792659,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":24773,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Sabana Grande De Boy\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.007743,
     "lbl:longitude":-69.795065,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sabana Grande De Boy\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Sabana Grande de Boy\u00e1"
     ],
@@ -68,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6fcb5718dd7d43bf040e74bbd977308",
+    "wof:geomhash":"cd5f95c5ccc4b9941169860840144399",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":890429217,
-    "wof:lastmodified":1628266709,
+    "wof:lastmodified":1694498075,
     "wof:name":"Sabana Grande De Boy\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03564,
-    "geom:area_square_m":418121988.872024,
+    "geom:area_square_m":418121729.636293,
     "geom:bbox":"-70.976647,18.245388,-70.679829,18.574775",
     "geom:latitude":18.419462,
     "geom:longitude":-70.81054,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Azua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.507546,
     "lbl:longitude":-70.746651,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Azua"
+    ],
+    "name:eng_x_preferred":[
         "Azua"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133613,
-    "wof:geomhash":"d24afea064ec0d77cf6605205ff0d0d4",
+    "wof:geomhash":"804002d4f8eb185d7b6f1818b1b768ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721105,
-    "wof:lastmodified":1636501581,
+    "wof:lastmodified":1694498107,
     "wof:name":"Azua",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

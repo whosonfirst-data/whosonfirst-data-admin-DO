@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148771,
-    "geom:area_square_m":1740468715.77413,
+    "geom:area_square_m":1740468769.890711,
     "geom:bbox":"-71.465,18.615041,-71.038077,19.177912",
     "geom:latitude":18.893047,
     "geom:longitude":-71.240922,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "San Juan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.048406,
     "lbl:longitude":-71.23901,
     "lbl:max_zoom":10.0,
@@ -65,6 +71,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan"
     ],
     "name:eus_x_preferred":[
         "San Juan"
@@ -205,7 +214,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133721,
-    "wof:geomhash":"2dcbfede7fa4ce8ee50a1a2027780cef",
+    "wof:geomhash":"cb43c451158ce6271fb22bb367f1790b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -215,7 +224,7 @@
         }
     ],
     "wof:id":1108721267,
-    "wof:lastmodified":1636501581,
+    "wof:lastmodified":1694498108,
     "wof:name":"San Juan",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

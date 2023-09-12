@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023835,
-    "geom:area_square_m":279501586.077614,
+    "geom:area_square_m":279501609.940283,
     "geom:bbox":"-71.04355,18.347449,-70.817329,18.615966",
     "geom:latitude":18.49535,
     "geom:longitude":-70.915242,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "T\u00e1bara Arriba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.569693,
     "lbl:longitude":-70.869777,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "T\u00e1bara Arriba"
+    ],
+    "name:eng_x_preferred":[
         "T\u00e1bara Arriba"
     ],
     "name:fas_x_preferred":[
@@ -67,7 +76,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133733,
-    "wof:geomhash":"ba76722206ae639a1b2f3c28d5e6201b",
+    "wof:geomhash":"5c32c4f22f3a23c1b6b9ad12453c2234",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108721287,
-    "wof:lastmodified":1627522036,
+    "wof:lastmodified":1694498048,
     "wof:name":"T\u00e1bara Arriba",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

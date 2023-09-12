@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037495,
-    "geom:area_square_m":438490869.023479,
+    "geom:area_square_m":438490634.791326,
     "geom:bbox":"-69.187586,18.885,-68.782895,19.043751",
     "geom:latitude":18.956036,
     "geom:longitude":-68.987091,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":20530,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Miches Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.966022,
     "lbl:longitude":-68.95638,
     "lbl:max_zoom":10.0,
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34951e09f371924ff92150f28d86942f",
+    "wof:geomhash":"3fc540491797d43de1559a2bd6a04872",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890429243,
-    "wof:lastmodified":1690875454,
+    "wof:lastmodified":1694497896,
     "wof:name":"Miches",
     "wof:parent_id":85670663,
     "wof:placetype":"county",

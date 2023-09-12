@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008672,
-    "geom:area_square_m":101042945.110259,
+    "geom:area_square_m":101042826.228438,
     "geom:bbox":"-70.829125,19.496663,-70.73365,19.633598",
     "geom:latitude":19.56339,
     "geom:longitude":-70.786889,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Villa Gonz\u00e1lez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.563755,
     "lbl:longitude":-70.78598,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Villa Gonz\u00e1lez"
+    ],
+    "name:eng_x_preferred":[
         "Villa Gonz\u00e1lez"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133735,
-    "wof:geomhash":"a54504d3104e21651b577a6931f28dde",
+    "wof:geomhash":"2451cad9a808a6e4b5db4d70e1eb9f02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721289,
-    "wof:lastmodified":1627522036,
+    "wof:lastmodified":1694498048,
     "wof:name":"Villa Gonz\u00e1lez",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

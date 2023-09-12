@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033227,
-    "geom:area_square_m":390057104.025175,
+    "geom:area_square_m":390057104.025231,
     "geom:bbox":"-71.5357317494,18.135,-71.3455533981,18.4546545961",
     "geom:latitude":18.309957,
     "geom:longitude":-71.444367,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Mella Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.321782,
     "lbl:longitude":-71.444389,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Mella"
     ],
     "name:deu_x_preferred":[
+        "Mella"
+    ],
+    "name:eng_x_preferred":[
         "Mella"
     ],
     "name:fra_x_preferred":[
@@ -70,7 +79,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133678,
-    "wof:geomhash":"62cd6a4b8a9ec853b9bb610c00ce7810",
+    "wof:geomhash":"8906a34f759ac9e7426f8f9437ffbc45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108721209,
-    "wof:lastmodified":1566582155,
+    "wof:lastmodified":1694497828,
     "wof:name":"Mella",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

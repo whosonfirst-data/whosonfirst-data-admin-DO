@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007833,
-    "geom:area_square_m":91860163.013182,
+    "geom:area_square_m":91860028.731539,
     "geom:bbox":"-69.999712,18.423073,-69.878789,18.544211",
     "geom:latitude":18.483467,
     "geom:longitude":-69.942434,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo De Guzm\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.48239,
     "lbl:longitude":-69.938277,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Santo Domingo De Guzm\u00e1n"
+    ],
     "name:fra_x_preferred":[
         "Saint-Domingue"
     ],
@@ -43,7 +52,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133725,
-    "wof:geomhash":"2bf22af5b907d28f5d666dd06c8f2512",
+    "wof:geomhash":"d584d00b886e1a547d2f789714c477e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108721273,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694498075,
     "wof:name":"Santo Domingo De Guzm\u00e1n",
     "wof:parent_id":85670659,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004938,
-    "geom:area_square_m":57490955.245205,
+    "geom:area_square_m":57491081.49884,
     "geom:bbox":"-70.965,19.653868,-70.883988,19.745",
     "geom:latitude":19.698836,
     "geom:longitude":-70.92273,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Guananico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.700081,
     "lbl:longitude":-70.921959,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Guananico"
+    ],
+    "name:eng_x_preferred":[
         "Guananico"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133646,
-    "wof:geomhash":"253365e4a61f65992e8e2a4c93b43bbb",
+    "wof:geomhash":"6c5378a2320a2292e3b6831621a7acc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721159,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Guananico",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

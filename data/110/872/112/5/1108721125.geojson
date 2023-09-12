@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022345,
-    "geom:area_square_m":261197740.042067,
+    "geom:area_square_m":261197720.350243,
     "geom:bbox":"-71.808203,18.943327,-71.505,19.094661",
     "geom:latitude":19.028425,
     "geom:longitude":-71.641202,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "B\u00e1nica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.026829,
     "lbl:longitude":-71.630856,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "B\u00e1nica"
+    ],
+    "name:eng_x_preferred":[
         "B\u00e1nica"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133624,
-    "wof:geomhash":"394bce05b8137b9e8788043f76717ca5",
+    "wof:geomhash":"760d5c0a45e9e2cc28f26633161ad74e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721125,
-    "wof:lastmodified":1627522033,
+    "wof:lastmodified":1694498047,
     "wof:name":"B\u00e1nica",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

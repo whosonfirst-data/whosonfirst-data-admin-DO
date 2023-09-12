@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037371,
-    "geom:area_square_m":437541927.683085,
+    "geom:area_square_m":437541793.261111,
     "geom:bbox":"-70.248091,18.664497,-69.92369,18.873677",
     "geom:latitude":18.765431,
     "geom:longitude":-70.07904,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":38094,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Yamas\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.738084,
     "lbl:longitude":-70.027449,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8cf469ef5288d274e7137c5878c1726",
+    "wof:geomhash":"cb8e1b9ec71fec8bd96b818f50216af3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429183,
-    "wof:lastmodified":1690875461,
+    "wof:lastmodified":1694498048,
     "wof:name":"Yamas\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015036,
-    "geom:area_square_m":176307773.488062,
+    "geom:area_square_m":176307773.488108,
     "geom:bbox":"-69.8958723844,18.452083588,-69.705,18.595",
     "geom:latitude":18.510733,
     "geom:longitude":-69.795075,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Este Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.511556,
     "lbl:longitude":-69.79644,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Santo Domingo Este"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u06cc\u0646\u06af\u0648 \u0627\u0633\u062a\u0647"
     ],
@@ -73,7 +82,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133726,
-    "wof:geomhash":"f3c9cfe556ac19c741fe1a02df091bd3",
+    "wof:geomhash":"d659f31c82a363cece2562a924384e55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1108721275,
-    "wof:lastmodified":1566582154,
+    "wof:lastmodified":1694497828,
     "wof:name":"Santo Domingo Este",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

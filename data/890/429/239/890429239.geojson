@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011974,
-    "geom:area_square_m":139645412.599598,
+    "geom:area_square_m":139645328.986151,
     "geom:bbox":"-71.272095,19.308671,-71.082378,19.478025",
     "geom:latitude":19.413337,
     "geom:longitude":-71.172484,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":11436,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Monci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.426547,
     "lbl:longitude":-71.164611,
     "lbl:max_zoom":10.0,
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99d6b856b8549249ec0cc27db3301184",
+    "wof:geomhash":"93955ea652c7d57d8049d26a90aea8d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890429239,
-    "wof:lastmodified":1690875460,
+    "wof:lastmodified":1694498048,
     "wof:name":"Monci\u00f3n",
     "wof:parent_id":85670543,
     "wof:placetype":"county",

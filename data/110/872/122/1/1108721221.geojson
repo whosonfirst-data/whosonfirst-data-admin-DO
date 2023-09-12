@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047119,
-    "geom:area_square_m":550332304.681097,
+    "geom:area_square_m":550332304.681141,
     "geom:bbox":"-71.706433,19.0635472886,-71.3240375543,19.2808961315",
     "geom:latitude":19.167587,
     "geom:longitude":-71.515963,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Pedro Santana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.176619,
     "lbl:longitude":-71.534792,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Pedro Santana"
     ],
     "name:deu_x_preferred":[
+        "Pedro Santana"
+    ],
+    "name:eng_x_preferred":[
         "Pedro Santana"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +97,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133695,
-    "wof:geomhash":"6d90caf2f997594ee428630e0f051184",
+    "wof:geomhash":"f64c659c9952ea9cde71e413cf046993",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1108721221,
-    "wof:lastmodified":1566582166,
+    "wof:lastmodified":1694497828,
     "wof:name":"Pedro Santana",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

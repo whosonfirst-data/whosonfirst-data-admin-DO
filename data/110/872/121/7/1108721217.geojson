@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094907,
-    "geom:area_square_m":1115698559.81254,
+    "geom:area_square_m":1115698864.718943,
     "geom:bbox":"-71.787545,17.537916,-71.385807,18.294779",
     "geom:latitude":18.063476,
     "geom:longitude":-71.600565,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Pedernales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.092862,
     "lbl:longitude":-71.607036,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03bd\u03c4\u03b5\u03c1\u03bd\u03ac\u03bb\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pedernales"
     ],
     "name:fra_x_preferred":[
         "Pedernales"
@@ -97,7 +106,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133687,
-    "wof:geomhash":"cff77743a8a5672a0d0abba93e9c677e",
+    "wof:geomhash":"3d05ab2010c5d62bf88e0e8f4664a980",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108721217,
-    "wof:lastmodified":1636501580,
+    "wof:lastmodified":1694498107,
     "wof:name":"Pedernales",
     "wof:parent_id":85670605,
     "wof:placetype":"county",

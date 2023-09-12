@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020849,
-    "geom:area_square_m":243734351.374571,
+    "geom:area_square_m":243734320.810303,
     "geom:bbox":"-70.053052,18.88454,-69.899125,19.124727",
     "geom:latitude":19.014028,
     "geom:longitude":-69.973224,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":9188,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Cevicos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.026509,
     "lbl:longitude":-69.978473,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f92a98e8ed4f98ac9ffe336ecdd46e7",
+    "wof:geomhash":"d76a47393d7e511da1f35763de33699d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890420149,
-    "wof:lastmodified":1690875463,
+    "wof:lastmodified":1694497896,
     "wof:name":"Cevicos",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

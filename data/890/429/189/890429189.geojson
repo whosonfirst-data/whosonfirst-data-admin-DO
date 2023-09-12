@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007741,
-    "geom:area_square_m":90345892.545041,
+    "geom:area_square_m":90345821.011981,
     "geom:bbox":"-70.442609,19.231444,-70.344734,19.355",
     "geom:latitude":19.296015,
     "geom:longitude":-70.390246,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":24856,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Villa Tapia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.304746,
     "lbl:longitude":-70.390252,
     "lbl:max_zoom":10.0,
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0215fa87df124e3882c1e0e0ed5ab19d",
+    "wof:geomhash":"b69b3622a151bce9b2e2ecc3a10dcfe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890429189,
-    "wof:lastmodified":1690875457,
+    "wof:lastmodified":1694498048,
     "wof:name":"Villa Tapia",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005028,
-    "geom:area_square_m":58659475.093186,
+    "geom:area_square_m":58659570.819452,
     "geom:bbox":"-70.775782,19.284585,-70.7068,19.394269",
     "geom:latitude":19.340368,
     "geom:longitude":-70.739427,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Sabana Iglesia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.338729,
     "lbl:longitude":-70.740084,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Sabana Iglesia"
+    ],
+    "name:eng_x_preferred":[
         "Sabana Iglesia"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133710,
-    "wof:geomhash":"6c81c293cb1e5769a99a3c1cfb1f99e7",
+    "wof:geomhash":"09e9fc46f5e8f96b36ff07590c7c9f12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721245,
-    "wof:lastmodified":1627522036,
+    "wof:lastmodified":1694498048,
     "wof:name":"Sabana Iglesia",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

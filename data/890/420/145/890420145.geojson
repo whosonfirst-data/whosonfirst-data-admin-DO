@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042389,
-    "geom:area_square_m":497552056.162652,
+    "geom:area_square_m":497552280.348688,
     "geom:bbox":"-71.725952,18.195601,-71.468939,18.476111",
     "geom:latitude":18.329866,
     "geom:longitude":-71.596305,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":18607,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Duverg\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.326853,
     "lbl:longitude":-71.611589,
     "lbl:max_zoom":10.0,
@@ -95,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c20a36230f829ce6b023ef38197595d1",
+    "wof:geomhash":"e20ab84c9b411486937b7cb792577a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890420145,
-    "wof:lastmodified":1690875462,
+    "wof:lastmodified":1694497896,
     "wof:name":"Duverg\u00e9",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

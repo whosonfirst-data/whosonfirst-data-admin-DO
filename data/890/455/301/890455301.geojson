@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130284,
-    "geom:area_square_m":1520791915.764328,
+    "geom:area_square_m":1520791909.055672,
     "geom:bbox":"-71.253518,19.022085,-70.79354,19.466238",
     "geom:latitude":19.263603,
     "geom:longitude":-71.02621,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":37967,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "San Jos\u00e9 De Las Matas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.263983,
     "lbl:longitude":-71.026188,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 De Las Matas"
+    ],
     "name:fra_x_preferred":[
         "San Jose de Las Matas"
     ],
@@ -62,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ea8ace96cccd1c80e27c547b42633c7",
+    "wof:geomhash":"e8d99f131614ee0bc71521987953ec5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":890455301,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694498075,
     "wof:name":"San Jos\u00e9 De Las Matas",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023308,
-    "geom:area_square_m":271333917.115823,
+    "geom:area_square_m":271333785.503457,
     "geom:bbox":"-70.588528,19.548576,-70.365952,19.786167",
     "geom:latitude":19.704602,
     "geom:longitude":-70.479332,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":47193,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Sos\u00faa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.720494,
     "lbl:longitude":-70.468483,
     "lbl:max_zoom":10.0,
@@ -113,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12e0f1cd0f1dc7cadbf9e48408a0235d",
+    "wof:geomhash":"93eea1525544c51f9e684d74785cbcf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":890429207,
-    "wof:lastmodified":1690875460,
+    "wof:lastmodified":1694497896,
     "wof:name":"Sos\u00faa",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021598,
-    "geom:area_square_m":253418197.039564,
+    "geom:area_square_m":253418326.756171,
     "geom:bbox":"-70.634044,18.269358,-70.467795,18.496022",
     "geom:latitude":18.391182,
     "geom:longitude":-70.546511,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Las Charcas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.398903,
     "lbl:longitude":-70.53265,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Las Charcas"
+    ],
+    "name:eng_x_preferred":[
         "Las Charcas"
     ],
     "name:fra_x_preferred":[
@@ -67,7 +76,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133665,
-    "wof:geomhash":"81ae43bc72436b32b51caf3815d8000a",
+    "wof:geomhash":"90896812543b44dff666cd49203b2e10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108721189,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Las Charcas",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

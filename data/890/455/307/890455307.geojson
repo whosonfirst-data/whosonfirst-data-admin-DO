@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013213,
-    "geom:area_square_m":153855426.883961,
+    "geom:area_square_m":153855334.597586,
     "geom:bbox":"-71.761817,19.605564,-71.556684,19.715",
     "geom:latitude":19.665948,
     "geom:longitude":-71.654123,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":9618,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Pepillo Salcedo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.647315,
     "lbl:longitude":-71.656136,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pepillo Salcedo"
+    ],
     "name:fra_x_preferred":[
         "Pepillo Salcedo"
     ],
@@ -59,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"773bc1c34c1a0691180ee5442fb0bda0",
+    "wof:geomhash":"54327ceb56225d3051bc408efd3720cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":890455307,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694498075,
     "wof:name":"Pepillo Salcedo",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

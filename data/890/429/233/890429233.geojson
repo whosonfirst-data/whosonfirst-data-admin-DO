@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004305,
-    "geom:area_square_m":50546277.020729,
+    "geom:area_square_m":50546295.73981,
     "geom:bbox":"-70.2529,18.220407,-70.184617,18.315",
     "geom:latitude":18.268102,
     "geom:longitude":-70.217199,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":12320,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Nizao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.264341,
     "lbl:longitude":-70.214435,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35dd218214950d453b0a4bcc7264d796",
+    "wof:geomhash":"6b9f17e9e827505bc0cee14c81a447c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429233,
-    "wof:lastmodified":1690875456,
+    "wof:lastmodified":1694497896,
     "wof:name":"Nizao",
     "wof:parent_id":85670623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010375,
-    "geom:area_square_m":121507906.383722,
+    "geom:area_square_m":121508092.695116,
     "geom:bbox":"-71.789746,18.664422,-71.624752,18.762197",
     "geom:latitude":18.707348,
     "geom:longitude":-71.697906,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":10536,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Hondo Valle Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.711432,
     "lbl:longitude":-71.699405,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Hondo Valle"
+    ],
+    "name:eng_x_preferred":[
         "Hondo Valle"
     ],
     "name:fra_x_preferred":[
@@ -80,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a93171fbe514446a89c5e53bb0cfaa9e",
+    "wof:geomhash":"8996b68c77e64b80e79e2cbfe12fdbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890429275,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Hondo Valle",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

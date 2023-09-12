@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.146281,
-    "geom:area_square_m":48505395679.931831,
+    "geom:area_square_m":48505395679.925117,
     "geom:bbox":"-72.007414,17.467028,-68.325417,19.933805",
     "geom:latitude":18.894233,
     "geom:longitude":-70.495588,
@@ -17,6 +17,9 @@
         "1-849"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "DO"
     ],
@@ -1147,7 +1150,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"1-809, 1-829, 1-849",
     "statoids:ds":"DOM",
     "statoids:fifa":"DOM",
@@ -1206,7 +1210,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"d083c99d1242e3cb009fb77b7cd31dc9",
+    "wof:geomhash":"1ea1921672a90e75d149b52618e489a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1220,12 +1224,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875423,
+    "wof:lastmodified":1694492084,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":10403761,
-    "wof:population_rank":14,
+    "wof:population":10738958,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-do",
     "wof:shortcode":"DO",
     "wof:superseded_by":[],

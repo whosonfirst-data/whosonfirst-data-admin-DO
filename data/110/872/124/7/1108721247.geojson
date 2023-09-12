@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014101,
-    "geom:area_square_m":165218746.739927,
+    "geom:area_square_m":165218457.796322,
     "geom:bbox":"-70.625485,18.553423,-70.475,18.745",
     "geom:latitude":18.642983,
     "geom:longitude":-70.545558,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Sabana Larga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.65158,
     "lbl:longitude":-70.559227,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Sabana Larga"
+    ],
+    "name:eng_x_preferred":[
         "Sabana Larga"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133711,
-    "wof:geomhash":"00efcdeab2025bdd67e6c4164a72d4a7",
+    "wof:geomhash":"efcca3378394087d201781ed3fd8f184",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721247,
-    "wof:lastmodified":1627522036,
+    "wof:lastmodified":1694498048,
     "wof:name":"Sabana Larga",
     "wof:parent_id":85670627,
     "wof:placetype":"county",

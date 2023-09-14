@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023543,
-    "geom:area_square_m":275724130.745738,
+    "geom:area_square_m":275724166.688125,
     "geom:bbox":"-71.581836,18.609874,-71.397494,18.811024",
     "geom:latitude":18.710477,
     "geom:longitude":-71.498764,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":23656,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "El Cercado Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.706739,
     "lbl:longitude":-71.509693,
     "lbl:max_zoom":10.0,
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6416edb55a09bff6b78a3d447fb5e307",
+    "wof:geomhash":"be334e5d6f38533014ae301e3e4714ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890420143,
-    "wof:lastmodified":1690875462,
+    "wof:lastmodified":1694497896,
     "wof:name":"El Cercado",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

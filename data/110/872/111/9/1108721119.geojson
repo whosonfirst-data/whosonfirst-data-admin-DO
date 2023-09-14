@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012375,
-    "geom:area_square_m":145146043.558899,
+    "geom:area_square_m":145146117.466159,
     "geom:bbox":"-69.71062,18.397888,-69.515,18.51327",
     "geom:latitude":18.455814,
     "geom:longitude":-69.615331,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Boca Chica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.473478,
     "lbl:longitude":-69.63975,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Boca Chica"
     ],
     "name:deu_x_preferred":[
+        "Boca Chica"
+    ],
+    "name:eng_x_preferred":[
         "Boca Chica"
     ],
     "name:fra_x_preferred":[
@@ -79,7 +88,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133620,
-    "wof:geomhash":"d732eb5b928dd9c4c0d89df9f04ae17d",
+    "wof:geomhash":"65f05fd59dcca59103abc3a95b0b0af8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1108721119,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Boca Chica",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010323,
-    "geom:area_square_m":121240437.643598,
+    "geom:area_square_m":121240382.438262,
     "geom:bbox":"-71.422964,18.16927,-71.275,18.303839",
     "geom:latitude":18.232402,
     "geom:longitude":-71.344527,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Las Salinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.232706,
     "lbl:longitude":-71.339553,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Las Salinas"
+    ],
+    "name:eng_x_preferred":[
         "Las Salinas"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133669,
-    "wof:geomhash":"618d4e03b76bc0791d04003819d92d36",
+    "wof:geomhash":"0fc991863d9730378022e7e35e460580",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721193,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Las Salinas",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013663,
-    "geom:area_square_m":159288792.076649,
+    "geom:area_square_m":159288792.076674,
     "geom:bbox":"-70.3762518025,19.3379749965,-70.2475364677,19.5590023692",
     "geom:latitude":19.461345,
     "geom:longitude":-70.321475,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":24536,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Tenares Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.446739,
     "lbl:longitude":-70.320513,
     "lbl:max_zoom":10.0,
@@ -299,7 +305,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b855a6d3a1bffd33338b4d6a1ea89ec",
+    "wof:geomhash":"7f4c976b5e8ab4d59235cc2c12d58600",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -309,7 +315,7 @@
         }
     ],
     "wof:id":890425729,
-    "wof:lastmodified":1582347720,
+    "wof:lastmodified":1694497896,
     "wof:name":"Tenares",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

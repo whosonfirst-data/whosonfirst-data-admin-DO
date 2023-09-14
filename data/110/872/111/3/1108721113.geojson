@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074581,
-    "geom:area_square_m":872907020.102232,
+    "geom:area_square_m":872907020.102191,
     "geom:bbox":"-69.7448834103,18.6428117851,-69.365,18.995",
     "geom:latitude":18.819689,
     "geom:longitude":-69.598963,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Bayaguana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.825223,
     "lbl:longitude":-69.601863,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Bayaguana"
+    ],
+    "name:eng_x_preferred":[
         "Bayaguana"
     ],
     "name:fra_x_preferred":[
@@ -67,7 +76,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133617,
-    "wof:geomhash":"399b53bddc42a09396cea55495d0d987",
+    "wof:geomhash":"14b87bf7a5d905f57941afd123b3fc15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108721113,
-    "wof:lastmodified":1566582152,
+    "wof:lastmodified":1694497828,
     "wof:name":"Bayaguana",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

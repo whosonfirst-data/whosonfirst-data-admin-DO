@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00953,
-    "geom:area_square_m":111225546.409339,
+    "geom:area_square_m":111225546.409351,
     "geom:bbox":"-69.6567207805,19.2429878714,-69.4655182747,19.327943802",
     "geom:latitude":19.286624,
     "geom:longitude":-69.552864,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Las Terrenas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.28515,
     "lbl:longitude":-69.551337,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Las Terrenas"
     ],
     "name:deu_x_preferred":[
+        "Las Terrenas"
+    ],
+    "name:eng_x_preferred":[
         "Las Terrenas"
     ],
     "name:fra_x_preferred":[
@@ -70,7 +79,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133670,
-    "wof:geomhash":"05ed0826cd5ad34c1ec696a558bab9ae",
+    "wof:geomhash":"6e62f8f9cfe5d330ee385a0a64f1261a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108721195,
-    "wof:lastmodified":1566582157,
+    "wof:lastmodified":1694497828,
     "wof:name":"Las Terrenas",
     "wof:parent_id":85670653,
     "wof:placetype":"county",

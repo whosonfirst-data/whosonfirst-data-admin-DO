@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012545,
-    "geom:area_square_m":146414911.085256,
+    "geom:area_square_m":146414992.947803,
     "geom:bbox":"-70.024416,19.23136,-69.843392,19.352289",
     "geom:latitude":19.291743,
     "geom:longitude":-69.915194,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":14246,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "El Factor Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.295035,
     "lbl:longitude":-69.90148,
     "lbl:max_zoom":10.0,
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac3b148b5652419483296c32635a88c2",
+    "wof:geomhash":"bcb7878f0a32c61d57c0e9f4043c8441",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890420141,
-    "wof:lastmodified":1690875463,
+    "wof:lastmodified":1694497896,
     "wof:name":"El Factor",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

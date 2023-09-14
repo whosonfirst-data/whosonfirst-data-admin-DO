@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014023,
-    "geom:area_square_m":163186702.262096,
+    "geom:area_square_m":163186702.262118,
     "geom:bbox":"-70.963569805,19.7062870697,-70.7643997911,19.8263781526",
     "geom:latitude":19.762865,
     "geom:longitude":-70.86815,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":25283,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Imbert Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.751401,
     "lbl:longitude":-70.86664,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Imbert"
     ],
     "name:deu_x_preferred":[
+        "Imbert"
+    ],
+    "name:eng_x_preferred":[
         "Imbert"
     ],
     "name:fra_x_preferred":[
@@ -73,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"059b87a34356ac95ab1a56ad98f4ec14",
+    "wof:geomhash":"8e06e4dad4fe2fbac461706b4e386927",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890429273,
-    "wof:lastmodified":1582347721,
+    "wof:lastmodified":1694497896,
     "wof:name":"Imbert",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

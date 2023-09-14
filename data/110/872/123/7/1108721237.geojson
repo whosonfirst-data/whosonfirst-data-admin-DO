@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017689,
-    "geom:area_square_m":207155965.188167,
+    "geom:area_square_m":207156011.726207,
     "geom:bbox":"-70.555,18.635,-70.346314,18.796184",
     "geom:latitude":18.715939,
     "geom:longitude":-70.447975,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Rancho Arriba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.715841,
     "lbl:longitude":-70.449566,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Rancho Arriba"
+    ],
+    "name:eng_x_preferred":[
         "Rancho Arriba"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133705,
-    "wof:geomhash":"6d9927c4d7233f4a08c683049bebd546",
+    "wof:geomhash":"e0ba50ad4cf351930ddf86db542f5a22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721237,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Rancho Arriba",
     "wof:parent_id":85670627,
     "wof:placetype":"county",

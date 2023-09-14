@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06514,
-    "geom:area_square_m":759969827.559439,
+    "geom:area_square_m":759970035.21178,
     "geom:bbox":"-70.365499,19.157611,-70.015,19.521115",
     "geom:latitude":19.349555,
     "geom:longitude":-70.214719,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":155511,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "San Francisco De Macor\u00eds Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.35351,
     "lbl:longitude":-70.214738,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u03bd\u03c4\u03b5 \u039c\u03b1\u03ba\u03bf\u03c1\u03af\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco De Macor\u00eds"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648 \u062f\u0647 \u0645\u0627\u06a9\u0648\u0631\u06cc\u0633"
@@ -111,7 +120,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f8559a4748899fe7de0c5b74523c31a",
+    "wof:geomhash":"8f953f5523598f45d878c53409e56449",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":890429213,
-    "wof:lastmodified":1690875459,
+    "wof:lastmodified":1694498048,
     "wof:name":"San Francisco De Macor\u00eds",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

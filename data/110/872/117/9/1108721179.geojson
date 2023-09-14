@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010034,
-    "geom:area_square_m":117932444.636176,
+    "geom:area_square_m":117932538.020647,
     "geom:bbox":"-71.206107,18.028959,-71.056252,18.160788",
     "geom:latitude":18.092874,
     "geom:longitude":-71.133266,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "La Ci\u00e9naga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.084499,
     "lbl:longitude":-71.13949,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "La Ci\u00e9naga"
+    ],
+    "name:eng_x_preferred":[
         "La Ci\u00e9naga"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133660,
-    "wof:geomhash":"8e68abdff8eb1274273c8106f5688b44",
+    "wof:geomhash":"b01cf3c88a4bb0ff2718c914236cf75a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721179,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498048,
     "wof:name":"La Ci\u00e9naga",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

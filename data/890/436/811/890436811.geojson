@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020973,
-    "geom:area_square_m":244376833.103791,
+    "geom:area_square_m":244376833.103813,
     "geom:bbox":"-70.2029742575,19.4534917503,-69.9611624285,19.682056427",
     "geom:latitude":19.552026,
     "geom:longitude":-70.077805,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":15383,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "R\u00edo San Juan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.535713,
     "lbl:longitude":-70.086046,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "R\u00edo San Juan"
     ],
     "name:deu_x_preferred":[
+        "R\u00edo San Juan"
+    ],
+    "name:eng_x_preferred":[
         "R\u00edo San Juan"
     ],
     "name:fra_x_preferred":[
@@ -82,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38a058dae059a30a5b539a5d5fcee0a4",
+    "wof:geomhash":"660fa4dc648e161080d272c0fc9bce7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890436811,
-    "wof:lastmodified":1582347721,
+    "wof:lastmodified":1694497896,
     "wof:name":"R\u00edo San Juan",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

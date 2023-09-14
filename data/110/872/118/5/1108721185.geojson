@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055684,
-    "geom:area_square_m":650089932.069007,
+    "geom:area_square_m":650090411.997468,
     "geom:bbox":"-70.721896,19.035,-70.27718,19.375",
     "geom:latitude":19.238545,
     "geom:longitude":-70.525033,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "La Vega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.236015,
     "lbl:longitude":-70.503156,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "La Vega"
     ],
     "name:ceb_x_preferred":[
+        "La Vega"
+    ],
+    "name:eng_x_preferred":[
         "La Vega"
     ],
     "name:fas_x_preferred":[
@@ -82,7 +91,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133664,
-    "wof:geomhash":"b9777920190c8ef0a0d5971b8ef34827",
+    "wof:geomhash":"5aaf03f59f36ea312c9b98b6d769defa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108721185,
-    "wof:lastmodified":1636501580,
+    "wof:lastmodified":1694498107,
     "wof:name":"La Vega",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

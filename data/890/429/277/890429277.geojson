@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171594,
-    "geom:area_square_m":2010135377.570417,
+    "geom:area_square_m":2010135432.351168,
     "geom:bbox":"-68.933946,18.440538,-68.325417,18.972255",
     "geom:latitude":18.670137,
     "geom:longitude":-68.644277,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":162138,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Hig\u00fcey Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.684287,
     "lbl:longitude":-68.669669,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Hig\u00fcey"
+    ],
+    "name:eng_x_preferred":[
         "Hig\u00fcey"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ffb511cb3c3fbc6e199bbc5af49ec74",
+    "wof:geomhash":"175269bc57eb5189c415b25acda8fdf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":890429277,
-    "wof:lastmodified":1628266655,
+    "wof:lastmodified":1694498072,
     "wof:name":"Hig\u00fcey",
     "wof:parent_id":85670669,
     "wof:placetype":"county",

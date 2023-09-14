@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036433,
-    "geom:area_square_m":426834063.92444,
+    "geom:area_square_m":426834201.000617,
     "geom:bbox":"-70.327712,18.505463,-70.113105,18.805",
     "geom:latitude":18.656146,
     "geom:longitude":-70.224622,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":83918,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Villa Altagracia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.657925,
     "lbl:longitude":-70.223004,
     "lbl:max_zoom":10.0,
@@ -104,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4b5f7e8abba2924bd2861959acdc25f",
+    "wof:geomhash":"62f3b27f22277f826c1e643401104cae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890429199,
-    "wof:lastmodified":1690875458,
+    "wof:lastmodified":1694498048,
     "wof:name":"Villa Altagracia",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

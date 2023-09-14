@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010586,
-    "geom:area_square_m":124347767.956649,
+    "geom:area_square_m":124347767.956659,
     "geom:bbox":"-71.305,18.1153575087,-71.2044760178,18.275",
     "geom:latitude":18.200452,
     "geom:longitude":-71.246805,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Cabral Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.198324,
     "lbl:longitude":-71.247762,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Cabral"
     ],
     "name:deu_x_preferred":[
+        "Cabral"
+    ],
+    "name:eng_x_preferred":[
         "Cabral"
     ],
     "name:fin_x_preferred":[
@@ -88,7 +97,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133625,
-    "wof:geomhash":"86c971671032c6820c11fbe4a790ef08",
+    "wof:geomhash":"00723136b80b88d58b44bcfd64ba8ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1108721127,
-    "wof:lastmodified":1566582161,
+    "wof:lastmodified":1694497828,
     "wof:name":"Cabral",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

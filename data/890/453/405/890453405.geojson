@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021675,
-    "geom:area_square_m":253518473.094569,
+    "geom:area_square_m":253518074.21069,
     "geom:bbox":"-71.88632,18.81777,-71.616705,19.016036",
     "geom:latitude":18.930411,
     "geom:longitude":-71.720435,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":25211,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Comendador Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.940951,
     "lbl:longitude":-71.718349,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Comendador"
+    ],
+    "name:eng_x_preferred":[
         "Comendador"
     ],
     "name:fra_x_preferred":[
@@ -79,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1376b6b32164897defd3d14b50416d6e",
+    "wof:geomhash":"868e4b73008eb0e56a83024b62f58012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890453405,
-    "wof:lastmodified":1636501589,
+    "wof:lastmodified":1694498108,
     "wof:name":"Comendador",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

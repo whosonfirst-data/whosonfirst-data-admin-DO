@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008843,
-    "geom:area_square_m":103550598.416355,
+    "geom:area_square_m":103550535.000525,
     "geom:bbox":"-71.654749,18.654857,-71.565,18.805",
     "geom:latitude":18.733288,
     "geom:longitude":-71.606616,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Juan Santiago Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.76482,
     "lbl:longitude":-71.60746,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Juan Santiago"
+    ],
+    "name:eng_x_preferred":[
         "Juan Santiago"
     ],
     "name:fra_x_preferred":[
@@ -49,7 +58,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133659,
-    "wof:geomhash":"c965f13f33d7463ef59d0b6007a834de",
+    "wof:geomhash":"f0a0d0d7946f95d56734cb4c36a52833",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1108721177,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694498073,
     "wof:name":"Juan Santiago",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

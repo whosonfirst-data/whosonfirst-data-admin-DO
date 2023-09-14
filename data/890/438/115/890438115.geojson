@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013988,
-    "geom:area_square_m":163597467.561247,
+    "geom:area_square_m":163597467.561264,
     "geom:bbox":"-69.4752782998,18.8854882976,-69.2954449894,18.9967846365",
     "geom:latitude":18.938935,
     "geom:longitude":-69.383938,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":8138,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "El Valle Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.942243,
     "lbl:longitude":-69.376693,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "El Valle"
     ],
     "name:deu_x_preferred":[
+        "El Valle"
+    ],
+    "name:eng_x_preferred":[
         "El Valle"
     ],
     "name:fra_x_preferred":[
@@ -82,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7d23a7b5e4be59ef556fc35a5e93101",
+    "wof:geomhash":"e4e63d80e1ea9a95cde5fa8d3ddbb49d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890438115,
-    "wof:lastmodified":1582347721,
+    "wof:lastmodified":1694497896,
     "wof:name":"El Valle",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

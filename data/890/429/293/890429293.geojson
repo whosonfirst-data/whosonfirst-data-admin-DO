@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015511,
-    "geom:area_square_m":180618855.143378,
+    "geom:area_square_m":180618934.215808,
     "geom:bbox":"-70.89916,19.582082,-70.704358,19.724714",
     "geom:latitude":19.661356,
     "geom:longitude":-70.791267,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":24137,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Altamira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.673285,
     "lbl:longitude":-70.792742,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "Altamira"
     ],
     "name:deu_x_preferred":[
+        "Altamira"
+    ],
+    "name:eng_x_preferred":[
         "Altamira"
     ],
     "name:epo_x_preferred":[
@@ -145,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7717c0eb3aae45ca5ef6907a9c68463",
+    "wof:geomhash":"5708b954889cf5d2dcc79902bafb76a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":890429293,
-    "wof:lastmodified":1636501590,
+    "wof:lastmodified":1694498108,
     "wof:name":"Altamira",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

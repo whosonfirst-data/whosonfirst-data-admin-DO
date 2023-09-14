@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016783,
-    "geom:area_square_m":196746860.161951,
+    "geom:area_square_m":196746833.97165,
     "geom:bbox":"-71.681757,18.453218,-71.51295,18.655",
     "geom:latitude":18.544835,
     "geom:longitude":-71.5861,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Los R\u00edos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.532468,
     "lbl:longitude":-71.580344,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Los R\u00edos"
     ],
     "name:ceb_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:eng_x_preferred":[
         "Los R\u00edos"
     ],
     "name:epo_x_preferred":[
@@ -73,7 +82,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133676,
-    "wof:geomhash":"523a289d5978bd1c1c76fa1ba0a84010",
+    "wof:geomhash":"2ab2255a0050fb6135fe4e102297b2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1108721207,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Los R\u00edos",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

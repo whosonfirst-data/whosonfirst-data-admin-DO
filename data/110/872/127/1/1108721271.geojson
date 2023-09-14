@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040987,
-    "geom:area_square_m":477793590.721517,
+    "geom:area_square_m":477793630.946845,
     "geom:bbox":"-70.904799,19.285757,-70.617406,19.652382",
     "geom:latitude":19.483751,
     "geom:longitude":-70.731872,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Santiago Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.469676,
     "lbl:longitude":-70.712154,
     "lbl:max_zoom":10.0,
@@ -125,6 +131,9 @@
     ],
     "name:eml_x_preferred":[
         "Santi\u00e2g"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago"
     ],
     "name:est_x_preferred":[
         "Santiago"
@@ -529,7 +538,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133723,
-    "wof:geomhash":"3187003542aaf7405c97df9abe9982dc",
+    "wof:geomhash":"237008f86365f3c34560cae295d37d59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -539,7 +548,7 @@
         }
     ],
     "wof:id":1108721271,
-    "wof:lastmodified":1636501580,
+    "wof:lastmodified":1694498107,
     "wof:name":"Santiago",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

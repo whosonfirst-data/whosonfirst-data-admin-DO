@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016392,
-    "geom:area_square_m":191549632.210109,
+    "geom:area_square_m":191549632.210162,
     "geom:bbox":"-70.285,18.9795374649,-70.0951132234,19.165",
     "geom:latitude":19.089547,
     "geom:longitude":-70.208773,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "La Mata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.099467,
     "lbl:longitude":-70.218118,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "La Mata"
     ],
     "name:ceb_x_preferred":[
+        "La Mata"
+    ],
+    "name:eng_x_preferred":[
         "La Mata"
     ],
     "name:eus_x_preferred":[
@@ -70,7 +79,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133662,
-    "wof:geomhash":"539dc3f78d7ba90436e00a894a76a1ae",
+    "wof:geomhash":"eedb7656df85e200824ab92118fbaae6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108721181,
-    "wof:lastmodified":1566582152,
+    "wof:lastmodified":1694497828,
     "wof:name":"La Mata",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

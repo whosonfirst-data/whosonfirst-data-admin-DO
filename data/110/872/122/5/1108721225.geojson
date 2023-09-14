@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011413,
-    "geom:area_square_m":133550803.458815,
+    "geom:area_square_m":133550939.640478,
     "geom:bbox":"-70.155,18.798196,-69.966457,18.915",
     "geom:latitude":18.849943,
     "geom:longitude":-70.056117,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Peralvillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.842012,
     "lbl:longitude":-70.057279,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Esperalvillo"
+    ],
+    "name:eng_x_preferred":[
+        "Peralvillo"
     ],
     "name:fra_x_preferred":[
         "Peralvillo"
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133697,
-    "wof:geomhash":"a8d60bddf03f1e8d785a1a91d2b541ed",
+    "wof:geomhash":"50f227b71aaa0b12a9eacae9aa43c01b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721225,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Peralvillo",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

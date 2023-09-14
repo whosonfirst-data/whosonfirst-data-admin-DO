@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023687,
-    "geom:area_square_m":277759472.656916,
+    "geom:area_square_m":277759427.789762,
     "geom:bbox":"-71.523604,18.350972,-71.213619,18.626514",
     "geom:latitude":18.498711,
     "geom:longitude":-71.380002,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":25131,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Neiba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.568056,
     "lbl:longitude":-71.414144,
     "lbl:max_zoom":10.0,
@@ -194,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b592b15b8f57935c4285073d885914ec",
+    "wof:geomhash":"d7aeada1fcafe029fb6375ababf475ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":890429235,
-    "wof:lastmodified":1690875455,
+    "wof:lastmodified":1694498108,
     "wof:name":"Neiba",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

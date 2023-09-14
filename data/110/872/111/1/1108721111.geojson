@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014268,
-    "geom:area_square_m":167611973.362393,
+    "geom:area_square_m":167611850.673232,
     "geom:bbox":"-71.212678,18.120844,-71.057394,18.255486",
     "geom:latitude":18.1839,
     "geom:longitude":-71.147344,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Barahona Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.176007,
     "lbl:longitude":-71.14886,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Barahona"
     ],
     "name:deu_x_preferred":[
+        "Barahona"
+    ],
+    "name:eng_x_preferred":[
         "Barahona"
     ],
     "name:fin_x_preferred":[
@@ -79,7 +88,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133616,
-    "wof:geomhash":"53de4677ffe9379b9d5df2ae10ac1dbc",
+    "wof:geomhash":"ff7e9fa7dd8da9e6e29f9e9d84a6002b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1108721111,
-    "wof:lastmodified":1636501579,
+    "wof:lastmodified":1694498107,
     "wof:name":"Barahona",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

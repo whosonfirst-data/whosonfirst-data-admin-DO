@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066818,
-    "geom:area_square_m":777788476.41781,
+    "geom:area_square_m":777788455.078467,
     "geom:bbox":"-71.779663,19.49626,-71.485087,19.913805",
     "geom:latitude":19.713322,
     "geom:longitude":-71.617474,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Monte Cristi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.779986,
     "lbl:longitude":-71.6442,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Monte Cristi"
+    ],
+    "name:eng_x_preferred":[
         "Monte Cristi"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133681,
-    "wof:geomhash":"8eaf3fa9b089e7c96c1fc48fcab62629",
+    "wof:geomhash":"8e17925283c87982312d38d068b6ae74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721211,
-    "wof:lastmodified":1636501580,
+    "wof:lastmodified":1694498107,
     "wof:name":"Monte Cristi",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

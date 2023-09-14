@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023696,
-    "geom:area_square_m":276534061.04201,
+    "geom:area_square_m":276533914.577427,
     "geom:bbox":"-71.78629,19.228362,-71.505,19.375349",
     "geom:latitude":19.304512,
     "geom:longitude":-71.64734,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Restauraci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.288489,
     "lbl:longitude":-71.661099,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Restauraci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
         "Restauraci\u00f3n"
     ],
     "name:fra_x_preferred":[
@@ -64,7 +73,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133706,
-    "wof:geomhash":"77bfb0a5ca9e2dca2ebbf2c0586ff79c",
+    "wof:geomhash":"d48f47db4431e0f9803935bf2efedb3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108721239,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Restauraci\u00f3n",
     "wof:parent_id":85670575,
     "wof:placetype":"county",

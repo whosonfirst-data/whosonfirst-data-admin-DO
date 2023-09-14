@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02202,
-    "geom:area_square_m":258119826.579001,
+    "geom:area_square_m":258119855.883758,
     "geom:bbox":"-69.095356,18.476232,-68.845198,18.65597",
     "geom:latitude":18.559833,
     "geom:longitude":-68.964979,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":18762,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Guaymate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.573831,
     "lbl:longitude":-68.945992,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8e6fb8f0d763bcd9227f48f8fedd1c6",
+    "wof:geomhash":"6998c2f387a3c104159ea9ca27ca0127",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429281,
-    "wof:lastmodified":1690875455,
+    "wof:lastmodified":1694497896,
     "wof:name":"Guaymate",
     "wof:parent_id":85670673,
     "wof:placetype":"county",

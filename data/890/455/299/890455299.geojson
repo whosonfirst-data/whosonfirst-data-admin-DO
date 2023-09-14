@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085459,
-    "geom:area_square_m":1002740562.394303,
+    "geom:area_square_m":1002740010.995993,
     "geom:bbox":"-68.895937,18.201221,-68.428236,18.543698",
     "geom:latitude":18.390974,
     "geom:longitude":-68.683397,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":18387,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "San Rafael del Yuma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.397515,
     "lbl:longitude":-68.722294,
     "lbl:max_zoom":10.0,
@@ -92,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8024ac3f9a74bb62f1c76f8fb9a0144",
+    "wof:geomhash":"125a3f3a7acbd49803f7a28264029434",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890455299,
-    "wof:lastmodified":1690875441,
+    "wof:lastmodified":1694497896,
     "wof:name":"San Rafael Del Yuma",
     "wof:parent_id":85670669,
     "wof:placetype":"county",

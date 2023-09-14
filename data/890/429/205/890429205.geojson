@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037026,
-    "geom:area_square_m":434149538.99492,
+    "geom:area_square_m":434149538.994856,
     "geom:bbox":"-71.335,18.3252370184,-70.9864786022,18.625876102",
     "geom:latitude":18.508831,
     "geom:longitude":-71.17115,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":9782,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Tamayo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.501969,
     "lbl:longitude":-71.139603,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Tamayo"
     ],
     "name:deu_x_preferred":[
+        "Tamayo"
+    ],
+    "name:eng_x_preferred":[
         "Tamayo"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +97,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d6760ee3f679212e217616a990ba473",
+    "wof:geomhash":"4bf84260908aff35c0d038d18fdbf616",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890429205,
-    "wof:lastmodified":1582347722,
+    "wof:lastmodified":1694497896,
     "wof:name":"Tamayo",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

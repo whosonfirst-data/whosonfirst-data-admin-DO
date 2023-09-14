@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014769,
-    "geom:area_square_m":173222500.918272,
+    "geom:area_square_m":173222436.788748,
     "geom:bbox":"-70.325,18.388803,-70.157017,18.551764",
     "geom:latitude":18.468003,
     "geom:longitude":-70.226192,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Cambita Garabitos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.465454,
     "lbl:longitude":-70.21792,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Cambita Garabitos"
+    ],
+    "name:eng_x_preferred":[
         "Cambita Garabitos"
     ],
     "name:fra_x_preferred":[
@@ -67,7 +76,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133626,
-    "wof:geomhash":"7e57712e7059d2ef1a6cdccc8405c3ba",
+    "wof:geomhash":"78dd34bc1e34937c8d7fd782805abbfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108721129,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498047,
     "wof:name":"Cambita Garabitos",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

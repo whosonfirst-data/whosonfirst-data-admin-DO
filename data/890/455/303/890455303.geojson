@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010363,
-    "geom:area_square_m":121011341.811355,
+    "geom:area_square_m":121011181.467329,
     "geom:bbox":"-70.187018,19.150381,-70.074259,19.282687",
     "geom:latitude":19.208697,
     "geom:longitude":-70.132065,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":18192,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Pimentel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.194385,
     "lbl:longitude":-70.144415,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Pimentel"
     ],
     "name:deu_x_preferred":[
+        "Pimentel"
+    ],
+    "name:eng_x_preferred":[
         "Pimentel"
     ],
     "name:fra_x_preferred":[
@@ -109,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d1e1973ddc78d2cde3db9cbcf71ce40",
+    "wof:geomhash":"49e9ec04700686433f18b08f7144f6f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":890455303,
-    "wof:lastmodified":1636501588,
+    "wof:lastmodified":1694498108,
     "wof:name":"Pimentel",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

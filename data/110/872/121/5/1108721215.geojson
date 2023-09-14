@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012743,
-    "geom:area_square_m":148533254.470465,
+    "geom:area_square_m":148533199.285511,
     "geom:bbox":"-71.60638,19.427021,-71.425,19.582874",
     "geom:latitude":19.501942,
     "geom:longitude":-71.518161,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Partido Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.488687,
     "lbl:longitude":-71.539457,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Partido"
     ],
     "name:deu_x_preferred":[
+        "Partido"
+    ],
+    "name:eng_x_preferred":[
         "Partido"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133686,
-    "wof:geomhash":"bed306e5de8d44c161346f20abbf177e",
+    "wof:geomhash":"789ca32527777a9a98e6321c093c7e00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108721215,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Partido",
     "wof:parent_id":85670575,
     "wof:placetype":"county",

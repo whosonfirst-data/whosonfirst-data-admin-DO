@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003375,
-    "geom:area_square_m":39620319.071241,
+    "geom:area_square_m":39620319.071203,
     "geom:bbox":"-71.2469875242,18.2579606295,-71.1650943945,18.3263130662",
     "geom:latitude":18.297112,
     "geom:longitude":-71.210232,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "El Pe\u00f1\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.300251,
     "lbl:longitude":-71.215109,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "El Pe\u00f1\u00f3n"
     ],
     "name:deu_x_preferred":[
+        "El Pe\u00f1\u00f3n"
+    ],
+    "name:eng_x_preferred":[
         "El Pe\u00f1\u00f3n"
     ],
     "name:fra_x_preferred":[
@@ -73,7 +82,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133636,
-    "wof:geomhash":"e1d33394035cf7d77af3a66f32b6296d",
+    "wof:geomhash":"c3b3fdfe11f0010f0ec7a709e35373f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1108721143,
-    "wof:lastmodified":1566582167,
+    "wof:lastmodified":1694497828,
     "wof:name":"El Pe\u00f1\u00f3n",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

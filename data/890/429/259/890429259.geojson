@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023691,
-    "geom:area_square_m":276001642.135155,
+    "geom:area_square_m":276001571.027358,
     "geom:bbox":"-70.063696,19.4779,-69.868805,19.683722",
     "geom:latitude":19.579457,
     "geom:longitude":-69.959897,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":14700,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Cabrera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.577203,
     "lbl:longitude":-69.961735,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Cabrera"
+    ],
     "name:fra_x_preferred":[
         "Cabrera"
     ],
@@ -71,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4318e2238386291e8bb2aa5fcdac283f",
+    "wof:geomhash":"471aec56d3aa92e04ff6cacde59385a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890429259,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694498071,
     "wof:name":"Cabrera",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

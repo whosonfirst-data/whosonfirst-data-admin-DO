@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036734,
-    "geom:area_square_m":430493058.05794,
+    "geom:area_square_m":430492865.680905,
     "geom:bbox":"-71.164711,18.484802,-70.83456,18.705",
     "geom:latitude":18.604013,
     "geom:longitude":-70.999582,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Las Yayas De Viajama Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.608231,
     "lbl:longitude":-70.997828,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Las Yayas De Viajama"
+    ],
     "name:fra_x_preferred":[
         "Las Yayas de Viajama"
     ],
@@ -43,7 +52,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133671,
-    "wof:geomhash":"fda31e84934f61228a2c6f2c0ce79a59",
+    "wof:geomhash":"bde61e4f2d7551ca2234a22596b5c997",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108721197,
-    "wof:lastmodified":1628266673,
+    "wof:lastmodified":1694498073,
     "wof:name":"Las Yayas De Viajama",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

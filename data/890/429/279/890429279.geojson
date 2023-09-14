@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090897,
-    "geom:area_square_m":1058149681.68491,
+    "geom:area_square_m":1058149714.060491,
     "geom:bbox":"-71.514423,19.524963,-71.135,19.909611",
     "geom:latitude":19.704396,
     "geom:longitude":-71.333703,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":7673,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Guayub\u00edn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.707555,
     "lbl:longitude":-71.330083,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d60091fe735002a446ab3ac05f855600",
+    "wof:geomhash":"5be20ed1f10507fa0e92d91f21922dec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429279,
-    "wof:lastmodified":1690875458,
+    "wof:lastmodified":1694497896,
     "wof:name":"Guayub\u00edn",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

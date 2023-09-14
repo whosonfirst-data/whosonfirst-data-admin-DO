@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010501,
-    "geom:area_square_m":122677345.941018,
+    "geom:area_square_m":122677091.58693,
     "geom:bbox":"-70.476846,19.05078,-70.323747,19.182136",
     "geom:latitude":19.128029,
     "geom:longitude":-70.394964,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Jima Abajo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.12591,
     "lbl:longitude":-70.37698,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Jima Abajo"
+    ],
+    "name:eng_x_preferred":[
         "Jima Abajo"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133656,
-    "wof:geomhash":"bf8cc1bf4d15ba9eb60d5a9273886b34",
+    "wof:geomhash":"7b1647b79bd99f85c02e3a4cdedb3347",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721173,
-    "wof:lastmodified":1627522034,
+    "wof:lastmodified":1694498048,
     "wof:name":"Jima Abajo",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

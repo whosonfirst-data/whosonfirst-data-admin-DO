@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003626,
-    "geom:area_square_m":42516020.598369,
+    "geom:area_square_m":42516020.598385,
     "geom:bbox":"-70.0870164747,18.5015339674,-69.9855375932,18.555",
     "geom:latitude":18.527421,
     "geom:longitude":-70.037384,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Los Alcarrizos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.519057,
     "lbl:longitude":-70.046565,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Los Alcarrizos"
+    ],
+    "name:eng_x_preferred":[
         "Los Alcarrizos"
     ],
     "name:epo_x_preferred":[
@@ -76,7 +85,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133673,
-    "wof:geomhash":"f930d434e40a702a1c162ca84c264d79",
+    "wof:geomhash":"f4f4a1d4029ec8527bf15ea40a257263",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1108721201,
-    "wof:lastmodified":1566582155,
+    "wof:lastmodified":1694497828,
     "wof:name":"Los Alcarrizos",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

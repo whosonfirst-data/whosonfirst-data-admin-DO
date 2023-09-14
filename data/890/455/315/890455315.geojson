@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01916,
-    "geom:area_square_m":224551356.385064,
+    "geom:area_square_m":224551401.47039,
     "geom:bbox":"-71.816372,18.497927,-71.683493,18.690833",
     "geom:latitude":18.596121,
     "geom:longitude":-71.746657,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":7455,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "La Descubierta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.608252,
     "lbl:longitude":-71.752031,
     "lbl:max_zoom":10.0,
@@ -104,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"899a161e68c981414d4d453ac97634cb",
+    "wof:geomhash":"455981b0c1ad17593d7fae9a03f4db69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890455315,
-    "wof:lastmodified":1690875441,
+    "wof:lastmodified":1694497896,
     "wof:name":"La Descubierta",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

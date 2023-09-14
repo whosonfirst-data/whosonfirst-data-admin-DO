@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024276,
-    "geom:area_square_m":284944324.052499,
+    "geom:area_square_m":284944904.305391,
     "geom:bbox":"-69.028809,18.107889,-68.571281,18.525277",
     "geom:latitude":18.332186,
     "geom:longitude":-68.8373,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "La Romana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.461146,
     "lbl:longitude":-68.923503,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "La Romana"
     ],
     "name:deu_x_preferred":[
+        "La Romana"
+    ],
+    "name:eng_x_preferred":[
         "La Romana"
     ],
     "name:fas_x_preferred":[
@@ -106,7 +115,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133663,
-    "wof:geomhash":"3b33d6c764c9d373084abf867c21a01d",
+    "wof:geomhash":"eeb850bdf0de82e19bc59e644eada25b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1108721183,
-    "wof:lastmodified":1636501580,
+    "wof:lastmodified":1694498107,
     "wof:name":"La Romana",
     "wof:parent_id":85670673,
     "wof:placetype":"county",

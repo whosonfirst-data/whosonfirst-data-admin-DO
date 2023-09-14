@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027486,
-    "geom:area_square_m":321057188.463659,
+    "geom:area_square_m":321057394.326399,
     "geom:bbox":"-69.994041,19.045357,-69.725383,19.256858",
     "geom:latitude":19.150355,
     "geom:longitude":-69.883337,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":18343,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Villa Riva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.155213,
     "lbl:longitude":-69.89454,
     "lbl:max_zoom":10.0,
@@ -95,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6cad8dba81cc0cd22b1254e90ac7b3c7",
+    "wof:geomhash":"1c62249817314bdb16f574312e5f7988",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890429191,
-    "wof:lastmodified":1690875458,
+    "wof:lastmodified":1694498048,
     "wof:name":"Villa Riva",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

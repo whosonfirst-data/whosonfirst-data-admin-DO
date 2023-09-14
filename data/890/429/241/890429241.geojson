@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02935,
-    "geom:area_square_m":342192690.043002,
+    "geom:area_square_m":342192801.846785,
     "geom:bbox":"-70.605,19.344575,-70.405299,19.608743",
     "geom:latitude":19.454907,
     "geom:longitude":-70.503838,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":135253,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Moca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.441466,
     "lbl:longitude":-70.505341,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Moca"
     ],
     "name:deu_x_preferred":[
+        "Moca"
+    ],
+    "name:eng_x_preferred":[
         "Moca"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3caba4ea76217966e1c1f7e18195affe",
+    "wof:geomhash":"698df039458621773ce134f1b2608823",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890429241,
-    "wof:lastmodified":1636501590,
+    "wof:lastmodified":1694498108,
     "wof:name":"Moca",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

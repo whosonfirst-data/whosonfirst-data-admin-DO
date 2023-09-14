@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007767,
-    "geom:area_square_m":90755059.001708,
+    "geom:area_square_m":90754959.979646,
     "geom:bbox":"-70.375,19.045,-70.244917,19.165185",
     "geom:latitude":19.104618,
     "geom:longitude":-70.302932,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":21989,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Fantino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.110254,
     "lbl:longitude":-70.302935,
     "lbl:max_zoom":10.0,
@@ -104,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd822ec6edbe878c9c6a0fd22026b6e4",
+    "wof:geomhash":"344d6972788cf0cff29782f4531e60e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890429287,
-    "wof:lastmodified":1690875454,
+    "wof:lastmodified":1694497896,
     "wof:name":"Fantino",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

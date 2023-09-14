@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011541,
-    "geom:area_square_m":134737480.990986,
+    "geom:area_square_m":134737480.991014,
     "geom:bbox":"-70.1102085409,19.175,-69.9520580408,19.3024637659",
     "geom:latitude":19.2361,
     "geom:longitude":-70.033475,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Castillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.241578,
     "lbl:longitude":-70.04006,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "Castillo"
     ],
     "name:deu_x_preferred":[
+        "Castillo"
+    ],
+    "name:eng_x_preferred":[
         "Castillo"
     ],
     "name:fin_x_preferred":[
@@ -91,7 +100,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133629,
-    "wof:geomhash":"a726ff34ba5fb2ae6d13654c09b8c112",
+    "wof:geomhash":"9c578808fdcf31928ef30172ad2fb939",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1108721135,
-    "wof:lastmodified":1566582168,
+    "wof:lastmodified":1694497828,
     "wof:name":"Castillo",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

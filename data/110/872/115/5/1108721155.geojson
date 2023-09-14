@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004499,
-    "geom:area_square_m":52831102.155617,
+    "geom:area_square_m":52831102.155612,
     "geom:bbox":"-71.2245920408,18.2250073448,-71.0984972106,18.2959468786",
     "geom:latitude":18.264001,
     "geom:longitude":-71.154626,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Fundaci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.264531,
     "lbl:longitude":-71.155581,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Fundaci\u00f3n"
     ],
     "name:deu_x_preferred":[
+        "Fundaci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
         "Fundaci\u00f3n"
     ],
     "name:fas_x_preferred":[
@@ -94,7 +103,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133644,
-    "wof:geomhash":"d40cf0eeb441ee5b3206e5142c8d391b",
+    "wof:geomhash":"7973aeb66fce4340ba668f86a02283a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1108721155,
-    "wof:lastmodified":1566582163,
+    "wof:lastmodified":1694497828,
     "wof:name":"Fundaci\u00f3n",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

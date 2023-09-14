@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018949,
-    "geom:area_square_m":220435993.693971,
+    "geom:area_square_m":220436098.266778,
     "geom:bbox":"-71.252414,19.737532,-71.034497,19.885956",
     "geom:latitude":19.814047,
     "geom:longitude":-71.133392,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":14525,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Villa Isabela Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.809187,
     "lbl:longitude":-71.124581,
     "lbl:max_zoom":10.0,
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac8a95df8767a463c16ee6b5cd51175e",
+    "wof:geomhash":"9e161751820f5e5ba39b0275f62d1990",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890429197,
-    "wof:lastmodified":1690875458,
+    "wof:lastmodified":1694498048,
     "wof:name":"Villa Isabela",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

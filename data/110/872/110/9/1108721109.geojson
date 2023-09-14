@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064337,
-    "geom:area_square_m":755146679.253174,
+    "geom:area_square_m":755146679.25312,
     "geom:bbox":"-70.5887415001,18.190416336,-70.225,18.5060605478",
     "geom:latitude":18.33601,
     "geom:longitude":-70.382861,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Ban\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.341756,
     "lbl:longitude":-70.380147,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Ban\u00ed"
     ],
     "name:ceb_x_preferred":[
+        "Ban\u00ed"
+    ],
+    "name:eng_x_preferred":[
         "Ban\u00ed"
     ],
     "name:fas_x_preferred":[
@@ -97,7 +106,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133615,
-    "wof:geomhash":"1d7eccedd283d01141d0b8e281ed322b",
+    "wof:geomhash":"02de8cf9cbe65e7df1bfa2d22488c996",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108721109,
-    "wof:lastmodified":1566582158,
+    "wof:lastmodified":1694497828,
     "wof:name":"Ban\u00ed",
     "wof:parent_id":85670623,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033224,
-    "geom:area_square_m":389337415.968971,
+    "geom:area_square_m":389337507.952742,
     "geom:bbox":"-70.033668,18.505,-69.785,18.706852",
     "geom:latitude":18.608731,
     "geom:longitude":-69.914111,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Norte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.607677,
     "lbl:longitude":-69.904041,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Santo Domingo Norte"
+    ],
     "name:fra_x_preferred":[
         "Santo Domingo Norte"
     ],
@@ -61,7 +70,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133727,
-    "wof:geomhash":"6351d9bb8f67876abaf1609a2344d6b8",
+    "wof:geomhash":"26625c0f77f4579df56dc7045456b4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108721279,
-    "wof:lastmodified":1627522036,
+    "wof:lastmodified":1694498048,
     "wof:name":"Santo Domingo Norte",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

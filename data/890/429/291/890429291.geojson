@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027554,
-    "geom:area_square_m":324070667.572255,
+    "geom:area_square_m":324070896.982592,
     "geom:bbox":"-71.435212,17.859436,-71.191189,18.105615",
     "geom:latitude":17.979276,
     "geom:longitude":-71.317246,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":13521,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Enriquillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":17.983732,
     "lbl:longitude":-71.319111,
     "lbl:max_zoom":10.0,
@@ -107,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f89a1fe100efccf0dda91b413f4aab7",
+    "wof:geomhash":"fe07b265ef94ade8327e3ef1dd8cc501",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":890429291,
-    "wof:lastmodified":1690875460,
+    "wof:lastmodified":1694497897,
     "wof:name":"Enriquillo",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

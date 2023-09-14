@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037672,
-    "geom:area_square_m":441436160.68279,
+    "geom:area_square_m":441435981.376233,
     "geom:bbox":"-69.604839,18.473885,-69.37617,18.816075",
     "geom:latitude":18.62281,
     "geom:longitude":-69.501677,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":23198,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Los Llanos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.666683,
     "lbl:longitude":-69.490419,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Los Llanos"
+    ],
     "name:fra_x_preferred":[
         "San Jos\u00e9 de los Llanos"
     ],
@@ -59,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13f1551ead2465bb025c10e0aa954954",
+    "wof:geomhash":"4e4844db3579288a0e5fa16d961940ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":890429255,
-    "wof:lastmodified":1628266677,
+    "wof:lastmodified":1694498073,
     "wof:name":"Los Llanos",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

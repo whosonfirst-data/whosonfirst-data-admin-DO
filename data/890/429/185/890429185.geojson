@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010407,
-    "geom:area_square_m":122146090.698613,
+    "geom:area_square_m":122146135.82631,
     "geom:bbox":"-70.285621,18.275,-70.12762,18.404168",
     "geom:latitude":18.342045,
     "geom:longitude":-70.19721,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":42324,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Yaguate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.341973,
     "lbl:longitude":-70.196005,
     "lbl:max_zoom":10.0,
@@ -101,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db14b3305f899909aba6a466f194ff86",
+    "wof:geomhash":"aa0e6be8c135f786d59e09dd57420351",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429185,
-    "wof:lastmodified":1690875462,
+    "wof:lastmodified":1694498048,
     "wof:name":"Yaguate",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

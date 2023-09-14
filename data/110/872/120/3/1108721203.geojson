@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015866,
-    "geom:area_square_m":185943888.175217,
+    "geom:area_square_m":185943877.546237,
     "geom:bbox":"-70.380481,18.496199,-70.23391,18.725493",
     "geom:latitude":18.593449,
     "geom:longitude":-70.32471,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Los Cacaos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.559683,
     "lbl:longitude":-70.325823,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Los Cacaos"
+    ],
     "name:fra_x_preferred":[
         "Los Cacaos"
     ],
@@ -55,7 +64,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133674,
-    "wof:geomhash":"c539882aa3f8c5fd1cdcc2d0e89bd363",
+    "wof:geomhash":"67063ea0df0839d5c7bcab40f1c56c84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1108721203,
-    "wof:lastmodified":1627522035,
+    "wof:lastmodified":1694498048,
     "wof:name":"Los Cacaos",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

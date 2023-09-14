@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016086,
-    "geom:area_square_m":187297818.299412,
+    "geom:area_square_m":187297719.102876,
     "geom:bbox":"-71.167413,19.584358,-71.025,19.755205",
     "geom:latitude":19.676622,
     "geom:longitude":-71.100269,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":14802,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Laguna Salada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.678006,
     "lbl:longitude":-71.10027,
     "lbl:max_zoom":10.0,
@@ -95,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f282807ffbe4b56ee70959cfc587adc3",
+    "wof:geomhash":"1c46985124240f8b26a82babd38a52d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890455313,
-    "wof:lastmodified":1690875441,
+    "wof:lastmodified":1694498047,
     "wof:name":"Laguna Salada",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01103,
-    "geom:area_square_m":129257644.381769,
+    "geom:area_square_m":129257644.381795,
     "geom:bbox":"-70.8552027722,18.515,-70.7160128003,18.6655437528",
     "geom:latitude":18.603287,
     "geom:longitude":-70.783663,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":11543,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Peralta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.601822,
     "lbl:longitude":-70.782628,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "Peralta"
     ],
     "name:deu_x_preferred":[
+        "Peralta"
+    ],
+    "name:eng_x_preferred":[
         "Peralta"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48f6058ff844d975192468e2c237252c",
+    "wof:geomhash":"20e6c5effb03a596a448e854b64c6025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890455305,
-    "wof:lastmodified":1582347721,
+    "wof:lastmodified":1694497896,
     "wof:name":"Peralta",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

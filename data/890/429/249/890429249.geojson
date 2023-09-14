@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035917,
-    "geom:area_square_m":418588136.670136,
+    "geom:area_square_m":418588199.256664,
     "geom:bbox":"-71.192245,19.437944,-70.885,19.635",
     "geom:latitude":19.52453,
     "geom:longitude":-71.05284,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":49740,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Mao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.52431,
     "lbl:longitude":-71.065274,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mao"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0626\u0648"
     ],
@@ -71,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"705e8fb8a214934e8c499373f66ede0b",
+    "wof:geomhash":"bccb5f886e9ede38a81357a53e89d36d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890429249,
-    "wof:lastmodified":1636501591,
+    "wof:lastmodified":1694498108,
     "wof:name":"Mao",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012667,
-    "geom:area_square_m":148554339.783816,
+    "geom:area_square_m":148554367.418707,
     "geom:bbox":"-69.345142,18.422056,-69.175717,18.541193",
     "geom:latitude":18.483987,
     "geom:longitude":-69.271706,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "San Pedro De Macor\u00eds Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":18.481693,
     "lbl:longitude":-69.270119,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Pedro De Macor\u00eds"
+    ],
     "name:fra_x_preferred":[
         "San Pedro de Macor\u00eds"
     ],
@@ -43,7 +52,7 @@
     },
     "wof:country":"DO",
     "wof:created":1476133722,
-    "wof:geomhash":"2b9cddd236034d44dc6cef2a9cf387b0",
+    "wof:geomhash":"23327edae1725ee88a1efc199b24fa9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108721269,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694498075,
     "wof:name":"San Pedro De Macor\u00eds",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

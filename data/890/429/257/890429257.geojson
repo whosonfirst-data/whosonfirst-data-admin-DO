@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008209,
-    "geom:area_square_m":95542502.052317,
+    "geom:area_square_m":95542392.733645,
     "geom:bbox":"-71.075029,19.685,-70.945,19.800777",
     "geom:latitude":19.744031,
     "geom:longitude":-71.015629,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":14250,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Los Hidalgos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.738529,
     "lbl:longitude":-71.016614,
     "lbl:max_zoom":10.0,
@@ -95,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a18601ad07178295de176832b0cb0465",
+    "wof:geomhash":"d441de12424637fa84753ac4fb5c843b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890429257,
-    "wof:lastmodified":1690875455,
+    "wof:lastmodified":1694497896,
     "wof:name":"Los Hidalgos",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

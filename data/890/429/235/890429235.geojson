@@ -195,6 +195,7 @@
         "wd:id":"Q2107258",
         "wk:page":"Neiba"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051802,
     "wof:geom_alt":[
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":890429235,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886790,
     "wof:name":"Neiba",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

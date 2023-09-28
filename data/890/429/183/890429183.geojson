@@ -102,6 +102,7 @@
         "wd:id":"Q4022462",
         "wk:page":"Yamas\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051799,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890429183,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886547,
     "wof:name":"Yamas\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

@@ -114,6 +114,7 @@
         "wd:id":"Q1639488",
         "wk:page":"Sos\u00faa"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":890429207,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Sos\u00faa",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

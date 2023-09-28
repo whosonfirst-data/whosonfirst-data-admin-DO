@@ -137,6 +137,7 @@
     "wof:concordances":{
         "hasc:id":"DO.CR.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133716,
     "wof:geomhash":"969a268beb45c1b81c57c522dc51b05d",
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108721257,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

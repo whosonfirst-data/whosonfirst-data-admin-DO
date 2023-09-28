@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.ST.VG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133735,
     "wof:geomhash":"2451cad9a808a6e4b5db4d70e1eb9f02",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721289,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"Villa Gonz\u00e1lez",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

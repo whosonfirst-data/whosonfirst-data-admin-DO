@@ -86,6 +86,7 @@
         "qs_pg:id":95732,
         "wk:page":"R\u00edo San Juan"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052127,
     "wof:geom_alt":[
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890436811,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"R\u00edo San Juan",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

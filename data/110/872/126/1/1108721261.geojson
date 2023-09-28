@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.CR.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133717,
     "wof:geomhash":"3beb720598546adab7a37b7a0917eab0",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721261,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886394,
     "wof:name":"San Gregorio De Nigua",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

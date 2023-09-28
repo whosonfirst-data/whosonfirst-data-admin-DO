@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133660,
     "wof:geomhash":"b01cf3c88a4bb0ff2718c914236cf75a",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721179,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886543,
     "wof:name":"La Ci\u00e9naga",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

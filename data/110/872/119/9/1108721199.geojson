@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DA.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133672,
     "wof:geomhash":"4105a41dae77d718c57d842636a5c953",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721199,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886336,
     "wof:name":"Loma De Cabrera",
     "wof:parent_id":85670575,
     "wof:placetype":"county",

@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SD.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133727,
     "wof:geomhash":"26625c0f77f4579df56dc7045456b4f1",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721279,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"Santo Domingo Norte",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

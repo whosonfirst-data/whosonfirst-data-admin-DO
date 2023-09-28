@@ -99,6 +99,7 @@
         "wd:id":"Q3307947",
         "wk:page":"Monci\u00f3n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051802,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890429239,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886543,
     "wof:name":"Monci\u00f3n",
     "wof:parent_id":85670543,
     "wof:placetype":"county",

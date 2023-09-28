@@ -96,6 +96,7 @@
         "wd:id":"Q949768",
         "wk:page":"Villa Riva"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890429191,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886548,
     "wof:name":"Villa Riva",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

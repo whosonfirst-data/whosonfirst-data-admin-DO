@@ -93,6 +93,7 @@
         "wd:id":"Q4008204",
         "wk:page":"Vallejuelo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":890429203,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886545,
     "wof:name":"Vallejuelo",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

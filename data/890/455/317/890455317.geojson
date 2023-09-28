@@ -186,6 +186,7 @@
         "wd:id":"Q1409818",
         "wk:page":"Jiman\u00ed"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":890455317,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Jiman\u00ed",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

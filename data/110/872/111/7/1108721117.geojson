@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.VA.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133619,
     "wof:geomhash":"14badbdd8854d3926cb35d3d1aeb0dac",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721117,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886541,
     "wof:name":"Bison\u00f3",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

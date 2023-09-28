@@ -113,6 +113,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AL.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133663,
     "wof:geomhash":"eeb850bdf0de82e19bc59e644eada25b",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108721183,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"La Romana",
     "wof:parent_id":85670673,
     "wof:placetype":"county",

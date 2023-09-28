@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.SY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133712,
     "wof:geomhash":"04d9c01050e12e6ded2749aa9885522e",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721249,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"Sabana Yegua",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

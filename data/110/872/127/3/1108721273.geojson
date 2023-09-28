@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.NC.DN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133725,
     "wof:geomhash":"d584d00b886e1a547d2f789714c477e5",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721273,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886396,
     "wof:name":"Santo Domingo De Guzm\u00e1n",
     "wof:parent_id":85670659,
     "wof:placetype":"county",

@@ -212,6 +212,7 @@
     "wof:concordances":{
         "hasc:id":"DO.JU.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133721,
     "wof:geomhash":"cb43c451158ce6271fb22bb367f1790b",
@@ -224,7 +225,7 @@
         }
     ],
     "wof:id":1108721267,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886789,
     "wof:name":"San Juan",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

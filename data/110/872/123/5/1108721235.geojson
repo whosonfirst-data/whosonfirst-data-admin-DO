@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PM.QQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133703,
     "wof:geomhash":"6cae7deb9098cf6648b4c64ca986e9f4",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721235,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Quisqueya",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

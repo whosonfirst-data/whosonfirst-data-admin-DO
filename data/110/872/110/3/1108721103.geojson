@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DU.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133612,
     "wof:geomhash":"884114c3d1c56eeb3f86f85dcff3a328",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721103,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886541,
     "wof:name":"Arenoso",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

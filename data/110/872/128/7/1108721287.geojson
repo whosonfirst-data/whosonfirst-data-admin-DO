@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.VT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133733,
     "wof:geomhash":"5c32c4f22f3a23c1b6b9ad12453c2234",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721287,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"T\u00e1bara Arriba",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

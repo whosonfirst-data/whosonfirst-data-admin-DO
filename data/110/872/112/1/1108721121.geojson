@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.JU.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133621,
     "wof:geomhash":"57d0fa5be302fa6611f813cd879cf873",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721121,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"Bohech\u00edo",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

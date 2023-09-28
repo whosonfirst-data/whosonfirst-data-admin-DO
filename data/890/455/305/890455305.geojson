@@ -101,6 +101,7 @@
         "qs_pg:id":95738,
         "wk:page":"Peralta"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":890455305,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"Peralta",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

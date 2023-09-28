@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.EP.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133624,
     "wof:geomhash":"760d5c0a45e9e2cc28f26633161ad74e",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721125,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886541,
     "wof:name":"B\u00e1nica",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

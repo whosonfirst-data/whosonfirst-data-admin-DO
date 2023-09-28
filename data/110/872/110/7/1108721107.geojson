@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.CR.BH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133614,
     "wof:geomhash":"8a6509e473f936ece3774a15ffac9984",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721107,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886253,
     "wof:name":"Bajos De Haina",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

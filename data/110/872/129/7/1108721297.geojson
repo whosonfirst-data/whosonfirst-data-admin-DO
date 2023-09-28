@@ -62,6 +62,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PP.VM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133739,
     "wof:geomhash":"b9a2b512776255644708320e416f36e9",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108721297,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886549,
     "wof:name":"Villa Montellano",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

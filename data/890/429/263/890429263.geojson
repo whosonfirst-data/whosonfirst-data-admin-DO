@@ -69,6 +69,7 @@
         "wd:id":"Q3827245",
         "wk:page":"Las Matas de Santa Cruz"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051804,
     "wof:geom_alt":[
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":890429263,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886328,
     "wof:name":"Las Matas De Santa Cruz",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

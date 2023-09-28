@@ -113,6 +113,7 @@
         "qs_pg:id":95742,
         "wk:page":"Para\u00edso"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051801,
     "wof:geom_alt":[
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":890429225,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Para\u00edso",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DA.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133638,
     "wof:geomhash":"6145ab784706c6ccefe0faee7e443994",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721145,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"El Pino",
     "wof:parent_id":85670575,
     "wof:placetype":"county",

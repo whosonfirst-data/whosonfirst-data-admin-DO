@@ -95,6 +95,7 @@
     "wof:concordances":{
         "hasc:id":"DO.EP.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133695,
     "wof:geomhash":"f64c659c9952ea9cde71e413cf046993",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108721221,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"Pedro Santana",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

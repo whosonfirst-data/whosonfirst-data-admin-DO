@@ -89,6 +89,7 @@
         "qs_pg:id":95794,
         "wk:page":"Constanza"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052852,
     "wof:geom_alt":[
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890453401,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"Constanza",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

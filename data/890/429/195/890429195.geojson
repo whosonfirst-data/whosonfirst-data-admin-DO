@@ -105,6 +105,7 @@
         "wd:id":"Q4012143",
         "wk:page":"Villa Jaragua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890429195,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886545,
     "wof:name":"Villa Jaragua",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

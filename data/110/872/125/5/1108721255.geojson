@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SD.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133715,
     "wof:geomhash":"9df32ecc1ff2e47896cd284ca0be5182",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721255,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886394,
     "wof:name":"San Antonio De Guerra",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

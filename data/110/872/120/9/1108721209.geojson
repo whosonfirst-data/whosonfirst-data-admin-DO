@@ -77,6 +77,7 @@
     "wof:concordances":{
         "hasc:id":"DO.IN.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133678,
     "wof:geomhash":"8906a34f759ac9e7426f8f9437ffbc45",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108721209,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Mella",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

@@ -99,6 +99,7 @@
         "wd:id":"Q1770889",
         "wk:page":"Villa Tapia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051799,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890429189,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886547,
     "wof:name":"Villa Tapia",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

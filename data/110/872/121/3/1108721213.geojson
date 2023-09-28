@@ -98,6 +98,7 @@
     "wof:concordances":{
         "hasc:id":"DO.MP.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133682,
     "wof:geomhash":"f53544b5d4c627201ff09659b6e965a5",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108721213,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"Monte Plata",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

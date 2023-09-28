@@ -98,6 +98,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DU.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133629,
     "wof:geomhash":"9c578808fdcf31928ef30172ad2fb939",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108721135,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"Castillo",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BR.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133676,
     "wof:geomhash":"2ab2255a0050fb6135fe4e102297b2a4",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108721207,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Los R\u00edos",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

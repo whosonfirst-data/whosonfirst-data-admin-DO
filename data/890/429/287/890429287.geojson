@@ -105,6 +105,7 @@
         "wd:id":"Q3739410",
         "wk:page":"Fantino"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890429287,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"Fantino",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

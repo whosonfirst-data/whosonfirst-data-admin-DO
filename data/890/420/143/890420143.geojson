@@ -99,6 +99,7 @@
         "wd:id":"Q3720880",
         "wk:page":"El Cercado"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051319,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890420143,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"El Cercado",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

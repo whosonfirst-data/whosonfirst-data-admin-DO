@@ -69,6 +69,7 @@
         "wd:id":"Q3827246",
         "wk:page":"Las Matas de Farf\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":890429267,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886328,
     "wof:name":"Las Matas De Farf\u00e1n",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

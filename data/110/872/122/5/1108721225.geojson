@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.MP.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133697,
     "wof:geomhash":"50f227b71aaa0b12a9eacae9aa43c01b",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721225,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Peralvillo",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

@@ -105,6 +105,7 @@
         "wd:id":"Q4011765",
         "wk:page":"Villa Altagracia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890429199,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886545,
     "wof:name":"Villa Altagracia",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

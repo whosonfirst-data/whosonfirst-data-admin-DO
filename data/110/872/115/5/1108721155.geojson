@@ -101,6 +101,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.FU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133644,
     "wof:geomhash":"7973aeb66fce4340ba668f86a02283a4",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108721155,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Fundaci\u00f3n",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

@@ -99,6 +99,7 @@
         "wd:id":"Q3720911",
         "wk:page":"El Factor"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051319,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890420141,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"El Factor",
     "wof:parent_id":85670645,
     "wof:placetype":"county",

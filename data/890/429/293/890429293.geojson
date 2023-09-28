@@ -149,6 +149,7 @@
         "qs_pg:id":95816,
         "wk:page":"Altamira"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051806,
     "wof:geom_alt":[
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":890429293,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886790,
     "wof:name":"Altamira",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

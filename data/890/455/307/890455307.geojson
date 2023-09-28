@@ -63,6 +63,7 @@
         "hasc:id":"DO.MC.PS",
         "qs_pg:id":95739
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":890455307,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886375,
     "wof:name":"Pepillo Salcedo",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

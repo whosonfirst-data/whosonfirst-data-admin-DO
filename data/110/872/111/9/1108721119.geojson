@@ -86,6 +86,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SD.BC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133620,
     "wof:geomhash":"65f05fd59dcca59103abc3a95b0b0af8",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108721119,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"Boca Chica",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

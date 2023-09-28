@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"DO.MP.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133617,
     "wof:geomhash":"14b87bf7a5d905f57941afd123b3fc15",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721113,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Bayaguana",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

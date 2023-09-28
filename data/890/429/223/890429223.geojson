@@ -96,6 +96,7 @@
         "wd:id":"Q3909478",
         "wk:page":"Postrer R\u00edo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051801,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890429223,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Postrer R\u00edo",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

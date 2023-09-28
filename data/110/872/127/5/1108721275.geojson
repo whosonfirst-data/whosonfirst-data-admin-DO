@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SD.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133726,
     "wof:geomhash":"d659f31c82a363cece2562a924384e55",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108721275,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Santo Domingo Este",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

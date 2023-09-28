@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.JU.JH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133658,
     "wof:geomhash":"0072e65acc164d78f34edc58025a2597",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721175,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886311,
     "wof:name":"Juan De Herrera",
     "wof:parent_id":85670549,
     "wof:placetype":"county",

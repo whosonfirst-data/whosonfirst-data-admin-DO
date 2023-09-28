@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.MN.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133698,
     "wof:geomhash":"33c947649087d6f7c41350873afff504",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721227,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"Piedra Blanca",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

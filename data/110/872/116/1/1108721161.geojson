@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133647,
     "wof:geomhash":"6d19894deeec81fcfbf4046fd03745b3",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721161,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Guayabal",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

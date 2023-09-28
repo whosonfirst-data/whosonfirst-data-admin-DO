@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BR.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133645,
     "wof:geomhash":"b38044d5167c2ee5c5075f0e8ad60550",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721157,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886292,
     "wof:name":"Galv\u00e1n",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

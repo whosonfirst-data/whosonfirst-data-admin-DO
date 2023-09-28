@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PM.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133722,
     "wof:geomhash":"23327edae1725ee88a1efc199b24fa9c",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721269,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886396,
     "wof:name":"San Pedro De Macor\u00eds",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

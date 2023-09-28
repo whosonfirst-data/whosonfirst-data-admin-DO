@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"DO.EP.JS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133659,
     "wof:geomhash":"f0a0d0d7946f95d56734cb4c36a52833",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108721177,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886311,
     "wof:name":"Juan Santiago",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

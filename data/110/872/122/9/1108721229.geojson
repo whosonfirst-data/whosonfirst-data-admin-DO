@@ -242,6 +242,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133699,
     "wof:geomhash":"cd25dc50ad272646477ccf3795bd8387",
@@ -254,7 +255,7 @@
         }
     ],
     "wof:id":1108721229,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"Polo",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

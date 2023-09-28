@@ -101,6 +101,7 @@
         "qs_pg:id":95752,
         "wk:page":"Moca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051803,
     "wof:geom_alt":[
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":890429241,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886790,
     "wof:name":"Moca",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

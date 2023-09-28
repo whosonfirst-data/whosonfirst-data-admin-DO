@@ -62,6 +62,7 @@
     "wof:concordances":{
         "hasc:id":"DO.CR.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133674,
     "wof:geomhash":"67063ea0df0839d5c7bcab40f1c56c84",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108721203,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Los Cacaos",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

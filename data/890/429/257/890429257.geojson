@@ -96,6 +96,7 @@
         "wd:id":"Q518820",
         "wk:page":"Los Hidalgos"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051804,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890429257,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Los Hidalgos",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

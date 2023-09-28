@@ -86,6 +86,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133616,
     "wof:geomhash":"ff7e9fa7dd8da9e6e29f9e9d84a6002b",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108721111,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886788,
     "wof:name":"Barahona",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

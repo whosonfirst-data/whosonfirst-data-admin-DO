@@ -81,6 +81,7 @@
         "hasc:id":"DO.PM.RS",
         "qs_pg:id":95734
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051801,
     "wof:geom_alt":[
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890429221,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886543,
     "wof:name":"Ram\u00f3n Santana",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

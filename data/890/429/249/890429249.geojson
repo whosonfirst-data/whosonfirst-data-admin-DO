@@ -75,6 +75,7 @@
         "hasc:id":"DO.VA.MA",
         "qs_pg:id":95756
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051803,
     "wof:geom_alt":[
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":890429249,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886790,
     "wof:name":"Mao",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

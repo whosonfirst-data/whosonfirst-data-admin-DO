@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10631,
-    "geom:area_square_m":1246443805.517176,
+    "geom:area_square_m":1246443852.571896,
     "geom:bbox":"-70.380481,18.226223,-70.004261,18.805",
     "geom:latitude":18.522497,
     "geom:longitude":-70.20613,
@@ -304,17 +304,19 @@
         "gn:id":3493186,
         "gp:id":2345201,
         "hasc:id":"DO.CR",
+        "iso:code":"DO-21",
         "iso:id":"DO-21",
         "qs_pg:id":894875,
         "unlc:id":"DO-21",
         "wd:id":"Q1366107",
         "wk:page":"San Crist\u00f3bal Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f3b7716aef5c70b71270a08986d4e3c",
+    "wof:geomhash":"5a420450abb2b95419a991b51baedd2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875417,
+    "wof:lastmodified":1695884363,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

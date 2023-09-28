@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084963,
-    "geom:area_square_m":993903548.623709,
+    "geom:area_square_m":993903670.893421,
     "geom:bbox":"-70.583996,18.715,-70.225686,19.130757",
     "geom:latitude":18.905721,
     "geom:longitude":-70.414984,
@@ -293,17 +293,19 @@
         "gn:id":3496274,
         "gp:id":2345199,
         "hasc:id":"DO.MN",
+        "iso:code":"DO-28",
         "iso:id":"DO-28",
         "qs_pg:id":318427,
         "unlc:id":"DO-28",
         "wd:id":"Q1295496",
         "wk:page":"Monse\u00f1or Nouel Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b1854c8a0f0385a7fa9a3208ffc51c5",
+    "wof:geomhash":"d3179cf5c7945b1089efd97c3e4c8085",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875416,
+    "wof:lastmodified":1695884363,
     "wof:name":"Monse\u00f1or Nouel",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

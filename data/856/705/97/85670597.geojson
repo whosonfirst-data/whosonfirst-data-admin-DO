@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165941,
-    "geom:area_square_m":1946715316.755846,
+    "geom:area_square_m":1946715840.403639,
     "geom:bbox":"-72.007414,18.135,-71.21153,18.690833",
     "geom:latitude":18.424046,
     "geom:longitude":-71.622667,
@@ -281,17 +281,19 @@
         "gn:id":3504326,
         "gp:id":2345179,
         "hasc:id":"DO.IN",
+        "iso:code":"DO-10",
         "iso:id":"DO-10",
         "qs_pg:id":235582,
         "unlc:id":"DO-10",
         "wd:id":"Q1424401",
         "wk:page":"Independencia Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd6e3c8e81a6fd4eda29daa24b8235c3",
+    "wof:geomhash":"af7f7a7d1f602188e585399776c724f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875421,
+    "wof:lastmodified":1695884897,
     "wof:name":"Independencia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196733,
-    "geom:area_square_m":2299344479.657606,
+    "geom:area_square_m":2299344296.290978,
     "geom:bbox":"-70.957799,18.686017,-70.27718,19.375",
     "geom:latitude":19.054666,
     "geom:longitude":-70.631058,
@@ -303,17 +303,19 @@
         "gn:id":3499977,
         "gp:id":2345198,
         "hasc:id":"DO.VE",
+        "iso:code":"DO-13",
         "iso:id":"DO-13",
         "qs_pg:id":423731,
         "unlc:id":"DO-13",
         "wd:id":"Q594405",
         "wk:page":"La Vega Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55da64fbafebb5c0e92c35064abed67d",
+    "wof:geomhash":"9802cddad86e9722b3f5ca3fd169f144",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875418,
+    "wof:lastmodified":1695884896,
     "wof:name":"La Vega",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

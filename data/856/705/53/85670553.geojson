@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112107,
-    "geom:area_square_m":1314082379.638336,
+    "geom:area_square_m":1314082499.545897,
     "geom:bbox":"-70.171807,18.397888,-69.515,18.724873",
     "geom:latitude":18.565679,
     "geom:longitude":-69.847718,
@@ -298,17 +298,19 @@
         "gn:id":6201373,
         "gp:id":28358196,
         "hasc:id":"DO.SD",
+        "iso:code":"DO-32",
         "iso:id":"DO-32",
         "qs_pg:id":210730,
         "unlc:id":"DO-32",
         "wd:id":"Q1352536",
         "wk:page":"Santo Domingo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f569d9b7611982356ffb2369843809ec",
+    "wof:geomhash":"050c93451da2a06dd2f3ea19ce6dbd49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875421,
+    "wof:lastmodified":1695884896,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

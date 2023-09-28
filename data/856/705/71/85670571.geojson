@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157328,
-    "geom:area_square_m":1831010283.441654,
+    "geom:area_square_m":1831009877.919427,
     "geom:bbox":"-71.252414,19.515,-70.365952,19.933805",
     "geom:latitude":19.745527,
     "geom:longitude":-70.799869,
@@ -310,17 +310,19 @@
         "gn:id":3494267,
         "gp:id":2345187,
         "hasc:id":"DO.PP",
+        "iso:code":"DO-18",
         "iso:id":"DO-18",
         "qs_pg:id":890053,
         "unlc:id":"DO-18",
         "wd:id":"Q693487",
         "wk:page":"Puerto Plata province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6682de35a11141fa6c0603185f643410",
+    "wof:geomhash":"c7db63589255fb44f2830aafb00f8af0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875422,
+    "wof:lastmodified":1695884897,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

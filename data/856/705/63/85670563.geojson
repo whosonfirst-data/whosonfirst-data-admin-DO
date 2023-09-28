@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108628,
-    "geom:area_square_m":1273421023.192235,
+    "geom:area_square_m":1273421023.192111,
     "geom:bbox":"-69.6048394856,18.391222,-69.0695353463,18.8160751261",
     "geom:latitude":18.549954,
     "geom:longitude":-69.360514,
@@ -280,16 +280,18 @@
         "gn:id":3493031,
         "gp:id":2345192,
         "hasc:id":"DO.PM",
+        "iso:code":"DO-23",
         "iso:id":"DO-23",
         "qs_pg:id":221721,
         "unlc:id":"DO-23",
         "wd:id":"Q1366119"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3073e425839491fd8eb8003c561a1951",
+    "wof:geomhash":"1eaa9a6762e13b1e727140f2685e64b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582347713,
+    "wof:lastmodified":1695884364,
     "wof:name":"San Pedro De Macor\u00eds",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

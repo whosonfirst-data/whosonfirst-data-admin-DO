@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073402,
-    "geom:area_square_m":860125201.52631,
+    "geom:area_square_m":860125201.526279,
     "geom:bbox":"-70.6862078815,18.4221652082,-70.3461750744,18.7961844014",
     "geom:latitude":18.619505,
     "geom:longitude":-70.495276,
@@ -259,16 +259,18 @@
         "gn:id":6201372,
         "gp:id":28358195,
         "hasc:id":"DO.JO",
+        "iso:code":"DO-31",
         "iso:id":"DO-31",
         "qs_pg:id":203842,
         "unlc:id":"DO-31",
         "wd:id":"Q1424391"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3bacb3c92dbdaee87172e6746bab9517",
+    "wof:geomhash":"594a4c25487b9cff6d6063d0680fb260",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -283,7 +285,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582347711,
+    "wof:lastmodified":1695884363,
     "wof:name":"San Jos\u00e9 De Ocoa",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

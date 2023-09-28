@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288462,
-    "geom:area_square_m":3375042809.549847,
+    "geom:area_square_m":3375043379.659843,
     "geom:bbox":"-71.645399,18.585789,-70.891753,19.177912",
     "geom:latitude":18.876644,
     "geom:longitude":-71.289681,
@@ -317,17 +317,19 @@
         "gn:id":3493091,
         "gp:id":2345191,
         "hasc:id":"DO.JU",
+        "iso:code":"DO-22",
         "iso:id":"DO-22",
         "qs_pg:id":219542,
         "unlc:id":"DO-22",
         "wd:id":"Q2001793",
         "wk:page":"San Juan Province (Dominican Republic)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bb0b6bcdaeee326fb22904e89d4ecc4",
+    "wof:geomhash":"e84a35a2370da87c7079b25cc995ed8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875422,
+    "wof:lastmodified":1695884896,
     "wof:name":"San Juan",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

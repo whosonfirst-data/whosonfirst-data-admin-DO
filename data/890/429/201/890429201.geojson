@@ -102,6 +102,7 @@
         "wd:id":"Q1770645",
         "wk:page":"Vicente Noble"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890429201,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Vicente Noble",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

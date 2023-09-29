@@ -99,6 +99,7 @@
         "wd:id":"Q1770668",
         "wk:page":"Miches"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051803,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890429243,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"Miches",
     "wof:parent_id":85670663,
     "wof:placetype":"county",

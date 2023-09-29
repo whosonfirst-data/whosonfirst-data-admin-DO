@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118835,
-    "geom:area_square_m":1389360957.891047,
+    "geom:area_square_m":1389360660.856086,
     "geom:bbox":"-71.88632,18.654857,-71.324038,19.280896",
     "geom:latitude":18.999801,
     "geom:longitude":-71.610379,
@@ -307,15 +307,17 @@
         "gn:id":3507269,
         "gp:id":2345181,
         "hasc:id":"DO.EP",
+        "iso:code":"DO-07",
         "iso:id":"DO-07",
         "qs_pg:id":1135012,
         "wd:id":"Q1137545"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73b5bbc6433c032a62395c2bbc7e0011",
+    "wof:geomhash":"66be1dbc1f323ac13a991a51e3654e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875417,
+    "wof:lastmodified":1695884895,
     "wof:name":"La Estrelleta",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

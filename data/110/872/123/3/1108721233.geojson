@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PP.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133702,
     "wof:geomhash":"79e01a337f076a26d85e64bda92c92d8",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721233,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886789,
     "wof:name":"Puerto Plata",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

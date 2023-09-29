@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.JO.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133720,
     "wof:geomhash":"15ba24bbf01afcf5fa6ce78c27ee024e",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721265,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886395,
     "wof:name":"San Jos\u00e9 De Ocoa",
     "wof:parent_id":85670627,
     "wof:placetype":"county",

@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.VN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133654,
     "wof:geomhash":"9f721d3653fda8d8c24a46c599d16c17",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721171,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886543,
     "wof:name":"Jaquimeyes",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

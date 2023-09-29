@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07085,
-    "geom:area_square_m":825382829.504469,
+    "geom:area_square_m":825382742.311111,
     "geom:bbox":"-71.192245,19.437944,-70.876425,19.755205",
     "geom:latitude":19.585538,
     "geom:longitude":-71.04202,
@@ -290,17 +290,19 @@
         "gn:id":3492112,
         "gp:id":2345195,
         "hasc:id":"DO.VA",
+        "iso:code":"DO-27",
         "iso:id":"DO-27",
         "qs_pg:id":219544,
         "unlc:id":"DO-27",
         "wd:id":"Q1774848",
         "wk:page":"Valverde Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb007375fcf81a568441e059f95922c9",
+    "wof:geomhash":"6901985554cfcafc23cd077096a23217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875419,
+    "wof:lastmodified":1695884896,
     "wof:name":"Valverde",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

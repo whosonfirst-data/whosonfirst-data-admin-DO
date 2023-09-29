@@ -72,6 +72,7 @@
         "wd:id":"Q3944208",
         "wk:page":"Sabana de la Mar"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051801,
     "wof:geom_alt":[
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":890429219,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886393,
     "wof:name":"Sabana De La Mar",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.ES.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133630,
     "wof:geomhash":"f5a7578741c6ad93955c676136274cfb",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721137,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"Cayetano Germos\u00e9n",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

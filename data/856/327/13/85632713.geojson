@@ -1189,6 +1189,7 @@
         "hasc:id":"DO",
         "icao:code":"HI",
         "ioc:id":"DOM",
+        "iso:code":"DO",
         "itu:id":"DOM",
         "loc:id":"n79094586",
         "m49:code":"214",
@@ -1203,6 +1204,7 @@
         "wk:page":"Dominican Republic",
         "wmo:id":"DR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:country_alpha3":"DOM",
     "wof:geom_alt":[
@@ -1224,7 +1226,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639538,
+    "wof:lastmodified":1695881195,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

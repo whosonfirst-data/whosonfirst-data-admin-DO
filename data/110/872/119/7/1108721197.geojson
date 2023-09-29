@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.YV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133671,
     "wof:geomhash":"bde61e4f2d7551ca2234a22596b5c997",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721197,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886331,
     "wof:name":"Las Yayas De Viajama",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

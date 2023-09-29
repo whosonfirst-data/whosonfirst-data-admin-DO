@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.257053,
-    "geom:area_square_m":3012875939.964672,
+    "geom:area_square_m":3012875443.347102,
     "geom:bbox":"-68.933946,18.201221,-68.325417,18.972255",
     "geom:latitude":18.577327,
     "geom:longitude":-68.657283,
@@ -293,17 +293,19 @@
         "gn:id":3503706,
         "gp:id":2345180,
         "hasc:id":"DO.AL",
+        "iso:code":"DO-11",
         "iso:id":"DO-11",
         "qs_pg:id":913534,
         "unlc:id":"DO-11",
         "wd:id":"Q1323353",
         "wk:page":"La Altagracia Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"786aa06d9c7d5c70e50ebc59a98a4021",
+    "wof:geomhash":"7b2e7758a43a014fae0165565bd68973",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875414,
+    "wof:lastmodified":1695884895,
     "wof:name":"La Altagracia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

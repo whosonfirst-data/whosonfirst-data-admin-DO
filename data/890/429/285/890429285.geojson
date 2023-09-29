@@ -102,6 +102,7 @@
         "wd:id":"Q3758618",
         "wk:page":"Gaspar Hern\u00e1ndez"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890429285,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Gaspar Hern\u00e1ndez",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

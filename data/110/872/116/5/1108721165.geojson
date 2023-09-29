@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.HM.HM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133651,
     "wof:geomhash":"e77147f9aa23b16d19aa96462f388955",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721165,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886788,
     "wof:name":"Hato Mayor",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

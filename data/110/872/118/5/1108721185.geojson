@@ -89,6 +89,7 @@
     "wof:concordances":{
         "hasc:id":"DO.VE.CV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133664,
     "wof:geomhash":"5aaf03f59f36ea312c9b98b6d769defa",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108721185,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"La Vega",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098277,
-    "geom:area_square_m":1146358755.029764,
+    "geom:area_square_m":1146358705.232483,
     "geom:bbox":"-71.517168,19.169488,-71.082378,19.564994",
     "geom:latitude":19.379782,
     "geom:longitude":-71.323584,
@@ -289,17 +289,19 @@
         "gn:id":3492912,
         "gp:id":2345194,
         "hasc:id":"DO.SR",
+        "iso:code":"DO-26",
         "iso:id":"DO-26",
         "qs_pg:id":229372,
         "unlc:id":"DO-26",
         "wd:id":"Q2021942",
         "wk:page":"Santiago Rodr\u00edguez Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e5095bbb08d91bfad0919b48253fc8f",
+    "wof:geomhash":"c2932e987a987fa891d80213a460b4b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875420,
+    "wof:lastmodified":1695884363,
     "wof:name":"Santiago Rodr\u00edguez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

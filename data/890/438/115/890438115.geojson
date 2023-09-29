@@ -86,6 +86,7 @@
         "qs_pg:id":95784,
         "wk:page":"El Valle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052181,
     "wof:geom_alt":[
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890438115,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"El Valle",
     "wof:parent_id":85670637,
     "wof:placetype":"county",

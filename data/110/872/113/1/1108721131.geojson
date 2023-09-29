@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.MC.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133627,
     "wof:geomhash":"e0239b94378076f0cd03860a30e3624b",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721131,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886274,
     "wof:name":"Casta\u00f1uelas",
     "wof:parent_id":85670567,
     "wof:placetype":"county",

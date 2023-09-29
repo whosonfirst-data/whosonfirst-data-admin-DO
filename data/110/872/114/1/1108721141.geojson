@@ -77,6 +77,7 @@
     "wof:concordances":{
         "hasc:id":"DO.IN.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133634,
     "wof:geomhash":"61c6e5c7401476c5f1052f27c05750d1",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108721141,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"Crist\u00f3bal",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184449,
-    "geom:area_square_m":2147208771.335944,
+    "geom:area_square_m":2147208687.110435,
     "geom:bbox":"-71.779663,19.49626,-71.135,19.913805",
     "geom:latitude":19.703292,
     "geom:longitude":-71.471545,
@@ -309,16 +309,18 @@
         "gn:id":3496200,
         "gp:id":2345184,
         "hasc:id":"DO.MC",
+        "iso:code":"DO-15",
         "iso:id":"DO-15",
         "qs_pg:id":430951,
         "unlc:id":"DO-15",
         "wd:id":"Q592624"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b076ad0912437d791f59d18b0a215ae4",
+    "wof:geomhash":"48fdb90c2f0e83ecda9156b5fff292b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875419,
+    "wof:lastmodified":1695884896,
     "wof:name":"Monte Cristi",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -300,6 +300,7 @@
         "wd:id":"Q1770877",
         "wk:page":"Tenares"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051601,
     "wof:geom_alt":[
@@ -315,7 +316,7 @@
         }
     ],
     "wof:id":890425729,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"Tenares",
     "wof:parent_id":85670583,
     "wof:placetype":"county",

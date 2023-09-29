@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141871,
-    "geom:area_square_m":1656089475.466542,
+    "geom:area_square_m":1656089673.141915,
     "geom:bbox":"-70.365499,19.045357,-69.668238,19.521115",
     "geom:latitude":19.258955,
     "geom:longitude":-70.081461,
@@ -293,17 +293,19 @@
         "gn:id":3508718,
         "gp:id":2345177,
         "hasc:id":"DO.DU",
+        "iso:code":"DO-06",
         "iso:id":"DO-06",
         "qs_pg:id":235580,
         "unlc:id":"DO-06",
         "wd:id":"Q1262745",
         "wk:page":"Duarte Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a605f3101b2051a3499d9ae8637e25c",
+    "wof:geomhash":"109cb3a7ab8b78acddc1f450498eae1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875414,
+    "wof:lastmodified":1695884895,
     "wof:name":"Duarte",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

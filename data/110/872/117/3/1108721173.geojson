@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.VE.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133656,
     "wof:geomhash":"7b1647b79bd99f85c02e3a4cdedb3347",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721173,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886543,
     "wof:name":"Jima Abajo",
     "wof:parent_id":85670615,
     "wof:placetype":"county",

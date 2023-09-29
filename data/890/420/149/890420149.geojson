@@ -102,6 +102,7 @@
         "wd:id":"Q3665682",
         "wk:page":"Cevicos"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051320,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890420149,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Cevicos",
     "wof:parent_id":85670557,
     "wof:placetype":"county",

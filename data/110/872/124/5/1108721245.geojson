@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.ST.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133710,
     "wof:geomhash":"09e9fc46f5e8f96b36ff07590c7c9f12",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721245,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"Sabana Iglesia",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

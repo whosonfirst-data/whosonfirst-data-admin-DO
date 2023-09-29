@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DU.LG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133667,
     "wof:geomhash":"a63252317bc61dee8eb66d4c596fe7ba",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721191,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Las Gu\u00e1ranas",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

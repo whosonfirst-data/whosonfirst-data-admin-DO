@@ -108,6 +108,7 @@
         "wd:id":"Q1344189",
         "wk:page":"Enriquillo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051806,
     "wof:geom_alt":[
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":890429291,
-    "wof:lastmodified":1694497897,
+    "wof:lastmodified":1695886791,
     "wof:name":"Enriquillo",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

@@ -104,6 +104,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PN.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133687,
     "wof:geomhash":"3d05ab2010c5d62bf88e0e8f4664a980",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108721217,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"Pedernales",
     "wof:parent_id":85670605,
     "wof:placetype":"county",

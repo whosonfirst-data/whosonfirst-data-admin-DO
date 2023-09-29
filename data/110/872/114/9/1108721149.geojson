@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133641,
     "wof:geomhash":"a37a3da73223e5b07f6b37a5f44e4471",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721149,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"Esteban\u00eda",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

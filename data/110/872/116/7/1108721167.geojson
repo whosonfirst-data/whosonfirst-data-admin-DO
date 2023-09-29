@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.ES.JN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133653,
     "wof:geomhash":"b132a3505f881482a158156619530f76",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721167,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886309,
     "wof:name":"Jamao Al Norte",
     "wof:parent_id":85670581,
     "wof:placetype":"county",

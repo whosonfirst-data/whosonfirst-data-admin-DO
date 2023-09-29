@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114168,
-    "geom:area_square_m":1338676728.5036,
+    "geom:area_square_m":1338676573.583294,
     "geom:bbox":"-71.681757,18.325237,-70.986479,18.655",
     "geom:latitude":18.510526,
     "geom:longitude":-71.344862,
@@ -288,16 +288,18 @@
         "gn:id":3512050,
         "gp:id":2345173,
         "hasc:id":"DO.BR",
+        "iso:code":"DO-03",
         "iso:id":"DO-03",
         "qs_pg:id":1108052,
         "unlc:id":"DO-03",
         "wd:id":"Q807079"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a93aa8ff57616605ba89f87b02f9daa",
+    "wof:geomhash":"ba706bac59de299fcbd0e2770a0b3a03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875419,
+    "wof:lastmodified":1695884896,
     "wof:name":"Bahoruco",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

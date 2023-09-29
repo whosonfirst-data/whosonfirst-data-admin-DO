@@ -96,6 +96,7 @@
         "wd:id":"Q3716731",
         "wk:page":"Duverg\u00e9"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051319,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890420145,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Duverg\u00e9",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

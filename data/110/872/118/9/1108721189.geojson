@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133665,
     "wof:geomhash":"90896812543b44dff666cd49203b2e10",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721189,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Las Charcas",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

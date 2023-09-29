@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SM.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133713,
     "wof:geomhash":"1c46d716e05281e0611bb2bbe09b12aa",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721253,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886394,
     "wof:name":"Saman\u00e1",
     "wof:parent_id":85670653,
     "wof:placetype":"county",

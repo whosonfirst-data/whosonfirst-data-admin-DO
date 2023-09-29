@@ -99,6 +99,7 @@
         "wd:id":"Q4012142",
         "wk:page":"Villa Isabela"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890429197,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886545,
     "wof:name":"Villa Isabela",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

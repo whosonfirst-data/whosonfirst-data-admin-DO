@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.PV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133701,
     "wof:geomhash":"e20733fa4838c7678afdc49f09894f9b",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721231,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

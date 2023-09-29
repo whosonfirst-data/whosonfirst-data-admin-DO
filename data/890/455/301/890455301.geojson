@@ -66,6 +66,7 @@
         "wd:id":"Q3947426",
         "wk:page":"San Jos\u00e9 de las Matas"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":890455301,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886395,
     "wof:name":"San Jos\u00e9 De Las Matas",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SR.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133718,
     "wof:geomhash":"26c8600872ce114ae6b572df59fc1c73",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721263,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886394,
     "wof:name":"San Ignacio De Sabaneta",
     "wof:parent_id":85670543,
     "wof:placetype":"county",

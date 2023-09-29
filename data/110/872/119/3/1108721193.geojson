@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.LS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133669,
     "wof:geomhash":"0fc991863d9730378022e7e35e460580",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721193,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Las Salinas",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

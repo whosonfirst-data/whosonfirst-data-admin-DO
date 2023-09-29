@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"DO.CR.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133626,
     "wof:geomhash":"78dd34bc1e34937c8d7fd782805abbfa",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721129,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"Cambita Garabitos",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

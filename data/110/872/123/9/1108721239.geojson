@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DA.RE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133706,
     "wof:geomhash":"d48f47db4431e0f9803935bf2efedb3c",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721239,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886545,
     "wof:name":"Restauraci\u00f3n",
     "wof:parent_id":85670575,
     "wof:placetype":"county",

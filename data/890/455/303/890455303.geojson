@@ -113,6 +113,7 @@
         "qs_pg:id":95737,
         "wk:page":"Pimentel"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":890455303,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886789,
     "wof:name":"Pimentel",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

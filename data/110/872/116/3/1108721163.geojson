@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PM.GY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133649,
     "wof:geomhash":"c0cbbe3c2ed6abc177c66a4fde0380ad",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108721163,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886543,
     "wof:name":"Guayacanes",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

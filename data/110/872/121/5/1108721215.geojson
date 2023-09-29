@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DA.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133686,
     "wof:geomhash":"789ca32527777a9a98e6321c093c7e00",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721215,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886544,
     "wof:name":"Partido",
     "wof:parent_id":85670575,
     "wof:placetype":"county",

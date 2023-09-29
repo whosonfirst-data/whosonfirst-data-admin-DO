@@ -92,6 +92,7 @@
         "qs_pg:id":95712,
         "wk:page":"Tamayo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051800,
     "wof:geom_alt":[
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":890429205,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Tamayo",
     "wof:parent_id":85670589,
     "wof:placetype":"county",

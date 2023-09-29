@@ -102,6 +102,7 @@
         "wd:id":"Q3877399",
         "wk:page":"Nizao"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051802,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890429233,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Nizao",
     "wof:parent_id":85670623,
     "wof:placetype":"county",

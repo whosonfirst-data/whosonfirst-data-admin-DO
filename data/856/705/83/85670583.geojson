@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036825,
-    "geom:area_square_m":429444700.098897,
+    "geom:area_square_m":429444563.246754,
     "geom:bbox":"-70.459947,19.231444,-70.247536,19.559002",
     "geom:latitude":19.416689,
     "geom:longitude":-70.368841,
@@ -280,16 +280,18 @@
         "gn:id":3493282,
         "gp:id":2345188,
         "hasc:id":"DO.SC",
+        "iso:code":"DO-19",
         "iso:id":"DO-19",
         "qs_pg:id":318415,
         "wd:id":"Q549386",
         "wk:page":"Hermanas Mirabal Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e058090233702eb39d27eb6d93e9d31",
+    "wof:geomhash":"44f64c93baca12e9e7ca3e51d43318cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875422,
+    "wof:lastmodified":1695884897,
     "wof:name":"Hermanas",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

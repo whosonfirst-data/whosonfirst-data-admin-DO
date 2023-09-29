@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PP.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133646,
     "wof:geomhash":"6c5378a2320a2292e3b6831621a7acc4",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721159,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886542,
     "wof:name":"Guananico",
     "wof:parent_id":85670571,
     "wof:placetype":"county",

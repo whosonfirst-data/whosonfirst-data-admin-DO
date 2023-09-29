@@ -96,6 +96,7 @@
         "wd:id":"Q1770660",
         "wk:page":"J\u00e1nico"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890429271,
-    "wof:lastmodified":1694497897,
+    "wof:lastmodified":1695886791,
     "wof:name":"J\u00e1nico",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

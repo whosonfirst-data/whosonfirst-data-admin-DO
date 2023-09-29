@@ -115,6 +115,7 @@
         "wd:id":"Q681999",
         "wk:page":"San Francisco de Macor\u00eds"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051801,
     "wof:geom_alt":[
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":890429213,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886545,
     "wof:name":"San Francisco De Macor\u00eds",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

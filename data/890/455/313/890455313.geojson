@@ -96,6 +96,7 @@
         "wd:id":"Q1770074",
         "wk:page":"Laguna Salada"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890455313,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886541,
     "wof:name":"Laguna Salada",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

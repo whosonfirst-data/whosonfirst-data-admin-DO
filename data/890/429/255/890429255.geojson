@@ -63,6 +63,7 @@
         "hasc:id":"DO.PM.LL",
         "qs_pg:id":95759
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051804,
     "wof:geom_alt":[
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":890429255,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886338,
     "wof:name":"Los Llanos",
     "wof:parent_id":85670563,
     "wof:placetype":"county",

@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"DO.ST.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133731,
     "wof:geomhash":"c7080d7097bbd3f1d9d37d9d4485d483",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108721285,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886409,
     "wof:name":"Tamboril",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

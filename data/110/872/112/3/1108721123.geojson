@@ -98,6 +98,7 @@
     "wof:concordances":{
         "hasc:id":"DO.MN.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133622,
     "wof:geomhash":"c3ed636d77f25eca93bc131e58fe40b4",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108721123,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"Bonao",
     "wof:parent_id":85670619,
     "wof:placetype":"county",

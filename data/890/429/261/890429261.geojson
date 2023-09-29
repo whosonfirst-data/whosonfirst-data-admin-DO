@@ -96,6 +96,7 @@
         "wd:id":"Q3831982",
         "wk:page":"Licey al Medio"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051804,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890429261,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Licey Al Medio",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

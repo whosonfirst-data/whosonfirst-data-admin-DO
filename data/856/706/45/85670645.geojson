@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104125,
-    "geom:area_square_m":1214063240.76598,
+    "geom:area_square_m":1214063236.17452,
     "geom:bbox":"-70.202974,19.208291,-69.744685,19.683722",
     "geom:latitude":19.448073,
     "geom:longitude":-69.968953,
@@ -292,16 +292,18 @@
         "gn:id":3496772,
         "gp:id":2345183,
         "hasc:id":"DO.MT",
+        "iso:code":"DO-14",
         "iso:id":"DO-14",
         "qs_pg:id":1135014,
         "unlc:id":"DO-14",
         "wd:id":"Q1949656"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2429771a459230b31c867724a4f13b8",
+    "wof:geomhash":"f24afee03024d56e708a6b120ad0b52a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875415,
+    "wof:lastmodified":1695884363,
     "wof:name":"Mar\u00eda Trinidad S\u00e1nchez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

@@ -104,6 +104,7 @@
     "wof:concordances":{
         "hasc:id":"DO.PV.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133615,
     "wof:geomhash":"02de8cf9cbe65e7df1bfa2d22488c996",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108721109,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Ban\u00ed",
     "wof:parent_id":85670623,
     "wof:placetype":"county",

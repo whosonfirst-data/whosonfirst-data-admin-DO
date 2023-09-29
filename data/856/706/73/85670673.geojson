@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056354,
-    "geom:area_square_m":661039747.623831,
+    "geom:area_square_m":661040285.601179,
     "geom:bbox":"-69.115954,18.107889,-68.571281,18.65597",
     "geom:latitude":18.442299,
     "geom:longitude":-68.923834,
@@ -314,16 +314,18 @@
         "gn:id":3500955,
         "gp:id":2345182,
         "hasc:id":"DO.RO",
+        "iso:code":"DO-12",
         "iso:id":"DO-12",
         "qs_pg:id":1135013,
         "unlc:id":"DO-12",
         "wd:id":"Q1140742"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"025e18bc697cd88a6bbfb00d7912d580",
+    "wof:geomhash":"3e65450cbebb68b6fd7202e529216f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875415,
+    "wof:lastmodified":1695884896,
     "wof:name":"La Romana",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

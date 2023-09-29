@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.DU.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133642,
     "wof:geomhash":"83ed488be289ed10c0fb6ca994c29b33",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721153,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886291,
     "wof:name":"Eugenio Mar\u00eda De Hostos",
     "wof:parent_id":85670633,
     "wof:placetype":"county",

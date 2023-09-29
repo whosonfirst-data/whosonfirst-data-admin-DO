@@ -536,6 +536,7 @@
     "wof:concordances":{
         "hasc:id":"DO.ST.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133723,
     "wof:geomhash":"237008f86365f3c34560cae295d37d59",
@@ -548,7 +549,7 @@
         }
     ],
     "wof:id":1108721271,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"Santiago",
     "wof:parent_id":85670537,
     "wof:placetype":"county",

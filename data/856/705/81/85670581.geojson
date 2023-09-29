@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072632,
-    "geom:area_square_m":846405292.958417,
+    "geom:area_square_m":846405704.052192,
     "geom:bbox":"-70.605,19.307325,-70.084928,19.704338",
     "geom:latitude":19.535804,
     "geom:longitude":-70.391689,
@@ -287,17 +287,19 @@
         "gn:id":3505867,
         "gp:id":2345178,
         "hasc:id":"DO.ES",
+        "iso:code":"DO-09",
         "iso:id":"DO-09",
         "qs_pg:id":235581,
         "unlc:id":"DO-09",
         "wd:id":"Q530231",
         "wk:page":"Espaillat Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23014b31c21d13772cdff0e951482ebe",
+    "wof:geomhash":"c7de6f4deedb8abca1334619c27461ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875420,
+    "wof:lastmodified":1695884896,
     "wof:name":"Espaillat",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

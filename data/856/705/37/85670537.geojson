@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241352,
-    "geom:area_square_m":2816118214.153255,
+    "geom:area_square_m":2816118545.444931,
     "geom:bbox":"-71.253518,19.022085,-70.545,19.655",
     "geom:latitude":19.330148,
     "geom:longitude":-70.900197,
@@ -311,16 +311,18 @@
         "gn:id":3492918,
         "gp:id":2345193,
         "hasc:id":"DO.ST",
+        "iso:code":"DO-25",
         "iso:id":"DO-25",
         "qs_pg:id":219543,
         "wd:id":"Q1772983",
         "wk:page":"Santiago Province (Dominican Republic)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb83387000418749465773432fe5421d",
+    "wof:geomhash":"f63223cc012730d172a3d0c05474bdc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875421,
+    "wof:lastmodified":1695884896,
     "wof:name":"Santiago",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

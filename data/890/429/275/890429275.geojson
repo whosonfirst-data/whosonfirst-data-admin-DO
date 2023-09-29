@@ -84,6 +84,7 @@
         "hasc:id":"DO.EP.HV",
         "qs_pg:id":95775
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890429275,
-    "wof:lastmodified":1694498047,
+    "wof:lastmodified":1695886541,
     "wof:name":"Hondo Valle",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

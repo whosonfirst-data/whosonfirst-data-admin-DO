@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007833,
-    "geom:area_square_m":91860163.013164,
+    "geom:area_square_m":91860028.731551,
     "geom:bbox":"-69.999712,18.423073,-69.878789,18.544211",
     "geom:latitude":18.483467,
     "geom:longitude":-69.942434,
@@ -236,16 +236,18 @@
         "gn:id":3496024,
         "gp:id":2345176,
         "hasc:id":"DO.NC",
+        "iso:code":"DO-01",
         "iso:id":"DO-01",
         "qs_pg:id":1083821,
         "wd:id":"Q2499228",
         "wk:page":"Distrito Nacional"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c854c6e14a01bef54cfb4be552daf7d2",
+    "wof:geomhash":"5d77d4183c0920784e254e35652483d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -260,7 +262,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875414,
+    "wof:lastmodified":1695884895,
     "wof:name":"Distrito Nacional",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

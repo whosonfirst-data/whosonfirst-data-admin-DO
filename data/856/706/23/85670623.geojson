@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068642,
-    "geom:area_square_m":805692956.273926,
+    "geom:area_square_m":805692870.656275,
     "geom:bbox":"-70.588742,18.190416,-70.184617,18.506061",
     "geom:latitude":18.331751,
     "geom:longitude":-70.372472,
@@ -287,17 +287,19 @@
         "gn:id":3495015,
         "gp:id":2345186,
         "hasc:id":"DO.PV",
+        "iso:code":"DO-17",
         "iso:id":"DO-17",
         "qs_pg:id":1083822,
         "unlc:id":"DO-17",
         "wd:id":"Q1331932",
         "wk:page":"Peravia Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c65c1424e332ee5c56e19b86c3f27e4a",
+    "wof:geomhash":"b277ebea65eac6cb7f252ae8c4388044",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875418,
+    "wof:lastmodified":1695884896,
     "wof:name":"Peravia",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

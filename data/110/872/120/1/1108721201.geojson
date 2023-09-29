@@ -83,6 +83,7 @@
     "wof:concordances":{
         "hasc:id":"DO.SD.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133673,
     "wof:geomhash":"f4f4a1d4029ec8527bf15ea40a257263",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108721201,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Los Alcarrizos",
     "wof:parent_id":85670553,
     "wof:placetype":"county",

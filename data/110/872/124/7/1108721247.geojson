@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"DO.JO.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133711,
     "wof:geomhash":"efcca3378394087d201781ed3fd8f184",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108721247,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"Sabana Larga",
     "wof:parent_id":85670627,
     "wof:placetype":"county",

@@ -105,6 +105,7 @@
         "wd:id":"Q3820813",
         "wk:page":"La Descubierta"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890455315,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"La Descubierta",
     "wof:parent_id":85670597,
     "wof:placetype":"county",

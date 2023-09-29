@@ -62,6 +62,7 @@
     "wof:concordances":{
         "hasc:id":"DO.RO.VH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133736,
     "wof:geomhash":"277d8e701761e0b8a89acd0955506aa1",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108721291,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886546,
     "wof:name":"Villa Hermosa",
     "wof:parent_id":85670673,
     "wof:placetype":"county",

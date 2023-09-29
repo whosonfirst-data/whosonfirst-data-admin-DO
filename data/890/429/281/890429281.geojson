@@ -102,6 +102,7 @@
         "wd:id":"Q628537",
         "wk:page":"Guaymate"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890429281,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"Guaymate",
     "wof:parent_id":85670673,
     "wof:placetype":"county",

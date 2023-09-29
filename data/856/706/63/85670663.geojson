@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15359,
-    "geom:area_square_m":1797641768.519476,
+    "geom:area_square_m":1797641716.774992,
     "geom:bbox":"-69.325648,18.52473,-68.782895,19.043751",
     "geom:latitude":18.818491,
     "geom:longitude":-69.046694,
@@ -304,17 +304,19 @@
         "gn:id":3506189,
         "gp:id":2345196,
         "hasc:id":"DO.SE",
+        "iso:code":"DO-08",
         "iso:id":"DO-08",
         "qs_pg:id":219545,
         "unlc:id":"DO-08",
         "wd:id":"Q1774831",
         "wk:page":"El Seibo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b67fe3789aa37a8c436e4e9d3f58d405",
+    "wof:geomhash":"aad68473d6d5a0eb02ccc7da5222fe56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875417,
+    "wof:lastmodified":1695884896,
     "wof:name":"El Seybo",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

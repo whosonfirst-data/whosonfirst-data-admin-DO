@@ -72,6 +72,7 @@
         "wd:id":"Q3944200",
         "wk:page":"Sabana Grande de Boy\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051801,
     "wof:geom_alt":[
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":890429217,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886393,
     "wof:name":"Sabana Grande De Boy\u00e1",
     "wof:parent_id":85670641,
     "wof:placetype":"county",

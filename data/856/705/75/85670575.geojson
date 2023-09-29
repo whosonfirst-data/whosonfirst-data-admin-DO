@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06561,
-    "geom:area_square_m":765250553.831176,
+    "geom:area_square_m":765250337.296181,
     "geom:bbox":"-71.78629,19.228362,-71.425,19.582874",
     "geom:latitude":19.393,
     "geom:longitude":-71.593475,
@@ -240,17 +240,19 @@
         "gn:id":3508951,
         "gp:id":2345175,
         "hasc:id":"DO.DA",
+        "iso:code":"DO-05",
         "iso:id":"DO-05",
         "qs_pg:id":229370,
         "unlc:id":"DO-05",
         "wd:id":"Q1138575",
         "wk:page":"Dajab\u00f3n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1defdd5e231cff391ee06fb66a9c6572",
+    "wof:geomhash":"f60e37f1f8295bdd9c59c84c8ea95b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -265,7 +267,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875419,
+    "wof:lastmodified":1695884363,
     "wof:name":"Dajab\u00f3n",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

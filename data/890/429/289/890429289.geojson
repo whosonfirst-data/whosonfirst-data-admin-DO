@@ -140,6 +140,7 @@
         "qs_pg:id":95782,
         "wk:page":"Esperanza"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051805,
     "wof:geom_alt":[
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":890429289,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886790,
     "wof:name":"Esperanza",
     "wof:parent_id":85670545,
     "wof:placetype":"county",

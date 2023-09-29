@@ -95,6 +95,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133625,
     "wof:geomhash":"00723136b80b88d58b44bcfd64ba8ba4",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108721127,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886613,
     "wof:name":"Cabral",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

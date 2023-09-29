@@ -93,6 +93,7 @@
         "wd:id":"Q649483",
         "wk:page":"San Rafael del Yuma"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469052942,
     "wof:geom_alt":[
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":890455299,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886789,
     "wof:name":"San Rafael Del Yuma",
     "wof:parent_id":85670669,
     "wof:placetype":"county",

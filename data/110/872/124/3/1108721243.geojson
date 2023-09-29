@@ -50,6 +50,7 @@
     "wof:concordances":{
         "hasc:id":"DO.CR.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133708,
     "wof:geomhash":"718982be766918ffe753a15a2e9cde12",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108721243,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886393,
     "wof:name":"Sabana Grande De Palenque",
     "wof:parent_id":85670655,
     "wof:placetype":"county",

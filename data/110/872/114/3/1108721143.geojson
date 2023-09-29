@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"DO.BH.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133636,
     "wof:geomhash":"c3b3fdfe11f0010f0ec7a709e35373f6",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108721143,
-    "wof:lastmodified":1694497828,
+    "wof:lastmodified":1695886614,
     "wof:name":"El Pe\u00f1\u00f3n",
     "wof:parent_id":85670591,
     "wof:placetype":"county",

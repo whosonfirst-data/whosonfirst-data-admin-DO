@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"DO.AZ.PV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1476133613,
     "wof:geomhash":"804002d4f8eb185d7b6f1818b1b768ed",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108721105,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886789,
     "wof:name":"Azua",
     "wof:parent_id":85670609,
     "wof:placetype":"county",

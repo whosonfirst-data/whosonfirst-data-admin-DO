@@ -80,6 +80,7 @@
         "qs_pg:id":95786,
         "wk:page":"El Llano"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"DO",
     "wof:created":1469051319,
     "wof:geom_alt":[
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890420137,
-    "wof:lastmodified":1694497896,
+    "wof:lastmodified":1695886790,
     "wof:name":"El Llano",
     "wof:parent_id":85670601,
     "wof:placetype":"county",

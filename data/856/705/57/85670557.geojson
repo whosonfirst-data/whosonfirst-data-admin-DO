@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101771,
-    "geom:area_square_m":1189727176.341481,
+    "geom:area_square_m":1189727021.509819,
     "geom:bbox":"-70.375,18.845,-69.899125,19.165185",
     "geom:latitude":19.018361,
     "geom:longitude":-70.138376,
@@ -292,16 +292,18 @@
         "gn:id":3493192,
         "gp:id":2345190,
         "hasc:id":"DO.SZ",
+        "iso:code":"DO-24",
         "iso:id":"DO-24",
         "qs_pg:id":221720,
         "unlc:id":"DO-24",
         "wd:id":"Q1836903"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a691d50e0987c17c58850f554306d5e",
+    "wof:geomhash":"2d6b7beefebac88b06bad79fe9ea265a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690875418,
+    "wof:lastmodified":1695884363,
     "wof:name":"Sanchez Ram\u00edrez",
     "wof:parent_id":85632713,
     "wof:placetype":"region",

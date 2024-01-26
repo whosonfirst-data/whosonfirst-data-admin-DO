@@ -9,9 +9,24 @@
     "geom:bbox":"-70.8369,18.7496,-70.8369,18.7496",
     "geom:latitude":18.7496,
     "geom:longitude":-70.8369,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"209.0",
+    "gn:admin3_code":"20901.0",
+    "gn:admin4_code":"2090101.0",
+    "gn:asciiname":"El Guayabal",
     "gn:country":"DO",
+    "gn:country_code":"DO",
+    "gn:dem":727,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3507461,
+    "gn:latitude":18.7496,
+    "gn:longitude":-70.8369,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"El Guayabal",
     "gn:population":2835,
+    "gn:timezone":"America/Santo_Domingo",
     "iso:country":"DO",
     "lbl:bbox":"-70.8569,18.7296,-70.8169,18.7696",
     "lbl:max_zoom":15.0,
@@ -214,6 +229,9 @@
     "name:wol_x_preferred":[
         "Guayabal"
     ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9e\u74e6\u723e"
+    ],
     "name:zul_x_preferred":[
         "Guayabal"
     ],
@@ -240,7 +258,15 @@
         "wk:page":"Guayabal"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1045380
+        "gn:id":[
+            3507461
+        ],
+        "qs_pg:id":[
+            1045380
+        ],
+        "wk:page":[
+            "Guayabal%2C_Azua"
+        ]
     },
     "wof:country":"DO",
     "wof:created":1469052481,
@@ -258,7 +284,7 @@
         }
     ],
     "wof:id":890444777,
-    "wof:lastmodified":1582347721,
+    "wof:lastmodified":1706239503,
     "wof:name":"El Guayabal",
     "wof:parent_id":1108721161,
     "wof:placetype":"locality",
@@ -266,7 +292,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-do",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343675981
+    ],
     "wof:tags":[]
 },
   "bbox": [

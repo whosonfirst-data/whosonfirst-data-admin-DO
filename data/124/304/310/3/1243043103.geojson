@@ -10,6 +10,9 @@
     "geom:latitude":19.5502,
     "geom:longitude":-70.38522,
     "gn:admin1_code":"19.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:admin4_code":"9030104.0",
     "gn:asciiname":"Jamao Afuera",
     "gn:country_code":"DO",
     "gn:dem":370,
@@ -40,8 +43,13 @@
     "wof:concordances":{
         "gn:id":3504177
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3504176
+        ]
+    },
     "wof:country":"DO",
-    "wof:geomhash":"96b9cdc52283833b4b03d2c54e0d6337",
+    "wof:geomhash":"e0dee7fabebb0589fe43f3bd63076656",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,20 +60,22 @@
         }
     ],
     "wof:id":1243043103,
-    "wof:lastmodified":1566582439,
+    "wof:lastmodified":1706239503,
     "wof:name":"Jamao Afuera",
     "wof:parent_id":890429285,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-do",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259768831
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -70.38521999999998,
+    -70.38522,
     19.5502,
-    -70.38521999999998,
+    -70.38522,
     19.5502
 ],
-  "geometry": {"coordinates":[-70.38521999999998,19.5502],"type":"Point"}
+  "geometry": {"coordinates":[-70.38522,19.5502],"type":"Point"}
 }

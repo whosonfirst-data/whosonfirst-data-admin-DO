@@ -10,6 +10,9 @@
     "geom:latitude":19.452804,
     "geom:longitude":-70.697686,
     "iso:country":"DO",
+    "label:eng_x_preferred_longname":[
+        "Santiago de los Caballeros"
+    ],
     "lbl:bbox":"-70.717686,19.4328035,-70.677686,19.4728035",
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":7.0,
@@ -57,6 +60,9 @@
         "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03bf \u03bd\u03c4\u03b5 \u03bb\u03bf\u03c2 \u039a\u03b1\u03bc\u03c0\u03b1\u03b3\u03ad\u03c1\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Santiago"
+    ],
+    "name:eng_x_variant":[
         "Santiago de los Caballeros"
     ],
     "name:epo_x_preferred":[
@@ -323,8 +329,8 @@
     "wof:belongsto":[
         102191575,
         85632713,
-        85670537,
-        1108721271
+        1108721271,
+        85670537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -352,8 +358,8 @@
         }
     ],
     "wof:id":421177029,
-    "wof:lastmodified":1690875433,
-    "wof:name":"Santiago de los Caballeros",
+    "wof:lastmodified":1722295462,
+    "wof:name":"Santiago",
     "wof:parent_id":1108721271,
     "wof:placetype":"locality",
     "wof:population":592085,
